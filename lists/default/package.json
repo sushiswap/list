@@ -5,7 +5,7 @@
   "main": "build/sushiswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node internal/write.js > build/sushiswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir build && node internal/write.js > build/sushiswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build",
     "sync": "node internal/sync.js"
   },
