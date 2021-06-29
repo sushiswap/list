@@ -1,0 +1,28 @@
+{
+  "name": "@sushiswap/limit-order-pairs",
+  "version": "1.0.0",
+  "description": "Token list for limit order pairs",
+  "main": "build/sushiswap-limit-order-pairs.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir build && node internal/write.js > build/sushiswap-default.pair-tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/sushiswap-default.tokenlist.json"
+  ],
+  "author": "Gašper Brvar",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sushiswap/lists/issues"
+  },
+  "homepage": "https://github.com/sushiswap/lists#readme",
+  "dependencies": {
+    "@sushiswap/default-token-list": "file:../default"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
