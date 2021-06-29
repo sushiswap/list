@@ -9,7 +9,7 @@
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/sushiswap-default.tokenlist.json"
+    "build/sushiswap-default.pair-tokenlist.json"
   ],
   "author": "Gašper Brvar",
   "license": "GPL-3.0-or-later",
