@@ -1,0 +1,380 @@
+{
+  "name": "SushiSwap Pair Menu",
+  "timestamp": "2021-06-30T10:52:26.635Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": [
+    "sushiswap",
+    "limit-order",
+    "pairs"
+  ],
+  "pairs": {
+    "137": [
+      [
+        {
+          "name": "USD Coin",
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "symbol": "USDC",
+          "decimals": 6,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+        },
+        {
+          "name": "IRON Stablecoin",
+          "address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+          "symbol": "IRON",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD86b5923F3AD7b585eD81B448170ae026c65ae9a/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped Matic",
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "symbol": "WMATIC",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+        },
+        {
+          "name": "IRON Titanium",
+          "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+          "symbol": "TITAN",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        },
+        {
+          "name": "USD Coin",
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "symbol": "USDC",
+          "decimals": 6,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped BTC",
+          "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+          "symbol": "WBTC",
+          "decimals": 8,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png"
+        },
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped Matic",
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "symbol": "WMATIC",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+        },
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        },
+        {
+          "name": "Tether USD",
+          "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+          "symbol": "USDT",
+          "decimals": 6,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "USD Coin",
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "symbol": "USDC",
+          "decimals": 6,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+        },
+        {
+          "name": "Tether USD",
+          "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+          "symbol": "USDT",
+          "decimals": 6,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        },
+        {
+          "name": "Dai Stablecoin",
+          "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "symbol": "DAI",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "ChainLink Token",
+          "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+          "symbol": "LINK",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
+        },
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        },
+        {
+          "name": "Aave",
+          "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+          "symbol": "AAVE",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "USD Coin",
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "symbol": "USDC",
+          "decimals": 6,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+        },
+        {
+          "name": "Dai Stablecoin",
+          "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "symbol": "DAI",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped Matic",
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "symbol": "WMATIC",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+        },
+        {
+          "name": "USD Coin",
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "symbol": "USDC",
+          "decimals": 6,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Frax",
+          "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
+          "symbol": "FRAX",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x104592a158490a9228070E0A8e5343B499e125D0/logo.png"
+        },
+        {
+          "name": "USD Coin",
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "symbol": "USDC",
+          "decimals": 6,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped Matic",
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "symbol": "WMATIC",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+        },
+        {
+          "name": "Fish",
+          "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+          "symbol": "FISH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Curve",
+          "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+          "symbol": "CRV",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
+        },
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Synthetix Network Token",
+          "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+          "symbol": "SNX",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png"
+        },
+        {
+          "name": "USD Coin",
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "symbol": "USDC",
+          "decimals": 6,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Frax",
+          "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
+          "symbol": "FRAX",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x104592a158490a9228070E0A8e5343B499e125D0/logo.png"
+        },
+        {
+          "name": "Frax Share",
+          "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
+          "symbol": "FXS",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3e121107F6F22DA4911079845a470757aF4e1A1b/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        },
+        {
+          "name": "dHedge DAO Token",
+          "address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
+          "symbol": "DHT",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "SushiToken",
+          "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+          "symbol": "SUSHI",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a/logo.png"
+        },
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        }
+      ],
+      [
+        {
+          "name": "Graph Token",
+          "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+          "symbol": "GRT",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.png"
+        },
+        {
+          "name": "Wrapped Ether",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+        }
+      ]
+    ]
+  }
+}
