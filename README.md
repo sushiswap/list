@@ -1,6 +1,14 @@
-# Sushi Lists
+# Sushi List
 
-Sushi Lists monorepo
+Sushi List monorepo
+
+## Default token list
+
+...
+
+## Limit order pair list
+
+...
 
 ## Install
 
