@@ -8,4 +8,4 @@ Run yarn from root directory
 
 ## Build
 
-yarn workspaces foreach build
+yarn workspaces foreach run build

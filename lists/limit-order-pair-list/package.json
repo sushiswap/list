@@ -1,8 +1,8 @@
 {
-  "name": "@sushiswap/limit-order-pairs",
+  "name": "@sushiswap/limit-order-pair-list",
   "version": "0.1.0",
   "description": "Token list for limit order pairs",
-  "main":  "dist/limit-order.pairlist.json",
+  "main": "dist/limit-order.pairlist.json",
   "scripts": {
     "test": "mocha",
     "build": "rimraf dist && mkdir dist && node internal/write.js > dist/limit-order.pairlist.json",
