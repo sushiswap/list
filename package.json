@@ -5,6 +5,6 @@
     "publish": "yarn workspaces foreach npm publish --tolerate-republish --access public"
   },
   "workspaces": [
-    "lists/*"
+    "packages/*"
   ]
 }
