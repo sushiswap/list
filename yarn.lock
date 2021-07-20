@@ -257,9 +257,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sushiswap/default-token-list@6.47.0, @sushiswap/default-token-list@workspace:lists/default-token-list":
+"@sushiswap/default-token-list@npm:^6.58.0":
+  version: 6.58.0
+  resolution: "@sushiswap/default-token-list@npm:6.58.0"
+  checksum: 59a2dd27e2ec519467006bbd9dc83ab688ebb85749fcea1617adeb1c919b82f55bb5770a765ed227cc5ac34e9e815d53109526b2c68c82f83d68860aa4171c83
+  languageName: node
+  linkType: hard
+
+"@sushiswap/default-token-list@workspace:packages/default-token-list":
   version: 0.0.0-use.local
-  resolution: "@sushiswap/default-token-list@workspace:lists/default-token-list"
+  resolution: "@sushiswap/default-token-list@workspace:packages/default-token-list"
   dependencies:
     "@ethersproject/address": ^5.0.2
     "@ethersproject/solidity": ^5.3.0
@@ -275,13 +282,13 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@sushiswap/limit-order-pair-list@workspace:lists/limit-order-pair-list":
+"@sushiswap/limit-order-pair-list@workspace:packages/limit-order-pair-list":
   version: 0.0.0-use.local
-  resolution: "@sushiswap/limit-order-pair-list@workspace:lists/limit-order-pair-list"
+  resolution: "@sushiswap/limit-order-pair-list@workspace:packages/limit-order-pair-list"
   dependencies:
     "@ethersproject/address": ^5.0.2
     "@ethersproject/solidity": ^5.3.0
-    "@sushiswap/default-token-list": 6.47.0
+    "@sushiswap/default-token-list": ^6.58.0
     "@sushiswap/sdk": ^5.0.0-canary.23
     chai: ^4.3.4
     mocha: ^9.0.1
