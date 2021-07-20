@@ -1,8 +1,16 @@
-# Sushi List
+# List
 
-Sushi List monorepo
+List monorepo
 
 ## Default token list
+
+...
+
+## Community token list
+
+...
+
+## Testnet token list
 
 ...
 
@@ -17,3 +25,7 @@ Run yarn from root directory
 ## Build
 
 yarn workspaces foreach run build
+
+## Versioninig
+
+...
