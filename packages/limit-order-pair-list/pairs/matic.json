@@ -1,5 +1,17 @@
 [
   [
+    "WETH",
+    "WMATIC"
+  ],
+  [
+    "WETH",
+    "USDC"
+  ],
+  [
+    "WETH",
+    "DAI"
+  ],
+  [
     "WBTC",
     "WETH"
   ],
@@ -13,19 +25,7 @@
   ],
   [
     "WETH",
-    "USDC"
-  ],
-  [
-    "WETH",
     "USDT"
-  ],
-  [
-    "WMATIC",
-    "WETH"
-  ],
-  [
-    "WETH",
-    "DAI"
   ],
   [
     "USDC",
@@ -142,5 +142,145 @@
   [
     "USDC",
     "SUSHI"
+  ],
+  [
+    "LINK",
+    "WMATIC"
+  ],
+  [
+    "WMATIC",
+    "DAI"
+  ],
+  [
+    "USDT",
+    "DAI"
+  ],
+  [
+    "WMATIC",
+    "SPADE"
+  ],
+  [
+    "WMATIC",
+    "DPI"
+  ],
+  [
+    "WMATIC",
+    "PIXEL"
+  ],
+  [
+    "WMATIC",
+    "GMS"
+  ],
+  [
+    "USDC",
+    "miMatic"
+  ],
+  [
+    "WMATIC",
+    "USDT"
+  ],
+  [
+    "WMATIC",
+    "AAVE"
+  ],
+  [
+    "WMATIC",
+    "POLAR"
+  ],
+  [
+    "USDC",
+    "POLAR"
+  ],
+  [
+    "USDC",
+    "JPYC"
+  ],
+  [
+    "USDC",
+    "CHUM"
+  ],
+  [
+    "WETH",
+    "JPYC"
+  ],
+  [
+    "WMATIC",
+    "JPYC"
+  ],
+  [
+    "WMATIC",
+    "WBTC"
+  ],
+  [
+    "USDC",
+    "WBTC"
+  ],
+  [
+    "renBTC",
+    "WBTC"
+  ],
+  [
+    "USDC",
+    "DINO"
+  ],
+  [
+    "WMATIC",
+    "DINO"
+  ],
+  [
+    "WMATIC",
+    "GAJ"
+  ],
+  [
+    "WMATIC",
+    "DMAGIC"
+  ],
+  [
+    "USDC",
+    "GAJ"
+  ],
+  [
+    "WETH",
+    "PolyDoge"
+  ],
+  [
+    "WMATIC",
+    "PolyDoge"
+  ],
+  [
+    "USDC",
+    "PolyDoge"
+  ],
+  [
+    "SUSHI",
+    "LINK"
+  ],
+  [
+    "SUSHI",
+    "USDT"
+  ],
+  [
+    "SUSHI",
+    "DAI"
+  ],
+  [
+    "SUSHI",
+    "WBTC"
+  ],
+  [
+    "WMATIC",
+    "CRV"
+  ],
+  [
+    "JPYC",
+    "USDT"
+  ],
+  [
+    "USDC",
+    "TITAN"
+  ],
+  [
+    "WMATIC",
+    "PUSD"
   ]
 ]
