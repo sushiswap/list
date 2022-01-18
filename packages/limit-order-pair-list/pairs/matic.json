@@ -1,286 +1,56 @@
 [
-  [
-    "WETH",
-    "WMATIC"
-  ],
-  [
-    "WETH",
-    "USDC"
-  ],
-  [
-    "WETH",
-    "DAI"
-  ],
-  [
-    "WBTC",
-    "WETH"
-  ],
-  [
-    "USDC",
-    "USDT"
-  ],
-  [
-    "USDC",
-    "IRON"
-  ],
-  [
-    "WETH",
-    "USDT"
-  ],
-  [
-    "USDC",
-    "DAI"
-  ],
-  [
-    "WETH",
-    "AAVE"
-  ],
-  [
-    "LINK",
-    "WETH"
-  ],
-  [
-    "FRAX",
-    "USDC"
-  ],
-  [
-    "WMATIC",
-    "USDC"
-  ],
-  [
-    "WMATIC",
-    "FISH"
-  ],
-  [
-    "WMATIC",
-    "TITAN"
-  ],
-  [
-    "CRV",
-    "WETH"
-  ],
-  [
-    "SNX",
-    "USDC"
-  ],
-  [
-    "FRAX",
-    "FXS"
-  ],
-  [
-    "SUSHI",
-    "WETH"
-  ],
-  [
-    "GRT",
-    "WETH"
-  ],
-  [
-    "WBTC",
-    "ibBTC"
-  ],
-  [
-    "USDC",
-    "PUSD"
-  ],
-  [
-    "dTOP",
-    "WETH"
-  ],
-  [
-    "SNX",
-    "WETH"
-  ],
-  [
-    "DHT",
-    "WETH"
-  ],
-  [
-    "WETH",
-    "SX"
-  ],
-  [
-    "OMEN",
-    "WETH"
-  ],
-  [
-    "OMEN",
-    "WMATIC"
-  ],
-  [
-    "WETH",
-    "wFIL"
-  ],
-  [
-    "USDC",
-    "BIFI"
-  ],
-  [
-    "WMATIC",
-    "WOOFY"
-  ],
-  [
-    "SUSHI",
-    "WMATIC"
-  ],
-  [
-    "WMATIC",
-    "PGOV"
-  ],
-  [
-    "renDOGE",
-    "WETH"
-  ],
-  [
-    "WMATIC",
-    "BONE"
-  ],
-  [
-    "USDC",
-    "BONE"
-  ],
-  [
-    "USDC",
-    "SUSHI"
-  ],
-  [
-    "LINK",
-    "WMATIC"
-  ],
-  [
-    "WMATIC",
-    "DAI"
-  ],
-  [
-    "USDT",
-    "DAI"
-  ],
-  [
-    "WMATIC",
-    "SPADE"
-  ],
-  [
-    "WMATIC",
-    "DPI"
-  ],
-  [
-    "WMATIC",
-    "PIXEL"
-  ],
-  [
-    "WMATIC",
-    "GMS"
-  ],
-  [
-    "USDC",
-    "miMatic"
-  ],
-  [
-    "WMATIC",
-    "USDT"
-  ],
-  [
-    "WMATIC",
-    "AAVE"
-  ],
-  [
-    "WMATIC",
-    "POLAR"
-  ],
-  [
-    "USDC",
-    "POLAR"
-  ],
-  [
-    "USDC",
-    "JPYC"
-  ],
-  [
-    "USDC",
-    "CHUM"
-  ],
-  [
-    "WETH",
-    "JPYC"
-  ],
-  [
-    "WMATIC",
-    "JPYC"
-  ],
-  [
-    "WMATIC",
-    "WBTC"
-  ],
-  [
-    "USDC",
-    "WBTC"
-  ],
-  [
-    "renBTC",
-    "WBTC"
-  ],
-  [
-    "USDC",
-    "DINO"
-  ],
-  [
-    "WMATIC",
-    "DINO"
-  ],
-  [
-    "WMATIC",
-    "GAJ"
-  ],
-  [
-    "WMATIC",
-    "DMAGIC"
-  ],
-  [
-    "USDC",
-    "GAJ"
-  ],
-  [
-    "WETH",
-    "PolyDoge"
-  ],
-  [
-    "WMATIC",
-    "PolyDoge"
-  ],
-  [
-    "USDC",
-    "PolyDoge"
-  ],
-  [
-    "SUSHI",
-    "LINK"
-  ],
-  [
-    "SUSHI",
-    "USDT"
-  ],
-  [
-    "SUSHI",
-    "DAI"
-  ],
-  [
-    "SUSHI",
-    "WBTC"
-  ],
-  [
-    "WMATIC",
-    "CRV"
-  ],
-  [
-    "JPYC",
-    "USDT"
-  ],
-  [
-    "USDC",
-    "TITAN"
-  ],
-  [
-    "WMATIC",
-    "PUSD"
-  ]
+  ["WETH", "WMATIC"],
+    ["WETH", "USDC"],
+    ["WETH", "DAI"],
+    ["WBTC", "WETH"],
+    ["USDC", "USDT"],
+    ["USDC", "IRON"],
+    ["WETH", "USDT"],
+    ["USDC", "DAI"],
+    ["WETH", "AAVE"],
+    ["LINK", "WETH"],
+    ["FRAX", "USDC"],
+    ["WMATIC", "USDC"],
+    ["CRV", "WETH"],
+    ["SNX", "USDC"],
+    ["FRAX", "FXS"],
+    ["SUSHI", "WETH"],
+    ["SNX", "WETH"],
+    ["WETH", "wFIL"],
+    ["USDC", "BIFI"],
+    ["WMATIC", "WOOFY"],
+    ["SUSHI", "WMATIC"],
+    ["renDOGE", "WETH"],
+    ["WMATIC", "BONE"],
+    ["USDC", "BONE"],
+    ["USDC", "SUSHI"],
+    ["LINK", "WMATIC"],
+    ["WMATIC", "DAI"],
+    ["USDT", "DAI"],
+    ["WMATIC", "DPI"],
+    ["WMATIC", "PIXEL"],
+    ["WMATIC", "GMS"],
+    ["WMATIC", "USDT"],
+    ["WMATIC", "AAVE"],
+    ["WMATIC", "POLAR"],
+    ["USDC", "POLAR"],
+    ["USDC", "JPYC"],
+    ["USDC", "CHUM"],
+    ["WETH", "JPYC"],
+    ["WMATIC", "JPYC"],
+    ["WMATIC", "WBTC"],
+    ["USDC", "WBTC"],
+    ["renBTC", "WBTC"],
+    ["USDC", "DINO"],
+    ["WMATIC", "DINO"],
+    ["WMATIC", "GAJ"],
+    ["WMATIC", "DMAGIC"],
+    ["USDC", "GAJ"],
+    ["SUSHI", "LINK"],
+    ["SUSHI", "USDT"],
+    ["SUSHI", "xSUSHI"],
+    ["SUSHI", "DAI"],
+    ["SUSHI", "WBTC"],
+    ["WMATIC", "CRV"],
+    ["JPYC", "USDT"]
 ]
