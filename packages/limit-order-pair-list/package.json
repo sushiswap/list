@@ -1,6 +1,6 @@
 {
   "name": "@sushiswap/limit-order-pair-list",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "description": "Token list for limit order pairs",
   "main": "dist/limit-order.pairlist.json",
   "scripts": {
@@ -26,6 +26,6 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
-    "@sushiswap/default-token-list": "^11.3.0"
+    "@sushiswap/default-token-list": "^22.4.4"
   }
 }

@@ -250,6 +250,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@sushiswap/community-token-list@workspace:packages/community-token-list":
+  version: 0.0.0-use.local
+  resolution: "@sushiswap/community-token-list@workspace:packages/community-token-list"
+  dependencies:
+    "@ethersproject/address": ^5.0.2
+    "@ethersproject/solidity": ^5.3.0
+    "@octokit/rest": ^18.6.2
+    "@sushiswap/sdk": ^5.0.0-canary.22
+    "@uniswap/token-lists": ^1.0.0-beta.19
+    ajv: ^6.12.3
+    chai: ^4.2.0
+    lodash: ^4.17.21
+    mocha: ^8.0.1
+    rimraf: ^3.0.2
+    xlsx: ^0.17.0
+  languageName: unknown
+  linkType: soft
+
 "@sushiswap/core@npm:^2.0.0-canary.0":
   version: 2.0.0-canary.1
   resolution: "@sushiswap/core@npm:2.0.0-canary.1"
@@ -257,10 +275,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sushiswap/default-token-list@npm:^6.58.0":
-  version: 6.58.0
-  resolution: "@sushiswap/default-token-list@npm:6.58.0"
-  checksum: 59a2dd27e2ec519467006bbd9dc83ab688ebb85749fcea1617adeb1c919b82f55bb5770a765ed227cc5ac34e9e815d53109526b2c68c82f83d68860aa4171c83
+"@sushiswap/default-token-list@npm:^11.3.0":
+  version: 11.5.0
+  resolution: "@sushiswap/default-token-list@npm:11.5.0"
+  checksum: 5e2490c02eabcfc40ec4219f19ff5fdbf25f8a744841b7e6e6776c58fb0bb4139019c5acd055a51744d6f5e8d41e3fefb66621c8782b4f4d7f0848c6e7a0bd49
   languageName: node
   linkType: hard
 
@@ -288,7 +306,7 @@ __metadata:
   dependencies:
     "@ethersproject/address": ^5.0.2
     "@ethersproject/solidity": ^5.3.0
-    "@sushiswap/default-token-list": ^6.58.0
+    "@sushiswap/default-token-list": ^11.3.0
     "@sushiswap/sdk": ^5.0.0-canary.23
     chai: ^4.3.4
     mocha: ^9.0.1
@@ -316,6 +334,24 @@ __metadata:
   checksum: 27e4ecb2e478da630ee2de9dad4e62b310437a30112f713380662de6d687e708248c4ec9b775f14df557c2e098241bcd6c8d2c35b38cb67e554a55f3ed01c8c5
   languageName: node
   linkType: hard
+
+"@sushiswap/testnet-token-list@workspace:packages/testnet-token-list":
+  version: 0.0.0-use.local
+  resolution: "@sushiswap/testnet-token-list@workspace:packages/testnet-token-list"
+  dependencies:
+    "@ethersproject/address": ^5.0.2
+    "@ethersproject/solidity": ^5.3.0
+    "@octokit/rest": ^18.6.2
+    "@sushiswap/sdk": ^5.0.0-canary.22
+    "@uniswap/token-lists": ^1.0.0-beta.19
+    ajv: ^6.12.3
+    chai: ^4.2.0
+    lodash: ^4.17.21
+    mocha: ^8.0.1
+    rimraf: ^3.0.2
+    xlsx: ^0.17.0
+  languageName: unknown
+  linkType: soft
 
 "@tootallnate/once@npm:1":
   version: 1.1.2
