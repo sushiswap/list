@@ -1,6 +1,6 @@
 const { version } = require("../package.json");
 
-const { ChainId } = require("@sushiswap/sdk");
+const { ChainId } = require("@sushiswap/core-sdk");
 
 const fs = require("fs");
 
@@ -10,6 +10,7 @@ const DEFAULT_TOKEN_LIST = require("@sushiswap/default-token-list");
 
 const SUPPORTED_CHAINS = {
   [ChainId.MATIC]: "matic",
+  [ChainId.AVALANCHE]: "avalanche",
 };
 
 function getPairs() {
@@ -38,12 +39,12 @@ function getPairs() {
         return token;
       })
     );
-
-    return allPairs;
   }
+
+  return allPairs;
 }
 
-module.exports = function build() {
+module.exports = function () {
   const parsed = version.split(".");
   return {
     name: "SushiSwap Pair Menu",
