@@ -11,6 +11,7 @@ const DEFAULT_TOKEN_LIST = require("@sushiswap/default-token-list");
 const SUPPORTED_CHAINS = {
   [ChainId.MATIC]: "matic",
   [ChainId.AVALANCHE]: "avalanche",
+  [ChainId.FANTOM]: "fantom",
 };
 
 function getPairs() {
