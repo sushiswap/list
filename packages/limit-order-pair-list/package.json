@@ -1,6 +1,6 @@
 {
   "name": "@sushiswap/limit-order-pair-list",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "description": "Token list for limit order pairs",
   "main": "dist/limit-order.pairlist.json",
   "scripts": {
