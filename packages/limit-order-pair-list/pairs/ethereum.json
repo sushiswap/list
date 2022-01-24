@@ -2,7 +2,6 @@
   ["SUSHI", "WETH"],
   ["ILV", "WETH"],
   ["USDC", "WETH"],
-  ["OHM", "DAI"],
   ["WETH", "USDT"],
   ["TOKE", "WETH"],
   ["WBTC", "WETH"],
@@ -31,7 +30,6 @@
   ["WXRP", "WETH"],
   ["WETH", "ANY"],
   ["YGG", "WETH"],
-  ["SQUID", "WETH"],
   ["LDO", "WETH"],
   ["CVX", "WETH"],
   ["SRM", "WETH"],
@@ -39,8 +37,7 @@
   ["LON", "USDT"],
   ["BSGG", "WETH"],
   ["COMP", "WETH"],
-  ["NTFX", "WETH"],
+  ["NFTX", "WETH"],
   ["PERP", "WETH"],
-  ["WETH", "ICE"],
-  ["PUNK", "WETH"]
+  ["WETH", "ICE"]
 ]
