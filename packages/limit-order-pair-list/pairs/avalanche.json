@@ -42,5 +42,9 @@
   [
     "USDT",
     "WAVAX"
+  ],
+  [
+    "USDC",
+    "MIM"
   ]
 ]
