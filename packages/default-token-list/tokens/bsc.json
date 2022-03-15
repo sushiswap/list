@@ -16,6 +16,14 @@
     "logoURI": "https://bscscan.com/token/images/busd_32.png"
   },
   {
+    "name": "Candle",
+    "symbol": "CNDL",
+    "address": "0xdaBcdBc8eCEbE3b2f59ee7B5FC1a46FEEF50dB5A",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/candle.jp"
+  },
+  {
     "name": "Ethereum Token",
     "symbol": "ETH",
     "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",

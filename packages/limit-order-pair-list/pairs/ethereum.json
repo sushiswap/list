@@ -38,5 +38,7 @@
   ["COMP", "WETH"],
   ["NFTX", "WETH"],
   ["PERP", "WETH"],
+  ["CNDL", "WETH"],
+  ["CNDL", "USDC"],
   ["WETH", "ICE"]
 ]
