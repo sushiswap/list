@@ -39,5 +39,6 @@
   ["NFTX", "WETH"],
   ["PERP", "WETH"],
   ["WETH", "ICE"],
-  ["APE", "WETH"]
+  ["APE", "WETH"],
+  ["APE", "USDT"]
 ]
