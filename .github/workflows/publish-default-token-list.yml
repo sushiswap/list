@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - master
-    paths:
-      - "lists/token-lists/default-token-list/tokens/**"
+    # paths:
+    #   - "lists/token-lists/default-token-list/tokens/**"
   workflow_call:
     inputs:
       if_bump:

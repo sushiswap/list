@@ -3,13 +3,13 @@ on:
   push:
     branches:
       - master
-    paths:
-      - "logos/token-logos/token/**"
+    # paths:
+    #   - "logos/token-logos/token/**"
   pull_request:
     branches:
       - master
-    paths:
-      - "logos/token-logos/token/**"
+    # paths:
+    #   - "logos/token-logos/token/**"
 jobs:
   test:
     runs-on: ubuntu-latest
