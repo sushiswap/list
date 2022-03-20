@@ -10,6 +10,7 @@ on:
       - master
     paths:
       - "logos/token-logos/token/**"
+concurrency: ${{ github.workflow }}-${{ github.ref }}
 jobs:
   test:
     runs-on: ubuntu-latest
