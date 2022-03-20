@@ -17,11 +17,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sushiswap/default-token-list.git"
-  },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "url": "git+https://github.com/sushiswap/list.git",
+    "directory": "lists/token-lists/default-token-list"
   },
   "keywords": [
     "sushiswap",
