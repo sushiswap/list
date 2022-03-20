@@ -9,6 +9,7 @@ on:
     inputs:
       if_bump:
         type: boolean
+        required: false
     secrets:
       NPM_TOKEN:
         required: true
@@ -47,6 +48,5 @@ jobs:
           commit: "chore: update versions"
           title: "chore: update versions"
           publish: pnpm ci:publish
-        working-directory: './lists/token-lists/default-token-list'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
