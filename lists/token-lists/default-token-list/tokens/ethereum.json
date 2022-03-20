@@ -3742,5 +3742,13 @@
     "symbol": "APE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4d224452801ACEd8B2F0aebE155379bb5D594381/logo.png"
+  },
+  {
+    "name": "MedFund",
+    "address": "0x822dc3CB90049c7B01FFD158E4a4992D518Bce01",
+    "symbol": "MFund",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x822dc3CB90049c7B01FFD158E4a4992D518Bce01.jpg"
   }
 ]
