@@ -1,0 +1,41 @@
+{
+  "name": "@sushiswap/testnet-token-list",
+  "version": "0.1.0",
+  "description": "◦ The SushiSwap testnet token list",
+  "main": "dist/sushiswap-testnet.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p dist && node internal/write.js > dist/sushiswap-testnet.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "dist/sushiswap-testnet.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushiswap/testnet-token-list.git"
+  },
+  "keywords": [
+    "sushiswap",
+    "testnet",
+    "token",
+    "list"
+  ],
+  "author": "Matthew Lilley <hello@matthewlilley.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sushiswap/testnet-token-list/issues"
+  },
+  "homepage": "https://github.com/sushiswap/testnet-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.19",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "lodash": "^4.17.21",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2",
+    "config": "workspace:*",
+    "builder": "workspace:*"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "builder",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {}
+}
