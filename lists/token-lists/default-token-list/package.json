@@ -8,7 +8,9 @@
     "build": "rimraf build && mkdir -p build && node internal/write.js > build/sushiswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build",
     "sync": "node internal/sync.js",
-    "volume": "ts-node ./internal/tokenVolumes.ts"
+    "volume": "ts-node ./internal/tokenVolumes.ts",
+    "ci:version": "npm version",
+    "ci:publish": "npm publish --access public"
   },
   "files": [
     "build/sushiswap-default.tokenlist.json"
