@@ -1,16 +1,16 @@
 {
   "name": "@sushiswap/default-token-list",
-  "version": "24.30.0",
+  "version": "24.31.0",
   "description": "◦ The SushiSwap default token list",
   "main": "build/sushiswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node internal/write.js > build/sushiswap-default.tokenlist.json",
-    "prepublishOnly": "npm test && npm run build",
+    "prepublishOnly": "pnpm test && pnpm run build",
     "sync": "node internal/sync.js",
     "volume": "ts-node ./internal/tokenVolumes.ts",
-    "ci:version": "npm version minor",
-    "ci:publish": "npm publish --access public --tag latest"
+    "ci:version": "pnpm version minor",
+    "ci:publish": "pnpm publish --access public --tag latest"
   },
   "files": [
     "build/sushiswap-default.tokenlist.json"
