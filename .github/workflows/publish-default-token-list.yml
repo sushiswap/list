@@ -1,4 +1,4 @@
-name: Publishing Default Token List to NPM
+name: "Publishing Default Token List to NPM"
 on:
   push:
     branches:

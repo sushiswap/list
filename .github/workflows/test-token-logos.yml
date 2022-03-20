@@ -1,17 +1,15 @@
-name: Test Token Logos
+name: "Test Token Logos"
 on:
   push:
     branches:
       - master
     paths:
       - "logos/token-logos/token/**"
-
   pull_request:
     branches:
       - master
     paths:
       - "logos/token-logos/token/**"
-
 jobs:
   test:
     runs-on: ubuntu-latest
