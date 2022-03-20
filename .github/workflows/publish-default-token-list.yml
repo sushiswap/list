@@ -1,4 +1,4 @@
-name: Publishing Default Token List to NPM
+name: "Publishing Default Token List to NPM"
 on:
   push:
     branches:
@@ -13,12 +13,16 @@ on:
     secrets:
       NPM_TOKEN:
         required: true
+env:
+  CI: true
+  PNPM_CACHE_FOLDER: .pnpm-store
+concurrency: ${{ github.workflow }}-${{ github.ref }}
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [14, 16]
+        node-version: [14]
     steps:
       - uses: actions/checkout@v2
       - uses: pnpm/action-setup@v2.0.1
@@ -29,6 +33,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: 'pnpm'
+      - run: pnpm install
       - run: pnpm run test
         working-directory: './lists/token-lists/default-token-list'
       - run: pnpm run build
@@ -38,15 +43,7 @@ jobs:
         run: |
           git config --global user.email "form@sushi.com"
           git config --global user.name "tokenlistform[bot]"
+          pnpm run ci:version
+          pnpm run ci:publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-      - if: inputs.if_bump == ''
-        name: create and publish versions
-        uses: changesets/action@master
-        with:
-          version: pnpm ci:version
-          commit: "chore: update versions"
-          title: "chore: update versions"
-          publish: pnpm ci:publish
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

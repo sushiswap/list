@@ -1,23 +1,22 @@
-name: Test Token Logos
+name: "Test Token Logos"
 on:
   push:
     branches:
       - master
     paths:
       - "logos/token-logos/token/**"
-
   pull_request:
     branches:
       - master
     paths:
       - "logos/token-logos/token/**"
-
+concurrency: ${{ github.workflow }}-${{ github.ref }}
 jobs:
   test:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [14, 16]
+       node-version: [14]
     steps:
       - uses: actions/checkout@v2
       - uses: pnpm/action-setup@v2.0.1
@@ -29,5 +28,5 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'pnpm'
       - name: Install dependencies and test
-        run: pnpm instal && pnpm test
+        run: pnpm install && pnpm test
         working-directory: './logos/token-logos'
