@@ -1190,5 +1190,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x02649C1Ff4296038De4b9bA8F491b42b940A8252/logo.png"
+  },
+  {
+    "name": "Bankless Token (PoS)",
+    "address": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab",
+    "symbol": "BANK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab.jpg"
   }
 ]
