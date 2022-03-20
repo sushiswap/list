@@ -3742,5 +3742,13 @@
     "symbol": "APE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4d224452801ACEd8B2F0aebE155379bb5D594381/logo.png"
+  },
+  {
+    "name": "WLKR Innovation",
+    "address": "0xD64DeEA5F24934E3A1aa752912aEe8ffD8300C3F",
+    "symbol": "WLKR",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xD64DeEA5F24934E3A1aa752912aEe8ffD8300C3F.jpg"
   }
 ]
