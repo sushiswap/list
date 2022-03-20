@@ -27,5 +27,5 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'pnpm'
       - name: Install dependencies and test
-        run: pnpm instal && pnpm test
+        run: pnpm install && pnpm test
         working-directory: './logos/token-logos'
