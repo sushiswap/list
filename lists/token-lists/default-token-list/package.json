@@ -9,8 +9,8 @@
     "prepublishOnly": "npm test && npm run build",
     "sync": "node internal/sync.js",
     "volume": "ts-node ./internal/tokenVolumes.ts",
-    "ci:version": "npm version",
-    "ci:publish": "npm publish --access public"
+    "ci:version": "npm version minor",
+    "ci:publish": "npm publish --access public --tag latest"
   },
   "files": [
     "build/sushiswap-default.tokenlist.json"
