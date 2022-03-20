@@ -750,5 +750,13 @@
     "symbol": "STG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b.jpg"
+  },
+  {
+    "name": "StargateToken",
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "symbol": "STG",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
   }
 ]
