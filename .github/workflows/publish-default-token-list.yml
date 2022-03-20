@@ -3,13 +3,8 @@ on:
   push:
     branches:
       - master
-    # paths:
-    #   - "lists/token-lists/default-token-list/tokens/**"
-  pull_request:
-    branches:
-      - master
-    # paths:
-    #   - "lists/token-lists/default-token-list/tokens/**"
+    paths:
+      - "lists/token-lists/default-token-list/tokens/**"
   workflow_call:
     inputs:
       if_bump:
@@ -30,9 +25,6 @@ jobs:
         node-version: [14]
     steps:
       - uses: actions/checkout@v2
-        with:
-          # This makes Actions fetch all Git history so that Changesets can generate changelogs with the correct commits
-          fetch-depth: 0
       - uses: pnpm/action-setup@v2.0.1
         with:
           version: 6.20.3
@@ -51,17 +43,7 @@ jobs:
         run: |
           git config --global user.email "form@sushi.com"
           git config --global user.name "tokenlistform[bot]"
+          pnpm run ci:version
+          pnpm run ci:publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-      - if: inputs.if_bump == ''
-        name: create and publish versions
-        uses: changesets/action@v1
-        with:
-          version: pnpm ci:version
-          commit: "chore: update versions"
-          title: "chore: update versions"
-          publish: pnpm ci:publish
-          cwd: 'lists/token-lists/default-token-list'
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
