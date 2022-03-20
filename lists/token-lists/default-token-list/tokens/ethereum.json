@@ -3742,5 +3742,13 @@
     "symbol": "APE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4d224452801ACEd8B2F0aebE155379bb5D594381/logo.png"
+  },
+  {
+    "name": "GoodDollar",
+    "address": "0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B",
+    "symbol": "G$",
+    "decimals": 2,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B.jpg"
   }
 ]
