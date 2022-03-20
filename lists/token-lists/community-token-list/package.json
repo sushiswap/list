@@ -1,0 +1,40 @@
+{
+  "name": "@sushiswap/community-token-list",
+  "version": "0.0.0",
+  "description": "◦ The SushiSwap community token list",
+  "main": "dist/sushiswap-community.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p dist && node internal/write.js > dist/sushiswap-community.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "dist/sushiswap-community.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushiswap/community-token-list.git"
+  },
+  "keywords": [
+    "sushiswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Matthew Lilley <hello@matthewlilley.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sushiswap/community-token-list/issues"
+  },
+  "homepage": "https://github.com/sushiswap/community-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.19",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2",
+    "config": "workspace:*",
+    "builder": "workspace:*"
+  }
+}

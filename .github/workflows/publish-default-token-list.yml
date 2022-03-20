@@ -1,0 +1,52 @@
+name: Publishing Default Token List to NPM
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "lists/token-lists/default-token-list/tokens/**"
+  workflow_call:
+    inputs:
+      if_bump:
+        type: boolean
+    secrets:
+      NPM_TOKEN:
+        required: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14, 16]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: pnpm/action-setup@v2.0.1
+        with:
+          version: 6.20.3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'pnpm'
+      - run: pnpm run test
+        working-directory: './lists/token-lists/default-token-list'
+      - run: pnpm run build
+        working-directory: './lists/token-lists/default-token-list'
+      - if: inputs.if_bump == true
+        name: bump & publish
+        run: |
+          git config --global user.email "form@sushi.com"
+          git config --global user.name "tokenlistform[bot]"
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - if: inputs.if_bump == ''
+        name: create and publish versions
+        uses: changesets/action@master
+        with:
+          version: pnpm ci:version
+          commit: "chore: update versions"
+          title: "chore: update versions"
+          publish: pnpm ci:publish
+        working-directory: './lists/token-lists/default-token-list'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

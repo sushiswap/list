@@ -1,31 +1,48 @@
-# List
+# Lists
 
-List monorepo
+Lists repository
 
-## Default token list
+## Oracle Lists
 
-...
+Oracle lists...
 
-## Community token list
-
-...
-
-## Testnet token list
+### Band Oracle List
 
 ...
 
-## Limit order pair list
+### Chainlink Oracle List
+
+..
+
+### DIA Oracle List
+
+..
+
+## Token Lists
+
+Token lists...
+
+### Default Token List
 
 ...
 
-## Install
-
-Run yarn from root directory
-
-## Build
-
-yarn workspaces foreach run build
-
-## Versioninig
+### Community Token List
 
 ...
+
+
+### Testnet Token List
+
+...
+
+### Chainlink Token List
+
+...
+
+## TODO
+
+- A way to semanticly version based on the spec laid out here: https://github.com/Uniswap/token-lists#semantic-versioning
+
+- A way to generate chainlink oracle list based on their registry contracts across networks
+
+- A way to generate band oracle list based on their registry contracts across networks

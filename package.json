@@ -1,10 +1,25 @@
 {
   "name": "lists",
+  "version": "0.0.0",
   "private": true,
-  "scripts": {
-    "publish": "yarn workspaces foreach npm publish --tolerate-republish --access public"
-  },
   "workspaces": [
+    "lists/**/*",
+    "logos/**/*",
     "packages/*"
-  ]
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "turbo": "latest"
+  },
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=14.0.0"
+  },
+  "packageManager": "pnpm@6.31.0"
 }
