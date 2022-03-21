@@ -45,5 +45,6 @@ jobs:
           git config --global user.name "tokenlistform[bot]"
           pnpm run ci:version
           pnpm run ci:publish
+          git push
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
