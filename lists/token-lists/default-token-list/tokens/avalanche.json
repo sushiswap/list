@@ -246,5 +246,13 @@
     "symbol": "WINE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC55036B5348CfB45a932481744645985010d3A44/logo.png"
+  },
+  {
+    "name": "Sifu",
+    "address": "0x237917E8a998b37759c8EE2fAa529D60c66c2927",
+    "symbol": "sifu",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x237917E8a998b37759c8EE2fAa529D60c66c2927.jpg"
   }
 ]
