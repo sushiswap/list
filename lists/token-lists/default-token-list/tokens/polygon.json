@@ -1198,5 +1198,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab.jpg"
+  },
+  {
+    "name": "MetalStream",
+    "address": "0x2aeB3AcBEb4C604451C560d89D88d95d54C2C2cC",
+    "symbol": "MTLSTR",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2aeB3AcBEb4C604451C560d89D88d95d54C2C2cC.jpg"
   }
 ]
