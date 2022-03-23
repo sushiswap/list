@@ -295,7 +295,6 @@
     "chainId": 250,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xf16e81dce15B08F326220742020379B855B87DF9.jpg"
   },
-
   {
     "name": "NICE",
     "address": "0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443",
@@ -304,7 +303,6 @@
     "chainId": 250,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443.png"
   },
-
   {
     "name": "Frapped USDT",
     "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
@@ -384,5 +382,13 @@
     "symbol": "POOCH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8/logo.png"
+  },
+  {
+    "name": "StargateToken",
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "symbol": "STG",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
   }
 ]
