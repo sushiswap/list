@@ -382,5 +382,13 @@
     "decimals": 18,
     "chainId": 250,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
+  },
+  {
+    "name": "ftm.guru",
+    "address": "0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882",
+    "symbol": "ELITE",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882.jpg"
   }
 ]
