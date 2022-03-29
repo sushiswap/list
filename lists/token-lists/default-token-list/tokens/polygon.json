@@ -1198,5 +1198,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab.jpg"
+  },
+  {
+    "name": "C3 Token",
+    "address": "0xad01DFfe604CDc172D8237566eE3a3ab6524d4C6",
+    "symbol": "C3",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xad01DFfe604CDc172D8237566eE3a3ab6524d4C6.jpg"
   }
 ]
