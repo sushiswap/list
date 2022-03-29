@@ -1206,5 +1206,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xad01DFfe604CDc172D8237566eE3a3ab6524d4C6.jpg"
+  },
+  {
+    "name": "Universal Basic Offset",
+    "address": "0x2B3eCb0991AF0498ECE9135bcD04013d7993110c",
+    "symbol": "UBO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2B3eCb0991AF0498ECE9135bcD04013d7993110c.jpg"
   }
 ]
