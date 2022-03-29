@@ -574,5 +574,21 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3.jpg"
+  },
+  {
+    "name": "Jones gOHM",
+    "address": "0x5375616bB6c52A90439fF96882a986d8FCdCe421",
+    "symbol": "jgOHM",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x5375616bB6c52A90439fF96882a986d8FCdCe421.jpg"
+  },
+  {
+    "name": "Jones DAO",
+    "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+    "symbol": "JONES",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x10393c20975cF177a3513071bC110f7962CD67da.jpg"
   }
 ]
