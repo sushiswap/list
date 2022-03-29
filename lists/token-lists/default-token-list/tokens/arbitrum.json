@@ -568,6 +568,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709/logo.png"
   },
   {
+    "name": "Jones DPX",
+    "address": "0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
+    "symbol": "jDPX",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19.jpg"
+  },
+  {
     "name": "Jones ETH",
     "address": "0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3",
     "symbol": "jETH",
