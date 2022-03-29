@@ -568,6 +568,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709/logo.png"
   },
   {
+    "name": "Jones gOHM",
+    "address": "0x5375616bB6c52A90439fF96882a986d8FCdCe421",
+    "symbol": "jgOHM",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x5375616bB6c52A90439fF96882a986d8FCdCe421.jpg"
+  },
+  {
     "name": "Jones DAO",
     "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
     "symbol": "JONES",
