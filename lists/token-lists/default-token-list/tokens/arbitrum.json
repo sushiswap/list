@@ -39,7 +39,6 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cap.jpg"
   },
-
   {
     "chainId": 42161,
     "address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB",
@@ -256,7 +255,6 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/woo.jpg"
   },
-
   {
     "chainId": 42161,
     "address": "0x82e3A8F066a6989666b031d916c43672085b1582",
@@ -552,7 +550,7 @@
     "symbol": "STG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0x6694340fc020c5E6B96567843da2df01b2CE1eb6.jpg"
-  }, 
+  },
   {
     "address": "0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA",
     "chainId": 42161,
@@ -568,5 +566,13 @@
     "symbol": "DUSD",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709/logo.png"
+  },
+  {
+    "name": "Jones DAO",
+    "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+    "symbol": "JONES",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x10393c20975cF177a3513071bC110f7962CD67da.jpg"
   }
 ]
