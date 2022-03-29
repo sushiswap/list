@@ -3709,7 +3709,7 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6.jpg"
   },
   {
     "address": "0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3",
