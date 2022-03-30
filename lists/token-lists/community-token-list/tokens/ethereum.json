@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "SushiBar",
+    "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+    "symbol": "xSUSHI",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272.jpg"
+  }
+]
