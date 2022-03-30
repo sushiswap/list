@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "Shirtum",
+    "address": "0xaD996A45fd2373ed0B10Efa4A8eCB9de445A4302",
+    "symbol": "SHI",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xaD996A45fd2373ed0B10Efa4A8eCB9de445A4302.jpg"
+  }
+]
