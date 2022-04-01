@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "MAINFINEX",
+    "address": "0x903dFBC9bAC585feDaE3c2E327913abfd022E2E0",
+    "symbol": "XVX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x903dFBC9bAC585feDaE3c2E327913abfd022E2E0.jpg"
+  }
+]
