@@ -3278,5 +3278,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4086590892a9232166d7849Ec34158d823498d40.jpg"
+  },
+  {
+    "name": "Altered State Machine Utility Token",
+    "address": "0x823556202e86763853b40e9cDE725f412e294689",
+    "symbol": "ASTO",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x823556202e86763853b40e9cDE725f412e294689.jpg"
   }
 ]
