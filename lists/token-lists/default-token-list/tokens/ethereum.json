@@ -3280,11 +3280,20 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4086590892a9232166d7849Ec34158d823498d40.jpg"
   },
   {
+
     "name": "Zero Money",
     "address": "0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7",
     "symbol": "ZERO",
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7.jpg"
+  },
+  {
+    "name": "Block",
+    "address": "0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea",
+    "symbol": "BLOCK",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea.jpg"
   }
 ]
