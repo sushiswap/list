@@ -352,6 +352,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btm.jpg"
   },
   {
+    "address": "0xc0d4ceb216b3ba9c3701b291766fdcba977cec3a",
+    "chainId": 1,
+    "name": "Redacted Cartel",
+    "symbol": "BTRFLY",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btrfly.jpg"
+  },
+  {
     "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
     "chainId": 1,
     "name": "Binance USD",
@@ -3278,5 +3286,38 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4086590892a9232166d7849Ec34158d823498d40.jpg"
+  },
+  {
+    "name": "Zero Money",
+    "address": "0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7",
+    "symbol": "ZERO",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7.jpg"
+  },
+  {
+    "name": "Block",
+    "address": "0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea",
+    "symbol": "BLOCK",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea.jpg"
+  },
+  {
+
+    "name": "Stakeborg Standard",
+    "address": "0xDA0c94c73D127eE191955FB46bACd7FF999b2bcd",
+    "symbol": "STANDARD",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDA0c94c73D127eE191955FB46bACd7FF999b2bcd.jpg"
+  },
+  {
+    "name": "The DAOX Index",
+    "address": "0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe",
+    "symbol": "DAOX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe.jpg"
   }
 ]
