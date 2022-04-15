@@ -1230,5 +1230,12 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x8c059898ca6274750b6bF1cf38F2848347C490cc.jpg"
+  },
+    "name": "VSQ",
+    "address": "0x29F1e986FCa02B7E54138c04C4F503DdDD250558",
+    "symbol": "VSQ",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x29F1e986FCa02B7E54138c04C4F503DdDD250558.jpg"
   }
 ]

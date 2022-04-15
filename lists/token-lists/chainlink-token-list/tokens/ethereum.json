@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "chainId": 1,
+    "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nmr.jpg"
+  }
+]
