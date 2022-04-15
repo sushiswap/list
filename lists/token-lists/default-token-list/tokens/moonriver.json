@@ -248,6 +248,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
   },
   {
+    "name": "xcKSM",
+    "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+    "symbol": "xcKSM",
+    "decimals": 12,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080.jpg"
+  },
     "name": "Liquid staked KSM",
     "address": "0xFfc7780C34B450d917d557E728f033033CB4fA8C",
     "symbol": "stKSM",
