@@ -135,7 +135,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
   },
-   {
+  {
     "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
     "name": "Avax - AnySwap",
     "symbol": "AVAX",
@@ -246,5 +246,13 @@
     "symbol": "FXS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
+  },
+  {
+    "name": "Liquid staked KSM",
+    "address": "0xFfc7780C34B450d917d557E728f033033CB4fA8C",
+    "symbol": "stKSM",
+    "decimals": 12,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfc7780C34B450d917d557E728f033033CB4fA8C.jpg"
   }
 ]
