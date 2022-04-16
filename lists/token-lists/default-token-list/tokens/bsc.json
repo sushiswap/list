@@ -750,5 +750,13 @@
     "symbol": "STG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b.jpg"
+  },
+  {
+    "name": "HappyFans",
+    "address": "0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d",
+    "symbol": "HAPPY",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d.jpg"
   }
 ]
