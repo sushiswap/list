@@ -382,5 +382,13 @@
     "decimals": 18,
     "chainId": 250,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
+  },
+  {
+    "name": "Graviton",
+    "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+    "symbol": "GTON",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4.jpg"
   }
 ]
