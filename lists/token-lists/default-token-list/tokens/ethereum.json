@@ -3304,7 +3304,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea.jpg"
   },
   {
-
     "name": "Stakeborg Standard",
     "address": "0xDA0c94c73D127eE191955FB46bACd7FF999b2bcd",
     "symbol": "STANDARD",
@@ -3319,5 +3318,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe.jpg"
+  },
+  {
+    "name": "FuraCoin",
+    "address": "0xe1631864495a2251Ae092d678111ACE32eE28aD4",
+    "symbol": "FURA",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xe1631864495a2251Ae092d678111ACE32eE28aD4.jpg"
   }
 ]
