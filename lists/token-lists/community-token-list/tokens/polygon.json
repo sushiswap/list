@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Sushi LP Token",
+    "address": "0x438e6d243ab1551C15bd9Fd41E9945CfDE4467D5",
+    "symbol": "SLP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x438e6d243ab1551C15bd9Fd41E9945CfDE4467D5.jpg"
+  }
+]
