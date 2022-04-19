@@ -78,7 +78,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.jpg"
-  },  
+  },
   {
     "chainId": 43114,
     "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
@@ -262,5 +262,13 @@
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x237917E8a998b37759c8EE2fAa529D60c66c2927.jpg"
+  },
+  {
+    "name": "Rex",
+    "address": "0xA33fAc40f62B7Aa975d8835EAa8a4df8b74161bd",
+    "symbol": "Rex",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xA33fAc40f62B7Aa975d8835EAa8a4df8b74161bd.jpg"
   }
 ]
