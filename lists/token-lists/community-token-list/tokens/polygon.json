@@ -1,0 +1,10 @@
+[
+  {
+    "name": "pMIREN",
+    "address": "0xA2eCFEBe618E90608882c4aD6b3a2eA6FdEB5e46",
+    "symbol": "pREN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xA2eCFEBe618E90608882c4aD6b3a2eA6FdEB5e46.jpg"
+  }
+]
