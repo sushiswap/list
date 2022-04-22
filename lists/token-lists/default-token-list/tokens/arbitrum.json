@@ -357,7 +357,7 @@
     "name": "Dopex Rebate Token",
     "symbol": "RDPX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x32Eb7902D4134bf98A28b963D26de779AF92A212/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x32Eb7902D4134bf98A28b963D26de779AF92A212.jpg"
   },
   {
     "chainId": 42161,
