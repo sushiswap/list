@@ -1,266 +1,266 @@
 [
   {
-    "name": "Wrapped Moonriver",
-    "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
-    "symbol": "WMOVR",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/movr.jpg"
-  },
-  {
-    "name": "Wrapped Ether - AnySwap",
-    "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
-    "symbol": "WETH",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
-  },
-  {
-    "name": "Wrapped Bitcoin - Meter",
-    "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
-  },
-  {
-    "name": "Magic Internet Money - AnySwap",
-    "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
-    "symbol": "MIM",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
-  },
-  {
-    "name": "Dai Stablecoin - AnySwap",
-    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-    "symbol": "DAI",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
-  },
-  {
-    "name": "BNB - Meter",
-    "symbol": "BNB",
-    "address": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
-  },
-  {
-    "name": "Binance USD - AnySwap",
-    "symbol": "BUSD",
-    "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
-  },
-  {
-    "name": "USD Coin - AnySwap",
-    "symbol": "USDC",
-    "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-    "decimals": 6,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
-  },
-  {
-    "name": "Tether USD - AnySwap",
-    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-    "symbol": "USDT",
-    "decimals": 6,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
-  },
-  {
-    "name": "SushiToken - AnySwap",
-    "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
-  },
-  {
-    "name": "Aave - AnySwap",
     "address": "0xf27Ee99622C3C9b264583dACB2cCE056e194494f",
-    "symbol": "AAVE",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
-  },
-  {
-    "name": "ChainLink Token - AnySwap",
-    "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
-    "symbol": "LINK",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
-  },
-  {
-    "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
-    "name": "Curve DAO Token - AnySwap",
-    "symbol": "CRV",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
-  },
-  {
-    "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
-    "name": "Synthetix Network Token - AnySwap",
-    "symbol": "SNX",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
-  },
-  {
-    "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
-    "name": "yearn.finance - AnySwap",
-    "symbol": "YFI",
-    "chainId": 1285,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
-  },
-  {
-    "name": "RivrDoge",
-    "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
-    "symbol": "RivrDoge",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://rivrdoge.com/wp-content/uploads/2021/09/logo.png"
-  },
-  {
-    "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
-    "name": "Matic - AnySwap",
-    "symbol": "MATIC",
-    "chainId": 1285,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg",
+    "name": "Aave - AnySwap",
+    "symbol": "AAVE"
   },
   {
     "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/avax.jpg",
     "name": "Avax - AnySwap",
-    "symbol": "AVAX",
-    "chainId": 1285,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/avax.jpg"
+    "symbol": "AVAX"
   },
   {
-    "name": "MoonBeans",
     "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
-    "symbol": "BEANS",
+    "chainId": 1285,
     "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/m00nbeans/images/main/moonbeans.png"
+    "logoURI": "https://raw.githubusercontent.com/m00nbeans/images/main/moonbeans.png",
+    "name": "MoonBeans",
+    "symbol": "BEANS"
   },
   {
-    "name": "Polkamarkets",
-    "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
-    "symbol": "POLK",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0x8b29344f368b5FA35595325903fE0eAab70C8E1F/logo.png"
-  },
-  {
-    "name": "Rivr Shiba",
-    "address": "0x3d593056F3e34dB7A4720d7F171447C489CFa195",
-    "symbol": "RIVRSHIBA",
-    "decimals": 9,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0x3d593056F3e34dB7A4720d7F171447C489CFa195/logo.png"
-  },
-  {
-    "name": "BEPRO Network",
     "address": "0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47",
-    "symbol": "BEPRO",
-    "decimals": 18,
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47/logo.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47/logo.png",
+    "name": "BEPRO Network",
+    "symbol": "BEPRO"
   },
   {
-    "name": "Mai MiMatic",
-    "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
-    "symbol": "MAI",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png"
-  },
-  {
-    "name": "Fantom",
-    "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
-    "symbol": "FTM",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/network/fantom.jpg"
-  },
-  {
-    "name": "Relay",
-    "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
-    "symbol": "RELAY",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png"
-  },
-  {
-    "name": "Meter Governance",
-    "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
-    "symbol": "MTRG",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692/logo.png"
-  },
-  {
-    "name": "Beefy Finance",
     "address": "0x173fd7434B8B50dF08e3298f173487ebDB35FD14",
-    "symbol": "BIFI",
+    "chainId": 1285,
     "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.png",
+    "name": "Beefy Finance",
+    "symbol": "BIFI"
   },
   {
-    "name": "Alpha Rome",
-    "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
-    "symbol": "aROME",
-    "decimals": 9,
+    "address": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B",
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE.jpg"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg",
+    "name": "BNB - Meter",
+    "symbol": "BNB"
   },
   {
-    "name": "Rome",
-    "address": "0x4a436073552044D5f2f49B176853ad3Ad473d9d6",
-    "symbol": "ROME",
-    "decimals": 9,
+    "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x4a436073552044D5f2f49B176853ad3Ad473d9d6.jpg"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg",
+    "name": "Binance USD - AnySwap",
+    "symbol": "BUSD"
+  },
+  {
+    "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg",
+    "name": "Curve DAO Token - AnySwap",
+    "symbol": "CRV"
+  },
+  {
+    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+    "name": "Dai Stablecoin - AnySwap",
+    "symbol": "DAI"
   },
   {
     "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
     "chainId": 1285,
-    "name": "Frax",
-    "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
+    "name": "Frax",
+    "symbol": "FRAX"
+  },
+  {
+    "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/network/fantom.jpg",
+    "name": "Fantom",
+    "symbol": "FTM"
   },
   {
     "address": "0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98",
     "chainId": 1285,
-    "name": "Frax Share",
-    "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
+    "name": "Frax Share",
+    "symbol": "FXS"
   },
   {
-    "name": "xcKSM",
-    "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
-    "symbol": "xcKSM",
-    "decimals": 12,
+    "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080.jpg"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg",
+    "name": "ChainLink Token - AnySwap",
+    "symbol": "LINK"
   },
   {
-    "name": "Liquid staked KSM",
+    "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+    "name": "Mai MiMatic",
+    "symbol": "MAI"
+  },
+  {
+    "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg",
+    "name": "Matic - AnySwap",
+    "symbol": "MATIC"
+  },
+  {
+    "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg",
+    "name": "Magic Internet Money - AnySwap",
+    "symbol": "MIM"
+  },
+  {
+    "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692/logo.png",
+    "name": "Meter Governance",
+    "symbol": "MTRG"
+  },
+  {
+    "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0x8b29344f368b5FA35595325903fE0eAab70C8E1F/logo.png",
+    "name": "Polkamarkets",
+    "symbol": "POLK"
+  },
+  {
+    "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png",
+    "name": "Relay",
+    "symbol": "RELAY"
+  },
+  {
+    "address": "0x3d593056F3e34dB7A4720d7F171447C489CFa195",
+    "chainId": 1285,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0x3d593056F3e34dB7A4720d7F171447C489CFa195/logo.png",
+    "name": "Rivr Shiba",
+    "symbol": "RIVRSHIBA"
+  },
+  {
+    "address": "0x4a436073552044D5f2f49B176853ad3Ad473d9d6",
+    "chainId": 1285,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x4a436073552044D5f2f49B176853ad3Ad473d9d6.jpg",
+    "name": "Rome",
+    "symbol": "ROME"
+  },
+  {
+    "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://rivrdoge.com/wp-content/uploads/2021/09/logo.png",
+    "name": "RivrDoge",
+    "symbol": "RivrDoge"
+  },
+  {
+    "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg",
+    "name": "Synthetix Network Token - AnySwap",
+    "symbol": "SNX"
+  },
+  {
+    "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
+    "name": "SushiToken - AnySwap",
+    "symbol": "SUSHI"
+  },
+  {
+    "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "chainId": 1285,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "name": "USD Coin - AnySwap",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "chainId": 1285,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "name": "Tether USD - AnySwap",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+    "chainId": 1285,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "name": "Wrapped Bitcoin - Meter",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+    "name": "Wrapped Ether - AnySwap",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/movr.jpg",
+    "name": "Wrapped Moonriver",
+    "symbol": "WMOVR"
+  },
+  {
+    "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg",
+    "name": "yearn.finance - AnySwap",
+    "symbol": "YFI"
+  },
+  {
+    "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
+    "chainId": 1285,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE.jpg",
+    "name": "Alpha Rome",
+    "symbol": "aROME"
+  },
+  {
     "address": "0xFfc7780C34B450d917d557E728f033033CB4fA8C",
-    "symbol": "stKSM",
-    "decimals": 12,
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfc7780C34B450d917d557E728f033033CB4fA8C.jpg"
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfc7780C34B450d917d557E728f033033CB4fA8C.jpg",
+    "name": "Liquid staked KSM",
+    "symbol": "stKSM"
+  },
+  {
+    "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+    "chainId": 1285,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080.jpg",
+    "name": "xcKSM",
+    "symbol": "xcKSM"
   }
 ]
