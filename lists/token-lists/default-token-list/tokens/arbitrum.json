@@ -598,5 +598,13 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x10393c20975cF177a3513071bC110f7962CD67da.jpg"
+  },
+  {
+    "name": "BrincGovToken",
+    "address": "0x62C7e128e7c3205964429F58A0C6f63a776D10d1",
+    "symbol": "gBRC",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x62C7e128e7c3205964429F58A0C6f63a776D10d1.jpg"
   }
 ]
