@@ -4,10 +4,10 @@ on:
     branches:
       - master
     paths:
-      - "logos/token-logos/token/**"
+      - "logos/token-logos/network/**/**"
   pull_request:
     paths:
-      - "logos/token-logos/token/**"
+      - "logos/token-logos/network/**/**"
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 jobs:
   test:
