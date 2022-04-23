@@ -6,8 +6,6 @@ on:
     paths:
       - "logos/token-logos/token/**"
   pull_request:
-    branches:
-      - master
     paths:
       - "logos/token-logos/token/**"
 concurrency: ${{ github.workflow }}-${{ github.ref }}
