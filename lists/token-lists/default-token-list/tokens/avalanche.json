@@ -112,6 +112,14 @@
     "symbol": "MOVR"
   },
   {
+    "address": "0xD036414fa2BCBb802691491E323BFf1348C5F4Ba",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xD036414fa2BCBb802691491E323BFf1348C5F4Ba.jpg",
+    "name": "Mu Coin",
+    "symbol": "MU"
+  },  
+  {
     "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
     "chainId": 43114,
     "decimals": 18,
