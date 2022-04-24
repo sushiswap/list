@@ -1528,6 +1528,14 @@
     "symbol": "LINK"
   },
   {
+    "address": "0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d.jpg",
+    "name": "Lobi",
+    "symbol": "LOBI"
+  },
+  {
     "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
     "chainId": 1,
     "decimals": 18,
