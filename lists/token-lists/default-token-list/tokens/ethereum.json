@@ -624,6 +624,14 @@
     "symbol": "COMP"
   },
   {
+    "address": "0x114f1388fAB456c4bA31B1850b244Eedcd024136",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x114f1388fAB456c4bA31B1850b244Eedcd024136.jpg",
+    "name": "Cool Cats",
+    "symbol": "COOL"
+  },
+  {
     "address": "0x4688a8b1F292FDaB17E9a90c8Bc379dC1DBd8713",
     "chainId": 1,
     "decimals": 18,
@@ -1518,6 +1526,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg",
     "name": "Chain Link",
     "symbol": "LINK"
+  },
+  {
+    "address": "0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d.jpg",
+    "name": "Lobi",
+    "symbol": "LOBI"
   },
   {
     "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
