@@ -531,7 +531,7 @@
     "address": "0xC0d4Ceb216B3BA9C3701B291766fDCbA977ceC3A",
     "chainId": 1,
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btrfly.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xC0d4Ceb216B3BA9C3701B291766fDCbA977ceC3A.jpg",
     "name": "Redacted Cartel",
     "symbol": "BTRFLY"
   },
