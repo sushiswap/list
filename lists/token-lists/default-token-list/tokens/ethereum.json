@@ -1032,6 +1032,14 @@
     "symbol": "FEI"
   },
   {
+    "address": "0x34278F6f40079eae344cbaC61a764Bcf85AfC949",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x34278F6f40079eae344cbaC61a764Bcf85AfC949.jpg",
+    "name": "FF9.io",
+    "symbol": "FF9.io"
+  },
+  {
     "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
     "chainId": 1,
     "decimals": 18,
