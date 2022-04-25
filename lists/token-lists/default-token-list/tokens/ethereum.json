@@ -504,6 +504,14 @@
     "symbol": "BPT"
   },
   {
+    "address": "0xe6D2a9fCD946E07826C6cdd919DA04763eA4D812",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xe6D2a9fCD946E07826C6cdd919DA04763eA4D812.jpg",
+    "name": "Bruh",
+    "symbol": "BRUH"
+  },
+  {
     "address": "0x69570f3E84f51Ea70b7B68055c8d667e77735a25",
     "chainId": 1,
     "decimals": 18,
