@@ -1384,6 +1384,14 @@
     "symbol": "IOST"
   },
   {
+    "address": "0xf063Dc5160721A3c35A9A853a4498FFF32e9883b",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf063Dc5160721A3c35A9A853a4498FFF32e9883b.jpg",
+    "name": "Wrapped IOST",
+    "symbol": "IOST"
+  },
+  {
     "address": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
     "chainId": 1,
     "decimals": 18,
