@@ -40,6 +40,30 @@
     "symbol": "BIFI"
   },
   {
+    "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ada.jpg",
+    "name": "Cardano Token",
+    "symbol": "bscADA"
+  },
+  {
+    "address": "0x0aB43550A6915F9f67d0c454C2E90385E6497EaA",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg",
+    "name": "BUSD Token",
+    "symbol": "bscBUSD"
+  },
+  {
+    "address": "0x08CB2917245BBE75C8C9c6Dc4a7B3765Dae02b31",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg",
+    "name": "Polkadot Token",
+    "symbol": "bscDOT"
+  },
+  {
     "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
     "chainId": 1666600000,
     "decimals": 8,
@@ -200,6 +224,14 @@
     "symbol": "ODAO"
   },
   {
+    "address": "0x1449Ab6C24Dcf3DbC1971021f465af1B81F48F07",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0x1449Ab6C24Dcf3DbC1971021f465af1B81F48F07.jpg",
+    "name": "Oil",
+    "symbol": "OIL"
+  },
+  {
     "address": "0xc1873199284B4490A4AACbE7CD6710Dc6aA95e08",
     "chainId": 1666600000,
     "decimals": 8,
@@ -230,6 +262,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg",
     "name": "Synthetix Network Token",
     "symbol": "SNX"
+  },
+  {
+    "address": "0x22D62b19b7039333ad773b7185BB61294F3AdC19",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x22D62b19b7039333ad773b7185BB61294F3AdC19/logo.png",
+    "name": "Staked One",
+    "symbol": "stONE"
   },
   {
     "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
@@ -334,37 +374,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x63cf309500d8be0B9fDB8F1fb66C821236c0438c/logo.png",
     "name": "Yield Guild Games Token",
     "symbol": "YGG"
-  },
-  {
-    "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
-    "chainId": 1666600000,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ada.jpg",
-    "name": "Cardano Token",
-    "symbol": "bscADA"
-  },
-  {
-    "address": "0x0aB43550A6915F9f67d0c454C2E90385E6497EaA",
-    "chainId": 1666600000,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg",
-    "name": "BUSD Token",
-    "symbol": "bscBUSD"
-  },
-  {
-    "address": "0x08CB2917245BBE75C8C9c6Dc4a7B3765Dae02b31",
-    "chainId": 1666600000,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg",
-    "name": "Polkadot Token",
-    "symbol": "bscDOT"
-  },
-  {
-    "address": "0x22D62b19b7039333ad773b7185BB61294F3AdC19",
-    "chainId": 1666600000,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x22D62b19b7039333ad773b7185BB61294F3AdC19/logo.png",
-    "name": "Staked One",
-    "symbol": "stONE"
   }
 ]
