@@ -16,6 +16,14 @@
     "symbol": "ALCH"
   },
   {
+    "address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
+    "chainId": 42161,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/ArbiMoonXyz/MyFiles/main/arbimoon.jpg",
+    "name": "ArbiMoon",
+    "symbol": "aMoon"
+  },
+  {
     "address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
     "chainId": 42161,
     "decimals": 18,
@@ -240,6 +248,14 @@
     "symbol": "GNO"
   },
   {
+    "address": "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1/logo.png",
+    "name": "Governance OHM",
+    "symbol": "gOHM"
+  },
+  {
     "address": "0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614",
     "chainId": 42161,
     "decimals": 18,
@@ -272,12 +288,44 @@
     "symbol": "IMO"
   },
   {
+    "address": "0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19.jpg",
+    "name": "Jones DPX",
+    "symbol": "jDPX"
+  },
+  {
+    "address": "0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3.jpg",
+    "name": "Jones ETH",
+    "symbol": "jETH"
+  },
+  {
+    "address": "0x5375616bB6c52A90439fF96882a986d8FCdCe421",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x5375616bB6c52A90439fF96882a986d8FCdCe421.jpg",
+    "name": "Jones gOHM",
+    "symbol": "jgOHM"
+  },
+  {
     "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x10393c20975cF177a3513071bC110f7962CD67da.jpg",
     "name": "Jones DAO",
     "symbol": "JONES"
+  },
+  {
+    "address": "0x1f6Fa7A58701b3773b08a1a16D06b656B0eCcb23",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1f6Fa7A58701b3773b08a1a16D06b656B0eCcb23.jpg",
+    "name": "Jones rDPX",
+    "symbol": "jrDPX"
   },
   {
     "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
@@ -408,6 +456,14 @@
     "symbol": "SPELL"
   },
   {
+    "address": "0xF7428FFCb2581A2804998eFbB036A43255c8A8D3",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0xF7428FFCb2581A2804998eFbB036A43255c8A8D3.jpg",
+    "name": "Staked Spell Token",
+    "symbol": "sSPELL"
+  },
+  {
     "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
     "chainId": 42161,
     "decimals": 18,
@@ -422,6 +478,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x326c33FD1113c1F29B35B4407F3d6312a8518431/logo.png",
     "name": "Strips Token",
     "symbol": "STRP"
+  },
+  {
+    "address": "0xA970AF1a584579B618be4d69aD6F73459D112F95",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/susd.jpg",
+    "name": "Synth sUSD",
+    "symbol": "sUSD"
   },
   {
     "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
@@ -520,6 +584,14 @@
     "symbol": "WOO"
   },
   {
+    "address": "0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B/logo.png",
+    "name": "Wrapped sOHM",
+    "symbol": "wsOHM"
+  },
+  {
     "address": "0x82e3A8F066a6989666b031d916c43672085b1582",
     "chainId": 42161,
     "decimals": 18,
@@ -534,69 +606,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xdb96f8efd6865644993505318cc08FF9C42fb9aC/logo.png",
     "name": "ZeroTwOhm",
     "symbol": "Z2O"
-  },
-  {
-    "address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
-    "chainId": 42161,
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/ArbiMoonXyz/MyFiles/main/arbimoon.jpg",
-    "name": "ArbiMoon",
-    "symbol": "aMoon"
-  },
-  {
-    "address": "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1/logo.png",
-    "name": "Governance OHM",
-    "symbol": "gOHM"
-  },
-  {
-    "address": "0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19.jpg",
-    "name": "Jones DPX",
-    "symbol": "jDPX"
-  },
-  {
-    "address": "0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3.jpg",
-    "name": "Jones ETH",
-    "symbol": "jETH"
-  },
-  {
-    "address": "0x5375616bB6c52A90439fF96882a986d8FCdCe421",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x5375616bB6c52A90439fF96882a986d8FCdCe421.jpg",
-    "name": "Jones gOHM",
-    "symbol": "jgOHM"
-  },
-  {
-    "address": "0xF7428FFCb2581A2804998eFbB036A43255c8A8D3",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0xF7428FFCb2581A2804998eFbB036A43255c8A8D3.jpg",
-    "name": "Staked Spell Token",
-    "symbol": "sSPELL"
-  },
-  {
-    "address": "0xA970AF1a584579B618be4d69aD6F73459D112F95",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/susd.jpg",
-    "name": "Synth sUSD",
-    "symbol": "sUSD"
-  },
-  {
-    "address": "0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B/logo.png",
-    "name": "Wrapped sOHM",
-    "symbol": "wsOHM"
   }
 ]
