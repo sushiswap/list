@@ -1072,6 +1072,14 @@
     "symbol": "UBO"
   },
   {
+    "address": "0xAb540e72424524002F4E8f6d4a837b8a1A116D2f",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xAb540e72424524002F4E8f6d4a837b8a1A116D2f.jpg",
+    "name": "Ukiyo",
+    "symbol": "UKY"
+  },
+  {
     "address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
     "chainId": 137,
     "decimals": 18,
