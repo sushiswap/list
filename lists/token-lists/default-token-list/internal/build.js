@@ -28,7 +28,7 @@ const moonriver = require("../tokens/moonriver.json");
 const fuse = require("../tokens/fuse.json");
 const telos = require("../tokens/telos.json");
 const moonbeam = require("../tokens/moonbeam.json");
-
+const optimism = require("../tokens/optimism.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -72,6 +72,7 @@ module.exports = function buildList() {
       ...fuse,
       ...telos,
       ...moonbeam,
+      ...optimism,
     ]),
   };
 };
