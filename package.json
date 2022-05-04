@@ -15,12 +15,13 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "prettier": "^2.5.1",
+    "@sushiswap/prettier-config": "^0.1.0",
+    "prettier": "^2.6.2",
     "turbo": "latest"
   },
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=14.0.0"
   },
-  "packageManager": "pnpm@6.31.0"
+  "packageManager": "pnpm@7.0.0"
 }
