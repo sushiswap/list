@@ -224,6 +224,14 @@
     "symbol": "ODAO"
   },
   {
+    "address": "0x1449Ab6C24Dcf3DbC1971021f465af1B81F48F07",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0x1449Ab6C24Dcf3DbC1971021f465af1B81F48F07.jpg",
+    "name": "Oil",
+    "symbol": "OIL"
+  },
+  {
     "address": "0xc1873199284B4490A4AACbE7CD6710Dc6aA95e08",
     "chainId": 1666600000,
     "decimals": 8,
