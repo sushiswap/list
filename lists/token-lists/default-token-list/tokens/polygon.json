@@ -470,7 +470,8 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x127E47abA094a9a87D084a3a93732909Ff031419/logo.png",
     "name": "Genius Token & NFT Collections",
     "symbol": "GNUS"
-  },  {
+  },
+  {
     "address": "0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195",
     "chainId": 137,
     "decimals": 18,
@@ -1269,5 +1270,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg",
     "name": "yearn.finance",
     "symbol": "YFI"
+  },
+  {
+    "address": "0x765BBa5E38E76BafD42C58F37c42038d3B04243A",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x765BBa5E38E76BafD42C58F37c42038d3B04243A.jpg",
+    "name": "ZED RUN",
+    "symbol": "ZED"
   }
 ]
