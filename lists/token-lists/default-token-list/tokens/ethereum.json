@@ -1920,6 +1920,14 @@
     "symbol": "NFD"
   },
   {
+    "address": "0x299698B4B44BD6d023981A7317798dEe12860834",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x299698B4B44BD6d023981A7317798dEe12860834.jpg",
+    "name": "New Frontier Presents",
+    "symbol": "NFP"
+  },
+  {
     "address": "0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638",
     "chainId": 1,
     "decimals": 18,
