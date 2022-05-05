@@ -184,6 +184,14 @@
     "symbol": "DXD"
   },
   {
+    "address": "0x123389C2f0e9194d9bA98c21E63c375B67614108",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x123389C2f0e9194d9bA98c21E63c375B67614108.jpg",
+    "name": "EthereumMax",
+    "symbol": "EMAX"
+  },
+  {
     "address": "0x969131D8ddC06C2Be11a13e6E7fACF22CF57d95e",
     "chainId": 42161,
     "decimals": 18,
