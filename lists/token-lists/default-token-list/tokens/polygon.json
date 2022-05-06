@@ -470,7 +470,8 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x127E47abA094a9a87D084a3a93732909Ff031419/logo.png",
     "name": "Genius Token & NFT Collections",
     "symbol": "GNUS"
-  },  {
+  },
+  {
     "address": "0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195",
     "chainId": 137,
     "decimals": 18,
@@ -1061,6 +1062,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png",
     "name": "IRON Titanium",
     "symbol": "TITAN"
+  },
+  {
+    "address": "0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007.jpg",
+    "name": "Tangible",
+    "symbol": "TNGBL"
   },
   {
     "address": "0x23fE1Ee2f536427B7e8aC02FB037A7f867037Fe8",
