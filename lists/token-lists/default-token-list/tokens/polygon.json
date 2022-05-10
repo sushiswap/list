@@ -470,7 +470,8 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x127E47abA094a9a87D084a3a93732909Ff031419/logo.png",
     "name": "Genius Token & NFT Collections",
     "symbol": "GNUS"
-  },  {
+  },
+  {
     "address": "0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195",
     "chainId": 137,
     "decimals": 18,
@@ -578,7 +579,7 @@
     "address": "0x4e78011Ce80ee02d2c3e649Fb657E45898257815",
     "chainId": 137,
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x4e78011Ce80ee02d2c3e649Fb657E45898257815/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x4e78011Ce80ee02d2c3e649Fb657E45898257815.jpg",
     "name": "Klima DAO",
     "symbol": "KLIMA"
   },
