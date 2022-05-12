@@ -3080,6 +3080,14 @@
     "symbol": "WETH"
   },
   {
+    "address": "0x29d578CEc46B50Fa5C88a99C6A4B70184C062953",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x29d578CEc46B50Fa5C88a99C6A4B70184C062953.jpg",
+    "name": "Wrapped Ever",
+    "symbol": "WEVER"
+  },
+  {
     "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
     "chainId": 1,
     "decimals": 18,
