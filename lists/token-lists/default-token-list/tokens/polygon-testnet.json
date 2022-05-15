@@ -38,5 +38,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg",
     "name": "Wrapped Matic",
     "symbol": "WMATIC"
-  }
+  },
+  {
+    "address": "0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7",
+    "chainId": 80001,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
 ]
