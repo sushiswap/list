@@ -3,7 +3,7 @@
     "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
     "chainId": 80001,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
   },
@@ -11,7 +11,7 @@
     "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
     "chainId": 80001,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
     "name": "Ether",
     "symbol": "ETH"
   },
@@ -27,15 +27,15 @@
     "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
     "chainId": 80001,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
   },
   {
-    "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+    "address": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
     "chainId": 80001,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg",
     "name": "Wrapped Matic",
     "symbol": "WMATIC"
   }
