@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "0xa5f2211B9b8170F694421f2046281775E8468044",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa5f2211B9b8170F694421f2046281775E8468044.jpg",
+    "name": "THORSwap Token",
+    "symbol": "THOR"
+  }
+]
