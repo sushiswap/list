@@ -408,6 +408,14 @@
     "symbol": "BGLD"
   },
   {
+    "address": "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xb8919522331C59f5C16bDfAA6A121a6E03A91F62.jpg",
+    "name": "bHome",
+    "symbol": "bHOME"
+  },
+  {
     "address": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
     "chainId": 1,
     "decimals": 18,
