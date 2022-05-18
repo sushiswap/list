@@ -2792,6 +2792,14 @@
     "symbol": "TGT"
   },
   {
+    "address": "0xa5f2211B9b8170F694421f2046281775E8468044",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa5f2211B9b8170F694421f2046281775E8468044.jpg",
+    "name": "THORSwap Token",
+    "symbol": "THOR"
+  },
+  {
     "address": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
     "chainId": 1,
     "decimals": 18,
