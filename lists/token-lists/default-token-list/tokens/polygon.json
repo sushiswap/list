@@ -776,6 +776,14 @@
     "symbol": "PGOV"
   },
   {
+    "address": "0x6D969cEA201e427d2875724Fd4E8044833fBc7f4",
+    "chainId": 137,
+    "decimals": 3,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6D969cEA201e427d2875724Fd4E8044833fBc7f4.jpg",
+    "name": "Polygon HBD",
+    "symbol": "pHBD"
+  },
+  {
     "address": "0x2b88aD57897A8b496595925F43048301C37615Da",
     "chainId": 137,
     "decimals": 18,
