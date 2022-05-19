@@ -872,6 +872,14 @@
     "symbol": "Propel"
   },
   {
+    "address": "0x28cEAd9E4ff96806C79f4189eF28FC61418e2216",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x28cEAd9E4ff96806C79f4189eF28FC61418e2216.jpg",
+    "name": "Polygon SPS",
+    "symbol": "pSPS"
+  },
+  {
     "address": "0x5d0915f929FC090fd9c843a53e7e30335dD199bc",
     "chainId": 137,
     "decimals": 18,
