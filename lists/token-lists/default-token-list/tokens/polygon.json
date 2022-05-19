@@ -808,6 +808,14 @@
     "symbol": "polyBUNNY"
   },
   {
+    "address": "0x7cC15fEf543f205Bf21018F038F591C6BaDa941c",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7cC15fEf543f205Bf21018F038F591C6BaDa941c.jpg",
+    "name": "PolyCub",
+    "symbol": "POLYCUB"
+  },
+  {
     "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
     "chainId": 137,
     "decimals": 18,
