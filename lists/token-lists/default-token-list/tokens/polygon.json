@@ -1080,6 +1080,14 @@
     "symbol": "TITAN"
   },
   {
+    "address": "0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007.jpg",
+    "name": "Tangible",
+    "symbol": "TNGBL"
+  },
+  {
     "address": "0x23fE1Ee2f536427B7e8aC02FB037A7f867037Fe8",
     "chainId": 137,
     "decimals": 18,
