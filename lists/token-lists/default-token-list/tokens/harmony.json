@@ -374,5 +374,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x63cf309500d8be0B9fDB8F1fb66C821236c0438c/logo.png",
     "name": "Yield Guild Games Token",
     "symbol": "YGG"
+  },
+  {
+    "address": "0x5b747e23a9E4c509dd06fbd2c0e3cB8B846e398F",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://evoverses.com/evoToken.png",
+    "name": "EvoVerses",
+    "symbol": "EVO"
   }
 ]
