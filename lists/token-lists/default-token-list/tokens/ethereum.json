@@ -2176,6 +2176,14 @@
     "symbol": "PLAY"
   },
   {
+    "address": "0xFcfCB729e45F7037362Ba61F6dfBCDaefAcfD55E",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xFcfCB729e45F7037362Ba61F6dfBCDaefAcfD55E.jpg",
+    "name": "PLURcoin",
+    "symbol": "PLUR"
+  },
+  {
     "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
     "chainId": 1,
     "decimals": 18,
