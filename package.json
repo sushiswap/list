@@ -12,9 +12,13 @@
     "dev": "turbo run dev --parallel",
     "test": "turbo run test --parallel",
     "lint": "turbo run lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "changeset": "changeset",
+    "version": "changeset version",
+    "release": "turbo run build --filter=...{./lists/*} && changeset publish"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.22.0",
     "@sushiswap/prettier-config": "^0.1.0",
     "prettier": "^2.6.2",
     "turbo": "latest"
