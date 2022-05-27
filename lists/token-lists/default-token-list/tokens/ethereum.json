@@ -408,6 +408,14 @@
     "symbol": "BGLD"
   },
   {
+    "address": "0xCc802c45B55581713cEcd1Eb17BE9Ab7fcCb0844",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xCc802c45B55581713cEcd1Eb17BE9Ab7fcCb0844.jpg",
+    "name": "SBU Honey",
+    "symbol": "BHNY"
+  },
+  {
     "address": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
     "chainId": 1,
     "decimals": 18,
