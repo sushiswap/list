@@ -968,6 +968,14 @@
     "symbol": "renFIL"
   },
   {
+    "address": "0x3Af2dd7B91D8fACECCC26d21a065267817213D37",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x3Af2dd7B91D8fACECCC26d21a065267817213D37.jpg",
+    "name": "RibusToken",
+    "symbol": "RIB"
+  },
+  {
     "address": "0x263026E7e53DBFDce5ae55Ade22493f828922965",
     "chainId": 137,
     "decimals": 18,
