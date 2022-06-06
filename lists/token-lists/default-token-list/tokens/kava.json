@@ -3,7 +3,7 @@
     "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
     "chainId": 2222,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/kava.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/kava.svg",
     "name": "Wrapped Kava",
     "symbol": "WKAVA"
   },
