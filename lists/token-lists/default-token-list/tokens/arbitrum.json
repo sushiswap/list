@@ -560,6 +560,14 @@
     "symbol": "USX"
   },
   {
+    "address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb.jpg",
+    "name": "dForce USD",
+    "symbol": "USX"
+  },
+  {
     "address": "0x995C235521820f2637303Ca1970c7c044583df44",
     "chainId": 42161,
     "decimals": 18,
