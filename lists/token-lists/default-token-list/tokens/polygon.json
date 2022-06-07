@@ -488,6 +488,14 @@
     "symbol": "GRT"
   },
   {
+    "address": "0x48e5daC3Ad9A136d6511FA52f554e65FeCD71E27",
+    "chainId": 137,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x48e5daC3Ad9A136d6511FA52f554e65FeCD71E27.jpg",
+    "name": "Gum Arabic",
+    "symbol": "GUMA"
+  },
+  {
     "address": "0x057E0bd9B797f9Eeeb8307B35DbC8c12E534c41E",
     "chainId": 137,
     "decimals": 9,
