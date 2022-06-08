@@ -1128,6 +1128,14 @@
     "symbol": "FXS"
   },
   {
+    "address": "0xB73758FE1dc58Ac2A255a2950a3Fdd84DA656b84",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xB73758FE1dc58Ac2A255a2950a3Fdd84DA656b84.jpg",
+    "name": "GANG",
+    "symbol": "GANG"
+  },
+  {
     "address": "0x6Bba316c48b49BD1eAc44573c5c871ff02958469",
     "chainId": 1,
     "decimals": 18,
