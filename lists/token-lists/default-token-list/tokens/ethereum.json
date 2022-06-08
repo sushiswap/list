@@ -1256,6 +1256,14 @@
     "symbol": "HND"
   },
   {
+    "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC.jpg",
+    "name": "Hop",
+    "symbol": "HOP"
+  },
+  {
     "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
     "chainId": 1,
     "decimals": 8,
