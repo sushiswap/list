@@ -2072,6 +2072,14 @@
     "symbol": "OPIUM"
   },
   {
+    "address": "0x662b67d00A13FAf93254714DD601F5Ed49Ef2F51",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x662b67d00A13FAf93254714DD601F5Ed49Ef2F51.jpg",
+    "name": "Orbit Chain",
+    "symbol": "ORC"
+  },
+  {
     "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
     "chainId": 1,
     "decimals": 8,
