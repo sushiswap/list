@@ -936,6 +936,14 @@
     "symbol": "RCN"
   },
   {
+    "address": "0x23c70Dd93d4ecaC7fb93631488C5412E02f4A57c",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x23c70Dd93d4ecaC7fb93631488C5412E02f4A57c.jpg",
+    "name": "Reyna Ventures",
+    "symbol": "REIN"
+  },
+  {
     "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
     "chainId": 137,
     "decimals": 8,
