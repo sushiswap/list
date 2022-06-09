@@ -1232,6 +1232,14 @@
     "symbol": "GRT"
   },
   {
+    "address": "0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d.jpg",
+    "name": "Graviton",
+    "symbol": "GTON"
+  },
+  {
     "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
     "chainId": 1,
     "decimals": 18,
