@@ -32,6 +32,14 @@
     "symbol": "ALGB"
   },
   {
+    "address": "0x8D619b97902902DFDeE3470E5c381CBaa075F2bB",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x8D619b97902902DFDeE3470E5c381CBaa075F2bB.jpg",
+    "name": "CyberAliens",
+    "symbol": "ALIENS"
+  },
+  {
     "address": "0x0B048D6e01a6b9002C291060bF2179938fd8264c",
     "chainId": 137,
     "decimals": 18,
