@@ -1080,6 +1080,14 @@
     "symbol": "FONT"
   },
   {
+    "address": "0x2C31b10ca416b82Cec4c5E93c615ca851213d48D",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x2C31b10ca416b82Cec4c5E93c615ca851213d48D.jpg",
+    "name": "Force DAO",
+    "symbol": "FORCE"
+  },
+  {
     "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "chainId": 1,
     "decimals": 18,
