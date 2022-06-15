@@ -3240,6 +3240,14 @@
     "symbol": "X"
   },
   {
+    "address": "0x35e78b3982E87ecfD5b3f3265B601c046cDBe232",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x35e78b3982E87ecfD5b3f3265B601c046cDBe232.jpg",
+    "name": "SideShift Token",
+    "symbol": "XAI"
+  },
+  {
     "address": "0x5DE7Cc4BcBCa31c473F6D2F27825Cfb09cc0Bb16",
     "chainId": 1,
     "decimals": 18,
