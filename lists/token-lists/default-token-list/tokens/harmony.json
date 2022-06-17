@@ -112,6 +112,14 @@
     "symbol": "ETH"
   },
   {
+    "address": "0x5b747e23a9E4c509dd06fbd2c0e3cB8B846e398F",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0x5b747e23a9E4c509dd06fbd2c0e3cB8B846e398F.jpg",
+    "name": "EVO",
+    "symbol": "EVO"
+  },
+  {
     "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
     "chainId": 1666600000,
     "decimals": 18,
