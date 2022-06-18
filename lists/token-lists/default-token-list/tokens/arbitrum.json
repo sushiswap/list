@@ -552,14 +552,6 @@
     "symbol": "USDT"
   },
   {
-    "address": "0xcd14C3A2ba27819B352aae73414A26e2b366dC50",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usx.jpg",
-    "name": "dForce USD",
-    "symbol": "USX"
-  },
-  {
     "address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
     "chainId": 42161,
     "decimals": 18,
