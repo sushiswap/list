@@ -24,6 +24,14 @@
     "symbol": "ADX"
   },
   {
+    "address": "0x4470BB87d77b963A013DB939BE332f927f2b992e",
+    "chainId": 1,
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4470BB87d77b963A013DB939BE332f927f2b992e.jpg",
+    "name": "AdEx",
+    "symbol": "ADX"
+  },
+  {
     "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
     "chainId": 1,
     "decimals": 18,
