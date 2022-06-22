@@ -1088,6 +1088,14 @@
     "symbol": "TITAN"
   },
   {
+    "address": "0xf8B3193fB1b06141015f4dA5c694Def652Ed2455",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xf8B3193fB1b06141015f4dA5c694Def652Ed2455.jpg",
+    "name": "TOKENOMIC",
+    "symbol": "TNC"
+  },
+  {
     "address": "0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007",
     "chainId": 137,
     "decimals": 18,
