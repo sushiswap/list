@@ -72,6 +72,14 @@
     "symbol": "AVAX"
   },
   {
+    "address": "0x356580D67d9f896Fce5c29F0D60452f241edEa2e",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x356580D67d9f896Fce5c29F0D60452f241edEa2e.jpg",
+    "name": "Falconheavy",
+    "symbol": "AVY"
+  },
+  {
     "address": "0x5617604BA0a30E0ff1d2163aB94E50d8b6D0B0Df",
     "chainId": 137,
     "decimals": 18,
