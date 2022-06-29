@@ -1000,6 +1000,14 @@
     "symbol": "ROUTE"
   },
   {
+    "address": "0x978F89dE413594378a68CB9C14a83CeC0cEC721b",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x978F89dE413594378a68CB9C14a83CeC0cEC721b.jpg",
+    "name": "Roci Debt Token",
+    "symbol": "rUSDC3"
+  },
+  {
     "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
     "chainId": 137,
     "decimals": 18,
