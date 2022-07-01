@@ -168,12 +168,20 @@
     "symbol": "USDC.e"
   },
   {
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "chainId": 43114,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
     "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
     "chainId": 43114,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.jpg",
     "name": "Tether USD",
-    "symbol": "USDT"
+    "symbol": "USDT.e"
   },
   {
     "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
