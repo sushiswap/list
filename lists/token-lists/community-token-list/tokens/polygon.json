@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x356580D67d9f896Fce5c29F0D60452f241edEa2e",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x356580D67d9f896Fce5c29F0D60452f241edEa2e.jpg",
+    "name": "Falconheavy",
+    "symbol": "AVY"
+  },
+  {
     "address": "0x2df54842cD85C60f21b4871E09bcc6047b2dcC4d",
     "chainId": 137,
     "decimals": 18,
