@@ -1,0 +1,498 @@
+[
+    {
+      "name": "Wrapped PHI",
+      "symbol": "WPHI",
+      "address": "0xb61D26717dBD2eA6EbF4FADae02A28782F86864C",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phi.network/wp-content/uploads/2022/05/0xb61D26717dBD2eA6EbF4FADae02A28782F86864C-removebg-preview-removebg-preview-removebg-preview.png"
+    },
+    {
+      "name": "Phicash",
+      "symbol": "Φ$",
+      "address": "0xf1f4e7a5437a61b2ca0416c1a436133460f8b7c4",
+      "chainId": 4181,
+      "decimals": 2,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/phicash.png"
+    },
+    {
+      "name": "Element",
+      "symbol": "Element",
+      "address": "0x2977cbcf82fc2069050cdcd7cadd97497fd28904",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/images/1647212160.png"
+    },
+    {
+      "name": "Theta",
+      "symbol": "Theta",
+      "address": "0x84890E5F625Bd5aA02ccc993e0C99F37E14d4815",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/theta-token/large.png"
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "address": "0xAB2CBF662999507b5c757360A12D08B2CE1791A8",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/zcash/large.png"
+    },
+    {
+      "name": "Dash",
+      "symbol": "Dash",
+      "address": "0xBa18e785B0121A256A4E2065289613cE968c3EE9",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/dash/large.png"
+    },
+    {
+      "name": "Oxrabell",
+      "symbol": "Oxrabell",
+      "address": "0xdc04e4770aab2bc5a2e4883013d66cb11843c063",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/ox-1.png"
+    },
+    {
+      "name": "Thoth",
+      "symbol": "Thoth",
+      "address": "0xAe5Fa9f14E7A26cc93541aAc77e9A0A1378Aa4db",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/thoth.png"
+    },
+    {
+      "name": "Horus",
+      "symbol": "Horus",
+      "address": "0x8597D71C3f8a5a890E80C493b8694d9Ce34eC9f4",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/horus.png"
+    },
+    {
+      "name": "Osiris",
+      "symbol": "Osiris",
+      "address": "0xf9E1bA9451fc80a065e52cD4C838eC59276aEfa9",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/osiris.png"
+    },
+    {
+      "name": "Phederal Preserve",
+      "symbol": "PHED",
+      "address": "0x679a216b878192fffc47ab07530c539a45b54593",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/phed.png"
+    },
+    {
+      "name": "Seth",
+      "symbol": "Seth",
+      "address": "0x986bbaf811c871786323a8469f556ac566251cc0",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/seth.png"
+    },
+    {
+      "name": "Kojib",
+      "symbol": "Koj",
+      "address": "0xcc27fFDe8A72876Bf9C54c60f17E78d9e56Bc872",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://buy.kojib.com/wp-content/uploads/2022/06/kojib.png"
+    },
+    {
+      "name": "Zeta",
+      "symbol": "Zeta",
+      "address": "0x2fB0c324f3665034dbc0B57368a0e9f632DABdc6",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/zeta.png"
+    },
+    {
+      "name": "EOS",
+      "symbol": "EOS",
+      "address": "0x0befEE4309745a585Cce7D2Da6390C9735a40C0f",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/eos/large.png"
+    },
+    {
+      "name": "BAT",
+      "symbol": "BAT",
+      "address": "0xB62137Ac522A4A4140E1bFFe2D6fDF3E42ece8f1",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/basic-attention-token/large.png"
+    },
+    {
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "address": "0xbF5fF3E8585D4CbF3462821799F956A2EDBFcf5d",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/bitcoin-cash/large.png"
+    },
+    {
+      "name": "Avalache",
+      "symbol": "AVAX",
+      "address": "0x92461C9B5c047532cA9A672014695FffBDac4680",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/avalanche-2/large.png"
+    },
+    {
+      "name": "Cosmos",
+      "symbol": "Atom",
+      "address": "0x30740e2345FfAbC1FC168c18Bacbc57103971E7a",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/cosmos/large.png"
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "Link",
+      "address": "0x5629d27B3B2BAB0d39d8Ff5C5793792999d54DB9",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/chainlink/large.png"
+    },
+    {
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "address": "0xaE318ea7690E29284004Fdba547d2486Ad8875b6",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/litecoin/large.png"
+    },
+    {
+      "name": "KNECHI",
+      "symbol": "KNECHI",
+      "address": "0x45eb571215f751f3fb9f4f6f6835cb5b282f1284",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/logo-1.png"
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "address": "0x1eff15c4dabb489ca8afbba30feb6fdb7d9ab12c",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/monero/large.png"
+    },
+    {
+      "name": "Stellar",
+      "symbol": "XLM",
+      "address": "0x6a1dbb294b1cf5f3ca5195f38f437e30c4cf68d5",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/stellar/large.png"
+    },
+    {
+      "name": "Klock",
+      "symbol": "Klock",
+      "address": "0x87ce2170a9df820bbb3047bd5b734580bf852e88",
+      "chainId": 4181,
+      "decimals": 2,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/logo.png"
+    },
+    {
+      "name": "Dexfund",
+      "symbol": "Dexfund",
+      "address": "0xfc54fb4105e00dcaad0ba024be6f80469459cada",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/Webp.net-resizeimage-1.png"
+    },
+    {
+      "name": "Z1NT",
+      "symbol": "Z1NT",
+      "address": "0x725c836ed62f63c4fb7f4d96f4a34296909263f9",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phi.network/wp-content/uploads/2022/05/alien-monster_1f47e.png"
+    },
+    {
+      "name": "ΦEthereum",
+      "symbol": "ΦETH",
+      "address": "0x1212Ad94fC912742cAc56f4898EEb4faC6fB5583",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5378.png"
+    },
+    {
+      "name": "ΦBitcoin",
+      "symbol": "ΦBTC",
+      "address": "0xDb6473eDA7bBeb60D68724Fdcd6d8B7f22654AAf",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5376.png"
+    },
+    {
+      "name": "ΦTether USD",
+      "symbol": "ΦUSDT",
+      "address": "0xd9990fDc1036e3E7bCcb3dFC163F666C77250B62",
+      "chainId": 4181,
+      "decimals": 2,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5375.png"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0x12df0bc815ece79b17b1e50ba4930adef3b6ee86",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/ethereum/large.png"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "address": "0x64a06abb6bdb2487bc44177de5107b7ec7136c4b",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/bitcoin/large.png"
+    },
+    {
+      "name": "Nibiru",
+      "symbol": "Nibiru",
+      "address": "0xa708bff8c9e37fd93197846833a7c05128678ddd",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/star.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xc9b0fcb7b97cfc0f1c3c9e360383ccc1bea6c795",
+      "chainId": 4181,
+      "decimals": 2,
+      "logoURI": "https://instantmarketcap.com/coins_images/tether/large.png"
+    },
+    {
+      "name": "Lobeh",
+      "symbol": "Lobeh",
+      "address": "0x10d76d7aacd744311d6ce93fa5e98979a283c167",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phi.network/wp-content/uploads/2022/05/IMG_4885.png"
+    },
+    {
+      "name": "Truth",
+      "symbol": "Truth",
+      "address": "0x392bbdc1615cdb8d13458278ee7c58e27cdd232e",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phi.network/wp-content/uploads/2022/05/hundred-points_1f4af.png"
+    },
+    {
+      "name": "Binance",
+      "symbol": "BNB",
+      "address": "0x78901ecc10d26d1171cb2bad7934dedc63ed2f6c",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/binancecoin/large.png"
+    },
+    {
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "address": "0xf0ebfbb621d6fb429962801053511f9b4da44271",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/polkadot/large.jpg"
+    },
+    {
+      "name": "Uttey",
+      "symbol": "Uttey",
+      "address": "0xc9327a62fbeeda734c7c3153ed3b6710c38f2d84",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/images/1647743395.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xe2ed386bb50a69adcd4a27248f6160cfc28b3750",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/usd-coin/large.png"
+    },
+    {
+      "name": "Ripple",
+      "symbol": "XRP",
+      "address": "0x4ca3864c0dfd66eac9bf95b022f0908b2656cbc1",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/ripple/large.png"
+    },
+    {
+      "name": "Solana",
+      "symbol": "Sol",
+      "address": "0xa561185612297b88ea917baaac1ab5babe600346",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/solana/large.jpg"
+    },
+    {
+      "name": "Cardano",
+      "symbol": "ADA",
+      "address": "0x23783a8b4888eaf30163cd6f628dde5379bb3d19",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/cardano/large.png"
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "Doge",
+      "address": "0xcd7e8f5361d864ca69658bdde2df330910a1724f",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/dogecoin/large.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "Dai",
+      "address": "0xa4B0715571c40e5781C745d4fF5DA89B11e2f814",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/dai/large.png"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x56eC101919778b5Fa5646F99B0446a35532d479e",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/binance-usd/large.png"
+    },
+    {
+      "name": "HEX",
+      "symbol": "HEX",
+      "address": "0x8bEB54A1EEEA6586B7fB09aef833a64175F3208D",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/hex/large.png"
+    },
+    {
+      "name": "Polygon",
+      "symbol": "Matic",
+      "address": "0x6b01CcB773304DaE7795FED0963AD91dE62a6A33",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/matic-network/large.png"
+    },
+    {
+      "name": "Gold",
+      "symbol": "Au",
+      "address": "0x2E24dB537e50eE2Ba5357D4292EE2D28A1bc537d",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5423.png"
+    },
+    {
+      "name": "Euro",
+      "symbol": "€",
+      "address": "0xBba8EFA2a70bB16E6C6dc963A4a26C87ece148e3",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5417.png"
+    },
+    {
+      "name": "Pound Sterling",
+      "symbol": "£",
+      "address": "0xC8931F928F955D01aE6607840CDd4CAfcA2f6D5C",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5411.png"
+    },
+    {
+      "name": "Australian Dollar",
+      "symbol": "AUD",
+      "address": "0xD8684349D009e4794bddDDD438E8421f9C2E8586",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5415.png"
+    },
+    {
+      "name": "Canadian Dollar",
+      "symbol": "CAD",
+      "address": "0xa37310BaE5705F013946D54061c2c157AF5d069d",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5419.png"
+    },
+    {
+      "name": "Renminbi",
+      "symbol": "CN¥",
+      "address": "0xAA0459a48C90D7786ffd87143a4F8Ced96D8C196",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5426.png"
+    },
+    {
+      "name": "Japanese Yen",
+      "symbol": "JP¥",
+      "address": "0x375e303C8D42142cA958ee44D97D8D4B755ca492",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5427.png"
+    },
+    {
+      "name": "Swiss Franc",
+      "symbol": "CHF",
+      "address": "0x959fDa59392A60C1CDC5ea07b3CE90b95830a367",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5432.png"
+    },
+    {
+      "name": "United States Dollar",
+      "symbol": "$",
+      "address": "0xf12bF560bC97161C3baCEAabC0251421213A2C96",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5434.png"
+    },
+    {
+      "name": "Silver",
+      "symbol": "Ag",
+      "address": "0x07De06Fdd590160C9e860a1024fE82F39cd51C13",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5421.png"
+    },
+    {
+      "name": "LegacyStars",
+      "symbol": "LegacyStars",
+      "address": "0x9c095d366b1789e1e2cd13b671507fefe4043560",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/PngItem_1849767.png"
+    },
+    {
+      "name": "Ji.Finance",
+      "symbol": "Ji.finance",
+      "address": "0x8F9F53ffF18394518061F1B1B2C9b9D9210C857A",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5202.png"
+    },
+    {
+      "name": "Alpha",
+      "symbol": "Alpha",
+      "address": "0xe09F3dA9330B3d3FCA7564d686401CA2190EA238",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/logo.png"
+    },
+    {
+      "name": "PHISwap",
+      "symbol": "ΦSWAP",
+      "address": "0xf64d866730a41d6af2caf0c9345f7b3f21337668",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://app.phiswap.com/images/coins/0x74c259aa024dc00151f9417b60c2aa75dcba822e.png"
+  }
+]
