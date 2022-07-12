@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x40B6450E958e899c972731392A4074A29E97eac4",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x40B6450E958e899c972731392A4074A29E97eac4.jpg",
+    "name": "AVY",
+    "symbol": "AVY"
+  },
+  {
     "address": "0x2df54842cD85C60f21b4871E09bcc6047b2dcC4d",
     "chainId": 137,
     "decimals": 18,
