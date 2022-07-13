@@ -51,7 +51,7 @@
     "address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
     "chainId": 43114,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x5541D83EFaD1f281571B343977648B75d95cdAC2.jpg",
     "name": "Grape Finance",
     "symbol": "GRAPE"
   },
@@ -118,7 +118,39 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xD036414fa2BCBb802691491E323BFf1348C5F4Ba.jpg",
     "name": "Mu Coin",
     "symbol": "MU"
-  },  
+  },
+  {
+    "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.jpg",
+    "name": "Old SushiToken",
+    "symbol": "oldSUSHI"
+  },
+  {
+    "address": "0xde3A24028580884448a5397872046a019649b084",
+    "chainId": 43114,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.jpg",
+    "name": "Old Tether USD",
+    "symbol": "oldUSDT"
+  },
+  {
+    "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15.jpg",
+    "name": "Old Wrapped Ether",
+    "symbol": "oldWETH"
+  },
+  {
+    "address": "0x237917E8a998b37759c8EE2fAa529D60c66c2927",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x237917E8a998b37759c8EE2fAa529D60c66c2927.jpg",
+    "name": "Sifu",
+    "symbol": "sifu"
+  },
   {
     "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
     "chainId": 43114,
@@ -126,6 +158,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814.jpg",
     "name": "Spell Token",
     "symbol": "SPELL"
+  },
+  {
+    "address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a.jpg",
+    "name": "Staked Spell Token",
+    "symbol": "sSPELL"
   },
   {
     "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
@@ -216,60 +256,20 @@
     "symbol": "WINE"
   },
   {
-    "address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
-    "chainId": 43114,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png",
-    "name": "WOWSwap",
-    "symbol": "WOW"
-  },
-  {
-    "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
-    "chainId": 43114,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.jpg",
-    "name": "Old SushiToken",
-    "symbol": "oldSUSHI"
-  },
-  {
-    "address": "0xde3A24028580884448a5397872046a019649b084",
-    "chainId": 43114,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.jpg",
-    "name": "Old Tether USD",
-    "symbol": "oldUSDT"
-  },
-  {
-    "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
-    "chainId": 43114,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15.jpg",
-    "name": "Old Wrapped Ether",
-    "symbol": "oldWETH"
-  },
-  {
-    "address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
-    "chainId": 43114,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a.jpg",
-    "name": "Staked Spell Token",
-    "symbol": "sSPELL"
-  },
-  {
-    "address": "0x237917E8a998b37759c8EE2fAa529D60c66c2927",
-    "chainId": 43114,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x237917E8a998b37759c8EE2fAa529D60c66c2927.jpg",
-    "name": "Sifu",
-    "symbol": "sifu"
-  },
-  {
     "address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
     "chainId": 43114,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.jpg",
     "name": "Wrapped Memo",
     "symbol": "wMEMO"
+  },
+  {
+    "address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png",
+    "name": "WOWSwap",
+    "symbol": "WOW"
   },
   {
     "address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
