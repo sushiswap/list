@@ -33,13 +33,15 @@ const NAME = {
   [ChainId.MOONRIVER]: "moonriver",
   [ChainId.MOONBEAM_TESTNET]: "moonbase",
   [ChainId.OKEX]: "okex",
-  [ChainId.OKEX]: "okex-testnet",
+  [ChainId.OKEX_TESTNET]: "okex-testnet",
   [ChainId.PALM]: "palm",
   [ChainId.RINKEBY]: "rinkeby",
   [ChainId.ROPSTEN]: "ropsten",
   [ChainId.TELOS]: "telos",
   [ChainId.XDAI]: "xdai",
   [ChainId.MOONBEAM]: "moonbeam",
+  [ChainId.KAVA]: "kava",
+  [ChainId.METIS]: "metis",
 };
 
 (async () => {
