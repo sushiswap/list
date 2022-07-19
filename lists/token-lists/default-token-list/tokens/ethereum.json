@@ -1600,6 +1600,14 @@
     "symbol": "LUSD"
   },
   {
+    "address": "0x8686525d6627A25C68De82c228448f43c97999F2",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8686525d6627A25C68De82c228448f43c97999F2.jpg",
+    "name": "Lilly Finance",
+    "symbol": "Ly"
+  },
+  {
     "address": "0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf",
     "chainId": 1,
     "decimals": 18,
