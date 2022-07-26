@@ -38,5 +38,21 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
     "name": "Wrapped Ethereum",
     "symbol": "WETH"
+  },
+  {
+    "address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
+    "chainId": 1088,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
+    "name": "SushiToken",
+    "symbol": "SUSHI"
+  },
+  {
+    "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+    "chainId": 1088,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC"
   }
 ]
