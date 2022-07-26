@@ -52,7 +52,7 @@
     "chainId": 1088,
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
-    "name": "WBTC",
-    "symbol": "Wrapped Bitcoin"
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC"
   }
 ]
