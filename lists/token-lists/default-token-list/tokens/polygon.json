@@ -704,6 +704,14 @@
     "symbol": "MVI"
   },
   {
+    "address": "0x3ec8450290bc5dC4279626A07922d8E599e75aDd",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x3ec8450290bc5dC4279626A07922d8E599e75aDd.jpg",
+    "name": "The Metaverse Exchange DAO",
+    "symbol": "MXDT"
+  },
+  {
     "address": "0x6BCa3B77C1909Ce1a4Ba1A20d1103bDe8d222E48",
     "chainId": 137,
     "decimals": 18,
