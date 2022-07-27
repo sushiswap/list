@@ -784,6 +784,14 @@
     "symbol": "pHBD"
   },
   {
+    "address": "0x661888F81454955FDF406Af639c6227Fce2AC544",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x661888F81454955FDF406Af639c6227Fce2AC544.jpg",
+    "name": "phoenix",
+    "symbol": "PHX"
+  },
+  {
     "address": "0x2b88aD57897A8b496595925F43048301C37615Da",
     "chainId": 137,
     "decimals": 18,
