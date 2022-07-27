@@ -16,6 +16,14 @@
     "symbol": "ABI"
   },
   {
+    "address": "0xfDb9FCd41E000e310e1ec91cB5a2291A1Cd551A4",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xfDb9FCd41E000e310e1ec91cB5a2291A1Cd551A4.jpg",
+    "name": "acorn",
+    "symbol": "ACN"
+  },
+  {
     "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
     "chainId": 137,
     "decimals": 18,
