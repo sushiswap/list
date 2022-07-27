@@ -1152,6 +1152,14 @@
     "symbol": "USDC"
   },
   {
+    "address": "0x126a9025FcE2e2E0C73A5D8849E87715be2e654f",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x126a9025FcE2e2E0C73A5D8849E87715be2e654f.jpg",
+    "name": "USD Coin (PoS) (Wormhole)",
+    "symbol": "USDC"
+  },
+  {
     "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
     "chainId": 137,
     "decimals": 6,
