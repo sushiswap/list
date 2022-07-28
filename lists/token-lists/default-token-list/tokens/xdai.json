@@ -19,7 +19,7 @@
     "address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
     "chainId": 100,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/xdai/0x82dFe19164729949fD66Da1a37BC70dD6c4746ce.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/xdai/0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd.jpg",
     "name": "Curve DAO Token on xDai",
     "symbol": "CRV"
   },
