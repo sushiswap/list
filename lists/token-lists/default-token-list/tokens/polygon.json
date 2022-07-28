@@ -728,6 +728,14 @@
     "symbol": "NCT"
   },
   {
+    "address": "0xFFec5b0Ec59a5760a3273764a9d100F782d8e221",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/vzD48D9/Photo-Room-20220702-203635-2.png",
+    "name": "MULTIVERSE",
+    "symbol": "MV"
+  },
+  {
     "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
     "chainId": 137,
     "decimals": 18,
