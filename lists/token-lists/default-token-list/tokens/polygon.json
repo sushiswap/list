@@ -384,6 +384,14 @@
     "symbol": "ETH2X-FLI-P"
   },
   {
+    "address": "0xD125443F38A69d776177c2B9c041f462936F8218",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xD125443F38A69d776177c2B9c041f462936F8218.jpg",
+    "name": "FireBotToken",
+    "symbol": "FBX"
+  },
+  {
     "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
     "chainId": 137,
     "decimals": 18,
