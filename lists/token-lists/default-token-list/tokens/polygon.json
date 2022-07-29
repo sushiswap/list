@@ -384,6 +384,14 @@
     "symbol": "ETH2X-FLI-P"
   },
   {
+    "address": "0xeB90082961d67477218DC8f75aA2fEDAb27Dd484",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xeB90082961d67477218DC8f75aA2fEDAb27Dd484.jpg",
+    "name": "ETH Volatility Index",
+    "symbol": "ETHV"
+  },
+  {
     "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
     "chainId": 137,
     "decimals": 18,
