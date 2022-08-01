@@ -1307,7 +1307,7 @@
     "address": "0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x765BBa5E38E76BafD42C58F37c42038d3B04243A.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc.jpg",
     "name": "ZED RUN",
     "symbol": "ZED"
   }
