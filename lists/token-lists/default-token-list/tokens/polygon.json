@@ -864,6 +864,14 @@
     "symbol": "POP"
   },
   {
+    "address": "0xCAf44e62003De4B8bD17c724f2B78CC532550C2F",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xCAf44e62003De4B8bD17c724f2B78CC532550C2F.jpg",
+    "name": "Pearl",
+    "symbol": "PRL"
+  },
+  {
     "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
     "chainId": 137,
     "decimals": 18,
