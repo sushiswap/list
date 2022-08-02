@@ -120,6 +120,14 @@
     "symbol": "MU"
   },
   {
+    "address": "0x8810dc193bA78b0dB831687EBB8d79f24a8b5E81",
+    "chainId": 43114,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x8810dc193bA78b0dB831687EBB8d79f24a8b5E81.jpg",
+    "name": "Cunoro",
+    "symbol": "NORO"
+  },
+  {
     "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
     "chainId": 43114,
     "decimals": 18,
