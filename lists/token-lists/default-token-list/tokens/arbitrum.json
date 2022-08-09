@@ -507,7 +507,7 @@
     "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xd4d42F0b6DEF4CE0383636770eF773390d85c61A.jpg",
     "name": "SushiToken",
     "symbol": "SUSHI"
   },
