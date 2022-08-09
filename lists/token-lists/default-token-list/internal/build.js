@@ -31,7 +31,7 @@ const moonbeam = require("../tokens/moonbeam.json");
 const optimism = require("../tokens/optimism.json");
 const kava = require("../tokens/kava.json");
 const metis = require("../tokens/metis.json");
-
+const arbitrumNova = require("../tokens/arbitrum-nova.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -78,6 +78,7 @@ module.exports = function buildList() {
       ...optimism,
       ...kava,
       ...metis,
+      ...arbitrumNova,
     ]),
   };
 };
