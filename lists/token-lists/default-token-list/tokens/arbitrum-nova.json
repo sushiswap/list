@@ -38,5 +38,21 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC"
+  },
+  {
+    "address": "0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11222/small/Moons.png",
+    "name": "Moons",
+    "symbol": "MOON"
+  },
+  {
+    "address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11223/small/Brick.png",
+    "name": "Bricks",
+    "symbol": "BRICK"
   }
 ]
