@@ -408,6 +408,14 @@
     "symbol": "O3"
   },
   {
+    "address": "0x369eB8197062093a20402935D3a707b4aE414E9D",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x369eB8197062093a20402935D3a707b4aE414E9D.jpg",
+    "name": "Pana DAO",
+    "symbol": "PANA"
+  },
+  {
     "address": "0x3642c0680329ae3e103E2B5AB29DDfed4d43CBE5",
     "chainId": 42161,
     "decimals": 18,
