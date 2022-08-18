@@ -2528,6 +2528,14 @@
     "symbol": "SFI"
   },
   {
+    "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE.jpg",
+    "name": "../../../etc/passwd",
+    "symbol": "SHIB"
+  },
+  {
     "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
     "chainId": 1,
     "decimals": 18,
