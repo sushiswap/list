@@ -424,6 +424,14 @@
     "symbol": "PL2"
   },
   {
+    "address": "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1.jpg",
+    "name": "Plutus DPX",
+    "symbol": "plsDPX"
+  },
+  {
     "address": "0x78055dAA07035Aa5EBC3e5139C281Ce6312E1b22",
     "chainId": 42161,
     "decimals": 18,
