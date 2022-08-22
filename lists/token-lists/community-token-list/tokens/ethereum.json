@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17.jpg",
+    "name": "Astrafer",
+    "symbol": "ASTRAFER"
+  },
+  {
     "address": "0xa5f2211B9b8170F694421f2046281775E8468044",
     "chainId": 1,
     "decimals": 18,
