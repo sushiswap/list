@@ -216,6 +216,14 @@
     "symbol": "ASSY"
   },
   {
+    "address": "0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17.jpg",
+    "name": "Astrafer",
+    "symbol": "ASTRAFER"
+  },
+  {
     "address": "0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A",
     "chainId": 1,
     "decimals": 18,
@@ -1126,6 +1134,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0/logo.png",
     "name": "Frax Share",
     "symbol": "FXS"
+  },
+  {
+    "address": "0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B",
+    "chainId": 1,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B.jpg",
+    "name": "GoodDollar",
+    "symbol": "G$"
   },
   {
     "address": "0xB73758FE1dc58Ac2A255a2950a3Fdd84DA656b84",
