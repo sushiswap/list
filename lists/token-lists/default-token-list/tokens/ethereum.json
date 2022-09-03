@@ -1136,6 +1136,14 @@
     "symbol": "FXS"
   },
   {
+    "address": "0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B",
+    "chainId": 1,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B.jpg",
+    "name": "GoodDollar",
+    "symbol": "G$"
+  },
+  {
     "address": "0xB73758FE1dc58Ac2A255a2950a3Fdd84DA656b84",
     "chainId": 1,
     "decimals": 18,
