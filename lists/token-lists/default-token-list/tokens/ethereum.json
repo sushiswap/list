@@ -216,6 +216,14 @@
     "symbol": "ASSY"
   },
   {
+    "address": "0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17.jpg",
+    "name": "Astrafer",
+    "symbol": "ASTRAFER"
+  },
+  {
     "address": "0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A",
     "chainId": 1,
     "decimals": 18,
