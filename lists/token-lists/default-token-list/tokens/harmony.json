@@ -320,6 +320,14 @@
     "symbol": "USDC"
   },
   {
+    "address": "0x471f66F75af9238A2FA23bA23862B5957109fB21",
+    "chainId": 1666600000,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0x471f66F75af9238A2FA23bA23862B5957109fB21.jpg",
+    "name": "Stably USD",
+    "symbol": "USDS"
+  },
+  {
     "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
     "chainId": 1666600000,
     "decimals": 6,
