@@ -2576,6 +2576,14 @@
     "symbol": "SOS"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "sounds"
+  },
+  {
     "address": "0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E",
     "chainId": 1,
     "decimals": 18,
