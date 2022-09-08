@@ -2696,6 +2696,14 @@
     "symbol": "STRP"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "style_css"
+  },
+  {
     "address": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
     "chainId": 1,
     "decimals": 18,
