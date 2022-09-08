@@ -2056,6 +2056,14 @@
     "symbol": "OHMv1"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "old"
+  },
+  {
     "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
     "chainId": 1,
     "decimals": 18,
