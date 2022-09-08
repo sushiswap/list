@@ -560,6 +560,14 @@
     "symbol": "BZRX"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "c"
+  },
+  {
     "address": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
     "chainId": 1,
     "decimals": 18,
