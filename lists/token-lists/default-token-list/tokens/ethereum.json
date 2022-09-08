@@ -2952,6 +2952,14 @@
     "symbol": "UBXT"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "uc_server"
+  },
+  {
     "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
     "chainId": 1,
     "decimals": 18,
