@@ -2104,6 +2104,14 @@
     "symbol": "OOKI"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "openx"
+  },
+  {
     "address": "0x888888888889C00c67689029D7856AAC1065eC11",
     "chainId": 1,
     "decimals": 18,
