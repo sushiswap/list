@@ -248,6 +248,14 @@
     "symbol": "AUDIO"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "author"
+  },
+  {
     "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
     "chainId": 1,
     "decimals": 18,
