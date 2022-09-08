@@ -992,6 +992,14 @@
     "symbol": "EMT"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "english"
+  },
+  {
     "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
     "chainId": 1,
     "decimals": 18,
