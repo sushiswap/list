@@ -2288,6 +2288,14 @@
     "symbol": "PRIMATE"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "product_image"
+  },
+  {
     "address": "0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
     "chainId": 1,
     "decimals": 18,
