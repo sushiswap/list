@@ -608,6 +608,14 @@
     "symbol": "CMK"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "cms"
+  },
+  {
     "address": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
     "chainId": 1,
     "decimals": 18,
