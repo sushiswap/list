@@ -2432,6 +2432,14 @@
     "symbol": "REPv2"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "results"
+  },
+  {
     "address": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
     "chainId": 1,
     "decimals": 18,
