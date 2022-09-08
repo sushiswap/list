@@ -16,6 +16,14 @@
     "symbol": "AAVE"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "ad_js"
+  },
+  {
     "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
     "chainId": 1,
     "decimals": 18,
