@@ -2024,6 +2024,14 @@
     "symbol": "OCEAN"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "offers"
+  },
+  {
     "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
     "chainId": 1,
     "decimals": 18,
