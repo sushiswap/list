@@ -808,6 +808,14 @@
     "symbol": "DEGEN"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "delete"
+  },
+  {
     "address": "0x9EA3b5b4EC044b70375236A281986106457b20EF",
     "chainId": 1,
     "decimals": 18,
