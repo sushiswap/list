@@ -872,6 +872,14 @@
     "symbol": "DIGG"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "display"
+  },
+  {
     "address": "0xFb782396c9b20E564A64896181c7AC8d8979d5F4",
     "chainId": 1,
     "decimals": 18,
