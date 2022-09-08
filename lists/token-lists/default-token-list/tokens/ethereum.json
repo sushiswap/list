@@ -2352,6 +2352,14 @@
     "symbol": "RAIL"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "random"
+  },
+  {
     "address": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
     "chainId": 1,
     "decimals": 18,
