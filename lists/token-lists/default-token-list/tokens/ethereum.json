@@ -824,6 +824,14 @@
     "symbol": "DERI"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "detail"
+  },
+  {
     "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
     "chainId": 1,
     "decimals": 18,
