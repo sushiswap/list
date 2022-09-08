@@ -1896,6 +1896,14 @@
     "symbol": "MVIXY"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "MyAccount"
+  },
+  {
     "address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
     "chainId": 1,
     "decimals": 18,
