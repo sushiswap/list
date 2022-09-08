@@ -2152,6 +2152,14 @@
     "symbol": "PAXG"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "pdf-invoice"
+  },
+  {
     "address": "0x9d3EE6B64e69Ebe12a4bF0b01D031CB80F556eE4",
     "chainId": 1,
     "decimals": 18,
