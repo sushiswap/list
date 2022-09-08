@@ -1712,6 +1712,14 @@
     "symbol": "MEME"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "menu"
+  },
+  {
     "address": "0x650F44eD6F1FE0E1417cb4b3115d52494B4D9b6D",
     "chainId": 1,
     "decimals": 18,
