@@ -2616,6 +2616,14 @@
     "symbol": "SQUID"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "src"
+  },
+  {
     "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
     "chainId": 1,
     "decimals": 6,
