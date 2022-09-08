@@ -720,6 +720,14 @@
     "symbol": "CTX"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "customer"
+  },
+  {
     "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
     "chainId": 1,
     "decimals": 18,
