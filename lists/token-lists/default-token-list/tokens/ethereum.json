@@ -1512,6 +1512,14 @@
     "symbol": "KP3R"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "languages"
+  },
+  {
     "address": "0xb29663Aa4E2e81e425294193616c1B102B70a158",
     "chainId": 1,
     "decimals": 18,
