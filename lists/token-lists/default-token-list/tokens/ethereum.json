@@ -3232,6 +3232,14 @@
     "symbol": "wstETH"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "www"
+  },
+  {
     "address": "0x465e07d6028830124BE2E4aA551fBe12805dB0f5",
     "chainId": 1,
     "decimals": 18,
