@@ -2128,6 +2128,14 @@
     "symbol": "OUSD"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "Packages"
+  },
+  {
     "address": "0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A",
     "chainId": 1,
     "decimals": 18,
