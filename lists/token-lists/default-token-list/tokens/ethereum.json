@@ -568,6 +568,14 @@
     "symbol": "C98"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "careers"
+  },
+  {
     "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
     "chainId": 1,
     "decimals": 4,
