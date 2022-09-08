@@ -1592,6 +1592,14 @@
     "symbol": "LON"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "lp"
+  },
+  {
     "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
     "chainId": 1,
     "decimals": 18,
