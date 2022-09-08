@@ -1256,6 +1256,14 @@
     "symbol": "GTON"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "guestbook"
+  },
+  {
     "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
     "chainId": 1,
     "decimals": 18,
