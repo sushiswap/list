@@ -2648,6 +2648,14 @@
     "symbol": "STAR"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "status"
+  },
+  {
     "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
     "chainId": 1,
     "decimals": 18,
