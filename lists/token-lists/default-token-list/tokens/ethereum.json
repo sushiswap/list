@@ -400,6 +400,14 @@
     "symbol": "BENT"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "beta"
+  },
+  {
     "address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
     "chainId": 1,
     "decimals": 18,
