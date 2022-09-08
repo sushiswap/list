@@ -336,6 +336,14 @@
     "symbol": "BAO"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "base"
+  },
+  {
     "address": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
     "chainId": 1,
     "decimals": 9,
