@@ -2976,6 +2976,14 @@
     "symbol": "UNI"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "unsubscribe"
+  },
+  {
     "address": "0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F",
     "chainId": 1,
     "decimals": 18,
