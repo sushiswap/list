@@ -368,6 +368,14 @@
     "symbol": "bBADGER"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "bbs"
+  },
+  {
     "address": "0xE4f726Adc8e89C6a6017F01eadA77865dB22dA14",
     "chainId": 1,
     "decimals": 18,
