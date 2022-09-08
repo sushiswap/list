@@ -1488,6 +1488,14 @@
     "symbol": "KAE"
   },
   {
+    "address": "0x618d62420b3FC761044CeBf393283cdF94766f8F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x618d62420b3FC761044CeBf393283cdF94766f8F.jpg",
+    "name": "King Charles III Token",
+    "symbol": "KING"
+  },
+  {
     "address": "0x368C5290b13cAA10284Db58B4ad4F3E9eE8bf4c9",
     "chainId": 1,
     "decimals": 18,
