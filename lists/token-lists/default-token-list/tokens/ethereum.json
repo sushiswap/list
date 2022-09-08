@@ -1168,6 +1168,14 @@
     "symbol": "GENE"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "get"
+  },
+  {
     "address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
     "chainId": 1,
     "decimals": 18,
