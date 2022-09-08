@@ -856,6 +856,14 @@
     "symbol": "DG"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "dh_"
+  },
+  {
     "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
     "chainId": 1,
     "decimals": 18,
