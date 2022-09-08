@@ -80,6 +80,14 @@
     "symbol": "ALEPH"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "all"
+  },
+  {
     "address": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
     "chainId": 1,
     "decimals": 18,
