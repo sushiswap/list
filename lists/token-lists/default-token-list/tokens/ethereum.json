@@ -680,6 +680,14 @@
     "symbol": "CREAM"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "create_account"
+  },
+  {
     "address": "0xcBc1065255cBc3aB41a6868c22d1f1C573AB89fd",
     "chainId": 1,
     "decimals": 18,
