@@ -1616,6 +1616,14 @@
     "symbol": "LUSD"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "lv"
+  },
+  {
     "address": "0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf",
     "chainId": 1,
     "decimals": 18,
