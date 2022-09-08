@@ -2840,6 +2840,14 @@
     "symbol": "TGT"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "theme"
+  },
+  {
     "address": "0xa5f2211B9b8170F694421f2046281775E8468044",
     "chainId": 1,
     "decimals": 18,
