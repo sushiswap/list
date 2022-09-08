@@ -640,6 +640,14 @@
     "symbol": "COOL"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "counter"
+  },
+  {
     "address": "0x4688a8b1F292FDaB17E9a90c8Bc379dC1DBd8713",
     "chainId": 1,
     "decimals": 18,
