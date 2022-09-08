@@ -1392,6 +1392,14 @@
     "symbol": "INDEX"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "informer"
+  },
+  {
     "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
     "chainId": 1,
     "decimals": 18,
