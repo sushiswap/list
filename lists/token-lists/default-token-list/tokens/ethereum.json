@@ -2944,6 +2944,14 @@
     "symbol": "TXL"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "typo3temp"
+  },
+  {
     "address": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
     "chainId": 1,
     "decimals": 18,
