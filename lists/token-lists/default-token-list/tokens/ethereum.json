@@ -2624,6 +2624,14 @@
     "symbol": "SRM"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "ssl"
+  },
+  {
     "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
     "chainId": 1,
     "decimals": 18,
