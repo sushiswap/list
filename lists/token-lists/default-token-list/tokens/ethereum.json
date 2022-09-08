@@ -2816,6 +2816,14 @@
     "symbol": "TCR"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "templates"
+  },
+  {
     "address": "0x470EBf5f030Ed85Fc1ed4C2d36B9DD02e77CF1b7",
     "chainId": 1,
     "decimals": 18,
