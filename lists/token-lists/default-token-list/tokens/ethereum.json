@@ -2120,6 +2120,14 @@
     "symbol": "ORN"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "other"
+  },
+  {
     "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
     "chainId": 1,
     "decimals": 18,
