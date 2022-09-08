@@ -1032,6 +1032,14 @@
     "symbol": "FARM"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "FCKeditor"
+  },
+  {
     "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
     "chainId": 1,
     "decimals": 18,
