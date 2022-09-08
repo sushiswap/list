@@ -232,6 +232,14 @@
     "symbol": "ATTR"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "auction"
+  },
+  {
     "address": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096",
     "chainId": 1,
     "decimals": 18,
