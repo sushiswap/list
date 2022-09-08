@@ -712,6 +712,14 @@
     "symbol": "CRV"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "CSS"
+  },
+  {
     "address": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
     "chainId": 1,
     "decimals": 18,
