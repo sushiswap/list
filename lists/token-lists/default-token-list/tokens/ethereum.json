@@ -2544,6 +2544,14 @@
     "symbol": "SFI"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "showgroups"
+  },
+  {
     "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
     "chainId": 1,
     "decimals": 18,
