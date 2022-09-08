@@ -2264,6 +2264,14 @@
     "symbol": "POOL"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "postinfo"
+  },
+  {
     "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
     "chainId": 1,
     "decimals": 18,
