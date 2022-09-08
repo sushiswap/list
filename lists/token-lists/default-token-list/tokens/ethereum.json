@@ -3208,6 +3208,14 @@
     "symbol": "WOOFY"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "wordpress"
+  },
+  {
     "address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
     "chainId": 1,
     "decimals": 18,
