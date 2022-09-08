@@ -2528,6 +2528,14 @@
     "symbol": "SDT"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "security"
+  },
+  {
     "address": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
     "chainId": 1,
     "decimals": 18,
