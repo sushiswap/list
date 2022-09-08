@@ -1936,6 +1936,14 @@
     "symbol": "NEAR"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "new"
+  },
+  {
     "address": "0x98585dFc8d9e7D48F0b1aE47ce33332CF4237D96",
     "chainId": 1,
     "decimals": 18,
