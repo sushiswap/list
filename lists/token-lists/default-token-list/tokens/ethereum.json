@@ -1944,6 +1944,14 @@
     "symbol": "NEWO"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "news"
+  },
+  {
     "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
     "chainId": 1,
     "decimals": 18,
