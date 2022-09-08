@@ -2488,6 +2488,14 @@
     "symbol": "RUNE"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "s"
+  },
+  {
     "address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
     "chainId": 1,
     "decimals": 18,
