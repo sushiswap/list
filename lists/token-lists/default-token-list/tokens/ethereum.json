@@ -272,6 +272,14 @@
     "symbol": "BAC"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "backups"
+  },
+  {
     "address": "0xa54d2EBfD977ad836203c85F18db2F0a0cF88854",
     "chainId": 1,
     "decimals": 18,
