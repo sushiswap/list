@@ -1296,6 +1296,14 @@
     "symbol": "HOP"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "hr"
+  },
+  {
     "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
     "chainId": 1,
     "decimals": 8,
