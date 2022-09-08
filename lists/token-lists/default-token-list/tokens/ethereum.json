@@ -768,6 +768,14 @@
     "symbol": "DAOX"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "data"
+  },
+  {
     "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
     "chainId": 1,
     "decimals": 18,
