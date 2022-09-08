@@ -1304,6 +1304,14 @@
     "symbol": "HUSD"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "i"
+  },
+  {
     "address": "0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F",
     "chainId": 1,
     "decimals": 18,
