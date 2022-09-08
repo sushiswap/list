@@ -2216,6 +2216,14 @@
     "symbol": "PLAY"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "player"
+  },
+  {
     "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
     "chainId": 1,
     "decimals": 18,
