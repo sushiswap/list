@@ -1040,6 +1040,14 @@
     "symbol": "FEI"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "find"
+  },
+  {
     "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
     "chainId": 1,
     "decimals": 18,
