@@ -256,6 +256,14 @@
     "symbol": "OpenX"
   },
   {
+    "address": "0xfe1b516A7297eb03229A8B5AfAD80703911E81cB",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0xfe1b516A7297eb03229A8B5AfAD80703911E81cB.jpg",
+    "name": "Royale",
+    "symbol": "ROY"
+  },
+  {
     "address": "0xED0B4b0F0E2c17646682fc98ACe09feB99aF3adE",
     "chainId": 1666600000,
     "decimals": 18,
