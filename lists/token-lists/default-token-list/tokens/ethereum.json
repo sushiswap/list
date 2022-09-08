@@ -2720,6 +2720,14 @@
     "symbol": "Sunder"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "survey"
+  },
+  {
     "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
     "chainId": 1,
     "decimals": 18,
