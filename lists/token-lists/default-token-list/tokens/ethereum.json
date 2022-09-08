@@ -2376,6 +2376,14 @@
     "symbol": "RAY"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "receipt"
+  },
+  {
     "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
     "chainId": 1,
     "decimals": 18,
