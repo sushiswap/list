@@ -632,6 +632,14 @@
     "symbol": "COMP"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "component"
+  },
+  {
     "address": "0x114f1388fAB456c4bA31B1850b244Eedcd024136",
     "chainId": 1,
     "decimals": 18,
