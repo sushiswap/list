@@ -456,6 +456,14 @@
     "symbol": "BLOCK"
   },
   {
+    "address": "0x0f767338244418310342D49b02183715691D988F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0f767338244418310342D49b02183715691D988F.jpg",
+    "name": "Genesis",
+    "symbol": "blocks"
+  },
+  {
     "address": "0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB",
     "chainId": 1,
     "decimals": 18,
