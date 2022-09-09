@@ -424,6 +424,14 @@
     "symbol": "PL2"
   },
   {
+    "address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x51318B7D00db7ACc4026C88c3952B66278B6A67F.jpg",
+    "name": "Plutus",
+    "symbol": "PLS"
+  },
+  {
     "address": "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1",
     "chainId": 42161,
     "decimals": 18,
@@ -432,12 +440,12 @@
     "symbol": "plsDPX"
   },
   {
-    "address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
+    "address": "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x51318B7D00db7ACc4026C88c3952B66278B6A67F.jpg",
-    "name": "Plutus",
-    "symbol": "PLS"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44.jpg",
+    "name": "Plutus JONES",
+    "symbol": "plsJONES"
   },
   {
     "address": "0x78055dAA07035Aa5EBC3e5139C281Ce6312E1b22",
