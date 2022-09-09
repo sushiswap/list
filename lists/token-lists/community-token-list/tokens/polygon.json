@@ -6,5 +6,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2df54842cD85C60f21b4871E09bcc6047b2dcC4d.jpg",
     "name": "Immortl",
     "symbol": "IMRTL"
+  },
+  {
+    "address": "0x7e94De269df2eb9F4D0443d46500191F19C9A8dA",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7e94De269df2eb9F4D0443d46500191F19C9A8dA.jpg",
+    "name": "Unity",
+    "symbol": "UNITY"
   }
 ]
