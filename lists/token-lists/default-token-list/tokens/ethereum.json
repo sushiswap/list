@@ -2544,6 +2544,14 @@
     "symbol": "SFI"
   },
   {
+    "address": "0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC.jpg",
+    "name": "Shping Coin",
+    "symbol": "SHPING"
+  },
+  {
     "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
     "chainId": 1,
     "decimals": 18,
