@@ -3040,6 +3040,14 @@
     "symbol": "USV"
   },
   {
+    "address": "0x55C08ca52497e2f1534B59E2917BF524D4765257",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x55C08ca52497e2f1534B59E2917BF524D4765257.jpg",
+    "name": "UwU Lend",
+    "symbol": "UwU"
+  },
+  {
     "address": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
     "chainId": 1,
     "decimals": 18,
