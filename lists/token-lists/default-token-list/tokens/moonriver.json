@@ -3,7 +3,7 @@
     "address": "0xf27Ee99622C3C9b264583dACB2cCE056e194494f",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/aave.jpg",
     "name": "Aave - AnySwap",
     "symbol": "AAVE"
   },
@@ -11,7 +11,7 @@
     "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/avax.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/avax.jpg",
     "name": "Avax - AnySwap",
     "symbol": "AVAX"
   },
@@ -43,7 +43,7 @@
     "address": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bnb.jpg",
     "name": "BNB - Meter",
     "symbol": "BNB"
   },
@@ -51,7 +51,7 @@
     "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
     "name": "Binance USD - AnySwap",
     "symbol": "BUSD"
   },
@@ -59,7 +59,7 @@
     "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/crv.jpg",
     "name": "Curve DAO Token - AnySwap",
     "symbol": "CRV"
   },
@@ -67,7 +67,7 @@
     "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "Dai Stablecoin - AnySwap",
     "symbol": "DAI"
   },
@@ -75,7 +75,7 @@
     "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
     "name": "Frax",
     "symbol": "FRAX"
   },
@@ -91,7 +91,7 @@
     "address": "0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg",
     "name": "Frax Share",
     "symbol": "FXS"
   },
@@ -99,7 +99,7 @@
     "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
     "name": "ChainLink Token - AnySwap",
     "symbol": "LINK"
   },
@@ -115,7 +115,7 @@
     "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/matic.jpg",
     "name": "Matic - AnySwap",
     "symbol": "MATIC"
   },
@@ -123,7 +123,7 @@
     "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mim.jpg",
     "name": "Magic Internet Money - AnySwap",
     "symbol": "MIM"
   },
@@ -163,7 +163,7 @@
     "address": "0x4a436073552044D5f2f49B176853ad3Ad473d9d6",
     "chainId": 1285,
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x4a436073552044D5f2f49B176853ad3Ad473d9d6.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x4a436073552044D5f2f49B176853ad3Ad473d9d6.jpg",
     "name": "Rome",
     "symbol": "ROME"
   },
@@ -179,7 +179,7 @@
     "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/snx.jpg",
     "name": "Synthetix Network Token - AnySwap",
     "symbol": "SNX"
   },
@@ -187,7 +187,7 @@
     "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
     "name": "SushiToken - AnySwap",
     "symbol": "SUSHI"
   },
@@ -195,7 +195,7 @@
     "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
     "chainId": 1285,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
     "name": "USD Coin - AnySwap",
     "symbol": "USDC"
   },
@@ -203,7 +203,7 @@
     "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
     "chainId": 1285,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
     "name": "Tether USD - AnySwap",
     "symbol": "USDT"
   },
@@ -211,7 +211,7 @@
     "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
     "chainId": 1285,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "Wrapped Bitcoin - Meter",
     "symbol": "WBTC"
   },
@@ -219,7 +219,7 @@
     "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ether - AnySwap",
     "symbol": "WETH"
   },
@@ -227,7 +227,7 @@
     "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/movr.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/movr.jpg",
     "name": "Wrapped Moonriver",
     "symbol": "WMOVR"
   },
@@ -235,7 +235,7 @@
     "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
     "name": "yearn.finance - AnySwap",
     "symbol": "YFI"
   },
@@ -243,7 +243,7 @@
     "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
     "chainId": 1285,
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE.jpg",
     "name": "Alpha Rome",
     "symbol": "aROME"
   },

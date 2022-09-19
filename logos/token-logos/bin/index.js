@@ -148,13 +148,13 @@ program
       if (error) console.error(error);
       for (const token of files) {
         console.log(
-          `Invalidating https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}`
+          `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}`
         );
         exec(
-          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
+          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
           () =>
             console.log(
-              `Invalidated https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}`
+              `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}`
             )
         );
       }
@@ -187,18 +187,18 @@ program
     }
 
     console.log(
-      `Invalidating https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}.jpg`
+      `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}.jpg`
     );
 
     exec(
-      `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}.jpg" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
+      `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}.jpg" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
       (error, stdout) => {
         if (error) {
           console.error(error);
         } else {
           console.log(stdout);
           console.log(
-            `Invalidated https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}.jpg`
+            `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}.jpg`
           );
         }
       }

@@ -3,7 +3,7 @@
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/aave.jpg",
     "name": "Aave",
     "symbol": "AAVE"
   },
@@ -123,7 +123,7 @@
     "address": "0x3Cef98bb43d732E2F285eE605a8158cDE967D219",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bat.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bat.jpg",
     "name": "Basic Attention Token",
     "symbol": "BAT"
   },
@@ -195,7 +195,7 @@
     "address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
     "chainId": 137,
     "decimals": 4,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cel.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cel.jpg",
     "name": "Celsius",
     "symbol": "CEL"
   },
@@ -251,7 +251,7 @@
     "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/crv.jpg",
     "name": "Curve",
     "symbol": "CRV"
   },
@@ -259,7 +259,7 @@
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
   },
@@ -379,7 +379,7 @@
     "address": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x3Ad707dA309f3845cd602059901E39C4dcd66473.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/matic/0x3Ad707dA309f3845cd602059901E39C4dcd66473.jpg",
     "name": "ETH 2x Flexible Leverage Index",
     "symbol": "ETH2X-FLI-P"
   },
@@ -491,7 +491,7 @@
     "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/grt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/grt.jpg",
     "name": "Graph Token",
     "symbol": "GRT"
   },
@@ -523,7 +523,7 @@
     "address": "0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/matic/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.jpg",
     "name": "IceToken",
     "symbol": "ICE"
   },
@@ -611,7 +611,7 @@
     "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/krill.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/krill.jpg",
     "name": "Krill",
     "symbol": "KRILL"
   },
@@ -627,7 +627,7 @@
     "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
     "name": "ChainLink Token",
     "symbol": "LINK"
   },
@@ -651,7 +651,7 @@
     "address": "0x49a0400587A7F65072c87c4910449fDcC5c47242",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x49a0400587A7F65072c87c4910449fDcC5c47242.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/matic/0x49a0400587A7F65072c87c4910449fDcC5c47242.jpg",
     "name": "Magic Internet Money",
     "symbol": "MIM"
   },
@@ -667,7 +667,7 @@
     "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mkr.jpg",
     "name": "Maker",
     "symbol": "MKR"
   },
@@ -723,7 +723,7 @@
     "address": "0xDA6f726E2088F129D3Ecb2257206AdF7D8537Ba5",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xDA6f726E2088F129D3Ecb2257206AdF7D8537Ba5.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDA6f726E2088F129D3Ecb2257206AdF7D8537Ba5.jpg",
     "name": "Neos Credits",
     "symbol": "NCR"
   },
@@ -835,7 +835,7 @@
     "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/doge.jpg",
     "name": "PolyDoge",
     "symbol": "PolyDoge"
   },
@@ -939,7 +939,7 @@
     "address": "0x89C296Be2F904F3e99a6125815b4B78F5388d2dd",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rcn.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rcn.jpg",
     "name": "RipioCreditNetwork",
     "symbol": "RCN"
   },
@@ -1011,7 +1011,7 @@
     "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sand.jpg",
     "name": "SAND",
     "symbol": "SAND"
   },
@@ -1019,7 +1019,7 @@
     "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/snx.jpg",
     "name": "Synthetix Network Token",
     "symbol": "SNX"
   },
@@ -1059,7 +1059,7 @@
     "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
     "name": "SushiToken",
     "symbol": "SUSHI"
   },
@@ -1147,7 +1147,7 @@
     "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
     "name": "Uniswap",
     "symbol": "UNI"
   },
@@ -1155,7 +1155,7 @@
     "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
     "chainId": 137,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
     "name": "USD Coin",
     "symbol": "USDC"
   },
@@ -1163,7 +1163,7 @@
     "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
     "chainId": 137,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
   },
@@ -1203,7 +1203,7 @@
     "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
     "chainId": 137,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
   },
@@ -1219,7 +1219,7 @@
     "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   },
@@ -1227,7 +1227,7 @@
     "address": "0xEde1B77C0Ccc45BFa949636757cd2cA7eF30137F",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fil.jpg",
     "name": "Wrapped Filecoin",
     "symbol": "wFIL"
   },
@@ -1235,7 +1235,7 @@
     "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/polygon.jpg",
     "name": "Wrapped Matic",
     "symbol": "WMATIC"
   },
@@ -1299,7 +1299,7 @@
     "address": "0x6811079E3c63ED96Eb005384d7E7ec8810E3D521",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xsushi.jpg",
     "name": "SushiBar",
     "symbol": "xSUSHI"
   },
@@ -1307,7 +1307,7 @@
     "address": "0xb8cb8a7F4C2885C03e57E973C74827909Fdc2032",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
     "name": "yearn.finance",
     "symbol": "YFI"
   },

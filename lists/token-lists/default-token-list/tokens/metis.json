@@ -3,7 +3,7 @@
     "address": "0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481",
     "chainId": 1088,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/metis.svg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/metis.svg",
     "name": "Wrapped Metis",
     "symbol": "WMETIS"
   },
@@ -11,7 +11,7 @@
     "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
     "chainId": 1088,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
   },
@@ -19,7 +19,7 @@
     "address": "0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0",
     "chainId": 1088,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
   },
@@ -27,7 +27,7 @@
     "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
     "chainId": 1088,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
     "name": "USD Coin",
     "symbol": "USDC"
   },
@@ -35,7 +35,7 @@
     "address": "0x420000000000000000000000000000000000000A",
     "chainId": 1088,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ethereum",
     "symbol": "WETH"
   },
@@ -43,7 +43,7 @@
     "address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
     "chainId": 1088,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
     "name": "SushiToken",
     "symbol": "SUSHI"
   },
@@ -51,7 +51,7 @@
     "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
     "chainId": 1088,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC"
   }

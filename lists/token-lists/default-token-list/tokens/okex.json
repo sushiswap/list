@@ -11,7 +11,7 @@
     "address": "0x54e4622DC504176b3BB432dCCAf504569699a7fF",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "BTC",
     "symbol": "BTC"
   },
@@ -19,7 +19,7 @@
     "address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "DAI",
     "symbol": "DAI"
   },
@@ -27,7 +27,7 @@
     "address": "0xabc732f6f69a519F6d508434481376B6221eb7d5",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dot.jpg",
     "name": "DOT",
     "symbol": "DOT"
   },
@@ -43,7 +43,7 @@
     "address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "ETH",
     "symbol": "ETH"
   },
@@ -51,7 +51,7 @@
     "address": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fil.jpg",
     "name": "FIL",
     "symbol": "FIL"
   },
@@ -83,7 +83,7 @@
     "address": "0x9B99c3Ce751aA292320033f93a1376902d4bA58b",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
     "name": "LINK",
     "symbol": "LINK"
   },
@@ -91,7 +91,7 @@
     "address": "0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ltc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ltc.jpg",
     "name": "LTC",
     "symbol": "LTC"
   },
@@ -139,7 +139,7 @@
     "address": "0x2218E0D5E0173769F5b4939a3aE423f7e5E4EAB7",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
     "name": "SUSHI",
     "symbol": "SUSHI"
   },
@@ -147,7 +147,7 @@
     "address": "0x59D226BB0a4d74274D4354EBb6a0E1A1Aa5175B6",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
     "name": "UNI",
     "symbol": "UNI"
   },
@@ -155,7 +155,7 @@
     "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
     "name": "USDC",
     "symbol": "USDC"
   },
@@ -171,7 +171,7 @@
     "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
     "name": "USDT",
     "symbol": "USDT"
   },
@@ -179,7 +179,7 @@
     "address": "0x506f731F7656e2FB34b587B912808f2a7aB640BD",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "WBTC",
     "symbol": "WBTC"
   },
@@ -195,7 +195,7 @@
     "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
     "chainId": 66,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/okt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/okt.jpg",
     "name": "Wrapped OKExChain",
     "symbol": "WOKT"
   },

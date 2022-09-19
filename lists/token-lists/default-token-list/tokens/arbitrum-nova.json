@@ -3,7 +3,7 @@
     "address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
     "chainId": 42170,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   },
@@ -11,7 +11,7 @@
     "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
     "chainId": 42170,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
   },
@@ -19,7 +19,7 @@
     "address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
     "chainId": 42170,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
     "name": "USD Coin",
     "symbol": "USDC"
   },
@@ -27,7 +27,7 @@
     "address": "0xeD9d63a96c27f87B07115b56b2e3572827f21646",
     "chainId": 42170,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
   },
@@ -35,7 +35,7 @@
     "address": "0x1d05e4e72cD994cdF976181CfB0707345763564d",
     "chainId": 42170,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC"
   },
