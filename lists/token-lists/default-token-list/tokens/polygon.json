@@ -648,6 +648,14 @@
     "symbol": "MFT"
   },
   {
+    "address": "0x61f95bd637e3034133335C1baA0148E518D438ad",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x61f95bd637e3034133335C1baA0148E518D438ad.jpg",
+    "name": "MetaShooter",
+    "symbol": "MHUNT"
+  },
+  {
     "address": "0x49a0400587A7F65072c87c4910449fDcC5c47242",
     "chainId": 137,
     "decimals": 18,
@@ -1150,6 +1158,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
     "name": "Uniswap",
     "symbol": "UNI"
+  },
+  {
+    "address": "0x7e94De269df2eb9F4D0443d46500191F19C9A8dA",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7e94De269df2eb9F4D0443d46500191F19C9A8dA.jpg",
+    "name": "Unity",
+    "symbol": "UNITY"
   },
   {
     "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
