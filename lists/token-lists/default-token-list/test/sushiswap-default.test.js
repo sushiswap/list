@@ -21,7 +21,11 @@ describe("build", () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.address}`;
+      if (map[key]) {
+        console.log("duplicate address for key:", key);
+      }
       expect(typeof map[key]).to.equal("undefined");
+
       map[key] = true;
     }
   });
@@ -30,7 +34,11 @@ describe("build", () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.symbol.toLowerCase()}`;
+      if (map[key]) {
+        console.log("duplicate symbol for key:", key);
+      }
       expect(typeof map[key]).to.equal("undefined");
+
       map[key] = true;
     }
   });
