@@ -42,6 +42,7 @@ const NAME = {
   [ChainId.MOONBEAM]: "moonbeam",
   [ChainId.KAVA]: "kava",
   [ChainId.METIS]: "metis",
+  [ChainId.BOBA_AVAX]: "boba-avax",
 };
 
 (async () => {
