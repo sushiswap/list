@@ -1,18 +1,26 @@
 [
   {
-    "address": "0x26c319B7B2cF823365414d082698C8ac90cbBA63",
-    "chainId": 43288,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
-    "name": "Wrapped Boba",
-    "symbol": "WBOBA9"
-  },
-  {
     "address": "0x4200000000000000000000000000000000000023",
     "chainId": 43288,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/avax.jpg",
     "name": "Avax",
     "symbol": "AVAX"
+  },
+  {
+    "address": "0xc8849f32138de93F6097199C5721a9EfD91ceE01",
+    "chainId": 43288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xc8849f32138de93F6097199C5721a9EfD91ceE01.jpg",
+    "name": "EVO",
+    "symbol": "EVO"
+  },
+  {
+    "address": "0x26c319B7B2cF823365414d082698C8ac90cbBA63",
+    "chainId": 43288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
+    "name": "Wrapped Boba",
+    "symbol": "WBOBA9"
   }
 ]
