@@ -54,5 +54,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
     "name": "Frax",
     "symbol": "FRAX"
+  },
+  {
+    "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
+    "chainId": 288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
+    "name": "Boba Token",
+    "symbol": "BOBA"
   }
 ]
