@@ -107,8 +107,8 @@
     "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3/logo.png",
-    "name": "Balancer",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3.jpg",
+    "name": "Balancer (PoS)",
     "symbol": "BAL"
   },
   {
