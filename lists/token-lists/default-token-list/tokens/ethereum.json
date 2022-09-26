@@ -3296,6 +3296,14 @@
     "symbol": "XBE"
   },
   {
+    "address": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7659CE147D0e714454073a5dd7003544234b6Aa0.jpg",
+    "name": "XCAD Token",
+    "symbol": "XCAD"
+  },
+  {
     "address": "0x471Ea49dd8E60E697f4cac262b5fafCc307506e4",
     "chainId": 1,
     "decimals": 10,
