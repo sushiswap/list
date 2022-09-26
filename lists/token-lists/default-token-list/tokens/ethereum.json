@@ -3000,6 +3000,14 @@
     "symbol": "USDC"
   },
   {
+    "address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6.jpg",
+    "name": "Decentralized USD",
+    "symbol": "USDD"
+  },
+  {
     "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
     "chainId": 1,
     "decimals": 18,
