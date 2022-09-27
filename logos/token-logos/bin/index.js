@@ -162,6 +162,33 @@ program.command("invalidate:all-2").action(() => {
   }
 });
 
+program.command("invalidate:all-3").action(() => {
+  console.log(`Invalidate cache for token`);
+
+  const path = resolve(__dirname, `../token`);
+
+  if (!fs.existsSync(path)) {
+    console.error(`No token path ${path}`);
+    return;
+  }
+
+  fs.readdir(path, (error, files) => {
+    if (error) console.error(error);
+    for (const token of files) {
+      console.log(
+        `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}`
+      );
+      exec(
+        `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}" type="fetch" invalidate="true"`,
+        () =>
+          console.log(
+            `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}`
+          )
+      );
+    }
+  });
+});
+
 program
   .command("invalidate:network")
   .arguments("<network>")
