@@ -271,4 +271,43 @@ program
     );
   });
 
+const cloudinary = require("cloudinary").v2;
+
+program.command("explicit").action(() => {
+  console.log("fetch invalidate");
+  cloudinary.uploader.explicit(
+    "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xsushi.jpg",
+    { type: "fetch", invalidate: true },
+    function (err, callResult) {
+      console.log(err, callResult);
+    }
+  );
+
+  cloudinary.uploader.destroy(
+    "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xsushi.jpg",
+    { type: "fetch", invalidate: true },
+    function (err, callResult) {
+      console.log(err, callResult);
+    }
+  );
+});
+
+program.command("destroy").action(() => {
+  console.log("destroy");
+  cloudinary.uploader.explicit(
+    "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
+    { type: "fetch", invalidate: true },
+    function (err, callResult) {
+      console.log(err, callResult);
+    }
+  );
+  cloudinary.uploader.destroy(
+    "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
+    { type: "fetch", invalidate: true },
+    function (err, callResult) {
+      console.log(err, callResult);
+    }
+  );
+});
+
 program.parse(process.argv);
