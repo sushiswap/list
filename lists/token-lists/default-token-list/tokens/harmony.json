@@ -152,6 +152,14 @@
     "symbol": "HND"
   },
   {
+    "address": "0xF9565E8c4E13862f677F144B3cdC8700D9c4BA31",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0xF9565E8c4E13862f677F144B3cdC8700D9c4BA31.jpg",
+    "name": "Harmonyville",
+    "symbol": "HVILLE"
+  },
+  {
     "address": "0x40d2f81bD135B5282CB2aA18F19cF7098079D012",
     "chainId": 1666600000,
     "decimals": 9,
