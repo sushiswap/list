@@ -1184,6 +1184,14 @@
     "symbol": "GFARM2"
   },
   {
+    "address": "0x900dB999074d9277c5DA2A43F252D74366230DA0",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x900dB999074d9277c5DA2A43F252D74366230DA0.jpg",
+    "name": "Giveth",
+    "symbol": "GIV"
+  },
+  {
     "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
     "chainId": 1,
     "decimals": 18,
@@ -2310,6 +2318,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14571/small/vDyefsXq_400x400.jpg?1617085003",
     "name": "Pundi X Token",
     "symbol": "PUNDIX"
+  },
+  {
+    "address": "0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
+    "name": "Punk",
+    "symbol": "PUNK"
   },
   {
     "address": "0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a",
@@ -3470,13 +3486,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
     "name": "0x",
     "symbol": "ZRX"
-  },
-  {
-    "address": "0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
-    "name": "Punk",
-    "symbol": "PUNK"
   }
 ]
