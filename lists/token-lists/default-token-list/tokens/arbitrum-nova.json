@@ -1,11 +1,11 @@
 [
   {
-    "address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
+    "address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
     "chainId": 42170,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
-    "name": "Wrapped Ether",
-    "symbol": "WETH"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6DcB98f460457fe4952e12779Ba852F82eCC62C1.jpg",
+    "name": "Bricks",
+    "symbol": "BRICK"
   },
   {
     "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
@@ -14,6 +14,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
+  },
+  {
+    "address": "0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0.jpg",
+    "name": "Moons",
+    "symbol": "MOON"
   },
   {
     "address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
@@ -40,19 +48,11 @@
     "symbol": "WBTC"
   },
   {
-    "address": "0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0",
+    "address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
     "chainId": 42170,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0.jpg",
-    "name": "Moons",
-    "symbol": "MOON"
-  },
-  {
-    "address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
-    "chainId": 42170,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x6DcB98f460457fe4952e12779Ba852F82eCC62C1.jpg",
-    "name": "Bricks",
-    "symbol": "BRICK"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   }
 ]
