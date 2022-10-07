@@ -73,7 +73,7 @@
   },
   {
      "chainId":10,
-     "address":"0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+     "address":"0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
      "name":"Curve DAO Token",
      "symbol":"CRV",
      "decimals":18,
@@ -89,7 +89,7 @@
   },
   {
      "chainId":10,
-     "address":"0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
+     "address":"0x1da650C3B2DaA8AA9Ff6F661d4156Ce24d08A062",
      "name":"Dentacoin",
      "symbol":"DCN",
      "decimals":0,
@@ -129,7 +129,7 @@
   },
   {
      "chainId":10,
-     "address":"0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b",
+     "address":"0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
      "name":"Equalizer",
      "symbol":"EQZ",
      "decimals":18,
@@ -153,7 +153,7 @@
   },
   {
      "chainId":10,
-     "address":"0x1eba7a6a72c894026cd654ac5cdcf83a46445b08",
+     "address":"0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08",
      "name":"Gitcoin",
      "symbol":"GTC",
      "decimals":18,
@@ -177,7 +177,7 @@
   },
   {
      "chainId":10,
-     "address":"0xf98dcd95217e15e05d8638da4c91125e59590b07",
+     "address":"0xF98dCd95217E15E05d8638da4c91125E59590B07",
      "name":"Kromatika",
      "symbol":"KROM",
      "decimals":18,
@@ -193,7 +193,7 @@
   },
   {
      "chainId":10,
-     "address":"0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+     "address":"0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
      "name":"Chainlink",
      "symbol":"LINK",
      "decimals":18,
@@ -217,7 +217,7 @@
   },
   {
      "chainId":10,
-     "address":"0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+     "address":"0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
      "name":"LUSD Stablecoin",
      "symbol":"LUSD",
      "decimals":18,
@@ -241,7 +241,7 @@
   },
   {
      "chainId":10,
-     "address":"0xab7badef82e9fe11f6f33f87bc9bc2aa27f2fcb5",
+     "address":"0xab7bAdEF82E9Fe11f6f33f87BC9bC2AA27F2fCB5",
      "name":"Maker",
      "symbol":"MKR",
      "decimals":18,
@@ -273,7 +273,7 @@
   },
   {
      "chainId":10,
-     "address":"0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+     "address":"0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
      "name":"PoolTogether",
      "symbol":"POOL",
      "decimals":18,
@@ -297,7 +297,7 @@
   },
   {
      "chainId":10,
-     "address":"0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+     "address":"0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
      "name":"Rocket Pool ETH",
      "symbol":"rETH",
      "decimals":18,
@@ -305,7 +305,7 @@
   },
   {
      "chainId":10,
-     "address":"0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
+     "address":"0xB548f63D4405466B36C0c0aC3318a22fDcec711a",
      "name":"Rari Governance Token",
      "symbol":"RGT",
      "decimals":18,
@@ -313,7 +313,7 @@
   },
   {
      "chainId":10,
-     "address":"0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+     "address":"0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
      "name":"Sarcophagus",
      "symbol":"SARCO",
      "decimals":18,
@@ -345,7 +345,7 @@
   },
   {
      "chainId":10,
-     "address":"0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+     "address":"0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
      "name":"Synthetix",
      "symbol":"SNX",
      "decimals":18,
@@ -361,7 +361,7 @@
   },
   {
      "chainId":10,
-     "address":"0xef6301da234fc7b0545c6e877d3359fe0b9e50a4",
+     "address":"0xEf6301DA234fC7b0545c6E877D3359FE0B9E50a4",
      "name":"SUKU",
      "symbol":"SUKU",
      "decimals":18,
@@ -385,7 +385,7 @@
   },
   {
      "chainId":10,
-     "address":"0xd8f365c2c85648f9b89d9f1bf72c0ae4b1c36cfd",
+     "address":"0xd8f365c2c85648f9B89D9f1BF72C0aE4b1C36cFD",
      "name":"TheDAO",
      "symbol":"TheDAO",
      "decimals":16,
@@ -409,7 +409,7 @@
   },
   {
      "chainId":10,
-     "address":"0x6fd9d7ad17242c41f7131d257212c54a0e816691",
+     "address":"0x6fd9d7AD17242c41f7131d257212c54A0e816691",
      "name":"Uniswap",
      "symbol":"UNI",
      "decimals":18,
