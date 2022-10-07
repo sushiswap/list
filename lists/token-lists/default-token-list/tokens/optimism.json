@@ -502,5 +502,13 @@
     "symbol":"FXS",
     "decimals":18,
     "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg"
+ },
+ {
+   "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+   "chainId": 10,
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png",
+   "name": "BOB",
+   "symbol": "BOB"
  }
 ]
