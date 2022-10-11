@@ -432,12 +432,12 @@
     "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png"
   },
   {
-    "chainId": 10,
     "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-    "name": "Tether USD",
-    "symbol": "USDT",
+    "chainId": 10,
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
   },
   {
     "chainId": 10,
