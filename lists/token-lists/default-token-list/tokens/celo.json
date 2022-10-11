@@ -211,8 +211,8 @@
     "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
     "chainId": 42220,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xef4229c8c3250C675F21BCefa42f58EfbfF6002a/logo.png",
-    "name": "Optics USDC v2",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xef4229c8c3250C675F21BCefa42f58EfbfF6002a.jpg",
+    "name": "USD Coin",
     "symbol": "USDC"
   },
   {
