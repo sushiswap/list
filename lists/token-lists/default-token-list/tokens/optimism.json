@@ -464,12 +464,12 @@
     "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png"
   },
   {
-    "chainId": 10,
     "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC",
+    "chainId": 10,
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.jpg",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC"
   },
   {
     "address": "0x4200000000000000000000000000000000000006",
