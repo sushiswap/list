@@ -8,20 +8,20 @@
     "symbol": "DAI"
   },
   {
+    "address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
+    "chainId": 1088,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C.jpg",
+    "name": "SushiToken",
+    "symbol": "m.SUSHI"
+  },
+  {
     "address": "0x186573b175aDF5801cF95Fb06b232ccAB123c6F4",
     "chainId": 1088,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x186573b175aDF5801cF95Fb06b232ccAB123c6F4.jpg",
     "name": "Monkex",
     "symbol": "Monkex"
-  },
-  {
-    "address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
-    "chainId": 1088,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
-    "name": "SushiToken",
-    "symbol": "SUSHI"
   },
   {
     "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
