@@ -237,7 +237,7 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "Wrapped Bitcoin - Meter",
-    "symbol": "WBTC"
+    "symbol": "WBTC.eth"
   },
   {
     "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",

@@ -30,30 +30,33 @@ describe("build", () => {
     }
   });
 
-  it("contains no duplicate symbols", () => {
+  it("contains no duplicate chainId-address-symbol", () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
-      const key = `${token.chainId}-${token.symbol.toLowerCase()}`;
+      const key = `${
+        token.chainId
+      }-${token.address.toLowerCase()}-${token.symbol.toLowerCase()}`;
       if (map[key]) {
         console.log("duplicate symbol for key:", key);
       }
       expect(typeof map[key]).to.equal("undefined");
-
       map[key] = true;
     }
   });
 
-  // it("contains no duplicate names", () => {
-  //   const map = {};
-  //   for (let token of defaultTokenList.tokens) {
-  //     const key = `${token.chainId}-${token.name.toLowerCase()}`;
-  //     expect(typeof map[key]).to.equal(
-  //       "undefined",
-  //       `duplicate name: ${token.name}`
-  //     );
-  //     map[key] = true;
-  //   }
-  // });
+  it("contains no duplicate chainId-address-name", () => {
+    const map = {};
+    for (let token of defaultTokenList.tokens) {
+      const key = `${
+        token.chainId
+      }-${token.address.toLowerCase()}-${token.name.toLowerCase()}`;
+      if (map[key]) {
+        console.log("duplicate name for key:", key);
+      }
+      expect(typeof map[key]).to.equal("undefined");
+      map[key] = true;
+    }
+  });
 
   it("all addresses are valid and checksummed", () => {
     for (let token of defaultTokenList.tokens) {
