@@ -368,12 +368,12 @@
     "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png"
   },
   {
-    "chainId": 10,
     "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
-    "name": "Synthetix USD",
-    "symbol": "sUSD",
+    "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9.jpg",
+    "name": "Synth sUSD",
+    "symbol": "sUSD"
   },
   {
     "chainId": 10,
