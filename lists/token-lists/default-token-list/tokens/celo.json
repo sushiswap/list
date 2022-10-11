@@ -195,9 +195,9 @@
     "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
     "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
-    "name": "Optics SushiToken v1",
-    "symbol": "SUSHIv1"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xD15EC721C2A896512Ad29C671997DD68f9593226.jpg",
+    "name": "SushiToken",
+    "symbol": "SUSHI"
   },
   {
     "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
