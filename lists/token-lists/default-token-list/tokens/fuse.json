@@ -32,6 +32,14 @@
     "symbol": "ELK"
   },
   {
+    "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
+    "chainId": 122,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fuseusd.jpg",
+    "name": "Fuse Dollar",
+    "symbol": "fUSD"
+  },
+  {
     "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
     "chainId": 122,
     "decimals": 2,
@@ -76,7 +84,7 @@
     "chainId": 122,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78.jpg",
-    "name": "Sushi Token",
+    "name": "SushiToken on Fuse",
     "symbol": "SUSHI"
   },
   {
@@ -118,13 +126,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629.jpg",
     "name": "Wrapped Fuse",
     "symbol": "WFUSE"
-  },
-  {
-    "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
-    "chainId": 122,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fuseusd.jpg",
-    "name": "Fuse Dollar",
-    "symbol": "fUSD"
   }
 ]
