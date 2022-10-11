@@ -131,8 +131,8 @@
     "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
     "chainId": 1285,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mim.jpg",
-    "name": "Magic Internet Money - AnySwap",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x0caE51e1032e8461f4806e26332c030E34De3aDb.jpg",
+    "name": "Magic Internet Money",
     "symbol": "MIM"
   },
   {
