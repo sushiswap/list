@@ -267,8 +267,8 @@
     "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
     "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x122013fd7dF1C6F636a5bb8f03108E876548b455/logo.png",
-    "name": "Optics WETH v2",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x122013fd7dF1C6F636a5bb8f03108E876548b455.jpg",
+    "name": "Wrapped Ether",
     "symbol": "WETH"
   },
   {
