@@ -8,6 +8,14 @@
     "symbol": "AAVE"
   },
   {
+    "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
+    "chainId": 1285,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE.jpg",
+    "name": "Alpha Rome",
+    "symbol": "aROME"
+  },
+  {
     "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
     "chainId": 1285,
     "decimals": 18,
@@ -136,6 +144,14 @@
     "symbol": "MTRG"
   },
   {
+    "address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE.jpg",
+    "name": "Ocean Token",
+    "symbol": "OCEAN"
+  },
+  {
     "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
     "chainId": 1285,
     "decimals": 18,
@@ -150,6 +166,14 @@
     "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png",
     "name": "Relay",
     "symbol": "RELAY"
+  },
+  {
+    "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://rivrdoge.com/wp-content/uploads/2021/09/logo.png",
+    "name": "RivrDoge",
+    "symbol": "RivrDoge"
   },
   {
     "address": "0x3d593056F3e34dB7A4720d7F171447C489CFa195",
@@ -168,20 +192,20 @@
     "symbol": "ROME"
   },
   {
-    "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
-    "chainId": 1285,
-    "decimals": 18,
-    "logoURI": "https://rivrdoge.com/wp-content/uploads/2021/09/logo.png",
-    "name": "RivrDoge",
-    "symbol": "RivrDoge"
-  },
-  {
     "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
     "chainId": 1285,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/snx.jpg",
     "name": "Synthetix Network Token - AnySwap",
     "symbol": "SNX"
+  },
+  {
+    "address": "0xFfc7780C34B450d917d557E728f033033CB4fA8C",
+    "chainId": 1285,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfc7780C34B450d917d557E728f033033CB4fA8C.jpg",
+    "name": "Liquid staked KSM",
+    "symbol": "stKSM"
   },
   {
     "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
@@ -232,35 +256,19 @@
     "symbol": "WMOVR"
   },
   {
-    "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
-    "chainId": 1285,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
-    "name": "yearn.finance - AnySwap",
-    "symbol": "YFI"
-  },
-  {
-    "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
-    "chainId": 1285,
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE.jpg",
-    "name": "Alpha Rome",
-    "symbol": "aROME"
-  },
-  {
-    "address": "0xFfc7780C34B450d917d557E728f033033CB4fA8C",
-    "chainId": 1285,
-    "decimals": 12,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfc7780C34B450d917d557E728f033033CB4fA8C.jpg",
-    "name": "Liquid staked KSM",
-    "symbol": "stKSM"
-  },
-  {
     "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
     "chainId": 1285,
     "decimals": 12,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080.jpg",
     "name": "xcKSM",
     "symbol": "xcKSM"
+  },
+  {
+    "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
+    "name": "yearn.finance - AnySwap",
+    "symbol": "YFI"
   }
 ]
