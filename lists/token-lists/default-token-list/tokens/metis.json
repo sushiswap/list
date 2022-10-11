@@ -43,8 +43,8 @@
     "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
     "chainId": 1088,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
-    "name": "Wrapped Bitcoin",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4.jpg",
+    "name": "Wrapped BTC",
     "symbol": "WBTC"
   },
   {
