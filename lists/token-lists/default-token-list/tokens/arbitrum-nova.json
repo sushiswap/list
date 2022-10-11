@@ -26,7 +26,7 @@
   {
     "address": "0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011",
     "chainId": 42170,
-    "decimals": "18",
+    "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011.jpg",
     "name": "SushiToken",
     "symbol": "SUSHI"
@@ -40,17 +40,9 @@
     "symbol": "USDC"
   },
   {
-    "address": "0xeD9d63a96c27f87B07115b56b2e3572827f21646",
-    "chainId": 42170,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-    "name": "Tether USD",
-    "symbol": "USDT"
-  },
-  {
     "address": "0x52484E1ab2e2B22420a25c20FA49E173a26202Cd",
     "chainId": 42170,
-    "decimals": "6",
+    "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x52484E1ab2e2B22420a25c20FA49E173a26202Cd.jpg",
     "name": "Tether USD",
     "symbol": "USDT"

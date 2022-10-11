@@ -474,7 +474,7 @@
   {
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 10,
-    "decimals": "18",
+    "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x4200000000000000000000000000000000000006.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
