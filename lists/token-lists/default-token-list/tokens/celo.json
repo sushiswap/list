@@ -107,9 +107,9 @@
     "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
     "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
-    "name": "Optics DAI v1",
-    "symbol": "DAIv1"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xE4fE50cdD716522A56204352f00AA110F731932d.jpg",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI"
   },
   {
     "address": "0xf2283840cE37DAe0a06B40a9A80603977f36fA3F",
