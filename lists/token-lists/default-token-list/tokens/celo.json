@@ -235,8 +235,8 @@
     "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
     "chainId": 42220,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0/logo.png",
-    "name": "Optics USDT v2",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0.jpg",
+    "name": "Tether USD",
     "symbol": "USDT"
   },
   {
