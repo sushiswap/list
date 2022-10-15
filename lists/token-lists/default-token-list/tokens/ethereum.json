@@ -2744,6 +2744,14 @@
     "symbol": "SUSH"
   },
   {
+    "address": "0xB87204dfDfF7276d64C402F90bF0160aB1E66D17",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushierc/SushiInu/master/logos/token-logos/network/ethereum/0xB87204dfDfF7276d64C402F90bF0160aB1E66D17.jpeg",
+    "name": "Sushi Inu",
+    "symbol": "🍣"
+  },
+  {
     "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
     "chainId": 1,
     "decimals": 18,
