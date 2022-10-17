@@ -13,7 +13,9 @@ describe("build", () => {
 
   it("validates", () => {
     if (defaultTokenList.tokens.length) {
-      expect(validator(defaultTokenList)).to.equal(true);
+      const result = validator(defaultTokenList);
+      console.log(validator.errors);
+      expect(result).to.equal(true);
     }
   });
 
