@@ -104,6 +104,14 @@
     "symbol": "alUSD"
   },
   {
+    "address": "0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C.jpg",
+    "name": "Ankr Reward Bearing MATIC",
+    "symbol": "aMATICc"
+  },
+  {
     "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
     "chainId": 1,
     "decimals": 18,
@@ -2312,6 +2320,14 @@
     "symbol": "PUNDIX"
   },
   {
+    "address": "0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
+    "name": "Punk",
+    "symbol": "PUNK"
+  },
+  {
     "address": "0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a",
     "chainId": 1,
     "decimals": 9,
@@ -3470,13 +3486,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
     "name": "0x",
     "symbol": "ZRX"
-  },
-  {
-    "address": "0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
-    "name": "Punk",
-    "symbol": "PUNK"
   }
 ]
