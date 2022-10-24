@@ -752,6 +752,14 @@
     "symbol": "NEXO"
   },
   {
+    "address": "0xAb9aD9089f23e6779a8727900709427719f753e1",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xAb9aD9089f23e6779a8727900709427719f753e1.jpg",
+    "name": "NGN Coin",
+    "symbol": "NGNC"
+  },
+  {
     "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
     "chainId": 137,
     "decimals": 18,
