@@ -120,6 +120,14 @@
     "symbol": "MU"
   },
   {
+    "address": "0x3134210a6BdB55eED6E59905bC34928DF6d74830",
+    "chainId": 43114,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x3134210a6BdB55eED6E59905bC34928DF6d74830.jpg",
+    "name": "NGN Coin",
+    "symbol": "NGNC"
+  },
+  {
     "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
     "chainId": 43114,
     "decimals": 18,
