@@ -1184,6 +1184,14 @@
     "symbol": "UNITY"
   },
   {
+    "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f.jpg",
+    "name": "USD+",
+    "symbol": "USD+"
+  },
+  {
     "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
     "chainId": 137,
     "decimals": 6,
