@@ -488,6 +488,14 @@
     "symbol": "BNT"
   },
   {
+    "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.jpg",
+    "name": "BOB",
+    "symbol": "BOB"
+  },
+  {
     "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
     "chainId": 1,
     "decimals": 18,
@@ -2312,6 +2320,14 @@
     "symbol": "PUNDIX"
   },
   {
+    "address": "0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
+    "name": "Punk",
+    "symbol": "PUNK"
+  },
+  {
     "address": "0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a",
     "chainId": 1,
     "decimals": 9,
@@ -3470,13 +3486,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
     "name": "0x",
     "symbol": "ZRX"
-  },
-  {
-    "address": "0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
-    "name": "Punk",
-    "symbol": "PUNK"
   }
 ]
