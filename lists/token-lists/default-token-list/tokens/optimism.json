@@ -49,6 +49,14 @@
   },
   {
     "chainId": 10,
+    "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+    "name": "BOB",
+    "symbol": "BOB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.jpg"
+  },
+  {
+    "chainId": 10,
     "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
     "name": "BarnBridge Governance Token",
     "symbol": "BOND",
