@@ -8,14 +8,6 @@
     "symbol": "ADoge"
   },
   {
-    "address": "0x07E49d5dE43DDA6162Fa28D24d5935C151875283",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x07E49d5dE43DDA6162Fa28D24d5935C151875283.jpg",
-    "name": "Govi",
-    "symbol": "GOVI"
-  },
-  {
     "address": "0x0e15258734300290a651FdBAe8dEb039a8E7a2FA",
     "chainId": 42161,
     "decimals": 18,
@@ -270,6 +262,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1/logo.png",
     "name": "Governance OHM",
     "symbol": "gOHM"
+  },
+  {
+    "address": "0x07E49d5dE43DDA6162Fa28D24d5935C151875283",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x07E49d5dE43DDA6162Fa28D24d5935C151875283.jpg",
+    "name": "GOVI",
+    "symbol": "GOVI"
   },
   {
     "address": "0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614",
