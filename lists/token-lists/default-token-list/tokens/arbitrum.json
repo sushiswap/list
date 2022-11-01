@@ -392,6 +392,14 @@
     "symbol": "MKR"
   },
   {
+    "address": "0x1FAe2A29940015632f2a6CE006dFA7E3225515A7",
+    "chainId": 42161,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1FAe2A29940015632f2a6CE006dFA7E3225515A7.jpg",
+    "name": "Nitro Floki",
+    "symbol": "NIFLOKI"
+  },
+  {
     "address": "0x4DAD357726b41bb8932764340ee9108cC5AD33a0",
     "chainId": 42161,
     "decimals": 18,
