@@ -264,6 +264,14 @@
     "symbol": "gOHM"
   },
   {
+    "address": "0x07E49d5dE43DDA6162Fa28D24d5935C151875283",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x07E49d5dE43DDA6162Fa28D24d5935C151875283.jpg",
+    "name": "GOVI",
+    "symbol": "GOVI"
+  },
+  {
     "address": "0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614",
     "chainId": 42161,
     "decimals": 18,
