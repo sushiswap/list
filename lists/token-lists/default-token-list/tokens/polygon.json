@@ -1032,6 +1032,14 @@
     "symbol": "ROUTE"
   },
   {
+    "address": "0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE.jpg",
+    "name": "Royale",
+    "symbol": "ROY"
+  },
+  {
     "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
     "chainId": 137,
     "decimals": 18,
