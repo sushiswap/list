@@ -1336,6 +1336,14 @@
     "symbol": "WSPP"
   },
   {
+    "address": "0x3cEf082127dffd5014A67E81aA9192ecb602740c",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x3cEf082127dffd5014A67E81aA9192ecb602740c.png",
+    "name": "Wrapped USDR",
+    "symbol": "wUSDR"
+  },
+  {
     "address": "0x02649C1Ff4296038De4b9bA8F491b42b940A8252",
     "chainId": 137,
     "decimals": 18,
