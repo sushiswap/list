@@ -24,14 +24,6 @@
     "symbol": "WBOBA9"
   },
   {
-    "address": "0x1E633Dcd0d3D349126983D58988051F7c62c543D",
-    "chainId": 56288,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-    "name": "Tether USD",
-    "symbol": "USDT"
-  },
-  {
     "address": "0x9F98f9F312D23d078061962837042b8918e6aff2",
     "chainId": 56288,
     "decimals": 18,
