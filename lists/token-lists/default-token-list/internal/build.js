@@ -35,6 +35,7 @@ const arbitrumNova = require("../tokens/arbitrum-nova.json");
 const bobaAvax = require("../tokens/boba-avax.json");
 const boba = require("../tokens/boba.json");
 const bttc = require("../tokens/bttc.json");
+const bobaBsc = require("../tokens/boba-bsc.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -85,6 +86,7 @@ module.exports = function buildList() {
       ...bobaAvax,
       ...boba,
       ...bttc,
+      ...bobaBsc,
     ]),
   };
 };
