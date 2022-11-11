@@ -376,6 +376,14 @@
     "symbol": "ELE"
   },
   {
+    "address": "0x60Ed6aCEF3a96F8CDaF0c0D207BbAfA66e751af2",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x60Ed6aCEF3a96F8CDaF0c0D207BbAfA66e751af2.jpg",
+    "name": "Elemental Particles",
+    "symbol": "EP"
+  },
+  {
     "address": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A",
     "chainId": 137,
     "decimals": 18,
