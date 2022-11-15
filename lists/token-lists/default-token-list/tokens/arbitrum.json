@@ -448,6 +448,14 @@
     "symbol": "PANA"
   },
   {
+    "address": "0x69b2cd28B205B47C8ba427e111dD486f9C461B57",
+    "chainId": 42161,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x69b2cd28B205B47C8ba427e111dD486f9C461B57.jpg",
+    "name": "Partyhat",
+    "symbol": "PHAT"
+  },
+  {
     "address": "0x3642c0680329ae3e103E2B5AB29DDfed4d43CBE5",
     "chainId": 42161,
     "decimals": 18,
