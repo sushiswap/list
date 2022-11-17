@@ -600,6 +600,14 @@
     "symbol": "SUSHI"
   },
   {
+    "address": "0x09c704c1EB9245Af48f058878e72129557a10F04",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x09c704c1EB9245Af48f058878e72129557a10F04.jpg",
+    "name": "Sweeptoken",
+    "symbol": "SWEEP"
+  },
+  {
     "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
     "chainId": 56,
     "decimals": 18,
