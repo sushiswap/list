@@ -408,6 +408,14 @@
     "symbol": "FISH"
   },
   {
+    "address": "0xaBE9255A99fd2EFB4a15fcF375E5D3987E32Ad74",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xaBE9255A99fd2EFB4a15fcF375E5D3987E32Ad74.jpg",
+    "name": "FiskPay Token",
+    "symbol": "Fisk"
+  },
+  {
     "address": "0x65A05DB8322701724c197AF82C9CaE41195B0aA8",
     "chainId": 137,
     "decimals": 18,
