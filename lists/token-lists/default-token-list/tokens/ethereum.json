@@ -1448,6 +1448,14 @@
     "symbol": "IQ"
   },
   {
+    "address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31.jpg",
+    "name": "Interport Token",
+    "symbol": "ITP"
+  },
+  {
     "address": "0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0",
     "chainId": 1,
     "decimals": 18,
