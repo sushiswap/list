@@ -40,6 +40,14 @@
     "symbol": "ALPHA"
   },
   {
+    "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58.jpg",
+    "name": "Ankr MATIC Reward Bearing Certif",
+    "symbol": "aMATICc"
+  },
+  {
     "address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
     "chainId": 137,
     "decimals": 18,
