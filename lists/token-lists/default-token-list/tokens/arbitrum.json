@@ -368,6 +368,14 @@
     "symbol": "LINK"
   },
   {
+    "address": "0x73700aeCfC4621E112304B6eDC5BA9e36D7743D3",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x73700aeCfC4621E112304B6eDC5BA9e36D7743D3.jpg",
+    "name": "liquid ETH",
+    "symbol": "lqETH"
+  },
+  {
     "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
     "chainId": 42161,
     "decimals": 18,
