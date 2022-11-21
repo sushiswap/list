@@ -1320,6 +1320,14 @@
     "symbol": "HOP"
   },
   {
+    "address": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA.jpg",
+    "name": "HOPR Token",
+    "symbol": "HOPR"
+  },
+  {
     "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
     "chainId": 1,
     "decimals": 8,
