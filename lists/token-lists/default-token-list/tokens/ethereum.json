@@ -2376,6 +2376,14 @@
     "symbol": "pWING"
   },
   {
+    "address": "0xAB2A7B5876D707e0126B3A75EF7781c77c8877EE",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xAB2A7B5876D707e0126B3A75EF7781c77c8877EE.jpg",
+    "name": "Quadency Token",
+    "symbol": "QUAD"
+  },
+  {
     "address": "0xbA8A621b4a54e61C442F5Ec623687e2a942225ef",
     "chainId": 1,
     "decimals": 18,
