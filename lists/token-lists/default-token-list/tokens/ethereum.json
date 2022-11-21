@@ -104,6 +104,14 @@
     "symbol": "alUSD"
   },
   {
+    "address": "0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C.jpg",
+    "name": "Ankr Reward Bearing MATIC",
+    "symbol": "aMATICc"
+  },
+  {
     "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
     "chainId": 1,
     "decimals": 18,
