@@ -109,18 +109,84 @@ program.command("invalidate:all").action(() => {
       if (error) console.error(error);
       for (const token of files) {
         console.log(
-          `Invalidating https://raw.githubusercontent.com/sushiswap/logos/main/${CHAIN_ID_TO_NAME[chainId]}/${token}`
+          `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}`
         );
         exec(
-          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/logos/main/${CHAIN_ID_TO_NAME[chainId]}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
+          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
           () =>
             console.log(
-              `Invalidated https://raw.githubusercontent.com/sushiswap/logos/main/${CHAIN_ID_TO_NAME[chainId]}/${token}`
+              `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}`
             )
         );
       }
     });
   }
+});
+
+program.command("invalidate:all-2").action(() => {
+  console.log("invalidate:all command called");
+  for (const chainId of Object.keys(ChainId)) {
+    if (!(chainId in CHAIN_ID_TO_NAME)) {
+      console.error(
+        `No name to map from chainId: ${chainId} -> name: ${CHAIN_ID_TO_NAME[chainId]}`
+      );
+      continue;
+    }
+
+    console.log(`Invalidate cache for network ${CHAIN_ID_TO_NAME[chainId]}`);
+
+    const path = resolve(__dirname, `../network/${CHAIN_ID_TO_NAME[chainId]}`);
+
+    console.log({ path });
+
+    if (!fs.existsSync(path)) {
+      console.error(`No network found for path ${path}`);
+      continue;
+    }
+
+    fs.readdir(path, (error, files) => {
+      if (error) console.error(error);
+      for (const token of files) {
+        console.log(
+          `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}`
+        );
+        exec(
+          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}" type="fetch" invalidate="true"`,
+          () =>
+            console.log(
+              `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}`
+            )
+        );
+      }
+    });
+  }
+});
+
+program.command("invalidate:all-3").action(() => {
+  console.log(`Invalidate cache for token`);
+
+  const path = resolve(__dirname, `../token`);
+
+  if (!fs.existsSync(path)) {
+    console.error(`No token path ${path}`);
+    return;
+  }
+
+  fs.readdir(path, (error, files) => {
+    if (error) console.error(error);
+    for (const token of files) {
+      console.log(
+        `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}`
+      );
+      exec(
+        `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}" type="fetch" invalidate="true"`,
+        () =>
+          console.log(
+            `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}`
+          )
+      );
+    }
+  });
 });
 
 program
@@ -148,13 +214,13 @@ program
       if (error) console.error(error);
       for (const token of files) {
         console.log(
-          `Invalidating https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}`
+          `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}`
         );
         exec(
-          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
+          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
           () =>
             console.log(
-              `Invalidated https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}`
+              `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}`
             )
         );
       }
@@ -187,22 +253,61 @@ program
     }
 
     console.log(
-      `Invalidating https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}.jpg`
+      `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}.jpg`
     );
 
     exec(
-      `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}.jpg" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
+      `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}.jpg" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
       (error, stdout) => {
         if (error) {
           console.error(error);
         } else {
           console.log(stdout);
           console.log(
-            `Invalidated https://raw.githubusercontent.com/sushiswap/logos/main/network/${NETWORK}/${token}.jpg`
+            `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}.jpg`
           );
         }
       }
     );
   });
+
+const cloudinary = require("cloudinary").v2;
+
+program.command("explicit").action(() => {
+  console.log("fetch invalidate");
+  cloudinary.uploader.explicit(
+    "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xsushi.jpg",
+    { type: "fetch", invalidate: true },
+    function (err, callResult) {
+      console.log(err, callResult);
+    }
+  );
+
+  cloudinary.uploader.destroy(
+    "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xsushi.jpg",
+    { type: "fetch", invalidate: true },
+    function (err, callResult) {
+      console.log(err, callResult);
+    }
+  );
+});
+
+program.command("destroy").action(() => {
+  console.log("destroy");
+  cloudinary.uploader.explicit(
+    "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
+    { type: "fetch", invalidate: true },
+    function (err, callResult) {
+      console.log(err, callResult);
+    }
+  );
+  cloudinary.uploader.destroy(
+    "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5.jpg",
+    { type: "fetch", invalidate: true },
+    function (err, callResult) {
+      console.log(err, callResult);
+    }
+  );
+});
 
 program.parse(process.argv);

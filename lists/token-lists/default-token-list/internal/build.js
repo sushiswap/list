@@ -28,7 +28,14 @@ const moonriver = require("../tokens/moonriver.json");
 const fuse = require("../tokens/fuse.json");
 const telos = require("../tokens/telos.json");
 const moonbeam = require("../tokens/moonbeam.json");
-
+const optimism = require("../tokens/optimism.json");
+const kava = require("../tokens/kava.json");
+const metis = require("../tokens/metis.json");
+const arbitrumNova = require("../tokens/arbitrum-nova.json");
+const bobaAvax = require("../tokens/boba-avax.json");
+const boba = require("../tokens/boba.json");
+const bttc = require("../tokens/bttc.json");
+const bobaBnb = require("../tokens/boba-bnb.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -72,6 +79,14 @@ module.exports = function buildList() {
       ...fuse,
       ...telos,
       ...moonbeam,
+      ...optimism,
+      ...kava,
+      ...metis,
+      ...arbitrumNova,
+      ...bobaAvax,
+      ...boba,
+      ...bttc,
+      ...bobaBnb,
     ]),
   };
 };

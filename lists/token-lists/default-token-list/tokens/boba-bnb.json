@@ -1,0 +1,42 @@
+[
+  {
+    "address": "0x4200000000000000000000000000000000000023",
+    "chainId": 56288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bnb.jpg",
+    "name": "Binance Coin",
+    "symbol": "BNB"
+  },
+  {
+    "address": "0x1E633Dcd0d3D349126983D58988051F7c62c543D",
+    "chainId": 56288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0xC58aaD327D6D58D979882601ba8DDa0685B505eA",
+    "chainId": 56288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
+    "name": "Wrapped Boba",
+    "symbol": "WBOBA9"
+  },
+  {
+    "address": "0x9F98f9F312D23d078061962837042b8918e6aff2",
+    "chainId": 56288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x4a2c2838c3907D024916c3f4Fe07832745Ae4bec",
+    "chainId": 56288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
+    "name": "Binance USD",
+    "symbol": "BUSD"
+  }
+]

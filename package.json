@@ -12,15 +12,20 @@
     "dev": "turbo run dev --parallel",
     "test": "turbo run test --parallel",
     "lint": "turbo run lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "changeset": "changeset",
+    "version": "changeset version",
+    "release": "turbo run build --filter=...{./lists/*} && changeset publish"
   },
   "devDependencies": {
-    "prettier": "^2.5.1",
+    "@changesets/cli": "^2.22.0",
+    "@sushiswap/prettier-config": "^0.1.0",
+    "prettier": "^2.6.2",
     "turbo": "latest"
   },
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=14.0.0"
   },
-  "packageManager": "pnpm@6.31.0"
+  "packageManager": "pnpm@7.0.0"
 }

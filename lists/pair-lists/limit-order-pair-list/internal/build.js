@@ -32,11 +32,12 @@ function getPairs() {
     const pairs = require(path);
 
     allPairs[chainId] = pairs.map((pair) =>
-      pair.map((tokenSymbol) => {
-        const token = tokens.find((token) => token.symbol === tokenSymbol);
-
+      pair.map((symbol) => {
+        const token = tokens.find((token) => token.symbol === symbol);
         if (!token)
-          throw new Error(`Couldn't find token info for ${tokenSymbol}`);
+          throw new Error(
+            `Couldn't find token info for ${symbol} ${JSON.stringify(tokens)}`
+          );
 
         return token;
       })
