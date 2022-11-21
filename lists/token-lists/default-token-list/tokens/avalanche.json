@@ -16,6 +16,14 @@
     "symbol": "BSGG"
   },
   {
+    "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.jpg",
+    "name": "BUSD Token",
+    "symbol": "BUSD"
+  },
+  {
     "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
     "chainId": 43114,
     "decimals": 18,
