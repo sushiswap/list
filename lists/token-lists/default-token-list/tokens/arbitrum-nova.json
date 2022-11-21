@@ -1,43 +1,19 @@
 [
   {
-    "address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
+    "address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
     "chainId": 42170,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
-    "name": "Wrapped Ether",
-    "symbol": "WETH"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x6DcB98f460457fe4952e12779Ba852F82eCC62C1.jpg",
+    "name": "Bricks",
+    "symbol": "BRICK"
   },
   {
     "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
     "chainId": 42170,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
-  },
-  {
-    "address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
-    "chainId": 42170,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
-    "name": "USD Coin",
-    "symbol": "USDC"
-  },
-  {
-    "address": "0xeD9d63a96c27f87B07115b56b2e3572827f21646",
-    "chainId": 42170,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
-    "name": "Tether USD",
-    "symbol": "USDT"
-  },
-  {
-    "address": "0x1d05e4e72cD994cdF976181CfB0707345763564d",
-    "chainId": 42170,
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
-    "name": "Wrapped Bitcoin",
-    "symbol": "WBTC"
   },
   {
     "address": "0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0",
@@ -48,11 +24,43 @@
     "symbol": "MOON"
   },
   {
-    "address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
+    "address": "0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011",
     "chainId": 42170,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x6DcB98f460457fe4952e12779Ba852F82eCC62C1.jpg",
-    "name": "Bricks",
-    "symbol": "BRICK"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011.jpg",
+    "name": "SushiToken",
+    "symbol": "SUSHI"
+  },
+  {
+    "address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
+    "chainId": 42170,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x52484E1ab2e2B22420a25c20FA49E173a26202Cd",
+    "chainId": 42170,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x52484E1ab2e2B22420a25c20FA49E173a26202Cd.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x1d05e4e72cD994cdF976181CfB0707345763564d",
+    "chainId": 42170,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   }
 ]

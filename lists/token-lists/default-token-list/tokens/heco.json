@@ -323,7 +323,7 @@
     "address": "0x52E00B2dA5Bd7940fFe26B609A42F957f31118D5",
     "chainId": 128,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
     "name": "SUSHI",
     "symbol": "SUSHI"
   },

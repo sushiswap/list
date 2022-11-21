@@ -3,7 +3,7 @@
     "address": "0xc234A67a4F840E61adE794be47de455361b52413",
     "chainId": 1284,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
   },
@@ -11,7 +11,7 @@
     "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
     "chainId": 1284,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
     "name": "Frax",
     "symbol": "FRAX"
   },
@@ -19,7 +19,7 @@
     "address": "0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C",
     "chainId": 1284,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg",
     "name": "Frax Share",
     "symbol": "FXS"
   },
@@ -27,7 +27,7 @@
     "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
     "chainId": 1284,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
     "name": "USD Coin",
     "symbol": "USDC"
   },
@@ -35,7 +35,7 @@
     "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
     "chainId": 1284,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
   },
@@ -43,7 +43,7 @@
     "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
     "chainId": 1284,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ust.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ust.jpg",
     "name": "TerraUSD",
     "symbol": "UST"
   },
@@ -51,7 +51,7 @@
     "address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
     "chainId": 1284,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC"
   },
@@ -59,7 +59,7 @@
     "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
     "chainId": 1284,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   },
@@ -75,7 +75,7 @@
     "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
     "chainId": 1284,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
     "name": "Sushi",
     "symbol": "anySUSHI"
   }

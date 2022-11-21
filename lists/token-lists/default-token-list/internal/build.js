@@ -32,6 +32,10 @@ const optimism = require("../tokens/optimism.json");
 const kava = require("../tokens/kava.json");
 const metis = require("../tokens/metis.json");
 const arbitrumNova = require("../tokens/arbitrum-nova.json");
+const bobaAvax = require("../tokens/boba-avax.json");
+const boba = require("../tokens/boba.json");
+const bttc = require("../tokens/bttc.json");
+const bobaBnb = require("../tokens/boba-bnb.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -79,6 +83,10 @@ module.exports = function buildList() {
       ...kava,
       ...metis,
       ...arbitrumNova,
+      ...bobaAvax,
+      ...boba,
+      ...bttc,
+      ...bobaBnb,
     ]),
   };
 };
