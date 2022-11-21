@@ -232,6 +232,14 @@
     "symbol": "DOT"
   },
   {
+    "address": "0x45808Ce43eb2D7685fF0242631f0FeB6f3D8701a",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x45808Ce43eb2D7685fF0242631f0FeB6f3D8701a.jpg",
+    "name": "EKTAv2",
+    "symbol": "EKTAv2"
+  },
+  {
     "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
     "chainId": 56,
     "decimals": 18,
