@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x8073600F2Aba6d5FA496e3826E0B46b7EA6Fe2ba",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8073600F2Aba6d5FA496e3826E0B46b7EA6Fe2ba.jpg",
+    "name": "Burnitrum",
+    "symbol": "Burni"
+  },
+  {
     "address": "0x4DAD357726b41bb8932764340ee9108cC5AD33a0",
     "chainId": 42161,
     "decimals": 18,
