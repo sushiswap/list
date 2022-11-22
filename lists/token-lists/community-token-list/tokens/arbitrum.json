@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xd4c16980CC747b82898aC570cEA2dD33f0EFA92F",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xd4c16980CC747b82898aC570cEA2dD33f0EFA92F.jpg",
+    "name": "Dogitrum",
+    "symbol": "DOGITRUM"
+  },
+  {
     "address": "0x8073600F2Aba6d5FA496e3826E0B46b7EA6Fe2ba",
     "chainId": 42161,
     "decimals": 18,
