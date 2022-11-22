@@ -736,6 +736,14 @@
     "symbol": "MTA"
   },
   {
+    "address": "0xFFec5b0Ec59a5760a3273764a9d100F782d8e221",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xFFec5b0Ec59a5760a3273764a9d100F782d8e221.jpg",
+    "name": "MULTIVERSE",
+    "symbol": "MV"
+  },
+  {
     "address": "0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1",
     "chainId": 137,
     "decimals": 18,
