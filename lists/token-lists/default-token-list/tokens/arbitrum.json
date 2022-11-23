@@ -320,6 +320,14 @@
     "symbol": "IMO"
   },
   {
+    "address": "0xf8EF04b39F3E881e8e49f58d8D7A60Cd0E5717E5",
+    "chainId": 42161,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf8EF04b39F3E881e8e49f58d8D7A60Cd0E5717E5.jpg",
+    "name": "The Investor Network",
+    "symbol": "INV"
+  },
+  {
     "address": "0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
     "chainId": 42161,
     "decimals": 18,
