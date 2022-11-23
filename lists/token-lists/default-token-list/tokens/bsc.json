@@ -448,6 +448,14 @@
     "symbol": "mTSLA"
   },
   {
+    "address": "0x078053F10ACd423E9357d80C5828dDf69D2bCD36",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x078053F10ACd423E9357d80C5828dDf69D2bCD36.jpg",
+    "name": "MULTIVERSE",
+    "symbol": "MV"
+  },
+  {
     "address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
     "chainId": 56,
     "decimals": 18,
