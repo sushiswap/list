@@ -144,6 +144,14 @@
     "symbol": "MTRG"
   },
   {
+    "address": "0x21d963E5B223fFA178dE7398F3bcAf367D8d1730",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x21d963E5B223fFA178dE7398F3bcAf367D8d1730.jpg",
+    "name": "MULTIVERSE",
+    "symbol": "MV"
+  },
+  {
     "address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
     "chainId": 1285,
     "decimals": 18,
@@ -232,20 +240,20 @@
     "symbol": "USDT"
   },
   {
-    "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
-    "chainId": 1285,
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
-    "name": "Wrapped Bitcoin - Meter",
-    "symbol": "WBTC.eth"
-  },
-  {
     "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
     "chainId": 1285,
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
+  },
+  {
+    "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+    "chainId": 1285,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+    "name": "Wrapped Bitcoin - Meter",
+    "symbol": "WBTC.eth"
   },
   {
     "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
