@@ -128,6 +128,14 @@
     "symbol": "MU"
   },
   {
+    "address": "0x19231E7837811B78d74FdD9698518c6e4322E18d",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x19231E7837811B78d74FdD9698518c6e4322E18d.jpg",
+    "name": "MULTIVERSE",
+    "symbol": "MV"
+  },
+  {
     "address": "0x3134210a6BdB55eED6E59905bC34928DF6d74830",
     "chainId": 43114,
     "decimals": 6,
