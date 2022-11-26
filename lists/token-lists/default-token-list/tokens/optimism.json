@@ -240,6 +240,14 @@
     "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png"
   },
   {
+    "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+    "name": "Mai Stablecoin",
+    "symbol": "MAI"
+  },
+  {
     "chainId": 10,
     "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
     "name": "Mask Network",
