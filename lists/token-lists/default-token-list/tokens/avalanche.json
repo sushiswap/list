@@ -96,6 +96,14 @@
     "symbol": "LINK"
   },
   {
+    "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+    "name": "Mai Stablecoin",
+    "symbol": "MAI"
+  },
+  {
     "address": "0xA56B1b9f4e5A1A1e0868F5Fd4352ce7CdF0C2A4F",
     "chainId": 43114,
     "decimals": 19,

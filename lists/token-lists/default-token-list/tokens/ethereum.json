@@ -1672,6 +1672,14 @@
     "symbol": "LYRA"
   },
   {
+    "address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+    "name": "Mai Stablecoin",
+    "symbol": "MAI"
+  },
+  {
     "address": "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
     "chainId": 1,
     "decimals": 18,
