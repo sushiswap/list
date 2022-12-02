@@ -384,14 +384,6 @@
     "symbol": "lqETH"
   },
   {
-    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
-    "name": "Mai Stablecoin",
-    "symbol": "MAI"
-  },
-  {
     "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
     "chainId": 42161,
     "decimals": 18,
@@ -406,6 +398,14 @@
     "logoURI": "https://raw.githubusercontent.com/Magnethereum/MyFiles/main/magnethereum.jpg",
     "name": "Magnethereum",
     "symbol": "MAGNET"
+  },
+  {
+    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+    "name": "Mai Stablecoin",
+    "symbol": "MAI"
   },
   {
     "address": "0x99F40b01BA9C469193B360f72740E416B17Ac332",
@@ -454,6 +454,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x4DAD357726b41bb8932764340ee9108cC5AD33a0.jpg",
     "name": "NitroShiba",
     "symbol": "NISHIB"
+  },
+  {
+    "address": "0x4a1c0E8A659B7866B555df80Df4E7Fe914f0f2B9",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x4a1c0E8A659B7866B555df80Df4E7Fe914f0f2B9.jpg",
+    "name": "Nitro Santa",
+    "symbol": "NSANTA"
   },
   {
     "address": "0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC",
