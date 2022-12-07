@@ -1056,6 +1056,14 @@
     "symbol": "FARM"
   },
   {
+    "address": "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3.jpg",
+    "name": "Fractal Protocol Token",
+    "symbol": "FCL"
+  },
+  {
     "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
     "chainId": 1,
     "decimals": 18,
