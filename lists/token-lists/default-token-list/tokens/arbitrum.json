@@ -56,6 +56,14 @@
     "symbol": "ARVAULT"
   },
   {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "chainId": 42161,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
     "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
     "chainId": 42161,
     "decimals": 18,
@@ -384,14 +392,6 @@
     "symbol": "lqETH"
   },
   {
-    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
-    "name": "Mai Stablecoin",
-    "symbol": "MAI"
-  },
-  {
     "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
     "chainId": 42161,
     "decimals": 18,
@@ -406,6 +406,14 @@
     "logoURI": "https://raw.githubusercontent.com/Magnethereum/MyFiles/main/magnethereum.jpg",
     "name": "Magnethereum",
     "symbol": "MAGNET"
+  },
+  {
+    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+    "name": "Mai Stablecoin",
+    "symbol": "MAI"
   },
   {
     "address": "0x99F40b01BA9C469193B360f72740E416B17Ac332",
