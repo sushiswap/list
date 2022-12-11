@@ -24,6 +24,14 @@
     "symbol": "MOON"
   },
   {
+    "address": "0x8204fA944a45228cC5D8aCaC8040784a05f7c785",
+    "chainId": 42170,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x8204fA944a45228cC5D8aCaC8040784a05f7c785.jpg",
+    "name": "Nova Doge",
+    "symbol": "NDOGE"
+  },
+  {
     "address": "0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011",
     "chainId": 42170,
     "decimals": 18,
