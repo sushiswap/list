@@ -32,6 +32,14 @@
     "symbol": "DPI"
   },
   {
+    "address": "0xe68856eb29B2FB39699286CcA7F10f90Ce8AE9De",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3.jpg",
+    "name": "Fractal Protocol Token",
+    "symbol": "FCL"
+  },
+  {
     "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
     "chainId": 100,
     "decimals": 18,
