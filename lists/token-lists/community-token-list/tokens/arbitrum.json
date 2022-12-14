@@ -8,6 +8,14 @@
     "symbol": "Burni"
   },
   {
+    "address": "0x391277994461686CF4abfFa5B13d806a96605f9C",
+    "chainId": 42161,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x391277994461686CF4abfFa5B13d806a96605f9C.jpg",
+    "name": "Donald Trump INU",
+    "symbol": "DTRUMP"
+  },
+  {
     "address": "0x54cfe852BEc4FA9E431Ec4aE762C33a6dCfcd179",
     "chainId": 42161,
     "decimals": 18,
