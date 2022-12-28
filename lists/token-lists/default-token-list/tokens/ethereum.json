@@ -1072,6 +1072,14 @@
     "symbol": "FEI"
   },
   {
+    "address": "0x2bE1e42BF263AaB47D27Ba92E72c14823e101D7C",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x2bE1e42BF263AaB47D27Ba92E72c14823e101D7C.jpg",
+    "name": "Fluid FRAX",
+    "symbol": "fFRAX"
+  },
+  {
     "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
     "chainId": 1,
     "decimals": 18,
