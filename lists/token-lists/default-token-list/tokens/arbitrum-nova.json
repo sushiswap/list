@@ -62,5 +62,29 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
+  },
+  {
+    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844.jpg",
+    "name": "TreasureMaps",
+    "symbol": "TMAP"
+  },
+  {
+    "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
+    "name": "DPSDoubloon",
+    "symbol": "DOUBLOON"
+  },
+  {
+    "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
+    "name": "DPS Rum",
+    "symbol": "RUM"
   }
 ]
