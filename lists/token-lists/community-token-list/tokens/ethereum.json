@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268.jpg",
+    "name": "Perion Credits",
+    "symbol": "PERC"
+  },
+  {
     "address": "0xa5f2211B9b8170F694421f2046281775E8468044",
     "chainId": 1,
     "decimals": 18,
