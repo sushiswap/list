@@ -3419,7 +3419,7 @@
     "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xsushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272.jpg",
     "name": "SushiBar",
     "symbol": "xSUSHI"
   },
