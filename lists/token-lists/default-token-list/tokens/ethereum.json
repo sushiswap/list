@@ -1400,6 +1400,14 @@
     "symbol": "IDLE"
   },
   {
+    "address": "0xc383a3833A87009fD9597F8184979AF5eDFad019",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc383a3833A87009fD9597F8184979AF5eDFad019.jpg",
+    "name": "Instadapp ETH",
+    "symbol": "iETH"
+  },
+  {
     "address": "0x0acC0FEE1D86D2cD5AF372615bf59b298D50cd69",
     "chainId": 1,
     "decimals": 18,
