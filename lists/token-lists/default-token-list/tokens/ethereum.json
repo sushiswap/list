@@ -1659,8 +1659,8 @@
     "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/lon.jpg",
-    "name": "LON Token",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0000000000095413afC295d19EDeb1Ad7B71c952.jpg",
+    "name": "Tokenlon",
     "symbol": "LON"
   },
   {
