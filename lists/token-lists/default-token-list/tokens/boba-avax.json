@@ -16,6 +16,62 @@
     "symbol": "EVO"
   },
   {
+    "address": "0x4ED96c1dc969d7E2310D9582A68c39556C005912",
+    "chainId": 43288,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x4ED96c1dc969d7E2310D9582A68c39556C005912.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT.e"
+  },
+  {
+    "address": "0xfaA13D82756f1e0e4dec9416b83121db3Fc35199",
+    "chainId": 43288,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xfaA13D82756f1e0e4dec9416b83121db3Fc35199.jpg",
+    "name": "Tether USD",
+    "symbol": "USDt"
+  },
+  {
+    "address": "0x126969743a6d300bab08F303f104f0f7DBAfbe20",
+    "chainId": 43288,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x126969743a6d300bab08F303f104f0f7DBAfbe20.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC.e"
+  },
+  {
+    "address": "0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e",
+    "chainId": 43288,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x69B7d24f0E03Ff21949081C95dA7288fEa5C844D",
+    "chainId": 43288,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x69B7d24f0E03Ff21949081C95dA7288fEa5C844D.jpg",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI.e"
+  },
+  {
+    "address": "0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6",
+    "chainId": 43288,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6.jpg",
+    "name": "Binance USD",
+    "symbol": "BUSD.e"
+  },
+  {
+    "address": "0x87e062dE99Ed71aF9b22dDA63e1b6D43333798f8",
+    "chainId": 43288,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x87e062dE99Ed71aF9b22dDA63e1b6D43333798f8.jpg",
+    "name": "Binance USD",
+    "symbol": "BUSD"
+  },
+  {
     "address": "0x26c319B7B2cF823365414d082698C8ac90cbBA63",
     "chainId": 43288,
     "decimals": 18,

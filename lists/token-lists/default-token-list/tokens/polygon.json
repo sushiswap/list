@@ -224,6 +224,14 @@
     "symbol": "CERBY"
   },
   {
+    "address": "0xb74f2220Ad34A03730400c9C97Bd10863bBc4130",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xb74f2220Ad34A03730400c9C97Bd10863bBc4130.jpg",
+    "name": "Check Token",
+    "symbol": "CHECK"
+  },
+  {
     "address": "0x2e2DDe47952b9c7deFDE7424d00dD2341AD927Ca",
     "chainId": 137,
     "decimals": 18,
