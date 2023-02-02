@@ -960,6 +960,14 @@
     "symbol": "DSD"
   },
   {
+    "address": "0x341c05c0E9b33C0E38d64de76516b2Ce970bB3BE",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x341c05c0E9b33C0E38d64de76516b2Ce970bB3BE.jpg",
+    "name": "Diversified Staked ETH Index (dsETH)",
+    "symbol": "dsETH"
+  },
+  {
     "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
     "chainId": 1,
     "decimals": 18,
