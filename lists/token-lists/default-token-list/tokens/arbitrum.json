@@ -64,6 +64,14 @@
     "symbol": "ARVAULT"
   },
   {
+    "address": "0x40773b25c59c3010bdd4E375b0aAF9119a0aC269",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x40773b25c59c3010bdd4E375b0aAF9119a0aC269.jpg",
+    "name": "Liquid Gold",
+    "symbol": "AUR"
+  },
+  {
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
     "chainId": 42161,
     "decimals": 6,
