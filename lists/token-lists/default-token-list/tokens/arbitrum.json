@@ -312,6 +312,14 @@
     "symbol": "GRT"
   },
   {
+    "address": "0x550c18adD093f5806F6df074d6C31b8d9e10C758",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x550c18adD093f5806F6df074d6C31b8d9e10C758.jpg",
+    "name": "GSHARE",
+    "symbol": "GSHARE"
+  },
+  {
     "address": "0x02150e97271fDC0D6E3A16d9094A0948266F07dD",
     "chainId": 42161,
     "decimals": 18,
