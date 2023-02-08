@@ -24,6 +24,14 @@
     "symbol": "ADDY"
   },
   {
+    "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xF84BD51eab957c2e7B7D646A3427C5A50848281D.jpg",
+    "name": "AGA Rewards (PoS)",
+    "symbol": "AGAr"
+  },
+  {
     "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
     "chainId": 137,
     "decimals": 18,
