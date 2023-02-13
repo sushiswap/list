@@ -59,7 +59,7 @@
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
     "chainId": 2222,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC"
   }
