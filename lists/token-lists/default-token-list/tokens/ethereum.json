@@ -472,6 +472,14 @@
     "symbol": "BLOCKS"
   },
   {
+    "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x5283D291DBCF85356A21bA090E6db59121208b44.jpg",
+    "name": "Blur",
+    "symbol": "BLUR"
+  },
+  {
     "address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
     "chainId": 1,
     "decimals": 18,
@@ -2608,6 +2616,14 @@
     "symbol": "RUNE"
   },
   {
+    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x5aFE3855358E112B5647B952709E6165e1c1eEEe.jpg",
+    "name": "Safe Token",
+    "symbol": "SAFE"
+  },
+  {
     "address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
     "chainId": 1,
     "decimals": 18,
@@ -2838,6 +2854,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/stzen.jpg",
     "name": "stakedZEN",
     "symbol": "stZEN"
+  },
+  {
+    "address": "0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9.jpg",
+    "name": "Sudo Governance Token",
+    "symbol": "SUDO"
   },
   {
     "address": "0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6",
