@@ -38,5 +38,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
     "name": "Binance USD",
     "symbol": "BUSD"
+  },
+  {
+    "address": "0x38Ca7a190f57D38F4DC44413508e1078cD9E0045",
+    "chainId": 56288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+    "name": "Ethereum",
+    "symbol": "ETH"
   }
 ]
