@@ -8,6 +8,14 @@
     "symbol": "AAVE"
   },
   {
+    "address": "0xa12eB4d5cB7911E8D471FE708a9f3119fD216a1A",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xa12eB4d5cB7911E8D471FE708a9f3119fD216a1A.jpg",
+    "name": "AMi Exploration",
+    "symbol": "AMiE"
+  },
+  {
     "address": "0x63682bDC5f875e9bF69E201550658492C9763F89",
     "chainId": 43114,
     "decimals": 18,
