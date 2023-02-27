@@ -712,6 +712,14 @@
     "symbol": "VISR"
   },
   {
+    "address": "0xa37FF6315C20A3A6210dcdcFaBaA85b804d72B18",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xa37FF6315C20A3A6210dcdcFaBaA85b804d72B18.jpg",
+    "name": "War",
+    "symbol": "WAR"
+  },
+  {
     "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
     "chainId": 42161,
     "decimals": 8,
