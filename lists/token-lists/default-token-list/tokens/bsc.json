@@ -620,8 +620,16 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg",
-    "name": "SushiToken",
-    "symbol": "SUSHI"
+    "name": "Binance-Peg SushiToken",
+    "symbol": "SUSHI.binance"
+  },
+  {
+    "address": "0x986cdF0fd180b40c4D6aEAA01Ab740B996D8b782",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+    "name": "SushiToken MultiChain",
+    "symbol": "SUSHI.multichain"
   },
   {
     "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
