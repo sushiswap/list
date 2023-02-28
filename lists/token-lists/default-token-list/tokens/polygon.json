@@ -40,20 +40,20 @@
     "symbol": "ALPHA"
   },
   {
-    "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58.jpg",
-    "name": "Ankr Staked MATIC",
-    "symbol": "ankrMATIC"
-  },
-  {
     "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
     "chainId": 137,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x101A023270368c0D50BFfb62780F4aFd4ea79C35.jpg",
     "name": "Ankr (PoS)",
     "symbol": "ANKR"
+  },
+  {
+    "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58.jpg",
+    "name": "Ankr Staked MATIC",
+    "symbol": "ankrMATIC"
   },
   {
     "address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
@@ -1078,6 +1078,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE.jpg",
     "name": "Royale",
     "symbol": "ROY"
+  },
+  {
+    "address": "0x5dD175A4242afE19e5c1051d8cd13Fc8979f2329",
+    "chainId": 137,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5dD175A4242afE19e5c1051d8cd13Fc8979f2329.jpg",
+    "name": "REVERSE",
+    "symbol": "RVRS"
   },
   {
     "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
