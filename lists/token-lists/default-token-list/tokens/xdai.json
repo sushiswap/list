@@ -88,6 +88,14 @@
     "symbol": "STAKE"
   },
   {
+    "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wsteth.jpg",
+    "name": "Wrapped Liquid Staked Ether",
+    "symbol": "wstETH"
+  },
+  {
     "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
     "chainId": 100,
     "decimals": 18,

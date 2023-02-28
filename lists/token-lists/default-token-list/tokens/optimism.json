@@ -77,7 +77,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg"
   },
   {
     "chainId": 10,
