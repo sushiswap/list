@@ -2656,6 +2656,14 @@
     "symbol": "SDL"
   },
   {
+    "address": "0xA95C5ebB86E0dE73B4fB8c47A45B792CFeA28C23",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xA95C5ebB86E0dE73B4fB8c47A45B792CFeA28C23.jpg",
+    "name": "stake.link",
+    "symbol": "SDL"
+  },
+  {
     "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
     "chainId": 1,
     "decimals": 18,
