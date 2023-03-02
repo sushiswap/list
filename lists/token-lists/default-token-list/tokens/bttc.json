@@ -125,7 +125,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1.jpg",
     "name": "Decentralized USD Ethereum",
-    "symbol": "DUSD.e"
+    "symbol": "USDD.e"
   },
   {
     "address": "0x74e7ceF747DB9C8752874321ba8B26119EF70c9e",
@@ -133,7 +133,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1.jpgg",
     "name": "Decentralized USD BSC",
-    "symbol": "DUSD.b"
+    "symbol": "USDD.b"
   },
   {
     "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
@@ -141,7 +141,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1.jpg",
     "name": "Decentralized USD Tron",
-    "symbol": "DUSD.t"
+    "symbol": "USDD.t"
   },
   {
     "address": "0x65676055E58b02E61272Cedec6E5C6D56BADfb86",
