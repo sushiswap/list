@@ -1320,6 +1320,14 @@
     "symbol": "GRT"
   },
   {
+    "address": "0x36c833Eed0D376f75D1ff9dFDeE260191336065e",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x36c833Eed0D376f75D1ff9dFDeE260191336065e.jpg",
+    "name": "Gitcoin Staked ETH Index (gtcETH)",
+    "symbol": "gtcETH"
+  },
+  {
     "address": "0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d",
     "chainId": 1,
     "decimals": 18,
