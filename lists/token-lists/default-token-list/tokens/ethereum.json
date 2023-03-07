@@ -672,6 +672,14 @@
     "symbol": "COVER"
   },
   {
+    "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB.jpg",
+    "name": "CoW Protocol Token",
+    "symbol": "COW"
+  },
+  {
     "address": "0xD417144312DbF50465b1C641d016962017Ef6240",
     "chainId": 1,
     "decimals": 18,
