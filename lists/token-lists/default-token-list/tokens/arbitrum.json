@@ -112,6 +112,14 @@
     "symbol": "CELR"
   },
   {
+    "address": "0xe685d3CC0be48BD59082eDe30C3b64CbFc0326e2",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xe685d3CC0be48BD59082eDe30C3b64CbFc0326e2.jpg",
+    "name": "Crucible Ferrum Token",
+    "symbol": "cFRM"
+  },
+  {
     "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
     "chainId": 42161,
     "decimals": 18,
