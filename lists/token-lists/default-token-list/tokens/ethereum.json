@@ -768,6 +768,14 @@
     "symbol": "cvxCRV"
   },
   {
+    "address": "0x329A733DaDD06684332bc06C83e7429423db2953",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x329A733DaDD06684332bc06C83e7429423db2953.jpg",
+    "name": "D4A Token for D4A@115",
+    "symbol": "D4A_T 115"
+  },
+  {
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "chainId": 1,
     "decimals": 18,
