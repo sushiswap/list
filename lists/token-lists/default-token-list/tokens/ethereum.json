@@ -1064,6 +1064,14 @@
     "symbol": "ESD"
   },
   {
+    "address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
+    "chainId": 1,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xdB25f211AB05b1c97D595516F45794528a807ad8.jpg",
+    "name": "STASIS EURS Token",
+    "symbol": "EURS"
+  },
+  {
     "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
     "chainId": 1,
     "decimals": 18,
