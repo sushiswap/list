@@ -112,7 +112,7 @@ program.command("invalidate:all").action(() => {
           `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}`
         );
         exec(
-          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
+          `cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
           () =>
             console.log(
               `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}`
@@ -151,7 +151,7 @@ program.command("invalidate:all-2").action(() => {
           `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}`
         );
         exec(
-          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}" type="fetch" invalidate="true"`,
+          `cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}" type="fetch" invalidate="true"`,
           () =>
             console.log(
               `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${CHAIN_ID_TO_NAME[chainId]}/${token}`
@@ -179,7 +179,7 @@ program.command("invalidate:all-3").action(() => {
         `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}`
       );
       exec(
-        `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}" type="fetch" invalidate="true"`,
+        `cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}" type="fetch" invalidate="true"`,
         () =>
           console.log(
             `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${token}`
@@ -217,7 +217,7 @@ program
           `Invalidating https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}`
         );
         exec(
-          `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
+          `cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
           () =>
             console.log(
               `Invalidated https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}`
@@ -257,7 +257,7 @@ program
     );
 
     exec(
-      `/usr/local/bin/cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}.jpg" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
+      `cld uploader explicit "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/${NETWORK}/${token}.jpg" type="fetch" invalidate="true" eager='[{ "width": 24 }, { "width": 32 }, { "width": 48 }, { "width": 54 }, { "width": 64 }, { "width": 96 }, { "width": 128 }]'`,
       (error, stdout) => {
         if (error) {
           console.error(error);
