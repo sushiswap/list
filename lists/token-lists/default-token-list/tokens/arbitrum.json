@@ -32,6 +32,14 @@
     "symbol": "aMoon"
   },
   {
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg",
+    "name": "Arbitrum",
+    "symbol": "ARB"
+  },
+  {
     "address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
     "chainId": 42161,
     "decimals": 18,

@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg",
+    "name": "Arbitrum",
+    "symbol": "ARB"
+  },
+  {
     "address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
     "chainId": 42170,
     "decimals": 18,

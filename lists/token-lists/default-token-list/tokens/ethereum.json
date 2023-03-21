@@ -184,6 +184,14 @@
     "symbol": "APW"
   },
   {
+    "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg",
+    "name": "Arbitrum",
+    "symbol": "ARB"
+  },
+  {
     "address": "0x1F3f9D3068568F8040775be2e8C03C103C61f3aF",
     "chainId": 1,
     "decimals": 18,
