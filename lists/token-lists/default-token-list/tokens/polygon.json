@@ -1422,5 +1422,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc.jpg",
     "name": "ZED RUN",
     "symbol": "ZED"
+  },
+  {
+    "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x820802Fa8a99901F52e39acD21177b0BE6EE2974.jpg",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe"
   }
 ]
