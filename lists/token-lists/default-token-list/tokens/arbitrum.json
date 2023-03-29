@@ -728,6 +728,14 @@
     "symbol": "USX"
   },
   {
+    "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/vela.jpg",
+    "name": "Vela Exchange",
+    "symbol": "VELA"
+  },
+  {
     "address": "0x995C235521820f2637303Ca1970c7c044583df44",
     "chainId": 42161,
     "decimals": 18,
