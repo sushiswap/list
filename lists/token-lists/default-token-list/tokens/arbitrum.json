@@ -568,6 +568,14 @@
     "symbol": "plsJONES"
   },
   {
+    "address": "0xb816688E4B70C9076BD87d45b5309F205ec2cf5f",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xb816688E4B70C9076BD87d45b5309F205ec2cf5f.jpg",
+    "name": "Poison.Finance Oil Potion",
+    "symbol": "pOIL"
+  },
+  {
     "address": "0x78055dAA07035Aa5EBC3e5139C281Ce6312E1b22",
     "chainId": 42161,
     "decimals": 18,
