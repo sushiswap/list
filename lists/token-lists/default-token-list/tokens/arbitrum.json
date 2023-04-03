@@ -528,6 +528,14 @@
     "symbol": "O3"
   },
   {
+    "address": "0xE656165d39419C03D588515c835d109E19221e1E",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xE656165d39419C03D588515c835d109E19221e1E.jpg",
+    "name": "Poison.Finance Amazon Potion",
+    "symbol": "pAMZN"
+  },
+  {
     "address": "0x369eB8197062093a20402935D3a707b4aE414E9D",
     "chainId": 42161,
     "decimals": 18,
