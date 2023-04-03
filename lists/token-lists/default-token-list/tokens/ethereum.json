@@ -1408,6 +1408,14 @@
     "symbol": "HOPR"
   },
   {
+    "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84.jpg",
+    "name": "Hippopotamus",
+    "symbol": "HPO"
+  },
+  {
     "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
     "chainId": 1,
     "decimals": 8,
