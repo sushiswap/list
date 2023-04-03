@@ -2988,6 +2988,14 @@
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc.jpg",
+    "name": "tBTC (deprecated)",
+    "symbol": "tBTC v1"
+  },
+  {
+    "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc2.jpg",
     "name": "tBTC",
     "symbol": "tBTC"
   },
