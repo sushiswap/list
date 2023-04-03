@@ -488,6 +488,14 @@
     "symbol": "MKR"
   },
   {
+    "address": "0x27D8De4c30ffDE34e982482AE504fC7F23061f61",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x27D8De4c30ffDE34e982482AE504fC7F23061f61.jpg",
+    "name": "MyMetaTrader Token",
+    "symbol": "MMT"
+  },
+  {
     "address": "0x1FAe2A29940015632f2a6CE006dFA7E3225515A7",
     "chainId": 42161,
     "decimals": 9,
