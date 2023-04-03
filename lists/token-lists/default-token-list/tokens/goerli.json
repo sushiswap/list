@@ -21,5 +21,12 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png",
     "name": "Wrapped Ether",
     "symbol": "WETH"
+  },
+  {
+    "address": "0xa62DAEfbd66364528F9De67799225470c1cd2eEf",
+    "chainId": 5,
+    "decimals": 18,
+    "name": "TestToken",
+    "symbol": "TT"
   }
 ]
