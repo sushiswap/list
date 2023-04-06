@@ -1272,6 +1272,14 @@
     "symbol": "USV"
   },
   {
+    "address": "0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c.jpg",
+    "name": "VAIOT Token",
+    "symbol": "VAI"
+  },
+  {
     "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
     "chainId": 137,
     "decimals": 18,
