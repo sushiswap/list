@@ -696,6 +696,14 @@
     "symbol": "USDX"
   },
   {
+    "address": "0x91d6d6aF7635B7b23A8CED9508117965180e2362",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x91d6d6aF7635B7b23A8CED9508117965180e2362.jpg",
+    "name": "unshETHing_Token",
+    "symbol": "USH"
+  },
+  {
     "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
     "chainId": 56,
     "decimals": 18,
