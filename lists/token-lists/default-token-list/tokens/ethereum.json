@@ -3208,6 +3208,14 @@
     "symbol": "USDT"
   },
   {
+    "address": "0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48.jpg",
+    "name": "unshETHing_Token",
+    "symbol": "USH"
+  },
+  {
     "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
     "chainId": 1,
     "decimals": 18,
