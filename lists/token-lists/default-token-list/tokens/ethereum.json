@@ -3168,6 +3168,14 @@
     "symbol": "UNI"
   },
   {
+    "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef.jpg",
+    "name": "unshETH Ether",
+    "symbol": "unshETH"
+  },
+  {
     "address": "0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F",
     "chainId": 1,
     "decimals": 18,
