@@ -616,6 +616,14 @@
     "symbol": "IRON"
   },
   {
+    "address": "0x449460B019eC80787660E665AAe42b920A33764F",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x449460B019eC80787660E665AAe42b920A33764F.jpg",
+    "name": "Isekai Legends",
+    "symbol": "ISEKAI"
+  },
+  {
     "address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c",
     "chainId": 137,
     "decimals": 18,
