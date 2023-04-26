@@ -627,7 +627,7 @@
     "address": "0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629.jpg",
     "name": "Cigarette Token",
     "symbol": "CIG"
   },
