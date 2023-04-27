@@ -3670,5 +3670,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
     "name": "0x",
     "symbol": "ZRX"
+  },
+   {
+    "address": "0x2c022e58c5e3ee213f06f975fd8a0d3a6fe9ca1c",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://cdn.shopify.com/s/files/1/0691/8304/5906/files/Logo_200x200_05bda038-241e-49fa-a179-9547937a1cee.png?v=1678019992",
+    "name": "Formula Inu",
+    "symbol": "FINU"
   }
 ]
