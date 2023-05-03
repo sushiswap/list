@@ -1168,6 +1168,14 @@
     "symbol": "TETU"
   },
   {
+    "address": "0x9B034262e0095210ab9ddec60199741a8a1FbFe7",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x9B034262e0095210ab9ddec60199741a8a1FbFe7.jpg",
+    "name": "ThreeCoin",
+    "symbol": "THREE"
+  },
+  {
     "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
     "chainId": 137,
     "decimals": 18,
