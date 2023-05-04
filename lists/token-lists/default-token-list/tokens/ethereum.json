@@ -3392,6 +3392,14 @@
     "symbol": "wNXM"
   },
   {
+    "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDcEe70654261AF21C44c093C300eD3Bb97b78192.jpg",
+    "name": "Wrapped OETH",
+    "symbol": "WOETH"
+  },
+  {
     "address": "0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
     "chainId": 1,
     "decimals": 18,
