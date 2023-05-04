@@ -488,6 +488,14 @@
     "symbol": "MKR"
   },
   {
+    "address": "0xB261104A83887aE92392Fb5CE5899fCFe5481456",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xB261104A83887aE92392Fb5CE5899fCFe5481456.jpg",
+    "name": "NFTEarth",
+    "symbol": "NFTE"
+  },
+  {
     "address": "0x1FAe2A29940015632f2a6CE006dFA7E3225515A7",
     "chainId": 42161,
     "decimals": 9,
