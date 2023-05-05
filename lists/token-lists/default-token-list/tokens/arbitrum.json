@@ -544,6 +544,14 @@
     "symbol": "PANA"
   },
   {
+    "address": "0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05.jpg",
+    "name": "Pepe",
+    "symbol": "PEPE"
+  },
+  {
     "address": "0x3642c0680329ae3e103E2B5AB29DDfed4d43CBE5",
     "chainId": 42161,
     "decimals": 18,
