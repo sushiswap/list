@@ -704,6 +704,14 @@
     "symbol": "TCR"
   },
   {
+    "address": "0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a/logo.png",
+    "name": "Turbo",
+    "symbol": "TURBO"
+  },
+  {
     "address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
     "chainId": 42161,
     "decimals": 9,
