@@ -1088,6 +1088,14 @@
     "symbol": "ROY"
   },
   {
+    "address": "0x5dD175A4242afE19e5c1051d8cd13Fc8979f2329",
+    "chainId": 137,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5dD175A4242afE19e5c1051d8cd13Fc8979f2329.jpg",
+    "name": "REVERSE",
+    "symbol": "RVRS"
+  },
+  {
     "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
     "chainId": 137,
     "decimals": 18,
