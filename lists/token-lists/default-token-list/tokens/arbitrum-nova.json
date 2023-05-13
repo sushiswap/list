@@ -8,6 +8,14 @@
     "symbol": "ARB"
   },
   {
+    "address": "0x5B7B5C5B3D5C4eD1D48564D1DD9178cE4fd5D33a",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x5B7B5C5B3D5C4eD1D48564D1DD9178cE4fd5D33a.jpg",
+    "name": "BOBO X PEPE",
+    "symbol": "BOPE"
+  },
+  {
     "address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
     "chainId": 42170,
     "decimals": 18,
@@ -24,6 +32,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
+    "name": "DPSDoubloon",
+    "symbol": "DOUBLOON"
+  },
+  {
     "address": "0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0",
     "chainId": 42170,
     "decimals": 18,
@@ -32,12 +48,28 @@
     "symbol": "MOON"
   },
   {
+    "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
+    "name": "DPS Rum",
+    "symbol": "RUM"
+  },
+  {
     "address": "0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011",
     "chainId": 42170,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011.jpg",
     "name": "SushiToken",
     "symbol": "SUSHI"
+  },
+  {
+    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844.jpg",
+    "name": "TreasureMaps",
+    "symbol": "TMAP"
   },
   {
     "address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
@@ -70,29 +102,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
-  },
-  {
-    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-    "chainId": 42170,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844.jpg",
-    "name": "TreasureMaps",
-    "symbol": "TMAP"
-  },
-  {
-    "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-    "chainId": 42170,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
-    "name": "DPSDoubloon",
-    "symbol": "DOUBLOON"
-  },
-  {
-    "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-    "chainId": 42170,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
-    "name": "DPS Rum",
-    "symbol": "RUM"
   }
 ]
