@@ -2160,6 +2160,14 @@
     "symbol": "OCEAN"
   },
   {
+    "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3.jpg",
+    "name": "Origin Ether",
+    "symbol": "OETH"
+  },
+  {
     "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
     "chainId": 1,
     "decimals": 18,
