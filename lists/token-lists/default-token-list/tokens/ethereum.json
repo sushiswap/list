@@ -3027,7 +3027,7 @@
     "address": "0x00000000441378008EA67F4284A57932B1c000a5",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12724/large/TGBP.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x00000000441378008EA67F4284A57932B1c000a5.jpg",
     "name": "TrueGBP",
     "symbol": "TGBP"
   },
