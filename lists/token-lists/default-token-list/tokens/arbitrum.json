@@ -616,6 +616,14 @@
     "symbol": "RDNT"
   },
   {
+    "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3082CC23568eA640225c2467653dB90e9250AaA0.jpg",
+    "name": "Radiant",
+    "symbol": "RDNT"
+  },
+  {
     "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
     "chainId": 42161,
     "decimals": 18,
