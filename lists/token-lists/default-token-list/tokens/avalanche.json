@@ -83,7 +83,7 @@
     "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
     "chainId": 43114,
     "decimals": 18,
-    "logoURI": "https://snowtrace.io/token/images/traderjoe_32.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.jpg",
     "name": "JoeToken",
     "symbol": "JOE"
   },
