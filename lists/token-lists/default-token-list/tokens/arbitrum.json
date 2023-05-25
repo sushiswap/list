@@ -304,6 +304,14 @@
     "symbol": "GMX"
   },
   {
+    "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.jpg",
+    "name": "GMX",
+    "symbol": "GMX"
+  },
+  {
     "address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
     "chainId": 42161,
     "decimals": 18,
