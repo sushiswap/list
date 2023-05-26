@@ -560,6 +560,14 @@
     "symbol": "PEPE"
   },
   {
+    "address": "0x753D224bCf9AAFaCD81558c32341416df61D3DAC",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x753D224bCf9AAFaCD81558c32341416df61D3DAC.jpg",
+    "name": "Perpetual",
+    "symbol": "PERP"
+  },
+  {
     "address": "0x3642c0680329ae3e103E2B5AB29DDfed4d43CBE5",
     "chainId": 42161,
     "decimals": 18,
