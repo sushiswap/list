@@ -96,6 +96,14 @@
     "symbol": "AX"
   },
   {
+    "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
     "address": "0x1221591c1d77A9c334aBb0fe530ae6EE3aF51Af9",
     "chainId": 137,
     "decimals": 18,
