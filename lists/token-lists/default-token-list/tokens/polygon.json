@@ -424,6 +424,14 @@
     "symbol": "ETH2X-FLI-P"
   },
   {
+    "address": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
+    "chainId": 137,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xE111178A87A3BFf0c8d18DECBa5798827539Ae99.jpg",
+    "name": "STASIS EURS Token (PoS)",
+    "symbol": "EURS"
+  },
+  {
     "address": "0xD125443F38A69d776177c2B9c041f462936F8218",
     "chainId": 137,
     "decimals": 18,
