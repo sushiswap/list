@@ -464,6 +464,14 @@
     "symbol": "FRAX"
   },
   {
+    "address": "0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1.jpg",
+    "name": "Fantom Token (PoS)",
+    "symbol": "FTM"
+  },
+  {
     "address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
     "chainId": 137,
     "decimals": 18,
