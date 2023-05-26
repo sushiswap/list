@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f.jpg",
+    "name": "1Inch (PoS)",
+    "symbol": "1INCH"
+  },
+  {
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "chainId": 137,
     "decimals": 18,
