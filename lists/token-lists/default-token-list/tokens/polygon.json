@@ -1430,5 +1430,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc.jpg",
     "name": "ZED RUN",
     "symbol": "ZED"
+  },
+  {
+    "address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5.jpg",
+    "name": "0x Protocol Token (PoS)",
+    "symbol": "ZRX"
   }
 ]
