@@ -440,6 +440,14 @@
     "symbol": "lqETH"
   },
   {
+    "address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE.jpg",
+    "name": "LoopringCoin V2",
+    "symbol": "LRC"
+  },
+  {
     "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
     "chainId": 42161,
     "decimals": 18,
