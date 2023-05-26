@@ -96,6 +96,14 @@
     "symbol": "AX"
   },
   {
+    "address": "0x6e4E624106Cb12E168E6533F8ec7c82263358940",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6e4E624106Cb12E168E6533F8ec7c82263358940.jpg",
+    "name": "Axelar",
+    "symbol": "AXL"
+  },
+  {
     "address": "0x1221591c1d77A9c334aBb0fe530ae6EE3aF51Af9",
     "chainId": 137,
     "decimals": 18,
