@@ -632,6 +632,14 @@
     "symbol": "RGT"
   },
   {
+    "address": "0x5298060A95205BE6Dd4aBc21910A4bB23D6DCD8b",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x5298060A95205BE6Dd4aBc21910A4bB23D6DCD8b.jpg",
+    "name": "Route",
+    "symbol": "ROUTE"
+  },
+  {
     "address": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
     "chainId": 42161,
     "decimals": 18,
