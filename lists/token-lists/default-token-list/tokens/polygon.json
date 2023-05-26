@@ -824,6 +824,14 @@
     "symbol": "OMEN"
   },
   {
+    "address": "0x62414D03084EeB269E18C970a21f45D2967F0170",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x62414D03084EeB269E18C970a21f45D2967F0170.jpg",
+    "name": "OMGToken (PoS)",
+    "symbol": "OMG"
+  },
+  {
     "address": "0xCd150B1F528F326f5194c012f32Eb30135C7C2c9",
     "chainId": 137,
     "decimals": 18,
