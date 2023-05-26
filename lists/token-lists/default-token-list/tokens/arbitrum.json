@@ -283,7 +283,7 @@
     "address": "0xBDeF0E9ef12E689F366fe494A7A7D0dad25D9286",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fuse.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xBDeF0E9ef12E689F366fe494A7A7D0dad25D9286.jpg",
     "name": "Fuse Token",
     "symbol": "FUSE"
   },
