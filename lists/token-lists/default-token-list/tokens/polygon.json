@@ -832,6 +832,14 @@
     "symbol": "OOKI"
   },
   {
+    "address": "0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff.jpg",
+    "name": "Orbs (PoS)",
+    "symbol": "ORBS"
+  },
+  {
     "address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
     "chainId": 137,
     "decimals": 18,
