@@ -168,6 +168,14 @@
     "symbol": "oldWETH"
   },
   {
+    "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xfB98B335551a418cD0737375a2ea0ded62Ea213b.jpg",
+    "name": "Pendle",
+    "symbol": "PENDLE"
+  },
+  {
     "address": "0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE",
     "chainId": 43114,
     "decimals": 18,
