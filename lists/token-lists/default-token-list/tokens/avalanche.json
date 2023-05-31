@@ -8,6 +8,14 @@
     "symbol": "AAVE"
   },
   {
+    "address": "0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE.jpg",
+    "name": "Ankr Network",
+    "symbol": "ANKR"
+  },
+  {
     "address": "0x63682bDC5f875e9bF69E201550658492C9763F89",
     "chainId": 43114,
     "decimals": 18,
