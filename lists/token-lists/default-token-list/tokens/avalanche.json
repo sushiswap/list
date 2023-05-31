@@ -168,6 +168,14 @@
     "symbol": "oldWETH"
   },
   {
+    "address": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d.jpg",
+    "name": "Rai Reflex Index",
+    "symbol": "RAI"
+  },
+  {
     "address": "0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE",
     "chainId": 43114,
     "decimals": 18,
