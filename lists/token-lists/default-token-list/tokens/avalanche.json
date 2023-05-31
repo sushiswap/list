@@ -310,5 +310,13 @@
     "logoURI": "https://snowtrace.io/token/images/xjoe_32.png",
     "name": "JoeBar",
     "symbol": "xJOE"
+  },
+  {
+    "address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x596fA47043f99A4e0F122243B841E55375cdE0d2.jpg",
+    "name": "ZRX",
+    "symbol": "ZRX.e"
   }
 ]
