@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xd501281565bf7789224523144Fe5D98e8B28f267.jpg",
+    "name": "1INCH Token",
+    "symbol": "1INCH.e"
+  },
+  {
     "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
     "chainId": 43114,
     "decimals": 18,
