@@ -21,6 +21,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "pnpm"
       - name: Install dependencies & sync database
-        env: DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        env: 
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
         run: pnpm install && pnpm run syncDB
         working-directory: "./lists/token-lists/default-token-list"
