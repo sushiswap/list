@@ -3000,6 +3000,14 @@
     "symbol": "tBTC"
   },
   {
+    "address": "0x00000100F2A2bd000715001920eB70D229700085",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x00000100F2A2bd000715001920eB70D229700085.jpg",
+    "name": "TrueCAD",
+    "symbol": "TCAD"
+  },
+  {
     "address": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
     "chainId": 1,
     "decimals": 18,
