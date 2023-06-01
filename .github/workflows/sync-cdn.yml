@@ -21,6 +21,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "pnpm"
       - name: Install dependencies & sync CDN
-        env: CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
+        env: 
+          CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
         run: pnpm install && pnpm run syncCDN
         working-directory: "./logos/token-logos"
