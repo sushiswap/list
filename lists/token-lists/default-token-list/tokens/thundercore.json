@@ -8,6 +8,14 @@
     "symbol": "Dolphin"
   },
   {
+    "address": "0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA.jpg",
+    "name": "Farm Thunder Token",
+    "symbol": "FTT"
+  },
+  {
     "address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
     "chainId": 108,
     "decimals": 18,
