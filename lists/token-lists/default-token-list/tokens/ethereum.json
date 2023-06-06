@@ -2808,6 +2808,14 @@
     "symbol": "SPS"
   },
   {
+    "address": "0x8d137e3337eb1B58A222Fef2B2Cc7C423903d9cf",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8d137e3337eb1B58A222Fef2B2Cc7C423903d9cf.jpg",
+    "name": "Chromie Squiggle",
+    "symbol": "SQGL"
+  },
+  {
     "address": "0x21ad647b8F4Fe333212e735bfC1F36B4941E6Ad2",
     "chainId": 1,
     "decimals": 9,
