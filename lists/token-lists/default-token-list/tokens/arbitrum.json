@@ -304,6 +304,14 @@
     "symbol": "GMX"
   },
   {
+    "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.jpg",
+    "name": "GMX",
+    "symbol": "GMX"
+  },
+  {
     "address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
     "chainId": 42161,
     "decimals": 18,
@@ -350,6 +358,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png",
     "name": "Hundred Finance",
     "symbol": "HND"
+  },
+  {
+    "address": "0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf.jpg",
+    "name": "Honor World Token",
+    "symbol": "HWT"
   },
   {
     "address": "0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c",
@@ -488,14 +504,6 @@
     "symbol": "MIM"
   },
   {
-    "address": "0x2e9a6Df78E42a30712c10a9Dc4b1C8656f8F2879",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mkr.jpg",
-    "name": "Maker",
-    "symbol": "MKR"
-  },
-  {
     "address": "0xB261104A83887aE92392Fb5CE5899fCFe5481456",
     "chainId": 42161,
     "decimals": 18,
@@ -544,12 +552,44 @@
     "symbol": "O3"
   },
   {
+    "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853.jpg",
+    "name": "Poison.Finance Apple Potion",
+    "symbol": "pAAPL"
+  },
+  {
+    "address": "0xE656165d39419C03D588515c835d109E19221e1E",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xE656165d39419C03D588515c835d109E19221e1E.jpg",
+    "name": "Poison.Finance Amazon Potion",
+    "symbol": "pAMZN"
+  },
+  {
+    "address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1.jpg",
+    "name": "OpenLeverage",
+    "symbol": "OLE"
+  },
+  {
     "address": "0x369eB8197062093a20402935D3a707b4aE414E9D",
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x369eB8197062093a20402935D3a707b4aE414E9D.jpg",
     "name": "Pana DAO",
     "symbol": "PANA"
+  },
+  {
+    "address": "0xF602A45812040D90B202355bdc05438918CD3FE3",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF602A45812040D90B202355bdc05438918CD3FE3.jpg",
+    "name": "Poison.Finance Gold Potion",
+    "symbol": "pGOLD"
   },
   {
     "address": "0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05",
@@ -592,6 +632,14 @@
     "symbol": "plsJONES"
   },
   {
+    "address": "0xb816688E4B70C9076BD87d45b5309F205ec2cf5f",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xb816688E4B70C9076BD87d45b5309F205ec2cf5f.jpg",
+    "name": "Poison.Finance Oil Potion",
+    "symbol": "pOIL"
+  },
+  {
     "address": "0x78055dAA07035Aa5EBC3e5139C281Ce6312E1b22",
     "chainId": 42161,
     "decimals": 18,
@@ -608,10 +656,34 @@
     "symbol": "PREMIA"
   },
   {
+    "address": "0x867B1Cd06039Eb70385788a048B57F6d4fDC5Dbb",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x867B1Cd06039Eb70385788a048B57F6d4fDC5Dbb.jpg",
+    "name": "Poison.Finance Silver Potion",
+    "symbol": "pSLVR"
+  },
+  {
+    "address": "0x8DCD3393a6e48E898A60e05baeC0d568df128F89",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8DCD3393a6e48E898A60e05baeC0d568df128F89.jpg",
+    "name": "Poison.Finance Tesla Potion",
+    "symbol": "pTSLA"
+  },
+  {
     "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017.jpg",
+    "name": "Radiant",
+    "symbol": "RDNT"
+  },
+  {
+    "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3082CC23568eA640225c2467653dB90e9250AaA0.jpg",
     "name": "Radiant",
     "symbol": "RDNT"
   },
@@ -760,6 +832,14 @@
     "symbol": "USX"
   },
   {
+    "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/vela.jpg",
+    "name": "Vela Exchange",
+    "symbol": "VELA"
+  },
+  {
     "address": "0x995C235521820f2637303Ca1970c7c044583df44",
     "chainId": 42161,
     "decimals": 18,
@@ -814,5 +894,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xdb96f8efd6865644993505318cc08FF9C42fb9aC/logo.png",
     "name": "ZeroTwOhm",
     "symbol": "Z2O"
+  },
+  {
+    "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
+    "chainId": 42161,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xcF985abA4647a432E60efcEeB8054BBd64244305.jpg",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe"
   }
 ]

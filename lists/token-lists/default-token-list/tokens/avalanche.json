@@ -16,6 +16,14 @@
     "symbol": "BSGG"
   },
   {
+    "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "chainId": 43114,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50.jpg",
+    "name": "Bitcoin",
+    "symbol": "BTC.b"
+  },
+  {
     "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
     "chainId": 43114,
     "decimals": 18,
@@ -56,6 +64,14 @@
     "symbol": "FXS"
   },
   {
+    "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661.jpg",
+    "name": "GMX",
+    "symbol": "GMX"
+  },
+  {
     "address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
     "chainId": 43114,
     "decimals": 18,
@@ -83,7 +99,7 @@
     "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
     "chainId": 43114,
     "decimals": 18,
-    "logoURI": "https://snowtrace.io/token/images/traderjoe_32.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.jpg",
     "name": "JoeToken",
     "symbol": "JOE"
   },

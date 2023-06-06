@@ -1,20 +1,15 @@
-name: "Test Token Logos"
+name: "Sync CDN"
 on:
   push:
     branches:
       - master
-    paths:
-      - "logos/token-logos/network/**/**"
-  pull_request:
-    paths:
-      - "logos/token-logos/network/**/**"
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 jobs:
-  test:
+  sync-cdn:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-       node-version: [18]
+        node-version: [18]
     steps:
       - uses: actions/checkout@v2
       - uses: pnpm/action-setup@v2.1.0
@@ -24,7 +19,9 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
-          cache: 'pnpm'
-      - name: Install dependencies and test
-        run: pnpm install && pnpm test
-        working-directory: './logos/token-logos'
+          cache: "pnpm"
+      - name: Install dependencies & sync CDN
+        env: 
+          CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
+        run: pnpm install && pnpm run syncCDN
+        working-directory: "./logos/token-logos"
