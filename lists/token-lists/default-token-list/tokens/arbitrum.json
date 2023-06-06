@@ -560,6 +560,14 @@
     "symbol": "PANA"
   },
   {
+    "address": "0xF602A45812040D90B202355bdc05438918CD3FE3",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF602A45812040D90B202355bdc05438918CD3FE3.jpg",
+    "name": "Poison.Finance Gold Potion",
+    "symbol": "pGOLD"
+  },
+  {
     "address": "0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05",
     "chainId": 42161,
     "decimals": 18,
