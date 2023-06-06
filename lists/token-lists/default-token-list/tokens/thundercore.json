@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xD3e916699dA7266EF673d10342334e25cfFc2Ab6",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xD3e916699dA7266EF673d10342334e25cfFc2Ab6.jpg",
+    "name": "Dolphin",
+    "symbol": "Dolphin"
+  },
+  {
+    "address": "0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039.jpg",
+    "name": "veTT",
+    "symbol": "veTT"
+  },
+  {
+    "address": "0x413cEFeA29F2d07B8F2acFA69d92466B9535f717",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x413cEFeA29F2d07B8F2acFA69d92466B9535f717.jpg",
+    "name": "Wrapped Thunder Token",
+    "symbol": "WTT"
+  }
+]
