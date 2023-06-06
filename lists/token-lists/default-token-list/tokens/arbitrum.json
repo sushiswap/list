@@ -360,6 +360,14 @@
     "symbol": "HND"
   },
   {
+    "address": "0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf.jpg",
+    "name": "Honor World Token",
+    "symbol": "HWT"
+  },
+  {
     "address": "0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c",
     "chainId": 42161,
     "decimals": 18,
