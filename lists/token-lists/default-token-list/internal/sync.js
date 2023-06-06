@@ -4,7 +4,7 @@ const { Octokit } = require("@octokit/rest");
 
 const octokit = new Octokit();
 
-const { ChainId } = require("@sushiswap/core-sdk");
+const { ChainId } = require("@sushiswap/chain");
 
 const fs = require("fs");
 
@@ -42,7 +42,7 @@ const NAME = {
   [ChainId.MOONBEAM]: "moonbeam",
   [ChainId.KAVA]: "kava",
   [ChainId.METIS]: "metis",
-  [ChainId.BOBA_AVAX]: "boba-avax",
+  [ChainId.BOBA_AVAX]: "boba-avax"
 };
 
 (async () => {

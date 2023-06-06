@@ -627,9 +627,17 @@
     "address": "0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629.jpg",
     "name": "Cigarette Token",
     "symbol": "CIG"
+  },
+  {
+    "address": "0x3E828ac5C480069D4765654Fb4b8733b910b13b2",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3E828ac5C480069D4765654Fb4b8733b910b13b2.jpg",
+    "name": "Colony Network Token",
+    "symbol": "CLNY"
   },
   {
     "address": "0x68CFb82Eacb9f198d508B514d898a403c449533E",
@@ -1240,6 +1248,14 @@
     "symbol": "G$"
   },
   {
+    "address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xd1d2Eb1B1e90B638588728b4130137D262C87cae.jpg",
+    "name": "Gala",
+    "symbol": "GALA"
+  },
+  {
     "address": "0xB73758FE1dc58Ac2A255a2950a3Fdd84DA656b84",
     "chainId": 1,
     "decimals": 18,
@@ -1406,6 +1422,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA.jpg",
     "name": "HOPR Token",
     "symbol": "HOPR"
+  },
+  {
+    "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84.jpg",
+    "name": "Hippopotamus",
+    "symbol": "HPO"
   },
   {
     "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
@@ -1952,6 +1976,14 @@
     "symbol": "MMSFT"
   },
   {
+    "address": "0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5.jpg",
+    "name": "moda",
+    "symbol": "MODA"
+  },
+  {
     "address": "0x8888801aF4d980682e47f1A9036e589479e835C5",
     "chainId": 1,
     "decimals": 18,
@@ -2158,6 +2190,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ocean.jpg",
     "name": "Ocean Token",
     "symbol": "OCEAN"
+  },
+  {
+    "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3.jpg",
+    "name": "Origin Ether",
+    "symbol": "OETH"
   },
   {
     "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
@@ -2536,6 +2576,14 @@
     "symbol": "RAY"
   },
   {
+    "address": "0xa35Bd2246978Dfbb1980DFf8Ff0f5834335dFdbc",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa35Bd2246978Dfbb1980DFf8Ff0f5834335dFdbc.jpg",
+    "name": "Remilio Babies",
+    "symbol": "REMIO"
+  },
+  {
     "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
     "chainId": 1,
     "decimals": 18,
@@ -2792,6 +2840,14 @@
     "symbol": "SPS"
   },
   {
+    "address": "0x8d137e3337eb1B58A222Fef2B2Cc7C423903d9cf",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8d137e3337eb1B58A222Fef2B2Cc7C423903d9cf.jpg",
+    "name": "Chromie Squiggle",
+    "symbol": "SQGL"
+  },
+  {
     "address": "0x21ad647b8F4Fe333212e735bfC1F36B4941E6Ad2",
     "chainId": 1,
     "decimals": 9,
@@ -2988,6 +3044,14 @@
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc.jpg",
+    "name": "tBTC (deprecated)",
+    "symbol": "tBTC v1"
+  },
+  {
+    "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc2.jpg",
     "name": "tBTC",
     "symbol": "tBTC"
   },
@@ -3126,6 +3190,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0000000000085d4780B73119b644AE5ecd22b376.jpg",
     "name": "TrueUSD",
     "symbol": "TUSD"
+  },
+  {
+    "address": "0x1e0275806C3CD0bDb5C99916A064d36b5e8eAE8d",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1e0275806C3CD0bDb5C99916A064d36b5e8eAE8d.jpg",
+    "name": "TwoCoin",
+    "symbol": "TWO"
   },
   {
     "address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
@@ -3390,6 +3462,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wnxm.jpg",
     "name": "Wrapped NXM",
     "symbol": "wNXM"
+  },
+  {
+    "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDcEe70654261AF21C44c093C300eD3Bb97b78192.jpg",
+    "name": "Wrapped OETH",
+    "symbol": "WOETH"
   },
   {
     "address": "0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
@@ -3670,5 +3750,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
     "name": "0x",
     "symbol": "ZRX"
+  },
+  {
+    "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/euroe.jpg",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe"
   }
 ]

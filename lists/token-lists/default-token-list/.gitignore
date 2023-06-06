@@ -4,3 +4,4 @@ build/
 generated/
 
 volumes.xlsx
+.env
