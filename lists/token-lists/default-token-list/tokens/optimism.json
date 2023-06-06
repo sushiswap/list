@@ -377,14 +377,6 @@
   },
   {
     "chainId": 10,
-    "address": "0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B",
-    "name": "SushiToken",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B.jpg"
-  },
-  {
-    "chainId": 10,
     "address": "0xEf6301DA234fC7b0545c6E877D3359FE0B9E50a4",
     "name": "SUKU",
     "symbol": "SUKU",
@@ -398,6 +390,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9.jpg",
     "name": "Synth sUSD",
     "symbol": "sUSD"
+  },
+  {
+    "chainId": 10,
+    "address": "0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B",
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B.jpg"
   },
   {
     "chainId": 10,
