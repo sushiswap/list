@@ -2560,6 +2560,14 @@
     "symbol": "RAY"
   },
   {
+    "address": "0xa35Bd2246978Dfbb1980DFf8Ff0f5834335dFdbc",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa35Bd2246978Dfbb1980DFf8Ff0f5834335dFdbc.jpg",
+    "name": "Remilio Babies",
+    "symbol": "REMIO"
+  },
+  {
     "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
     "chainId": 1,
     "decimals": 18,
