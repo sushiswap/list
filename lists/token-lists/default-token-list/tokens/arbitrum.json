@@ -544,6 +544,14 @@
     "symbol": "O3"
   },
   {
+    "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853.jpg",
+    "name": "Poison.Finance Apple Potion",
+    "symbol": "pAAPL"
+  },
+  {
     "address": "0xE656165d39419C03D588515c835d109E19221e1E",
     "chainId": 42161,
     "decimals": 18,
