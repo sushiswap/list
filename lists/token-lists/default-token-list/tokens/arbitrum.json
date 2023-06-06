@@ -544,6 +544,14 @@
     "symbol": "O3"
   },
   {
+    "address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1.jpg",
+    "name": "OpenLeverage",
+    "symbol": "OLE"
+  },
+  {
     "address": "0x369eB8197062093a20402935D3a707b4aE414E9D",
     "chainId": 42161,
     "decimals": 18,
