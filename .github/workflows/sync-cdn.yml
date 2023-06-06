@@ -1,29 +1,27 @@
-name: "Test Default Token List"
+name: "Sync CDN"
 on:
   push:
     branches:
       - master
-    paths:
-      - "lists/token-lists/default-token-list/tokens/**"
-  pull_request:
-    paths:
-      - "lists/token-lists/default-token-list/tokens/**"
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 jobs:
-  test:
+  sync-cdn:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [16]
+        node-version: [18]
     steps:
       - uses: actions/checkout@v2
       - uses: pnpm/action-setup@v2.1.0
         with:
-          version: latest
+          version: 7
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
-          cache: 'pnpm'
-      - run: pnpm install && pnpm build && pnpm test
-        working-directory: './lists/token-lists/default-token-list'
+          cache: "pnpm"
+      - name: Install dependencies & sync CDN
+        env: 
+          CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
+        run: pnpm install && pnpm run syncCDN
+        working-directory: "./logos/token-logos"

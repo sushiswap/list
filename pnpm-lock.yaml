@@ -12,7 +12,7 @@ importers:
       '@changesets/cli': 2.22.0
       '@sushiswap/prettier-config': 0.1.0_prettier@2.6.2
       prettier: 2.6.2
-      turbo: 1.5.6
+      turbo: 1.10.1
 
   lists/pair-lists/limit-order-pair-list:
     specifiers:
@@ -77,7 +77,8 @@ importers:
       '@ethersproject/address': ^5.0.2
       '@ethersproject/solidity': ^5.3.0
       '@octokit/rest': ^18.6.2
-      '@sushiswap/core-sdk': ^1.0.0-canary.134
+      '@prisma/client': 4.15.0
+      '@sushiswap/chain': 0.1.0
       '@types/node': ^17.0.21
       '@uniswap/token-lists': 1.0.0-beta.30
       ajv: ^6.12.3
@@ -88,15 +89,18 @@ importers:
       graphql-request: ^4.1.0
       lodash: ^4.17.21
       mocha: ^8.0.1
+      prisma: ^4.15.0
       rimraf: ^3.0.2
       ts-node: ^10.7.0
       typescript: ^4.6.2
       xlsx: ^0.17.0
+      zod: ^3.21.4
     devDependencies:
       '@ethersproject/address': 5.6.0
       '@ethersproject/solidity': 5.6.0
       '@octokit/rest': 18.12.0
-      '@sushiswap/core-sdk': 1.0.0-canary.134
+      '@prisma/client': 4.15.0_prisma@4.15.0
+      '@sushiswap/chain': 0.1.0
       '@types/node': 17.0.21
       '@uniswap/token-lists': 1.0.0-beta.30
       ajv: 6.12.6
@@ -107,10 +111,12 @@ importers:
       graphql-request: 4.1.0_graphql@16.3.0
       lodash: 4.17.21
       mocha: 8.4.0
+      prisma: 4.15.0
       rimraf: 3.0.2
       ts-node: 10.7.0_46pgf7sfaob72lkbqjt5y5pgiu
       typescript: 4.6.2
       xlsx: 0.17.5
+      zod: 3.21.4
 
   lists/token-lists/testnet-token-list:
     specifiers:
@@ -137,22 +143,26 @@ importers:
   logos/token-logos:
     specifiers:
       '@ethersproject/address': ^5.5.0
+      '@sushiswap/chain': 0.1.0
       '@sushiswap/core-sdk': ^1.0.0-canary.22
       '@types/jest': ^27.0.1
       '@types/node': ^17.0.21
       cloudinary: ^1.32.0
       commander: ^8.3.0
+      dotenv: ^16.1.1
       image-size: ^1.0.0
       jest: ^27.2.0
       ts-node: ^10.2.1
       typescript: ^4.4.3
     devDependencies:
       '@ethersproject/address': 5.6.0
+      '@sushiswap/chain': 0.1.0
       '@sushiswap/core-sdk': 1.0.0-canary.89
       '@types/jest': 27.4.1
       '@types/node': 17.0.21
       cloudinary: 1.32.0
       commander: 8.3.0
+      dotenv: 16.1.3
       image-size: 1.0.1
       jest: 27.5.1_ts-node@10.7.0
       ts-node: 10.7.0_46pgf7sfaob72lkbqjt5y5pgiu
@@ -1314,6 +1324,29 @@ packages:
       '@octokit/openapi-types': 11.2.0
     dev: true
 
+  /@prisma/client/4.15.0_prisma@4.15.0:
+    resolution: {integrity: sha512-xnROvyABcGiwqRNdrObHVZkD9EjkJYHOmVdlKy1yGgI+XOzvMzJ4tRg3dz1pUlsyhKxXGCnjIQjWW+2ur+YXuw==}
+    engines: {node: '>=14.17'}
+    requiresBuild: true
+    peerDependencies:
+      prisma: '*'
+    peerDependenciesMeta:
+      prisma:
+        optional: true
+    dependencies:
+      '@prisma/engines-version': 4.15.0-28.8fbc245156db7124f997f4cecdd8d1219e360944
+      prisma: 4.15.0
+    dev: true
+
+  /@prisma/engines-version/4.15.0-28.8fbc245156db7124f997f4cecdd8d1219e360944:
+    resolution: {integrity: sha512-sVOig4tjGxxlYaFcXgE71f/rtFhzyYrfyfNFUsxCIEJyVKU9rdOWIlIwQ2NQ7PntvGnn+x0XuFo4OC1jvPJKzg==}
+    dev: true
+
+  /@prisma/engines/4.15.0:
+    resolution: {integrity: sha512-FTaOCGs0LL0OW68juZlGxFtYviZa4xdQj/rQEdat2txw0s3Vu/saAPKjNVXfIgUsGXmQ72HPgNr6935/P8FNAA==}
+    requiresBuild: true
+    dev: true
+
   /@sinonjs/commons/1.8.3:
     resolution: {integrity: sha512-xkNcLAn/wZaX14RPlwizcKicDk9G3F8m2nU3L7Ukm5zBgTwiT0wsoFAHx9Jq56fJA1z/7uKGtCRu16sOUCLIHQ==}
     dependencies:
@@ -1326,22 +1359,9 @@ packages:
       '@sinonjs/commons': 1.8.3
     dev: true
 
-  /@sushiswap/core-sdk/1.0.0-canary.134:
-    resolution: {integrity: sha512-v00zPb+UfF+0VdeF317Zh5secc2UWz7kcdtEiqNyMzmd796JZ5l2ayx3DPTjdMis2RlkdM0m4SHkYUwCK6XihA==}
-    dependencies:
-      '@ethersproject/address': 5.6.0
-      '@ethersproject/bignumber': 5.6.0
-      '@ethersproject/providers': 5.6.1
-      '@ethersproject/solidity': 5.6.0
-      big.js: 6.1.1
-      decimal.js-light: 2.5.1
-      jsbi: 4.2.0
-      tiny-invariant: 1.2.0
-      tiny-warning: 1.0.3
-      toformat: 2.0.0
-    transitivePeerDependencies:
-      - bufferutil
-      - utf-8-validate
+  /@sushiswap/chain/0.1.0:
+    resolution: {integrity: sha512-7JHP3Y8thHy2SAtQjCm7A4CgRvn6VnndXnB/GlGhn/7fSc1H4rZ8ubeX3GcFiVyL+qmuro1KKDeDgCDpc7PMgQ==}
+    requiresBuild: true
     dev: true
 
   /@sushiswap/core-sdk/1.0.0-canary.89:
@@ -2307,6 +2327,11 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       webidl-conversions: 5.0.0
+    dev: true
+
+  /dotenv/16.1.3:
+    resolution: {integrity: sha512-FYssxsmCTtKL72fGBSvb1K9dRz0/VZeWqFme/vSb7r7323x4CRaHu4LvQ5JG3+s6yt2YPbBrkpiEODktfyjI9A==}
+    engines: {node: '>=12'}
     dev: true
 
   /electron-to-chromium/1.4.88:
@@ -4365,6 +4390,15 @@ packages:
     hasBin: true
     dev: true
 
+  /prisma/4.15.0:
+    resolution: {integrity: sha512-iKZZpobPl48gTcSZVawLMQ3lEy6BnXwtoMj7hluoGFYu2kQ6F9LBuBrUyF95zRVnNo8/3KzLXJXJ5TEnLSJFiA==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    requiresBuild: true
+    dependencies:
+      '@prisma/engines': 4.15.0
+    dev: true
+
   /prompts/2.4.2:
     resolution: {integrity: sha512-NxNv/kLguCA7p3jE8oL2aEBsrJWgAakBpgmgK6lpPWV+WuOmY6r2/zbAVnP+T8bQlA0nzHXSJSJW0Hq7ylaD2Q==}
     engines: {node: '>= 6'}
@@ -5040,65 +5074,65 @@ packages:
       yargs: 15.4.1
     dev: true
 
-  /turbo-darwin-64/1.5.6:
-    resolution: {integrity: sha512-CWdXMwenBS2+QXIR2Czx7JPnAcoMzWx/QwTDcHVxZyeayMHgz8Oq5AHCtfaHDSfV8YhD3xa0GLSk6+cFt+W8BQ==}
+  /turbo-darwin-64/1.10.1:
+    resolution: {integrity: sha512-isLLoPuAOMNsYovOq9BhuQOZWQuU13zYsW988KkkaA4OJqOn7qwa9V/KBYCJL8uVQqtG+/Y42J37lO8RJjyXuA==}
     cpu: [x64]
     os: [darwin]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-darwin-arm64/1.5.6:
-    resolution: {integrity: sha512-c/aXgW9JuXT2bJSKf01pdSDQKnrdcdj3WFKmKiVldb9We6eqFzI0fLHBK97k5LM/OesmRMfCMQ2Cv2DU8RqBAA==}
+  /turbo-darwin-arm64/1.10.1:
+    resolution: {integrity: sha512-x1nloPR10fLElNCv17BKr0kCx/O5gse/UXAcVscMZH2tvRUtXrdBmut62uw2YU3J9hli2fszYjUWXkulVpQvFA==}
     cpu: [arm64]
     os: [darwin]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-linux-64/1.5.6:
-    resolution: {integrity: sha512-y/jNF7SG+XJEwk2GxIqy3g4dj/a0PgZKDGyOkp24qp4KBRcHBl6dI1ZEfNed30EhEqmW4F5Dr7IpeCZoqgbrMg==}
+  /turbo-linux-64/1.10.1:
+    resolution: {integrity: sha512-abV+ODCeOlz0503OZlHhPWdy3VwJZc1jObf1VQj7uQM+JqJ/kXbMyqJIMQVz+m7QJUFdferYPRxGhYT/NbYK7Q==}
     cpu: [x64]
     os: [linux]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-linux-arm64/1.5.6:
-    resolution: {integrity: sha512-FRcxPtW7eFrbR3QaYBVX8cK7i+2Cerqi6F0t5ulcq+d1OGSdSW3l35rPPyJdwCzCy+k/S9sBcyCV0RtbS6RKCQ==}
+  /turbo-linux-arm64/1.10.1:
+    resolution: {integrity: sha512-zRC3nZbHQ63tofOmbuySzEn1ROISWTkemYYr1L98rpmT5aVa0kERlGiYcfDwZh3cBso/Ylg/wxexRAaPzcCJYQ==}
     cpu: [arm64]
     os: [linux]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-windows-64/1.5.6:
-    resolution: {integrity: sha512-/5KIExY7zbrbeL5fhKGuO85u5VtJ3Ue4kI0MbYCNnTGe7a10yTYkwswgtGihsgEF4AW0Nm0159aHmXZS2Le8IA==}
+  /turbo-windows-64/1.10.1:
+    resolution: {integrity: sha512-Irqz8IU+o7Q/5V44qatZBTunk+FQAOII1hZTsEU54ah62f9Y297K6/LSp+yncmVQOZlFVccXb6MDqcETExIQtA==}
     cpu: [x64]
     os: [win32]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-windows-arm64/1.5.6:
-    resolution: {integrity: sha512-p+LQN9O39+rZuOAyc6BzyVGvdEKo+v+XmtdeyZsZpfj4xuOLtsEptW1w6cUD439u0YcPknuccGq1MQ0lXQ6Xuw==}
+  /turbo-windows-arm64/1.10.1:
+    resolution: {integrity: sha512-124IT15d2gyjC+NEn11pHOaVFvZDRHpxfF+LDUzV7YxfNIfV0mGkR3R/IyVXtQHOgqOdtQTbC4y411sm31+SEw==}
     cpu: [arm64]
     os: [win32]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo/1.5.6:
-    resolution: {integrity: sha512-xJO/fhiMo4lI62iGR9OgUfJTC9tnnuoMwNC52IfvvBDEPlA8RWGMS8SFpDVG9bNCXvVRrtUTNJXMe6pJWBiOTA==}
+  /turbo/1.10.1:
+    resolution: {integrity: sha512-wq0YeSv6P/eEDXOL42jkMUr+T4z34dM8mdHu5u6C6OOAq8JuLJ72F/v4EVR1JmY8icyTkFz10ICLV0haUUYhbQ==}
     hasBin: true
     requiresBuild: true
     optionalDependencies:
-      turbo-darwin-64: 1.5.6
-      turbo-darwin-arm64: 1.5.6
-      turbo-linux-64: 1.5.6
-      turbo-linux-arm64: 1.5.6
-      turbo-windows-64: 1.5.6
-      turbo-windows-arm64: 1.5.6
+      turbo-darwin-64: 1.10.1
+      turbo-darwin-arm64: 1.10.1
+      turbo-linux-64: 1.10.1
+      turbo-linux-arm64: 1.10.1
+      turbo-windows-64: 1.10.1
+      turbo-windows-arm64: 1.10.1
     dev: true
 
   /type-check/0.3.2:
@@ -5483,4 +5517,8 @@ packages:
   /yocto-queue/0.1.0:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
+    dev: true
+
+  /zod/3.21.4:
+    resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
     dev: true
