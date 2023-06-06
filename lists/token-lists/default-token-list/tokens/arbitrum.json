@@ -648,6 +648,14 @@
     "symbol": "PREMIA"
   },
   {
+    "address": "0x867B1Cd06039Eb70385788a048B57F6d4fDC5Dbb",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x867B1Cd06039Eb70385788a048B57F6d4fDC5Dbb.jpg",
+    "name": "Poison.Finance Silver Potion",
+    "symbol": "pSLVR"
+  },
+  {
     "address": "0x8DCD3393a6e48E898A60e05baeC0d568df128F89",
     "chainId": 42161,
     "decimals": 18,
