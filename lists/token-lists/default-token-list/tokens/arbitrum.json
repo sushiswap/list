@@ -616,6 +616,14 @@
     "symbol": "PREMIA"
   },
   {
+    "address": "0x8DCD3393a6e48E898A60e05baeC0d568df128F89",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8DCD3393a6e48E898A60e05baeC0d568df128F89.jpg",
+    "name": "Poison.Finance Tesla Potion",
+    "symbol": "pTSLA"
+  },
+  {
     "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
     "chainId": 42161,
     "decimals": 18,
