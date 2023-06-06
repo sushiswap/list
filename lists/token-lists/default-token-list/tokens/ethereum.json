@@ -1968,6 +1968,14 @@
     "symbol": "MMSFT"
   },
   {
+    "address": "0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5.jpg",
+    "name": "moda",
+    "symbol": "MODA"
+  },
+  {
     "address": "0x8888801aF4d980682e47f1A9036e589479e835C5",
     "chainId": 1,
     "decimals": 18,
