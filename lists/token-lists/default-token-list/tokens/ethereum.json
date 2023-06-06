@@ -3045,10 +3045,10 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc.jpg",
     "name": "tBTC (deprecated)",
-    "symbol": "tBTC v1"
+    "symbol": "tBTCv1"
   },
   {
-    "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+    "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc2.jpg",
@@ -3768,7 +3768,7 @@
     "symbol": "ZRX"
   },
   {
-    "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+    "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
     "chainId": 1,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/euroe.jpg",
