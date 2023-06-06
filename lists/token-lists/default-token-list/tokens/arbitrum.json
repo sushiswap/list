@@ -830,5 +830,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xdb96f8efd6865644993505318cc08FF9C42fb9aC/logo.png",
     "name": "ZeroTwOhm",
     "symbol": "Z2O"
+  },
+  {
+    "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
+    "chainId": 42161,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xcF985abA4647a432E60efcEeB8054BBd64244305.jpg",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe"
   }
 ]

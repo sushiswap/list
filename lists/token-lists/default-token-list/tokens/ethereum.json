@@ -3734,5 +3734,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
     "name": "0x",
     "symbol": "ZRX"
+  },
+  {
+    "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/euroe.jpg",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe"
   }
 ]
