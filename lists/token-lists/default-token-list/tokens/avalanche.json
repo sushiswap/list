@@ -8,6 +8,14 @@
     "symbol": "AAVE"
   },
   {
+    "address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588.jpg",
+    "name": "Basic Attention Token",
+    "symbol": "BAT.e"
+  },
+  {
     "address": "0x63682bDC5f875e9bF69E201550658492C9763F89",
     "chainId": 43114,
     "decimals": 18,
