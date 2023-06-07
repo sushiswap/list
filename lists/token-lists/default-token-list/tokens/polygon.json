@@ -24,6 +24,14 @@
     "symbol": "ADDY"
   },
   {
+    "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4.jpg",
+    "name": "agEUR",
+    "symbol": "agEUR"
+  },
+  {
     "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
     "chainId": 137,
     "decimals": 18,
@@ -422,6 +430,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/matic/0x3Ad707dA309f3845cd602059901E39C4dcd66473.jpg",
     "name": "ETH 2x Flexible Leverage Index",
     "symbol": "ETH2X-FLI-P"
+  },
+  {
+    "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x820802Fa8a99901F52e39acD21177b0BE6EE2974.jpg",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe"
   },
   {
     "address": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
@@ -1438,13 +1454,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc.jpg",
     "name": "ZED RUN",
     "symbol": "ZED"
-  },
-  {
-    "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
-    "chainId": 137,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x820802Fa8a99901F52e39acD21177b0BE6EE2974.jpg",
-    "name": "EUROe Stablecoin",
-    "symbol": "EUROe"
   }
 ]
