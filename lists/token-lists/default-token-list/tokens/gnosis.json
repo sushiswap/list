@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0x4b1E2c2762667331Bc91648052F646d1b0d35984.jpg",
+    "name": "agEUR",
+    "symbol": "agEUR"
+  },
+  {
     "address": "0xe68856eb29B2FB39699286CcA7F10f90Ce8AE9De",
     "chainId": 100,
     "decimals": 18,
