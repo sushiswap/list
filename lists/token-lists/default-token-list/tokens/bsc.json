@@ -8,6 +8,14 @@
     "symbol": "ADA"
   },
   {
+    "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89.jpg",
+    "name": "agEUR",
+    "symbol": "agEUR"
+  },
+  {
     "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
     "chainId": 56,
     "decimals": 18,
