@@ -828,7 +828,7 @@
     "chainId": 42161,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
-    "name": "Bridged USD Coin",
+    "name": "Bridged USDC",
     "symbol": "USDC.e"
   },
   {
