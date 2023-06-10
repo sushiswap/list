@@ -8,6 +8,14 @@
     "symbol": "AAVE"
   },
   {
+    "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x511D35c52a3C244E7b8bd92c0C297755FbD89212.jpg",
+    "name": "Avalanche",
+    "symbol": "AVAX"
+  },
+  {
     "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
     "chainId": 250,
     "decimals": 18,
