@@ -360,6 +360,14 @@
     "symbol": "SUSHI"
   },
   {
+    "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x9879aBDea01a879644185341F7aF7d8343556B7a.jpg",
+    "name": "TrueUSD",
+    "symbol": "TUSD"
+  },
+  {
     "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
     "chainId": 250,
     "decimals": 6,
