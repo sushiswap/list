@@ -264,20 +264,20 @@
     "symbol": "LINK"
   },
   {
-    "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
-    "chainId": 250,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
-    "name": "Mai Stablecoin",
-    "symbol": "MAI"
-  },
-  {
     "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
     "chainId": 250,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mim.jpg",
     "name": "Magic Internet Money",
     "symbol": "MIM"
+  },
+  {
+    "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xfB98B335551a418cD0737375a2ea0ded62Ea213b.jpg",
+    "name": "miMATIC",
+    "symbol": "miMATIC"
   },
   {
     "address": "0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443",
