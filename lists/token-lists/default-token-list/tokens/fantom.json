@@ -288,6 +288,14 @@
     "symbol": "nICE"
   },
   {
+    "address": "0xD2cDcB6BdEE6f78DE7988a6A60d13F6eF0b576D9",
+    "chainId": 250,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xD2cDcB6BdEE6f78DE7988a6A60d13F6eF0b576D9.jpg",
+    "name": "Orion Protocol",
+    "symbol": "ORN"
+  },
+  {
     "address": "0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8",
     "chainId": 250,
     "decimals": 18,
