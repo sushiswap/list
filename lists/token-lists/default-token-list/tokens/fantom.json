@@ -8,6 +8,14 @@
     "symbol": "AAVE"
   },
   {
+    "address": "0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1.jpg",
+    "name": "Ankr",
+    "symbol": "ANKR"
+  },
+  {
     "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
     "chainId": 250,
     "decimals": 18,
