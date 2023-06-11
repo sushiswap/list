@@ -24,6 +24,14 @@
     "symbol": "BSGG"
   },
   {
+    "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+    "chainId": 250,
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e.jpg",
+    "name": "Celsius",
+    "symbol": "CEL"
+  },
+  {
     "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
     "chainId": 250,
     "decimals": 18,
