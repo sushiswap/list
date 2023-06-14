@@ -6,7 +6,7 @@ import * as cloudinary from "cloudinary";
 
 const BASE_DIR = "https://cdn.sushi.com/image/upload";
 
-const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 43113 | 108> = {
+const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 43113 | 108 | 1101> = {
   arbitrum: ChainId.ARBITRUM,
   "arbitrum-nova": ChainId.ARBITRUM_NOVA,
   avalanche: ChainId.AVALANCHE,
@@ -34,6 +34,7 @@ const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 43113 | 108> = {
   telos: ChainId.TELOS,
   thundercore: 108,
   xdai: ChainId.GNOSIS,
+  'polygon-zkevm': 1101
 };
 
 syncCDN();

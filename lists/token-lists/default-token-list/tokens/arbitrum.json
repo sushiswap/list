@@ -8,6 +8,14 @@
     "symbol": "ADoge"
   },
   {
+    "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7.jpg",
+    "name": "agEUR",
+    "symbol": "agEUR"
+  },
+  {
     "address": "0x1C7F32699Ff9163f928089C0a4D6EE5Ad5885C6f",
     "chainId": 42161,
     "decimals": 18,
@@ -230,6 +238,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x123389C2f0e9194d9bA98c21E63c375B67614108.jpg",
     "name": "EthereumMax",
     "symbol": "EMAX"
+  },
+  {
+    "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
+    "chainId": 42161,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xcF985abA4647a432E60efcEeB8054BBd64244305.jpg",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe"
   },
   {
     "address": "0x969131D8ddC06C2Be11a13e6E7fACF22CF57d95e",
@@ -552,6 +568,14 @@
     "symbol": "O3"
   },
   {
+    "address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1.jpg",
+    "name": "OpenLeverage",
+    "symbol": "OLE"
+  },
+  {
     "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
     "chainId": 42161,
     "decimals": 18,
@@ -568,14 +592,6 @@
     "symbol": "pAMZN"
   },
   {
-    "address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1.jpg",
-    "name": "OpenLeverage",
-    "symbol": "OLE"
-  },
-  {
     "address": "0x369eB8197062093a20402935D3a707b4aE414E9D",
     "chainId": 42161,
     "decimals": 18,
@@ -584,20 +600,20 @@
     "symbol": "PANA"
   },
   {
-    "address": "0xF602A45812040D90B202355bdc05438918CD3FE3",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF602A45812040D90B202355bdc05438918CD3FE3.jpg",
-    "name": "Poison.Finance Gold Potion",
-    "symbol": "pGOLD"
-  },
-  {
     "address": "0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05",
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05.jpg",
     "name": "Pepe",
     "symbol": "PEPE"
+  },
+  {
+    "address": "0xF602A45812040D90B202355bdc05438918CD3FE3",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF602A45812040D90B202355bdc05438918CD3FE3.jpg",
+    "name": "Poison.Finance Gold Potion",
+    "symbol": "pGOLD"
   },
   {
     "address": "0x3642c0680329ae3e103E2B5AB29DDfed4d43CBE5",
@@ -812,7 +828,15 @@
     "chainId": 42161,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
-    "name": "USD Coin",
+    "name": "Bridged USDC",
+    "symbol": "USDC.e"
+  },
+  {
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "chainId": 42161,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "name": "USD Coin (Native)",
     "symbol": "USDC"
   },
   {
@@ -894,13 +918,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xdb96f8efd6865644993505318cc08FF9C42fb9aC/logo.png",
     "name": "ZeroTwOhm",
     "symbol": "Z2O"
-  },
-  {
-    "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
-    "chainId": 42161,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xcF985abA4647a432E60efcEeB8054BBd64244305.jpg",
-    "name": "EUROe Stablecoin",
-    "symbol": "EUROe"
   }
 ]

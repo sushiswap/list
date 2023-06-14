@@ -24,6 +24,14 @@
     "symbol": "LASER"
   },
   {
+    "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0.jpg",
+    "name": "NFTmall GEM Token",
+    "symbol": "GEM"
+  },
+  {
     "address": "0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0",
     "chainId": 108,
     "decimals": 18,

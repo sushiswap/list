@@ -35,7 +35,7 @@
     "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8.jpg",
     "name": "agEUR",
     "symbol": "agEUR"
   },
@@ -1086,6 +1086,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723/logo.png",
     "name": "Empty Set Dollar",
     "symbol": "ESD"
+  },
+  {
+    "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/euroe.jpg",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe"
   },
   {
     "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
@@ -3040,20 +3048,20 @@
     "symbol": "SYN"
   },
   {
-    "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc.jpg",
-    "name": "tBTC (deprecated)",
-    "symbol": "tBTCv1"
-  },
-  {
     "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc2.jpg",
     "name": "tBTC",
     "symbol": "tBTC"
+  },
+  {
+    "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc.jpg",
+    "name": "tBTC (deprecated)",
+    "symbol": "tBTCv1"
   },
   {
     "address": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
@@ -3766,13 +3774,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
     "name": "0x",
     "symbol": "ZRX"
-  },
-  {
-    "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
-    "chainId": 1,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/euroe.jpg",
-    "name": "EUROe Stablecoin",
-    "symbol": "EUROe"
   }
 ]
