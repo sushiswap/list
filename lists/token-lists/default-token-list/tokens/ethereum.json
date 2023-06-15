@@ -3184,6 +3184,14 @@
     "symbol": "TRX"
   },
   {
+    "address": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5.jpg",
+    "name": "TRON",
+    "symbol": "TRX"
+  },
+  {
     "address": "0xc12eCeE46ed65D970EE5C899FCC7AE133AfF9b03",
     "chainId": 1,
     "decimals": 18,
