@@ -806,5 +806,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zec.jpg",
     "name": "Zcash Token",
     "symbol": "ZEC"
+  },
+  {
+    "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+    "chainId": 56,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.jpg",
+    "name": "Zilliqa",
+    "symbol": "ZIL"
   }
 ]
