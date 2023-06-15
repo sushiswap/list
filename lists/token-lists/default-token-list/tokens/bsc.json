@@ -51,7 +51,7 @@
     "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/cosmos_32.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x0Eb3a705fc54725037CC9e008bDede697f62F335.jpg",
     "name": "Cosmos Token",
     "symbol": "ATOM"
   },
