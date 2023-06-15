@@ -16,6 +16,14 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xAC51066d7bEC65Dc4589368da368b212745d63E8.jpg",
+    "name": "ALICE",
+    "symbol": "ALICE"
+  },
+  {
     "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
     "chainId": 56,
     "decimals": 18,
