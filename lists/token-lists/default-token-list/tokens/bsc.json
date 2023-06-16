@@ -592,6 +592,14 @@
     "symbol": "SPELL"
   },
   {
+    "address": "0x1633b7157e7638C4d6593436111Bf125Ee74703F",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x1633b7157e7638C4d6593436111Bf125Ee74703F.jpg",
+    "name": "Splintershards",
+    "symbol": "SPS"
+  },
+  {
     "address": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
     "chainId": 56,
     "decimals": 18,
