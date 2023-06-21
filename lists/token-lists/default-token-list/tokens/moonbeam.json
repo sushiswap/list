@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+    "chainId": 1284,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+    "name": "Sushi",
+    "symbol": "anySUSHI"
+  },
+  {
     "address": "0xc234A67a4F840E61adE794be47de455361b52413",
     "chainId": 1284,
     "decimals": 18,
@@ -22,6 +30,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg",
     "name": "Frax Share",
     "symbol": "FXS"
+  },
+  {
+    "address": "0x0eF548758d13348d5681AE7EAe3C702b1d721107",
+    "chainId": 1284,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x0eF548758d13348d5681AE7EAe3C702b1d721107.jpg",
+    "name": "LaLaCoin",
+    "symbol": "LLC"
   },
   {
     "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
@@ -78,13 +94,5 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png",
     "name": "Wrapped Glimmer",
     "symbol": "WGLMR"
-  },
-  {
-    "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-    "chainId": 1284,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
-    "name": "Sushi",
-    "symbol": "anySUSHI"
   }
 ]
