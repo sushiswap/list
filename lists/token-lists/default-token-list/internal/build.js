@@ -38,7 +38,8 @@ const bttc = require("../tokens/bttc.json");
 const bobaBnb = require("../tokens/boba-bnb.json");
 const thundercore = require("../tokens/thundercore.json");
 const polygonzkevm = require("../tokens/polygon-zkevm.json");
-
+const core = require("../tokens/core.json");
+const haqq = require("../tokens/haqq.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -91,7 +92,9 @@ module.exports = function buildList() {
       ...bttc,
       ...bobaBnb,
       ...thundercore,
-      ...polygonzkevm
+      ...polygonzkevm,
+      ...core,
+      ...haqq,
     ]),
   };
 };

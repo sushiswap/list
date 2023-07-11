@@ -1,0 +1,34 @@
+[
+  {
+    "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f.jpg",
+    "name": "Wrapped Core",
+    "symbol": "WCORE"
+  },
+  {
+    "address": "0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
+    "chainId": 1116,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9",
+    "chainId": 1116,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  }
+]
