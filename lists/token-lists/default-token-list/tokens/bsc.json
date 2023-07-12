@@ -144,6 +144,14 @@
     "symbol": "BTCST"
   },
   {
+    "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51.jpg",
+    "name": "Bunny Token",
+    "symbol": "BUNNY"
+  },
+  {
     "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
     "chainId": 56,
     "decimals": 18,
