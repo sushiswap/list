@@ -144,6 +144,14 @@
     "symbol": "BTCST"
   },
   {
+    "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x8595F9dA7b868b1822194fAEd312235E43007b49.jpg",
+    "name": "BitTorrent",
+    "symbol": "BTT"
+  },
+  {
     "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
     "chainId": 56,
     "decimals": 18,
