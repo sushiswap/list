@@ -171,9 +171,9 @@
     "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cake.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.jpg",
     "name": "PancakeSwap Token",
-    "symbol": "CAKE"
+    "symbol": "Cake"
   },
   {
     "address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
