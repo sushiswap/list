@@ -1144,6 +1144,14 @@
     "symbol": "FLOAT"
   },
   {
+    "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E.jpg",
+    "name": "FLOKI",
+    "symbol": "FLOKI"
+  },
+  {
     "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
     "chainId": 1,
     "decimals": 18,
