@@ -464,6 +464,14 @@
     "symbol": "lqETH"
   },
   {
+    "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x93b346b6BC2548dA6A1E7d98E9a421B42541425b.jpg",
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD"
+  },
+  {
     "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
     "chainId": 42161,
     "decimals": 18,
