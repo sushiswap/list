@@ -728,6 +728,14 @@
     "symbol": "Silo"
   },
   {
+    "address": "0x65CD2E7d7BAcDaC3AA9dAe68fb5d548dfE1fEFB5",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x65CD2E7d7BAcDaC3AA9dAe68fb5d548dfE1fEFB5.jpg",
+    "name": "Shared-liquidity USDT",
+    "symbol": "slUSDT"
+  },
+  {
     "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
     "chainId": 42161,
     "decimals": 18,

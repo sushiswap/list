@@ -1144,6 +1144,14 @@
     "symbol": "FLOAT"
   },
   {
+    "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E.jpg",
+    "name": "FLOKI",
+    "symbol": "FLOKI"
+  },
+  {
     "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
     "chainId": 1,
     "decimals": 18,
@@ -2168,6 +2176,14 @@
     "symbol": "NIL"
   },
   {
+    "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4.jpg",
+    "name": "Neptune Mutual",
+    "symbol": "NPM"
+  },
+  {
     "address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
     "chainId": 1,
     "decimals": 6,
@@ -2350,6 +2366,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x808507121B80c02388fAd14726482e061B8da827/logo.png",
     "name": "Pendle",
     "symbol": "PENDLE"
+  },
+  {
+    "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x6982508145454Ce325dDbE47a25d4ec3d2311933.jpg",
+    "name": "Pepe",
+    "symbol": "PEPE"
   },
   {
     "address": "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268",

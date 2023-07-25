@@ -144,6 +144,14 @@
     "symbol": "BTCST"
   },
   {
+    "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x8595F9dA7b868b1822194fAEd312235E43007b49.jpg",
+    "name": "BitTorrent",
+    "symbol": "BTT"
+  },
+  {
     "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
     "chainId": 56,
     "decimals": 18,
@@ -163,9 +171,9 @@
     "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cake.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.jpg",
     "name": "PancakeSwap Token",
-    "symbol": "CAKE"
+    "symbol": "Cake"
   },
   {
     "address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
@@ -486,6 +494,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x8506560320826e459F356CB56cCF721Da8875414.jpg",
     "name": "NICE",
     "symbol": "nICE"
+  },
+  {
+    "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4.jpg",
+    "name": "Neptune Mutual",
+    "symbol": "NPM"
   },
   {
     "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
