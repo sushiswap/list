@@ -40,6 +40,7 @@ const thundercore = require("../tokens/thundercore.json");
 const polygonzkevm = require("../tokens/polygon-zkevm.json");
 const core = require("../tokens/core.json");
 const haqq = require("../tokens/haqq.json");
+const zksyncEra = require("../tokens/zksync-era.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -95,6 +96,7 @@ module.exports = function buildList() {
       ...polygonzkevm,
       ...core,
       ...haqq,
+      ...zksyncEra,
     ]),
   };
 };
