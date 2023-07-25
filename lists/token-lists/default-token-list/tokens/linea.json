@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "chainId": 59144,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/linea/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "chainId": 59144,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/linea/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  }
+]

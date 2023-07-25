@@ -41,6 +41,8 @@ const polygonzkevm = require("../tokens/polygon-zkevm.json");
 const core = require("../tokens/core.json");
 const haqq = require("../tokens/haqq.json");
 const zksyncEra = require("../tokens/zksync-era.json");
+const linea = require("../tokens/linea.json");
+
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -97,6 +99,7 @@ module.exports = function buildList() {
       ...core,
       ...haqq,
       ...zksyncEra,
+      ...linea,
     ]),
   };
 };
