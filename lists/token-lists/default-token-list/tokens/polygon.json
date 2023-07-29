@@ -1304,6 +1304,14 @@
     "symbol": "USV"
   },
   {
+    "address": "0x1Ca4355BAd435aC84bA876f803538420Fabf5e0E",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x1Ca4355BAd435aC84bA876f803538420Fabf5e0E.jpg",
+    "name": "Ultravantablack Token",
+    "symbol": "UVBT"
+  },
+  {
     "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
     "chainId": 137,
     "decimals": 18,
