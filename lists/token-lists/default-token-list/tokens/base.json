@@ -1,10 +1,18 @@
 [
   {
+    "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8.jpg",
+    "name": "Bald",
+    "symbol": "BALD"
+  },
+  {
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 8453,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x4200000000000000000000000000000000000006.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
-  }
+  },
 ]
