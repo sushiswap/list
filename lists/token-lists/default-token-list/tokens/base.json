@@ -38,5 +38,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x09DeB3CF353186E7A84aBfD7434BF643f77eB686.jpg",
     "name": "BASE BOT",
     "symbol": "BOT"
+  },
+  {
+    "address": "0x064f6D3ED291428B61C4369c08E47db2A5ff0D0F",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x064f6D3ED291428B61C4369c08E47db2A5ff0D0F.jpg",
+    "name": "Toshi",
+    "symbol": "TOSHI"
   }
 ]
