@@ -46,5 +46,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x064f6D3ED291428B61C4369c08E47db2A5ff0D0F.jpg",
     "name": "Toshi",
     "symbol": "TOSHI"
-  }
+  },
+  {
+    "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/3WmYdg9/NFTE-Icon.png",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
+  },
 ]
