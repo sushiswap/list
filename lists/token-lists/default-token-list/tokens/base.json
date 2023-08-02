@@ -40,6 +40,14 @@
     "symbol": "BOT"
   },
   {
+    "address": "0x45B80C14C342107Ac92AE690e19A785721150a00",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x45B80C14C342107Ac92AE690e19A785721150a00.jpg",
+    "name": "cucumbercoin.org",
+    "symbol": "CUCUMBER"
+  },
+  {
     "address": "0x064f6D3ED291428B61C4369c08E47db2A5ff0D0F",
     "chainId": 8453,
     "decimals": 18,
