@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x51e9959209677f1D934F60e5cE035178FB23bb37",
+    "chainId": 8453,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x51e9959209677f1D934F60e5cE035178FB23bb37.jpg",
+    "name": "FISH",
+    "symbol": "FISH"
+  },
+  {
     "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
     "chainId": 8453,
     "decimals": 6,
