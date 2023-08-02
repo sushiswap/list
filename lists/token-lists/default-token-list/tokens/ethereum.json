@@ -1616,6 +1616,14 @@
     "symbol": "jEUR"
   },
   {
+    "address": "0xD807f7e2818dB8edA0d28B5bE74866338eaEDB86",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xD807f7e2818dB8edA0d28B5bE74866338eaEDB86.jpg",
+    "name": "jim",
+    "symbol": "jim"
+  },
+  {
     "address": "0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3",
     "chainId": 1,
     "decimals": 18,
