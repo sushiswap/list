@@ -40,6 +40,14 @@
     "symbol": "BOT"
   },
   {
+    "address": "0xe1f9ac62a2f34881f6Fe0F84322dE9d7024C2b8E",
+    "chainId": 8453,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xe1f9ac62a2f34881f6Fe0F84322dE9d7024C2b8E.jpg",
+    "name": "Mochi",
+    "symbol": "MOCHI"
+  },
+  {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "chainId": 8453,
     "decimals": 18,
