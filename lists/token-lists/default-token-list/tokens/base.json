@@ -40,10 +40,10 @@
     "symbol": "BOT"
   },
   {
-    "address": "0x064f6D3ED291428B61C4369c08E47db2A5ff0D0F",
+    "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x064f6D3ED291428B61C4369c08E47db2A5ff0D0F.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c.jpg",
     "name": "Toshi",
     "symbol": "TOSHI"
   },
