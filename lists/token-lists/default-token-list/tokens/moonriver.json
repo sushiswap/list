@@ -112,14 +112,6 @@
     "symbol": "LINK"
   },
   {
-    "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
-    "chainId": 1285,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
-    "name": "Mai MiMatic",
-    "symbol": "MAI"
-  },
-  {
     "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
     "chainId": 1285,
     "decimals": 18,
@@ -134,6 +126,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x0caE51e1032e8461f4806e26332c030E34De3aDb.jpg",
     "name": "Magic Internet Money",
     "symbol": "MIM"
+  },
+  {
+    "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x7f5a79576620C046a293F54FFCdbd8f2468174F1.jpg",
+    "name": "MAI",
+    "symbol": "miMatic"
   },
   {
     "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
