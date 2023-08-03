@@ -12,7 +12,7 @@ importers:
       '@changesets/cli': 2.22.0
       '@sushiswap/prettier-config': 0.1.0_prettier@2.6.2
       prettier: 2.6.2
-      turbo: 1.10.1
+      turbo: 1.10.12
 
   lists/pair-lists/limit-order-pair-list:
     specifiers:
@@ -78,7 +78,7 @@ importers:
       '@ethersproject/solidity': ^5.3.0
       '@octokit/rest': ^18.6.2
       '@prisma/client': 4.15.0
-      '@sushiswap/chain': 0.1.0
+      '@sushiswap/chain': 0.1.2
       '@types/node': ^17.0.21
       '@uniswap/token-lists': 1.0.0-beta.30
       ajv: ^6.12.3
@@ -100,7 +100,7 @@ importers:
       '@ethersproject/solidity': 5.6.0
       '@octokit/rest': 18.12.0
       '@prisma/client': 4.15.0_prisma@4.15.0
-      '@sushiswap/chain': 0.1.0
+      '@sushiswap/chain': 0.1.2
       '@types/node': 17.0.21
       '@uniswap/token-lists': 1.0.0-beta.30
       ajv: 6.12.6
@@ -143,7 +143,7 @@ importers:
   logos/token-logos:
     specifiers:
       '@ethersproject/address': ^5.5.0
-      '@sushiswap/chain': 0.1.0
+      '@sushiswap/chain': 0.1.2
       '@sushiswap/core-sdk': ^1.0.0-canary.22
       '@types/jest': ^27.0.1
       '@types/node': ^17.0.21
@@ -156,7 +156,7 @@ importers:
       typescript: ^4.4.3
     devDependencies:
       '@ethersproject/address': 5.6.0
-      '@sushiswap/chain': 0.1.0
+      '@sushiswap/chain': 0.1.2
       '@sushiswap/core-sdk': 1.0.0-canary.89
       '@types/jest': 27.4.1
       '@types/node': 17.0.21
@@ -1359,9 +1359,8 @@ packages:
       '@sinonjs/commons': 1.8.3
     dev: true
 
-  /@sushiswap/chain/0.1.0:
-    resolution: {integrity: sha512-7JHP3Y8thHy2SAtQjCm7A4CgRvn6VnndXnB/GlGhn/7fSc1H4rZ8ubeX3GcFiVyL+qmuro1KKDeDgCDpc7PMgQ==}
-    requiresBuild: true
+  /@sushiswap/chain/0.1.2:
+    resolution: {integrity: sha512-A0S5fYxYxUZu3UQj3AwekCRgjDQ8hzLRjc1p9XwV9i+0r9ZxAdXafWFrpQufDoXS0lfKd/4XiFh50LsbhvWA8A==}
     dev: true
 
   /@sushiswap/core-sdk/1.0.0-canary.89:
@@ -5074,65 +5073,65 @@ packages:
       yargs: 15.4.1
     dev: true
 
-  /turbo-darwin-64/1.10.1:
-    resolution: {integrity: sha512-isLLoPuAOMNsYovOq9BhuQOZWQuU13zYsW988KkkaA4OJqOn7qwa9V/KBYCJL8uVQqtG+/Y42J37lO8RJjyXuA==}
+  /turbo-darwin-64/1.10.12:
+    resolution: {integrity: sha512-vmDfGVPl5/aFenAbOj3eOx3ePNcWVUyZwYr7taRl0ZBbmv2TzjRiFotO4vrKCiTVnbqjQqAFQWY2ugbqCI1kOQ==}
     cpu: [x64]
     os: [darwin]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-darwin-arm64/1.10.1:
-    resolution: {integrity: sha512-x1nloPR10fLElNCv17BKr0kCx/O5gse/UXAcVscMZH2tvRUtXrdBmut62uw2YU3J9hli2fszYjUWXkulVpQvFA==}
+  /turbo-darwin-arm64/1.10.12:
+    resolution: {integrity: sha512-3JliEESLNX2s7g54SOBqqkqJ7UhcOGkS0ywMr5SNuvF6kWVTbuUq7uBU/sVbGq8RwvK1ONlhPvJne5MUqBCTCQ==}
     cpu: [arm64]
     os: [darwin]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-linux-64/1.10.1:
-    resolution: {integrity: sha512-abV+ODCeOlz0503OZlHhPWdy3VwJZc1jObf1VQj7uQM+JqJ/kXbMyqJIMQVz+m7QJUFdferYPRxGhYT/NbYK7Q==}
+  /turbo-linux-64/1.10.12:
+    resolution: {integrity: sha512-siYhgeX0DidIfHSgCR95b8xPee9enKSOjCzx7EjTLmPqPaCiVebRYvbOIYdQWRqiaKh9yfhUtFmtMOMScUf1gg==}
     cpu: [x64]
     os: [linux]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-linux-arm64/1.10.1:
-    resolution: {integrity: sha512-zRC3nZbHQ63tofOmbuySzEn1ROISWTkemYYr1L98rpmT5aVa0kERlGiYcfDwZh3cBso/Ylg/wxexRAaPzcCJYQ==}
+  /turbo-linux-arm64/1.10.12:
+    resolution: {integrity: sha512-K/ZhvD9l4SslclaMkTiIrnfcACgos79YcAo4kwc8bnMQaKuUeRpM15sxLpZp3xDjDg8EY93vsKyjaOhdFG2UbA==}
     cpu: [arm64]
     os: [linux]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-windows-64/1.10.1:
-    resolution: {integrity: sha512-Irqz8IU+o7Q/5V44qatZBTunk+FQAOII1hZTsEU54ah62f9Y297K6/LSp+yncmVQOZlFVccXb6MDqcETExIQtA==}
+  /turbo-windows-64/1.10.12:
+    resolution: {integrity: sha512-7FSgSwvktWDNOqV65l9AbZwcoueAILeE4L7JvjauNASAjjbuzXGCEq5uN8AQU3U5BOFj4TdXrVmO2dX+lLu8Zg==}
     cpu: [x64]
     os: [win32]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo-windows-arm64/1.10.1:
-    resolution: {integrity: sha512-124IT15d2gyjC+NEn11pHOaVFvZDRHpxfF+LDUzV7YxfNIfV0mGkR3R/IyVXtQHOgqOdtQTbC4y411sm31+SEw==}
+  /turbo-windows-arm64/1.10.12:
+    resolution: {integrity: sha512-gCNXF52dwom1HLY9ry/cneBPOKTBHhzpqhMylcyvJP0vp9zeMQQkt6yjYv+6QdnmELC92CtKNp2FsNZo+z0pyw==}
     cpu: [arm64]
     os: [win32]
     requiresBuild: true
     dev: true
     optional: true
 
-  /turbo/1.10.1:
-    resolution: {integrity: sha512-wq0YeSv6P/eEDXOL42jkMUr+T4z34dM8mdHu5u6C6OOAq8JuLJ72F/v4EVR1JmY8icyTkFz10ICLV0haUUYhbQ==}
+  /turbo/1.10.12:
+    resolution: {integrity: sha512-WM3+jTfQWnB9W208pmP4oeehZcC6JQNlydb/ZHMRrhmQa+htGhWLCzd6Q9rLe0MwZLPpSPFV2/bN5egCLyoKjQ==}
     hasBin: true
     requiresBuild: true
     optionalDependencies:
-      turbo-darwin-64: 1.10.1
-      turbo-darwin-arm64: 1.10.1
-      turbo-linux-64: 1.10.1
-      turbo-linux-arm64: 1.10.1
-      turbo-windows-64: 1.10.1
-      turbo-windows-arm64: 1.10.1
+      turbo-darwin-64: 1.10.12
+      turbo-darwin-arm64: 1.10.12
+      turbo-linux-64: 1.10.12
+      turbo-linux-arm64: 1.10.12
+      turbo-windows-64: 1.10.12
+      turbo-windows-arm64: 1.10.12
     dev: true
 
   /type-check/0.3.2:
