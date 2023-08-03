@@ -528,6 +528,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0x51B902f19a56F0c8E409a34a215AD2673EDF3284",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x51B902f19a56F0c8E409a34a215AD2673EDF3284.jpg",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
+  },
+  {
     "address": "0x1FAe2A29940015632f2a6CE006dFA7E3225515A7",
     "chainId": 42161,
     "decimals": 9,
