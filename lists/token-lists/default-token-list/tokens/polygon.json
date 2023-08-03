@@ -832,6 +832,14 @@
     "symbol": "NEXO"
   },
   {
+    "address": "0x492Fa53b88614923937B7197C87E0F7F8EEb7B20",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x492Fa53b88614923937B7197C87E0F7F8EEb7B20.jpg",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
+  },
+  {
     "address": "0xAb9aD9089f23e6779a8727900709427719f753e1",
     "chainId": 137,
     "decimals": 6,
