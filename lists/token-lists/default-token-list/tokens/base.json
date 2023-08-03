@@ -54,5 +54,12 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x4200000000000000000000000000000000000006.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
+  },
+    "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/7Gd9bTY/NFTE-Icon-1.png",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
   }
 ]
