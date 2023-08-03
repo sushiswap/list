@@ -6,24 +6,28 @@ import * as cloudinary from "cloudinary";
 
 const BASE_DIR = "https://cdn.sushi.com/image/upload";
 
-const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 43113 | 108 | 1101> = {
+const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 8453 | 1116 | 11235 | 59144 | 324> = {
   arbitrum: ChainId.ARBITRUM,
   "arbitrum-nova": ChainId.ARBITRUM_NOVA,
   avalanche: ChainId.AVALANCHE,
+  base: 8453, // ChainId.BASE,
   binance: ChainId.BSC,
   boba: ChainId.BOBA,
   "boba-avax": ChainId.BOBA_AVAX,
   bsc: ChainId.BSC,
   bttc: ChainId.BTTC,
   celo: ChainId.CELO,
+  core: 1116, // ChainId.CORE,
   ethereum: ChainId.ETHEREUM,
   fantom: ChainId.FANTOM,
   fuji: 108,
   fuse: ChainId.FUSE,
   gnosis: ChainId.GNOSIS,
+  haqq: 11235, // ChainId.HAQQ,
   harmony: ChainId.HARMONY,
   heco: ChainId.HECO,
   kava: ChainId.KAVA,
+  linea: 59144, // ChainId.LINEA,
   matic: ChainId.POLYGON,
   metis: ChainId.METIS,
   moonriver: ChainId.MOONRIVER,
@@ -31,10 +35,11 @@ const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 43113 | 108 | 1101> = {
   optimism: ChainId.OPTIMISM,
   palm: ChainId.PALM,
   polygon: ChainId.POLYGON,
+  "polygon-zkevm": ChainId.POLYGON_ZKEVM,
   telos: ChainId.TELOS,
-  thundercore: 108,
+  thundercore: ChainId.THUNDERCORE,
   xdai: ChainId.GNOSIS,
-  'polygon-zkevm': 1101
+  "zksync-era": 324,
 };
 
 syncCDN();
