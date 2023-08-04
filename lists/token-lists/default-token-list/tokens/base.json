@@ -40,6 +40,14 @@
     "symbol": "BOT"
   },
   {
+    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x3e7eF8f50246f725885102E8238CBba33F276747.jpg",
+    "name": "HANePlatform",
+    "symbol": "HANeP"
+  },
+  {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "chainId": 8453,
     "decimals": 18,
