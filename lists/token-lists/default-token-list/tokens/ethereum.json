@@ -600,6 +600,14 @@
     "symbol": "C98"
   },
   {
+    "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xBe9895146f7AF43049ca1c1AE358B0541Ea49704.jpg",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH"
+  },
+  {
     "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
     "chainId": 1,
     "decimals": 4,
