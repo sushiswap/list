@@ -48,6 +48,46 @@
     "symbol": "HANeP"
   },
   {
+    "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3.jpg",
+    "name": "HanChain",
+    "symbol": "HAN"
+  },
+  {
+    "address": "0xD08a2917653d4E460893203471f0000826fb4034",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xD08a2917653d4E460893203471f0000826fb4034.jpg",
+    "name": "FARM Reward Token",
+    "symbol": "FARM"
+  },
+  {
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.jpg",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI"
+  },
+  {
+    "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9e1028F5F1D5eDE59748FFceE5532509976840E0.jpg",
+    "name": "Compound",
+    "symbol": "COMP"
+  },
+  {
+    "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22.jpg",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH"
+  },
+  {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "chainId": 8453,
     "decimals": 18,
