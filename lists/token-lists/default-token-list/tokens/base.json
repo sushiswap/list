@@ -40,6 +40,13 @@
     "symbol": "BOT"
   },
   {
+    "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9e1028F5F1D5eDE59748FFceE5532509976840E0.jpg",
+    "name": "Compound",
+    "symbol": "COMP"
+  },
     "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
     "chainId": 8453,
     "decimals": 18,
