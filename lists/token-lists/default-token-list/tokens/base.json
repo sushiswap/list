@@ -40,6 +40,14 @@
     "symbol": "BOT"
   },
   {
+    "address": "0xD08a2917653d4E460893203471f0000826fb4034",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xD08a2917653d4E460893203471f0000826fb4034.jpg",
+    "name": "FARM Reward Token",
+    "symbol": "FARM"
+  },
+  {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "chainId": 8453,
     "decimals": 18,
