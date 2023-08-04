@@ -40,6 +40,14 @@
     "symbol": "BOT"
   },
   {
+    "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea.jpg",
+    "name": "iFARM",
+    "symbol": "iFARM"
+  },
+  {
     "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
     "chainId": 8453,
     "decimals": 18,
