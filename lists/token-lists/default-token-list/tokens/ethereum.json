@@ -2160,6 +2160,14 @@
     "symbol": "NFP"
   },
   {
+    "address": "0x8c223a82E07feCB49D602150d7C2B3A4c9630310",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8c223a82E07feCB49D602150d7C2B3A4c9630310.jpg",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
+  },
+  {
     "address": "0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638",
     "chainId": 1,
     "decimals": 18,
