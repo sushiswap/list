@@ -72,6 +72,14 @@
     "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg"
   },
   {
+    "address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2.jpg",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH"
+  },
+  {
     "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
     "chainId": 10,
     "decimals": 18,
@@ -270,6 +278,14 @@
     "symbol": "MKR",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png"
+  },
+  {
+    "address": "0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1.jpg",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
   },
   {
     "chainId": 10,
