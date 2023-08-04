@@ -488,6 +488,14 @@
     "symbol": "FRAX"
   },
   {
+    "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x4b4327dB1600B8B1440163F667e199CEf35385f5.jpg",
+    "name": "Coinbase Wrapped Staked ETH (FXERC20)",
+    "symbol": "fxcbETH"
+  },
+  {
     "address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
     "chainId": 137,
     "decimals": 18,
