@@ -272,6 +272,14 @@
     "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png"
   },
   {
+    "address": "0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1.jpg",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
+  },
+  {
     "chainId": 10,
     "address": "0x4200000000000000000000000000000000000042",
     "name": "Optimism",
