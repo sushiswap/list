@@ -144,6 +144,14 @@
     "symbol": "WETH"
   },
   {
+    "address": "0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98.jpg",
+    "name": "Youcoin",
+    "symbol": "YOU"
+  },
+  {
     "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
     "chainId": 8453,
     "decimals": 18,
