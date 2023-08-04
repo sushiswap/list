@@ -32,12 +32,84 @@
     "symbol": "BALD"
   },
   {
+    "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2.jpg",
+    "name": "Balancer",
+    "symbol": "BAL"
+  },
+  {
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x09DeB3CF353186E7A84aBfD7434BF643f77eB686.jpg",
     "name": "BASE BOT",
     "symbol": "BOT"
+  },
+  {
+    "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea.jpg",
+    "name": "iFARM",
+    "symbol": "iFARM"
+  },
+  {
+    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x3e7eF8f50246f725885102E8238CBba33F276747.jpg",
+    "name": "HANePlatform",
+    "symbol": "HANeP"
+  },
+  {
+    "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3.jpg",
+    "name": "HanChain",
+    "symbol": "HAN"
+  },
+  {
+    "address": "0xD08a2917653d4E460893203471f0000826fb4034",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xD08a2917653d4E460893203471f0000826fb4034.jpg",
+    "name": "FARM Reward Token",
+    "symbol": "FARM"
+  },
+  {
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.jpg",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI"
+  },
+  {
+    "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9e1028F5F1D5eDE59748FFceE5532509976840E0.jpg",
+    "name": "Compound",
+    "symbol": "COMP"
+  },
+  {
+    "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22.jpg",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH"
+  },
+  {
+    "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D.jpg",
+    "name": "MBS",
+    "symbol": "MBS"
   },
   {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
@@ -56,6 +128,14 @@
     "symbol": "TOSHI"
   },
   {
+    "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "chainId": 8453,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.jpg",
+    "name": "USD Base Coin",
+    "symbol": "USDbc"
+  },
+  {
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 8453,
     "decimals": 18,
@@ -70,5 +150,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98.jpg",
     "name": "Youcoin",
     "symbol": "YOU"
+  },
+  {
+    "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0.jpg",
+    "name": "0x Protocol Token",
+    "symbol": "ZRX"
   }
 ]
