@@ -128,6 +128,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492.jpg",
+    "name": "SHREKT",
+    "symbol": "OGRE"
+  },
+  {
     "address": "0x22DC834C3Ff3e45f484bF24B9B07b851B981900f",
     "chainId": 8453,
     "decimals": 18,
