@@ -16,6 +16,14 @@
     "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg"
   },
   {
+    "address": "0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B.jpg",
+    "name": "Across Protocol Token",
+    "symbol": "ACX"
+  },
+  {
     "chainId": 10,
     "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
     "name": "Aelin Protocol",
