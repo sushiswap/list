@@ -1,11 +1,19 @@
 [
   {
-    "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "address": "0xBbD1bA24d589C319C86519646817F2F153c9B716",
     "chainId": 324,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/zksync-era/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.jpg",
-    "name": "Wrapped Ether",
-    "symbol": "WETH"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/zksync-era/0xBbD1bA24d589C319C86519646817F2F153c9B716.jpg",
+    "name": "DeversiFi Token",
+    "symbol": "DVF"
+  },
+  {
+    "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+    "chainId": 324,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/zksync-era/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
   },
   {
     "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
@@ -16,11 +24,11 @@
     "symbol": "WBTC"
   },
   {
-    "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+    "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
     "chainId": 324,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/zksync-era/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.jpg",
-    "name": "USD Coin",
-    "symbol": "USDC"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/zksync-era/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   }
 ]
