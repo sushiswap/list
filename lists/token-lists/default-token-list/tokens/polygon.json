@@ -704,6 +704,14 @@
     "symbol": "KRILL"
   },
   {
+    "address": "0x5f90da089D90389323AeFafDd4Ce5B5d2f6CCe7E",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5f90da089D90389323AeFafDd4Ce5B5d2f6CCe7E.jpg",
+    "name": "Lincoin",
+    "symbol": "LCN"
+  },
+  {
     "address": "0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64",
     "chainId": 137,
     "decimals": 18,
