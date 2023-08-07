@@ -1,43 +1,19 @@
 [
   {
-    "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+    "address": "0x96821b258955587069F680729cD77369C0892B40",
     "chainId": 288,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
-    "name": "Wrapped Ether",
-    "symbol": "WETH"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba/0x96821b258955587069F680729cD77369C0892B40.jpg",
+    "name": "Across Protocol Token",
+    "symbol": "ACX"
   },
   {
-    "address": "0x5fFccc55C0d2fd6D3AC32C26C020B3267e933F1b",
+    "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
     "chainId": 288,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
-    "name": "SushiToken",
-    "symbol": "SUSHI"
-  },
-  {
-    "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
-    "chainId": 288,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
-    "name": "USD Coin",
-    "symbol": "USDC"
-  },
-  {
-    "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
-    "chainId": 288,
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
-    "name": "Wrapped Bitcoin",
-    "symbol": "WBTC"
-  },
-  {
-    "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
-    "chainId": 288,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-    "name": "Tether USD",
-    "symbol": "USDT"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
+    "name": "Boba Token",
+    "symbol": "BOBA"
   },
   {
     "address": "0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35",
@@ -56,11 +32,43 @@
     "symbol": "FRAX"
   },
   {
-    "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
+    "address": "0x5fFccc55C0d2fd6D3AC32C26C020B3267e933F1b",
     "chainId": 288,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
-    "name": "Boba Token",
-    "symbol": "BOBA"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+    "name": "SushiToken",
+    "symbol": "SUSHI"
+  },
+  {
+    "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+    "chainId": 288,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+    "chainId": 288,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
+    "chainId": 288,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+    "chainId": 288,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   }
 ]
