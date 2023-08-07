@@ -16,6 +16,14 @@
     "symbol": "AAVE"
   },
   {
+    "address": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F.jpg",
+    "name": "Across Protocol Token",
+    "symbol": "ACX"
+  },
+  {
     "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
     "chainId": 1,
     "decimals": 18,
