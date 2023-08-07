@@ -40,6 +40,14 @@
     "symbol": "BALD"
   },
   {
+    "address": "0x09F29E2acDB76a831668B03Ce2e3ad7bb41AaA5c",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x09F29E2acDB76a831668B03Ce2e3ad7bb41AaA5c.jpg",
+    "name": "BaseApe",
+    "symbol": "BAPE"
+  },
+  {
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
