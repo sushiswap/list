@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x53691596d1BCe8CEa565b84d4915e69e03d9C99d",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x53691596d1BCe8CEa565b84d4915e69e03d9C99d.jpg",
+    "name": "Across Protocol Token",
+    "symbol": "ACX"
+  },
+  {
     "address": "0x155f0DD04424939368972f4e1838687d6a831151",
     "chainId": 42161,
     "decimals": 18,
