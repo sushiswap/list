@@ -16,6 +16,14 @@
     "symbol": "ABI"
   },
   {
+    "address": "0xF328b73B6c685831F238c30a23Fc19140CB4D8FC",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xF328b73B6c685831F238c30a23Fc19140CB4D8FC.jpg",
+    "name": "Across Protocol Token (PoS)",
+    "symbol": "ACX"
+  },
+  {
     "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
     "chainId": 137,
     "decimals": 18,
