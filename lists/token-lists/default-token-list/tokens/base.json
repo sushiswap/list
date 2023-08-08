@@ -96,6 +96,14 @@
     "symbol": "HANeP"
   },
   {
+    "address": "0x4d25E94291FE8dcFBfA572cbB2aAa7B755087c91",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x4d25E94291FE8dcFBfA572cbB2aAa7B755087c91.jpg",
+    "name": "High",
+    "symbol": "HIGH"
+  },
+  {
     "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
     "chainId": 8453,
     "decimals": 18,
