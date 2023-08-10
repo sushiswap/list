@@ -2848,6 +2848,14 @@
     "symbol": "SI"
   },
   {
+    "address": "0x7E77dCb127F99ECe88230a64Db8d595F31F1b068",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7E77dCb127F99ECe88230a64Db8d595F31F1b068.jpg",
+    "name": "Escrowed Illuvium 2",
+    "symbol": "sILV2"
+  },
+  {
     "address": "0x2610F0bFC21EF389fe4D03CFB7De9ac1E6C99D6E",
     "chainId": 1,
     "decimals": 18,
