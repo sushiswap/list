@@ -128,6 +128,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0x7C34073C56285944F9A5384137186abFAe1C3bf0",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x7C34073C56285944F9A5384137186abFAe1C3bf0.jpg",
+    "name": "Plague",
+    "symbol": "PLG"
+  },
+  {
     "address": "0x22DC834C3Ff3e45f484bF24B9B07b851B981900f",
     "chainId": 8453,
     "decimals": 18,
