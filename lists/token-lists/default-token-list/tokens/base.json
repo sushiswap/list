@@ -104,6 +104,14 @@
     "symbol": "iFARM"
   },
   {
+    "address": "0x235226d2050C001FE78dED104364F9C2eB852E42",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x235226d2050C001FE78dED104364F9C2eB852E42.jpg",
+    "name": "Infected",
+    "symbol": "INFC"
+  },
+  {
     "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
     "chainId": 8453,
     "decimals": 18,
