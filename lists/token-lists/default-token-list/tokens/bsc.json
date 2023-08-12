@@ -200,6 +200,14 @@
     "symbol": "CERBY"
   },
   {
+    "address": "0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2.jpg",
+    "name": "pTokens CGG",
+    "symbol": "CGG"
+  },
+  {
     "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
     "chainId": 56,
     "decimals": 18,
