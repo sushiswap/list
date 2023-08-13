@@ -640,6 +640,14 @@
     "symbol": "pGOLD"
   },
   {
+    "address": "0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39.jpg",
+    "name": "PegasusBot",
+    "symbol": "PGS"
+  },
+  {
     "address": "0x3642c0680329ae3e103E2B5AB29DDfed4d43CBE5",
     "chainId": 42161,
     "decimals": 18,
