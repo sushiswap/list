@@ -1352,6 +1352,14 @@
     "symbol": "WARU"
   },
   {
+    "address": "0xFA3872970c1952741C518B33f1DcE815f55Dc00A",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xFA3872970c1952741C518B33f1DcE815f55Dc00A.jpg",
+    "name": "Waru Token V2",
+    "symbol": "WARU"
+  },
+  {
     "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
     "chainId": 137,
     "decimals": 18,
