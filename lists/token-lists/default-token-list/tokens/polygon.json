@@ -248,6 +248,14 @@
     "symbol": "CERBY"
   },
   {
+    "address": "0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5.jpg",
+    "name": "ChainGuardians Governance Token (PoS)",
+    "symbol": "CGG"
+  },
+  {
     "address": "0xb74f2220Ad34A03730400c9C97Bd10863bBc4130",
     "chainId": 137,
     "decimals": 6,
