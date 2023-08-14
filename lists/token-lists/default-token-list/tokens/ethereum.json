@@ -632,6 +632,14 @@
     "symbol": "CELO"
   },
   {
+    "address": "0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43.jpg",
+    "name": "ChainGuardians Governance Token",
+    "symbol": "CGG"
+  },
+  {
     "address": "0x332E824e46FcEeB9E59ba9491B80d3e6d42B0B59",
     "chainId": 1,
     "decimals": 18,
