@@ -1344,14 +1344,6 @@
     "symbol": "VSQ"
   },
   {
-    "address": "0xE3627374Ac4baf5375e79251B0af23aFc450FC0E",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xE3627374Ac4baf5375e79251B0af23aFc450FC0E.jpg",
-    "name": "Waru Token",
-    "symbol": "WARU"
-  },
-  {
     "address": "0xFA3872970c1952741C518B33f1DcE815f55Dc00A",
     "chainId": 137,
     "decimals": 18,
