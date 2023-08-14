@@ -48,6 +48,14 @@
     "symbol": "BOT"
   },
   {
+    "address": "0xf6fB8b4F20E8333d28F5588DAcbc79c199d4Ff51",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xf6fB8b4F20E8333d28F5588DAcbc79c199d4Ff51.jpg",
+    "name": "BLUEPEPE",
+    "symbol": "BPEPE"
+  },
+  {
     "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
     "chainId": 8453,
     "decimals": 18,
