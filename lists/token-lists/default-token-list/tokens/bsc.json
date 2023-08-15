@@ -560,6 +560,14 @@
     "symbol": "ONT"
   },
   {
+    "address": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78.jpg",
+    "name": "PEAKDEFI",
+    "symbol": "PEAK"
+  },
+  {
     "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
     "chainId": 56,
     "decimals": 18,
