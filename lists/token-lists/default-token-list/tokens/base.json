@@ -120,6 +120,14 @@
     "symbol": "MOCHI"
   },
   {
+    "address": "0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56",
+    "chainId": 8453,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56.jpg",
+    "name": "Mochi",
+    "symbol": "MOCHI"
+  },
+  {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "chainId": 8453,
     "decimals": 18,
@@ -128,20 +136,20 @@
     "symbol": "NFTE"
   },
   {
-    "address": "0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b.jpg",
-    "name": "SushiToken",
-    "symbol": "SUSHI"
-  },
-  {
     "address": "0x22DC834C3Ff3e45f484bF24B9B07b851B981900f",
     "chainId": 8453,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x22DC834C3Ff3e45f484bF24B9B07b851B981900f.jpg",
     "name": "Smudge Cat",
     "symbol": "SMUDCAT"
+  },
+  {
+    "address": "0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b.jpg",
+    "name": "SushiToken",
+    "symbol": "SUSHI"
   },
   {
     "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
