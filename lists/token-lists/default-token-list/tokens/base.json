@@ -56,6 +56,14 @@
     "symbol": "cbETH"
   },
   {
+    "address": "0xd022723A5005f53C95B51D1822f42B1A3366EE4D",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xd022723A5005f53C95B51D1822f42B1A3366EE4D.jpg",
+    "name": "COIN",
+    "symbol": "COIN"
+  },
+  {
     "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
     "chainId": 8453,
     "decimals": 18,
