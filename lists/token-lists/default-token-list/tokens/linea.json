@@ -1,11 +1,11 @@
 [
   {
-    "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
     "chainId": 59144,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/linea/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f.jpg",
-    "name": "Wrapped Ether",
-    "symbol": "WETH"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/linea/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+    "name": "Axelar Wrapped DAI",
+    "symbol": "axlDAI"
   },
   {
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
@@ -16,11 +16,19 @@
     "symbol": "axlUSDC"
   },
   {
-    "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+    "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "chainId": 59144,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/linea/0xA219439258ca9da29E9Cc4cE5596924745e12B93.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
     "chainId": 59144,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/linea/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
-    "name": "Axelar Wrapped DAI",
-    "symbol": "axlDAI"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/linea/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   }
 ]
