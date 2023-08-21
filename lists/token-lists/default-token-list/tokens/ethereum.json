@@ -3720,6 +3720,14 @@
     "symbol": "xSUSHI"
   },
   {
+    "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x55296f69f40Ea6d20E478533C15A6B08B654E758/logo.png",
+    "name": "XY Oracle",
+    "symbol": "XYO"
+  },
+  {
     "address": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
     "chainId": 1,
     "decimals": 18,
