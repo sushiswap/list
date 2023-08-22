@@ -21,7 +21,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg",
     "name": "Betswap.gg",
-    "symbol": "BSGG"
+    "symbol": "anyBSGG"
   },
   {
     "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
@@ -53,7 +53,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/crv.jpg",
     "name": "Curve DAO",
-    "symbol": "CRV"
+    "symbol": "anyCRV"
   },
   {
     "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
@@ -61,7 +61,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "Dai Stablecoin",
-    "symbol": "DAI"
+    "symbol": "anyDAI"
   },
   {
     "address": "0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32",
@@ -261,7 +261,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
     "name": "ChainLink",
-    "symbol": "LINK"
+    "symbol": "anyLINK"
   },
   {
     "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
@@ -357,7 +357,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
     "name": "Sushi",
-    "symbol": "SUSHI"
+    "symbol": "anySUSHI"
   },
   {
     "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
@@ -365,7 +365,7 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
     "name": "USD Coin",
-    "symbol": "USDC"
+    "symbol": "anyUSDC"
   },
   {
     "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
@@ -373,7 +373,7 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wbtc.jpg",
     "name": "Wrapped Bitcoin",
-    "symbol": "WBTC"
+    "symbol": "anyWBTC"
   },
   {
     "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
@@ -381,7 +381,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ether",
-    "symbol": "WETH"
+    "symbol": "anyWETH"
   },
   {
     "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
@@ -397,6 +397,6 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
     "name": "yearn.finance",
-    "symbol": "YFI"
+    "symbol": "anyYFI"
   }
 ]
