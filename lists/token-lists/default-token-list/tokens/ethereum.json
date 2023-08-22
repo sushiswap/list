@@ -2248,6 +2248,14 @@
     "symbol": "NU"
   },
   {
+    "address": "0x3496B523e5C00a4b4150D6721320CdDb234c3079",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3496B523e5C00a4b4150D6721320CdDb234c3079.jpg",
+    "name": "NUM Token",
+    "symbol": "NUM"
+  },
+  {
     "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
     "chainId": 1,
     "decimals": 18,
