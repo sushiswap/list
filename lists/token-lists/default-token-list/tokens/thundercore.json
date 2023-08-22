@@ -72,6 +72,14 @@
     "symbol": "Shark"
   },
   {
+    "address": "0x1139136d973323ce500443037Fb9741deac0CA16",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x1139136d973323ce500443037Fb9741deac0CA16.jpg",
+    "name": "ThunderCore Sushi Token",
+    "symbol": "TT-SUSHI"
+  },
+  {
     "address": "0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039",
     "chainId": 108,
     "decimals": 18,
