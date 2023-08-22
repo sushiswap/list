@@ -520,6 +520,14 @@
     "symbol": "NULS"
   },
   {
+    "address": "0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9.jpg",
+    "name": "NUM Token [via ChainPort.io]",
+    "symbol": "NUM"
+  },
+  {
     "address": "0xf0E406c49C63AbF358030A299C0E00118C4C6BA5",
     "chainId": 56,
     "decimals": 8,
