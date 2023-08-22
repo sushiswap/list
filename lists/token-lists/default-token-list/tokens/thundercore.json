@@ -24,6 +24,14 @@
     "symbol": "FTT"
   },
   {
+    "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0.jpg",
+    "name": "NFTmall GEM Token",
+    "symbol": "GEM"
+  },
+  {
     "address": "0x1d44A37D6104DF6Cf996425839829BE09bEE4F33",
     "chainId": 108,
     "decimals": 18,
@@ -32,12 +40,12 @@
     "symbol": "LASER"
   },
   {
-    "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+    "address": "0x9BAFB0Da04147276711721627Bf37b026dbfe10F",
     "chainId": 108,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0.jpg",
-    "name": "NFTmall GEM Token",
-    "symbol": "GEM"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x9BAFB0Da04147276711721627Bf37b026dbfe10F.jpg",
+    "name": "NUM Token",
+    "symbol": "NUM"
   },
   {
     "address": "0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0",
@@ -88,20 +96,20 @@
     "symbol": "TT-SUSHI"
   },
   {
-    "address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
-    "chainId": 108,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82.jpg",
-    "name": "USDT",
-    "symbol": "TT-USDT"
-  },
-  {
     "address": "0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
     "chainId": 108,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e.jpg",
     "name": "USDC",
     "symbol": "TT-USDC"
+  },
+  {
+    "address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
+    "chainId": 108,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82.jpg",
+    "name": "USDT",
+    "symbol": "TT-USDT"
   },
   {
     "address": "0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
