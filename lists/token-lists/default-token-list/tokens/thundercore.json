@@ -72,12 +72,44 @@
     "symbol": "Shark"
   },
   {
+    "address": "0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077.jpg",
+    "name": "ETH",
+    "symbol": "TT-ETH"
+  },
+  {
     "address": "0x1139136d973323ce500443037Fb9741deac0CA16",
     "chainId": 108,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x1139136d973323ce500443037Fb9741deac0CA16.jpg",
     "name": "ThunderCore Sushi Token",
     "symbol": "TT-SUSHI"
+  },
+  {
+    "address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
+    "chainId": 108,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82.jpg",
+    "name": "USDT",
+    "symbol": "TT-USDT"
+  },
+  {
+    "address": "0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
+    "chainId": 108,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e.jpg",
+    "name": "USDC",
+    "symbol": "TT-USDC"
+  },
+  {
+    "address": "0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
+    "chainId": 108,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x18fB0A62f207A2a082cA60aA78F47a1af4985190.jpg",
+    "name": "WBTC",
+    "symbol": "TT-WBTC"
   },
   {
     "address": "0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039",
