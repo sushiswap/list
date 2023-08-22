@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xABd380327Fe66724FFDa91A87c772FB8D00bE488",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xABd380327Fe66724FFDa91A87c772FB8D00bE488.jpg",
+    "name": "SushiToken",
+    "symbol": "anySUSHI"
+  },
+  {
     "address": "0xD3e916699dA7266EF673d10342334e25cfFc2Ab6",
     "chainId": 108,
     "decimals": 18,
