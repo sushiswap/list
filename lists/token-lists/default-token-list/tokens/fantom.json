@@ -400,6 +400,30 @@
     "symbol": "USDC"
   },
   {
+    "address": "0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C",
+    "chainId": 250,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
+    "chainId": 250,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xf1648C50d2863f780c57849D812b4B7686031A3D.jpg",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0x695921034f0387eAc4e11620EE91b1b15A6A09fE",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x695921034f0387eAc4e11620EE91b1b15A6A09fE.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  },
+  {
     "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
     "chainId": 250,
     "decimals": 18,
