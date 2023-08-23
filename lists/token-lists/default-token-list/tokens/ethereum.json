@@ -3336,6 +3336,14 @@
     "symbol": "UNI"
   },
   {
+    "address": "0xf819d9Cb1c2A819Fd991781A822dE3ca8607c3C9",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf819d9Cb1c2A819Fd991781A822dE3ca8607c3C9.jpg",
+    "name": "Unibot",
+    "symbol": "UNIBOT"
+  },
+  {
     "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
     "chainId": 1,
     "decimals": 18,
