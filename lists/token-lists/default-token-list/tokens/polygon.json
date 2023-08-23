@@ -312,6 +312,14 @@
     "symbol": "CRV"
   },
   {
+    "address": "0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24.jpg",
+    "name": "cSUSHI",
+    "symbol": "cSUSHI"
+  },
+  {
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
     "chainId": 137,
     "decimals": 18,

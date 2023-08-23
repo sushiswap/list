@@ -576,6 +576,14 @@
     "symbol": "NISHIB"
   },
   {
+    "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4.jpg",
+    "name": "Neptune Mutual",
+    "symbol": "NPM"
+  },
+  {
     "address": "0xfb9Fed8cB962548A11fE7F6F282949061395c7F5",
     "chainId": 42161,
     "decimals": 18,
