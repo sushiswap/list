@@ -144,6 +144,14 @@
     "symbol": "CELR"
   },
   {
+    "address": "0x410c879c62f22794bD5eE98e2EE01490F6d47A6b",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x410c879c62f22794bD5eE98e2EE01490F6d47A6b.jpg",
+    "name": "Camelot LP",
+    "symbol": "CMLT-LP"
+  },
+  {
     "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
     "chainId": 42161,
     "decimals": 18,
