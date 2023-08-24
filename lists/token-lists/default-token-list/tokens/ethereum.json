@@ -2880,6 +2880,14 @@
     "symbol": "SKYRIM"
   },
   {
+    "address": "0x559eBE4E206e6B4D50e9bd3008cDA7ce640C52cb",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x559eBE4E206e6B4D50e9bd3008cDA7ce640C52cb.jpg",
+    "name": "SushiSwap LP Token",
+    "symbol": "SLP"
+  },
+  {
     "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
     "chainId": 1,
     "decimals": 18,
