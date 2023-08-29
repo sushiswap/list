@@ -768,6 +768,14 @@
     "symbol": "RGT"
   },
   {
+    "address": "0xDC8184ba488e949815d4AAfb35B3c56ad03B4179",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xDC8184ba488e949815d4AAfb35B3c56ad03B4179.jpg",
+    "name": "Roseon",
+    "symbol": "ROSX"
+  },
+  {
     "address": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
     "chainId": 42161,
     "decimals": 18,
