@@ -880,6 +880,14 @@
     "symbol": "NGNC"
   },
   {
+    "address": "0x8c9461555c4E6ECabe90a4De1517FC7E522345b7",
+    "chainId": 137,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x8c9461555c4E6ECabe90a4De1517FC7E522345b7.jpg",
+    "name": "Neonpulse",
+    "symbol": "NPS"
+  },
+  {
     "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
     "chainId": 137,
     "decimals": 18,
