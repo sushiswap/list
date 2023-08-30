@@ -328,10 +328,10 @@
     "symbol": "FXS"
   },
   {
-    "address": "0x99e6239C7D3cE04b9CFdFf44af726B47c9308707",
+    "address": "0x32e4d98d3010AC12d75019C484cAA78665B03986",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x99e6239C7D3cE04b9CFdFf44af726B47c9308707.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x32e4d98d3010AC12d75019C484cAA78665B03986.jpg",
     "name": "GBOT",
     "symbol": "GBOT"
   },
