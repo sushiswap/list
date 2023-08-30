@@ -2728,6 +2728,14 @@
     "symbol": "REVV"
   },
   {
+    "address": "0x955d5c14C8D4944dA1Ea7836bd44D54a8eC35Ba1",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x955d5c14C8D4944dA1Ea7836bd44D54a8eC35Ba1.jpg",
+    "name": "REFUND",
+    "symbol": "RFD"
+  },
+  {
     "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
     "chainId": 1,
     "decimals": 18,
