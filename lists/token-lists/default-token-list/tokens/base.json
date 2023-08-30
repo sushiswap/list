@@ -40,6 +40,14 @@
     "symbol": "BALD"
   },
   {
+    "address": "0x1F7366fce31F54295Fb9a58210e1B32631872e37",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x1F7366fce31F54295Fb9a58210e1B32631872e37.jpg",
+    "name": "BINU",
+    "symbol": "BINU"
+  },
+  {
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
