@@ -472,6 +472,14 @@
     "symbol": "BIT"
   },
   {
+    "address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9.jpg",
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "BITCOIN"
+  },
+  {
     "address": "0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea",
     "chainId": 1,
     "decimals": 18,
