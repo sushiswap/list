@@ -2160,6 +2160,14 @@
     "symbol": "NEWO"
   },
   {
+    "address": "0x2F8221E82E0D4669AD66eABf02a5bAeD43ea49E7",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x2F8221E82E0D4669AD66eABf02a5bAeD43ea49E7.jpg",
+    "name": "Newsly",
+    "symbol": "NEWS"
+  },
+  {
     "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
     "chainId": 1,
     "decimals": 18,
