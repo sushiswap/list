@@ -144,10 +144,10 @@
     "symbol": "SMUDCAT"
   },
   {
-    "address": "0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
+    "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA.jpg",
     "name": "SushiToken",
     "symbol": "SUSHI"
   },
