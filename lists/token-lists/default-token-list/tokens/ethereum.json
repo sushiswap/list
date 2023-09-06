@@ -3728,6 +3728,14 @@
     "symbol": "XDEFI"
   },
   {
+    "address": "0xe7f445B93eB9CDaBfe76541Cc43Ff8dE930A58E6",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xe7f445B93eB9CDaBfe76541Cc43Ff8dE930A58E6.jpg",
+    "name": "xFORCE",
+    "symbol": "xFORCE"
+  },
+  {
     "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
     "chainId": 1,
     "decimals": 18,
