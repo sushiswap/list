@@ -128,6 +128,14 @@
     "symbol": "MOCHI"
   },
   {
+    "address": "0x2228363213E6E16e8ccC556Aa270a05f1F1A4E02",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x2228363213E6E16e8ccC556Aa270a05f1F1A4E02.jpg",
+    "name": "Mochi and Toshi",
+    "symbol": "MOCHITOSHI"
+  },
+  {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "chainId": 8453,
     "decimals": 18,
