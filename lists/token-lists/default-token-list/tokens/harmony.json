@@ -200,20 +200,20 @@
     "symbol": "LUNA"
   },
   {
-    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-    "chainId": 1666600000,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
-    "name": "Mai Stablecoin",
-    "symbol": "MAI"
-  },
-  {
     "address": "0x892D81221484F690C0a97d3DD18B9144A3ECDFB7",
     "chainId": 1666600000,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x892D81221484F690C0a97d3DD18B9144A3ECDFB7/logo.png",
     "name": "Magic",
     "symbol": "MAGIC"
+  },
+  {
+    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+    "name": "Mai Stablecoin",
+    "symbol": "MAI"
   },
   {
     "address": "0x301259f392B551CA8c592C9f676FCD2f9A0A84C5",
@@ -230,6 +230,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0x725553bc9Aa0939362671407dfDEb162DD37d168.jpg",
     "name": "Metatr.one",
     "symbol": "MET"
+  },
+  {
+    "address": "0xC6Ab5e4b6384a66989b4A58e35ACfcb88A7cC1D1",
+    "chainId": 1666600000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0xC6Ab5e4b6384a66989b4A58e35ACfcb88A7cC1D1.jpg",
+    "name": "MIAW",
+    "symbol": "MIAW"
   },
   {
     "address": "0x1b2bc2683F85bFb9c4C90e8322d62A20B97cF87D",
