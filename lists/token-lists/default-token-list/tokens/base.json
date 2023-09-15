@@ -184,6 +184,14 @@
     "symbol": "VELA"
   },
   {
+    "address": "0xA5e9FA870C50f4fd352A82Ffe16a63646864686D",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xA5e9FA870C50f4fd352A82Ffe16a63646864686D.jpg",
+    "name": "wETH_USDT_005",
+    "symbol": "wE_U_005"
+  },
+  {
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 8453,
     "decimals": 18,
