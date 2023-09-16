@@ -8,6 +8,14 @@
     "symbol": "1INCH"
   },
   {
+    "address": "0x8dB4beACcd1698892821a9a0Dc367792c0cB9940",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8dB4beACcd1698892821a9a0Dc367792c0cB9940.jpg",
+    "name": "Ignore Fud",
+    "symbol": "4TOKEN"
+  },
+  {
     "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
     "chainId": 1,
     "decimals": 18,
