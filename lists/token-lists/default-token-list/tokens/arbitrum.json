@@ -928,6 +928,14 @@
     "symbol": "VISR"
   },
   {
+    "address": "0xf7693c6fD9a7172D537FA75D133D309501Cbd657",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf7693c6fD9a7172D537FA75D133D309501Cbd657.jpg",
+    "name": "Web3 No Value",
+    "symbol": "W3N"
+  },
+  {
     "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
     "chainId": 42161,
     "decimals": 8,
