@@ -16,6 +16,14 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0x2B0e1022f855FBe5cFC0138f70Cceb28f556d197",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x2B0e1022f855FBe5cFC0138f70Cceb28f556d197.jpg",
+    "name": "ArtificialIntelligence",
+    "symbol": "Ai"
+  },
+  {
     "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
     "chainId": 56,
     "decimals": 18,
