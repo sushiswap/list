@@ -432,6 +432,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B.jpg"
   },
   {
+    "address": "0xa925f4057d6E6C8FAf8bdE537Ad14BA91A1D0337",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xa925f4057d6E6C8FAf8bdE537Ad14BA91A1D0337.jpg",
+    "name": "Synth",
+    "symbol": "SYNTH"
+  },
+  {
     "chainId": 10,
     "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
     "name": "Optimistic Thales Token",
