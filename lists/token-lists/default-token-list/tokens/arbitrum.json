@@ -544,6 +544,14 @@
     "symbol": "MIM"
   },
   {
+    "address": "0x60B42e0DE164d18fE6822C115DAf2e0F18867aE7",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x60B42e0DE164d18fE6822C115DAf2e0F18867aE7.jpg",
+    "name": "MetaPoolETH",
+    "symbol": "mpETH"
+  },
+  {
     "address": "0xB261104A83887aE92392Fb5CE5899fCFe5481456",
     "chainId": 42161,
     "decimals": 18,
