@@ -848,6 +848,14 @@
     "symbol": "SWPR"
   },
   {
+    "address": "0x916837Bf5216857a322FC061DEBB0F70DD5FAf16",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x916837Bf5216857a322FC061DEBB0F70DD5FAf16.jpg",
+    "name": "Synth",
+    "symbol": "SYNTH"
+  },
+  {
     "address": "0xA72159FC390f0E3C6D415e658264c7c4051E9b87",
     "chainId": 42161,
     "decimals": 18,
