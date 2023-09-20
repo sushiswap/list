@@ -424,6 +424,14 @@
     "symbol": "DTX"
   },
   {
+    "address": "0x18e73A5333984549484348A94f4D219f4faB7b81",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x18e73A5333984549484348A94f4D219f4faB7b81.jpg",
+    "name": "Yellow Duckies",
+    "symbol": "DUCKIES"
+  },
+  {
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "chainId": 137,
     "decimals": 18,
