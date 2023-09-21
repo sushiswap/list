@@ -24,6 +24,14 @@
     "symbol": "ALPHA"
   },
   {
+      "address": "0x55818Be03e5103e74f96dF7343Dd1862A6d215f2",
+      "chainId": 56,
+       "decimals": 8,
+      "logoURI": "https://i.ibb.co/9GP6X1R/bidenia-Token.png",
+      "name": "Bidenia",
+      "symbol": "BIE"
+  },
+  {
     "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
     "chainId": 56,
     "decimals": 18,
