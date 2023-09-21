@@ -1360,6 +1360,14 @@
     "symbol": "VSQ"
   },
   {
+    "address": "0x1a42C475a4Cd779b78A75c1C93b08Fdc23Bd60dd",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x1a42C475a4Cd779b78A75c1C93b08Fdc23Bd60dd.jpg",
+    "name": "whoot-PEPE",
+    "symbol": "w-PEPE"
+  },
+  {
     "address": "0xFA3872970c1952741C518B33f1DcE815f55Dc00A",
     "chainId": 137,
     "decimals": 18,
