@@ -72,6 +72,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0x65043ABBe020A72Acf5Bf0d0B265EE1875c96d2A",
+    "chainId": 8453,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x65043ABBe020A72Acf5Bf0d0B265EE1875c96d2A.jpg",
+    "name": "DogeHero",
+    "symbol": "DogeHero"
+  },
+  {
     "address": "0xD08a2917653d4E460893203471f0000826fb4034",
     "chainId": 8453,
     "decimals": 18,
