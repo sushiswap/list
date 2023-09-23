@@ -2200,6 +2200,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C.jpg",
+    "name": "NFT INDEX",
+    "symbol": "NFTI"
+  },
+  {
     "address": "0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638",
     "chainId": 1,
     "decimals": 18,
