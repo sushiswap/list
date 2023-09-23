@@ -1480,6 +1480,14 @@
     "symbol": "HUSD"
   },
   {
+    "address": "0x32b29705BB44C57f6A3DcCa047Fd55b460977c25",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x32b29705BB44C57f6A3DcCa047Fd55b460977c25.jpg",
+    "name": "HYBX",
+    "symbol": "HYBX"
+  },
+  {
     "address": "0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F",
     "chainId": 1,
     "decimals": 18,
