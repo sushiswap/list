@@ -8,6 +8,14 @@
     "symbol": "1INCH"
   },
   {
+    "address": "0x15B06c618b1b2755566274cEd0cA7eE915832872",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x15B06c618b1b2755566274cEd0cA7eE915832872.jpg",
+    "name": "Alliance Global LLC",
+    "symbol": "A9I"
+  },
+  {
     "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
     "chainId": 1,
     "decimals": 18,
