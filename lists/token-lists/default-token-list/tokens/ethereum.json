@@ -984,6 +984,14 @@
     "symbol": "DOLA"
   },
   {
+    "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9.jpg",
+    "name": "Donut",
+    "symbol": "DONUT"
+  },
+  {
     "address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
     "chainId": 1,
     "decimals": 18,
