@@ -1888,6 +1888,14 @@
     "symbol": "MASQ"
   },
   {
+    "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0.jpg",
+    "name": "Matic Token",
+    "symbol": "MATIC"
+  },
+  {
     "address": "0x26cF82e4aE43D31eA51e72B663d26e26a75AF729",
     "chainId": 1,
     "decimals": 18,
@@ -3574,14 +3582,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x85D7bdfc9c3426b33A684241eEEE70385Bc42820/logo.png",
     "name": "Wrapped Kadena",
     "symbol": "WKDA"
-  },
-  {
-    "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/polygon.jpg",
-    "name": "Polygon",
-    "symbol": "WMATIC"
   },
   {
     "address": "0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
