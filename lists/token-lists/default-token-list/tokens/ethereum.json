@@ -1112,6 +1112,14 @@
     "symbol": "ESD"
   },
   {
+    "address": "0x3c37577f1DE12046AEa6975862559a50d8f50158",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3c37577f1DE12046AEa6975862559a50d8f50158.jpg",
+    "name": "ETH Coin",
+    "symbol": "ETHC"
+  },
+  {
     "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
     "chainId": 1,
     "decimals": 6,
