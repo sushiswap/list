@@ -568,6 +568,14 @@
     "symbol": "ONT"
   },
   {
+    "address": "0x922b644d46AbBc5Faec10d832E2b5826A15baA1c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x922b644d46AbBc5Faec10d832E2b5826A15baA1c.jpg",
+    "name": "Omnichain XFI",
+    "symbol": "oXFI"
+  },
+  {
     "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
     "chainId": 56,
     "decimals": 18,
