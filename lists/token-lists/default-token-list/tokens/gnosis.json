@@ -8,6 +8,14 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0x524B969793a64a602342d89BC2789D43a016B13A.jpg",
+    "name": "Donut on xDai",
+    "symbol": "DONUT"
+  },
+  {
     "address": "0xe68856eb29B2FB39699286CcA7F10f90Ce8AE9De",
     "chainId": 100,
     "decimals": 18,
