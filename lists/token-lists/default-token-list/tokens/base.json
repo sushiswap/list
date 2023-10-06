@@ -136,6 +136,14 @@
     "symbol": "MOCHITOSHI"
   },
   {
+    "address": "0x408Cc6d6C4aaf98644773B185eC7A0d5E54B1e65",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x408Cc6d6C4aaf98644773B185eC7A0d5E54B1e65.jpg",
+    "name": "The MOON Token",
+    "symbol": "MOON"
+  },
+  {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "chainId": 8453,
     "decimals": 18,
