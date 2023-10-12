@@ -974,5 +974,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xdb96f8efd6865644993505318cc08FF9C42fb9aC/logo.png",
     "name": "ZeroTwOhm",
     "symbol": "Z2O"
+  },
+  {
+    "address": "0x1C43D05be7E5b54D506e3DdB6f0305e8A66CD04e",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1C43D05be7E5b54D506e3DdB6f0305e8A66CD04e.jpg",
+    "name": "ZTX",
+    "symbol": "ZTX"
   }
 ]
