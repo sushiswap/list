@@ -952,6 +952,14 @@
     "symbol": "PIXEL"
   },
   {
+    "address": "0x140a4e80dD8184536acc45F1C452D7540472e6E1",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x140a4e80dD8184536acc45F1C452D7540472e6E1.jpg",
+    "name": "POLKER",
+    "symbol": "PKR"
+  },
+  {
     "address": "0xdC3aCB92712D1D44fFE15d3A8D66d9d18C81e038",
     "chainId": 137,
     "decimals": 18,
