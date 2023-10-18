@@ -42,6 +42,7 @@ const core = require("../tokens/core.json");
 const haqq = require("../tokens/haqq.json");
 const zksyncEra = require("../tokens/zksync-era.json");
 const linea = require("../tokens/linea.json");
+const scroll = require("../tokens/scroll.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -100,6 +101,7 @@ module.exports = function buildList() {
       ...haqq,
       ...zksyncEra,
       ...linea,
+      ...scroll
     ]),
   };
 };
