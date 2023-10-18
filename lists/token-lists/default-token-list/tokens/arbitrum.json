@@ -48,6 +48,14 @@
     "symbol": "aMoon"
   },
   {
+    "address": "0xcCd05A0fcfc1380e9Da27862Adb2198E58e0D66f",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xcCd05A0fcfc1380e9Da27862Adb2198E58e0D66f.jpg",
+    "name": "Anima",
+    "symbol": "ANIMA"
+  },
+  {
     "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
     "chainId": 42161,
     "decimals": 18,
