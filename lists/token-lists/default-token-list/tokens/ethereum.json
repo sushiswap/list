@@ -192,6 +192,14 @@
     "symbol": "APW"
   },
   {
+    "address": "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5.jpg",
+    "name": "Ara Token",
+    "symbol": "ARA"
+  },
+  {
     "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
     "chainId": 1,
     "decimals": 18,
