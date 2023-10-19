@@ -1,35 +1,11 @@
 [
   {
-    "address": "0x5300000000000000000000000000000000000004",
-    "chainId": 534352,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0x5300000000000000000000000000000000000004.jpg",
-    "name": "Wrapped Ether",
-    "symbol": "WETH"
-  },
-  {
-    "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
-    "chainId": 534352,
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1.jpg",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC"
-  },
-  {
-    "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
     "chainId": 534352,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df.jpg",
-    "name": "Tether USD",
-    "symbol": "USDT"
-  },
-  {
-    "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
-    "chainId": 534352,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4.jpg",
-    "name": "USD Coin",
-    "symbol": "USDC"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
   },
   {
     "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
@@ -40,12 +16,43 @@
     "symbol": "DAI"
   },
   {
-    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "address": "0xDdEB23905F6987d5f786A93C00bBED3d97Af1ccc",
+    "chainId": 534352,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/scroll/0xDdEB23905F6987d5f786A93C00bBED3d97Af1ccc.jpg",
+    "name": "PunkSwap Token",
+    "symbol": "PUNK"
+  },
+  {
+    "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
     "chainId": 534352,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
-    "name": "Axelar Wrapped USDC",
-    "symbol": "axlUSDC"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+    "chainId": 534352,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+    "chainId": 534352,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1.jpg",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0x5300000000000000000000000000000000000004",
+    "chainId": 534352,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0x5300000000000000000000000000000000000004.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   }
 ]
-  
