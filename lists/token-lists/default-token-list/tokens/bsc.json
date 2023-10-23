@@ -40,6 +40,14 @@
     "symbol": "ASR"
   },
   {
+    "address": "0xA7e5543181110270a7cb7d04189ab357eE7e28Fe",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xA7e5543181110270a7cb7d04189ab357eE7e28Fe.jpg",
+    "name": "Arabian Token",
+    "symbol": "AT"
+  },
+  {
     "address": "0x25E9d05365c867E59C1904E7463Af9F312296f9E",
     "chainId": 56,
     "decimals": 2,
