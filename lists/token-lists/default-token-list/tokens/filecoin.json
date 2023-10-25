@@ -1,35 +1,42 @@
 [
-    {
-      "address": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
-      "chainId": 314,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
-      "name": "Wrapped Filecoin",
-      "symbol": "WFIL"
-    },
-    {
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "chainId": 314,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
-      "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC"
-    },
-    {
-      "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
-      "chainId": 314,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
-      "name": "Axelar Wrapped DAI",
-      "symbol": "axlDAI"
-    },
-    {
-      "address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
-      "chainId": 314,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
-      "name": "Tether USD",
-      "symbol": "USDT"
-    }
-  ]
-  
+  {
+    "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+    "chainId": 314,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+    "name": "Axelar Wrapped DAI",
+    "symbol": "axlDAI"
+  },
+  {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "chainId": 314,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
+    "address": "0x005E02A4A934142d8Dd476F192d0dD9c381b16b4",
+    "chainId": 314,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x005E02A4A934142d8Dd476F192d0dD9c381b16b4.jpg",
+    "name": "THS",
+    "symbol": "THS"
+  },
+  {
+    "address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
+    "chainId": 314,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
+    "chainId": 314,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
+    "name": "Wrapped Filecoin",
+    "symbol": "WFIL"
+  }
+]
