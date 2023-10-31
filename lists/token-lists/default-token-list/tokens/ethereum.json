@@ -3368,6 +3368,14 @@
     "symbol": "UNIBOT"
   },
   {
+    "address": "0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4.jpg",
+    "name": "Universal ETH",
+    "symbol": "uniETH"
+  },
+  {
     "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
     "chainId": 1,
     "decimals": 18,
