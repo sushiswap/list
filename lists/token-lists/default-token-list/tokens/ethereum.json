@@ -992,6 +992,14 @@
     "symbol": "DOLA"
   },
   {
+    "address": "0xAE3359ed3c567482FB0102C584c23daA2693eACf",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xAE3359ed3c567482FB0102C584c23daA2693eACf.jpg",
+    "name": "DORK",
+    "symbol": "DORK"
+  },
+  {
     "address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
     "chainId": 1,
     "decimals": 18,
