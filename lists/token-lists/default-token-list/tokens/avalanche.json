@@ -200,6 +200,14 @@
     "symbol": "oldWETH"
   },
   {
+    "address": "0xA4F282457980856c36380174283d2CB278eA2B37",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xA4F282457980856c36380174283d2CB278eA2B37.jpg",
+    "name": "RAIN",
+    "symbol": "RAIN"
+  },
+  {
     "address": "0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE",
     "chainId": 43114,
     "decimals": 18,
