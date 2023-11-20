@@ -48,6 +48,14 @@
     "symbol": "BOT"
   },
   {
+    "address": "0xC5Dc1b9413c47089641D811B6336c0f2fE440883",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xC5Dc1b9413c47089641D811B6336c0f2fE440883.jpg",
+    "name": "BsmToken",
+    "symbol": "BSM"
+  },
+  {
     "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
     "chainId": 8453,
     "decimals": 18,
