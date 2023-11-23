@@ -16,6 +16,14 @@
     "symbol": "BTC.b"
   },
   {
+    "address": "0x2898aD472234C27163b99191d8D77bfC8bB7356D",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x2898aD472234C27163b99191d8D77bfC8bB7356D.jpg",
+    "name": "FreeCoreDaoCom",
+    "symbol": "FCD"
+  },
+  {
     "address": "0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9",
     "chainId": 1116,
     "decimals": 6,
