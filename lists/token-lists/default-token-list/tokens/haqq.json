@@ -1,11 +1,11 @@
 [
   {
-    "address": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54",
+    "address": "0x762C016895338c7a5Ab2CB7E14f77e6f5f96F4a0",
     "chainId": 11235,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54.jpg",
-    "name": "Wrapped Islamic Coin",
-    "symbol": "WISLM"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x762C016895338c7a5Ab2CB7E14f77e6f5f96F4a0.jpg",
+    "name": "HAQQ JP",
+    "symbol": "=HJP"
   },
   {
     "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
@@ -16,20 +16,12 @@
     "symbol": "DAI"
   },
   {
-    "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+    "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
     "chainId": 11235,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265.jpg",
-    "name": "Wrapped Ether",
-    "symbol": "WETH"
-  },
-  {
-    "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
-    "chainId": 11235,
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687.jpg",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC"
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
   },
   {
     "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
@@ -40,11 +32,27 @@
     "symbol": "USDT"
   },
   {
-    "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+    "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
     "chainId": 11235,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd.jpg",
-    "name": "USD Coin",
-    "symbol": "USDC"
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687.jpg",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+    "chainId": 11235,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54",
+    "chainId": 11235,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54.jpg",
+    "name": "Wrapped Islamic Coin",
+    "symbol": "WISLM"
   }
 ]
