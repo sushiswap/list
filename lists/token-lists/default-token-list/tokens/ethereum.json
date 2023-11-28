@@ -56,6 +56,14 @@
     "symbol": "AGLD"
   },
   {
+    "address": "0xf678f47C7E1383b449396892DA16cb3EBC6A8B85",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf678f47C7E1383b449396892DA16cb3EBC6A8B85.jpg",
+    "name": "AKUDUNNIACOIN",
+    "symbol": "AKC"
+  },
+  {
     "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
     "chainId": 1,
     "decimals": 18,
