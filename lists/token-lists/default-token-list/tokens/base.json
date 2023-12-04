@@ -80,6 +80,14 @@
     "symbol": "FARM"
   },
   {
+    "address": "0xa617c0c739845B2941BD8eDD05c9F993EcC97C18",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xa617c0c739845B2941BD8eDD05c9F993EcC97C18.jpg",
+    "name": "GAMER",
+    "symbol": "GMR"
+  },
+  {
     "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
     "chainId": 8453,
     "decimals": 18,
