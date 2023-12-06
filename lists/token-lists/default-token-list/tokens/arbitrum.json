@@ -632,6 +632,14 @@
     "symbol": "OLE"
   },
   {
+    "address": "0x7Be5Dd337CC6cE3e474F64E2A92A566445290864",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x7Be5Dd337CC6cE3e474F64E2A92A566445290864.jpg",
+    "name": "OpenLeverage Token V2",
+    "symbol": "OLE"
+  },
+  {
     "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
     "chainId": 42161,
     "decimals": 18,
