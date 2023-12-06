@@ -16,6 +16,14 @@
     "symbol": "BTC.b"
   },
   {
+    "address": "0x96063Ca0121d4C62Eb927D57f36Dc00eb8499ddb",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x96063Ca0121d4C62Eb927D57f36Dc00eb8499ddb.jpg",
+    "name": "symbiosis A-59L",
+    "symbol": "SYS A-59L"
+  },
+  {
     "address": "0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9",
     "chainId": 1116,
     "decimals": 6,
