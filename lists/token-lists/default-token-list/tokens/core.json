@@ -16,6 +16,14 @@
     "symbol": "BTC.b"
   },
   {
+    "address": "0x42077e348702f13Ea80CE6a6A38b8b60fbb37B5d",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x42077e348702f13Ea80CE6a6A38b8b60fbb37B5d.jpg",
+    "name": "cDAO",
+    "symbol": "cDAO"
+  },
+  {
     "address": "0x04596cf36027D177d460c2D0c4235eEc0a97EcBB",
     "chainId": 1116,
     "decimals": 18,
