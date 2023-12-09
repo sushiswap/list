@@ -728,6 +728,14 @@
     "symbol": "KRILL"
   },
   {
+    "address": "0xa27134d59313D5f7f370A01bEF3A68EBD0DECc7F",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xa27134d59313D5f7f370A01bEF3A68EBD0DECc7F.jpg",
+    "name": "LeafPay",
+    "symbol": "LEAF"
+  },
+  {
     "address": "0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64",
     "chainId": 137,
     "decimals": 18,
