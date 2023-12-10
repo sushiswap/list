@@ -16,6 +16,14 @@
     "symbol": "BTC.b"
   },
   {
+    "address": "0x811af333E431f4a6283bFbB1E0cD244715FD9C54",
+    "chainId": 1116,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x811af333E431f4a6283bFbB1E0cD244715FD9C54.jpg",
+    "name": "Corecuties Refection",
+    "symbol": "CCTR"
+  },
+  {
     "address": "0x04596cf36027D177d460c2D0c4235eEc0a97EcBB",
     "chainId": 1116,
     "decimals": 18,
