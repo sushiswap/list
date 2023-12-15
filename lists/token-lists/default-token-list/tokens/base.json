@@ -144,6 +144,14 @@
     "symbol": "MOCHITOSHI"
   },
   {
+    "address": "0x9a424807Bd30BcF037823bCC11Ba42fD1Ec92D02",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9a424807Bd30BcF037823bCC11Ba42fD1Ec92D02.jpg",
+    "name": "MemeowCoin",
+    "symbol": "MWC"
+  },
+  {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "chainId": 8453,
     "decimals": 18,
