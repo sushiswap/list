@@ -38,5 +38,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
     "name": "Wrapped Filecoin",
     "symbol": "WFIL"
+  },
+  {
+    "address": "0x6A3F21d2A92a15752912974BbBD5b1469A72B261",
+    "chainId": 314,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x6A3F21d2A92a15752912974BbBD5b1469A72B261.jpg",
+    "name": "Wrapped liquid staked Filecoin",
+    "symbol": "wstFIL"
   }
 ]
