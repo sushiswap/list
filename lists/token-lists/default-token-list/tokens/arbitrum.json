@@ -592,6 +592,14 @@
     "symbol": "NISHIB"
   },
   {
+    "address": "0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d.jpg",
+    "name": "Nola",
+    "symbol": "NOLA"
+  },
+  {
     "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
     "chainId": 42161,
     "decimals": 18,
