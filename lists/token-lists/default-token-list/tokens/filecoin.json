@@ -16,6 +16,14 @@
     "symbol": "axlUSDC"
   },
   {
+    "address": "0x3C3501E6c353DbaEDDFA90376975Ce7aCe4Ac7a8",
+    "chainId": 314,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x3C3501E6c353DbaEDDFA90376975Ce7aCe4Ac7a8.jpg",
+    "name": "Staking FIL",
+    "symbol": "stFIL"
+  },
+  {
     "address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
     "chainId": 314,
     "decimals": 6,
