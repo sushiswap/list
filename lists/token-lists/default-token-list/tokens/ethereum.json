@@ -600,6 +600,14 @@
     "symbol": "BUSD"
   },
   {
+    "address": "0xdE342A3E269056fc3305f9e315F4C40D917BA521",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xdE342A3E269056fc3305f9e315F4C40D917BA521.jpg",
+    "name": "Byte",
+    "symbol": "BYTE"
+  },
+  {
     "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
     "chainId": 1,
     "decimals": 18,
