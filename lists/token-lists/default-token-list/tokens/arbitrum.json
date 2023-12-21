@@ -640,6 +640,14 @@
     "symbol": "OLE"
   },
   {
+    "address": "0xf06DFed9aA6D4206EBBC0eF2a93567e794592364",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf06DFed9aA6D4206EBBC0eF2a93567e794592364.jpg",
+    "name": "ORB Token",
+    "symbol": "ORB"
+  },
+  {
     "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
     "chainId": 42161,
     "decimals": 18,
