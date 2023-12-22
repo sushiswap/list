@@ -592,6 +592,14 @@
     "symbol": "NISHIB"
   },
   {
+    "address": "0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990.jpg",
+    "name": "NitroShiba",
+    "symbol": "NISHIB"
+  },
+  {
     "address": "0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d",
     "chainId": 42161,
     "decimals": 18,
