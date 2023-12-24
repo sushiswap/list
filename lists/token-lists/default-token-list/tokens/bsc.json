@@ -560,6 +560,14 @@
     "symbol": "OG"
   },
   {
+    "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x9e20461bc2c4c980f62f1B279D71734207a6A356.jpg",
+    "name": "OmniCat",
+    "symbol": "OMNI"
+  },
+  {
     "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
     "chainId": 56,
     "decimals": 18,
