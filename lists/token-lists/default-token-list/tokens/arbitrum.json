@@ -648,6 +648,14 @@
     "symbol": "OLE"
   },
   {
+    "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x9e20461bc2c4c980f62f1B279D71734207a6A356.jpg",
+    "name": "OmniCat",
+    "symbol": "OMNI"
+  },
+  {
     "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
     "chainId": 42161,
     "decimals": 18,
