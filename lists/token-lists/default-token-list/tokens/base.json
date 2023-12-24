@@ -152,6 +152,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0xC48E605c7b722a57277e087a6170B9E227e5AC0A",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xC48E605c7b722a57277e087a6170B9E227e5AC0A.jpg",
+    "name": "OmniCat",
+    "symbol": "OMNI"
+  },
+  {
     "address": "0x22DC834C3Ff3e45f484bF24B9B07b851B981900f",
     "chainId": 8453,
     "decimals": 18,
