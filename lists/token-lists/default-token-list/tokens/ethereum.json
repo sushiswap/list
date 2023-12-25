@@ -2336,6 +2336,14 @@
     "symbol": "OMG"
   },
   {
+    "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9e20461bc2c4c980f62f1B279D71734207a6A356.jpg",
+    "name": "OmniCat",
+    "symbol": "OMNI"
+  },
+  {
     "address": "0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3",
     "chainId": 1,
     "decimals": 18,
