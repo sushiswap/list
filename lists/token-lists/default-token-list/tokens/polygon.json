@@ -904,6 +904,14 @@
     "symbol": "OMEN"
   },
   {
+    "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x9e20461bc2c4c980f62f1B279D71734207a6A356.jpg",
+    "name": "OmniCat",
+    "symbol": "OMNI"
+  },
+  {
     "address": "0xCd150B1F528F326f5194c012f32Eb30135C7C2c9",
     "chainId": 137,
     "decimals": 18,
