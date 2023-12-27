@@ -152,6 +152,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d.jpg",
+    "name": "Non-Playable Coin",
+    "symbol": "NPC"
+  },
+  {
     "address": "0xC48E605c7b722a57277e087a6170B9E227e5AC0A",
     "chainId": 8453,
     "decimals": 18,
