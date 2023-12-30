@@ -24,6 +24,14 @@
     "symbol": "axlUSDC"
   },
   {
+    "address": "0x7ED613AB8b2b4c6A781DDC97eA98a666c6437511",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x7ED613AB8b2b4c6A781DDC97eA98a666c6437511.jpg",
+    "name": "All Your Base",
+    "symbol": "AYB"
+  },
+  {
     "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
     "chainId": 8453,
     "decimals": 18,
