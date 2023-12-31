@@ -32,6 +32,14 @@
     "symbol": "AGS"
   },
   {
+    "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x2598c30330D5771AE9F983979209486aE26dE875.jpg",
+    "name": "Any Inu",
+    "symbol": "AI"
+  },
+  {
     "address": "0x0e15258734300290a651FdBAe8dEb039a8E7a2FA",
     "chainId": 42161,
     "decimals": 18,
