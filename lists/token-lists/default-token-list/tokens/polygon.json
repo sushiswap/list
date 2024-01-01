@@ -1048,6 +1048,14 @@
     "symbol": "POP"
   },
   {
+    "address": "0x4A562E4637D637adFAe556f4471C6adBF870A206",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x4A562E4637D637adFAe556f4471C6adBF870A206.jpg",
+    "name": "PropCoin",
+    "symbol": "PROPCO"
+  },
+  {
     "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
     "chainId": 137,
     "decimals": 18,
