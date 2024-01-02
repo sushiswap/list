@@ -176,6 +176,14 @@
     "symbol": "MU"
   },
   {
+    "address": "0xD47E4F1ef1AA4090bc27420BDD5cB379Ced81440",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xD47E4F1ef1AA4090bc27420BDD5cB379Ced81440.jpg",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
+  },
+  {
     "address": "0x3134210a6BdB55eED6E59905bC34928DF6d74830",
     "chainId": 43114,
     "decimals": 6,
