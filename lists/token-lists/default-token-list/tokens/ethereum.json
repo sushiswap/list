@@ -1776,6 +1776,14 @@
     "symbol": "LEVX"
   },
   {
+    "address": "0x21E783bcf445B515957A10E992aD3c8E9FF51288",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x21E783bcf445B515957A10E992aD3c8E9FF51288.jpg",
+    "name": "Let's Go Brandon",
+    "symbol": "LGB"
+  },
+  {
     "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
     "chainId": 1,
     "decimals": 18,
