@@ -16,6 +16,14 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0xb262a485d98D8e19175818D47453e7812cA255A8",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xb262a485d98D8e19175818D47453e7812cA255A8.jpg",
+    "name": "Bingo",
+    "symbol": "BINGO"
+  },
+  {
     "address": "0x3cD790449CF7D187a143d4Bd7F4654d4f2403e02",
     "chainId": 43114,
     "decimals": 18,
