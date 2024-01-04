@@ -584,14 +584,6 @@
     "symbol": "NIFLOKI"
   },
   {
-    "address": "0x4DAD357726b41bb8932764340ee9108cC5AD33a0",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x4DAD357726b41bb8932764340ee9108cC5AD33a0.jpg",
-    "name": "NitroShiba",
-    "symbol": "NISHIB"
-  },
-  {
     "address": "0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990",
     "chainId": 42161,
     "decimals": 18,
