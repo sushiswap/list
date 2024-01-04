@@ -120,14 +120,6 @@
     "symbol": "MOCHI"
   },
   {
-    "address": "0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56",
-    "chainId": 8453,
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56.jpg",
-    "name": "Mochi (old)",
-    "symbol": "MOCHI"
-  },
-  {
     "address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
     "chainId": 8453,
     "decimals": 18,
