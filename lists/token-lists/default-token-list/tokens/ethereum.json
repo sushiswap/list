@@ -1960,6 +1960,14 @@
     "symbol": "MFB"
   },
   {
+    "address": "0x442ED5A1E34AEEe5aF714B6A4fb17037Be319db3",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x442ED5A1E34AEEe5aF714B6A4fb17037Be319db3.jpg",
+    "name": "Moes Group ",
+    "symbol": "MG"
+  },
+  {
     "address": "0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
     "chainId": 1,
     "decimals": 18,
