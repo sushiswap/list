@@ -9,6 +9,7 @@
     "prepublishOnly": "pnpm test && pnpm run build",
     "sync": "node internal/sync.js",
     "syncDB": "prisma generate --data-proxy --schema=./internal/schema.prisma && ts-node ./internal/syncDB.ts",
+    "syncLogoURIs": "ts-node ./internal/syncLogoURIs.ts",
     "volume": "ts-node ./internal/tokenVolumes.ts",
     "ci:version": "pnpm version minor",
     "ci:publish": "pnpm publish --access public --tag latest"
