@@ -56,6 +56,14 @@
     "symbol": "ATOM"
   },
   {
+    "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
     "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
     "chainId": 56,
     "decimals": 18,

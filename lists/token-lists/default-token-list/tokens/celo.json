@@ -8,6 +8,14 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "chainId": 42220,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
     "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
     "chainId": 42220,
     "decimals": 18,
