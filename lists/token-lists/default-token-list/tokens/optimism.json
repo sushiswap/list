@@ -480,6 +480,14 @@
     "symbol": "USDC"
   },
   {
+    "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
     "chainId": 10,
     "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
     "name": "Decentralized USD",
