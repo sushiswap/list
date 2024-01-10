@@ -28,8 +28,8 @@
     "chainId": 314,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
-    "name": "Tether USD",
-    "symbol": "USDT"
+    "name": "Celer Wrapped USDT",
+    "symbol": "ceUSDT"
   },
   {
     "address": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
