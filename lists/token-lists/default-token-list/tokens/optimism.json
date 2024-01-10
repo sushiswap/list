@@ -477,7 +477,7 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
     "name": "USD Coin",
-    "symbol": "USDC"
+    "symbol": "USDC.e"
   },
   {
     "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
