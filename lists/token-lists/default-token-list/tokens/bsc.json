@@ -584,6 +584,14 @@
     "symbol": "ONT"
   },
   {
+    "address": "0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7.jpg",
+    "name": "Osaka Protocol",
+    "symbol": "OSAK"
+  },
+  {
     "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
     "chainId": 56,
     "decimals": 18,
