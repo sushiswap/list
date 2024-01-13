@@ -752,6 +752,14 @@
     "symbol": "lsMATIC"
   },
   {
+    "address": "0x10D27a9343A9aBCF837fD7787e241D52e8e93f82",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x10D27a9343A9aBCF837fD7787e241D52e8e93f82.jpg",
+    "name": "Maimon",
+    "symbol": "Maimon"
+  },
+  {
     "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
     "chainId": 137,
     "decimals": 18,
