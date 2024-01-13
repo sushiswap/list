@@ -568,6 +568,14 @@
     "symbol": "BSGG"
   },
   {
+    "address": "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a.jpg",
+    "name": "BlocksquareToken",
+    "symbol": "BST"
+  },
+  {
     "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
     "chainId": 1,
     "decimals": 18,
