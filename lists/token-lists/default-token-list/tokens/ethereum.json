@@ -1192,6 +1192,14 @@
     "symbol": "FLOKI"
   },
   {
+    "address": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9.jpg",
+    "name": "FLUX",
+    "symbol": "FLUX"
+  },
+  {
     "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
     "chainId": 1,
     "decimals": 18,
