@@ -312,6 +312,14 @@
     "symbol": "FLUX"
   },
   {
+    "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF80D589b3Dbe130c270a69F1a69D050f268786Df.jpg",
+    "name": "Flux",
+    "symbol": "FLUX"
+  },
+  {
     "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "chainId": 42161,
     "decimals": 18,
