@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xdc4F4eD9872571d5eC8986a502A0D88F3a175f1E",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xdc4F4eD9872571d5eC8986a502A0D88F3a175f1E.jpg",
+    "name": "DEZ",
+    "symbol": "$DEZ"
+  },
+  {
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "chainId": 137,
     "decimals": 18,
