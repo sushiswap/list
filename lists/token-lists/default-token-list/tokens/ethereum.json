@@ -832,6 +832,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF80D589b3Dbe130c270a69F1a69D050f268786Df.jpg",
+    "name": "Datamine",
+    "symbol": "DAM"
+  },
+  {
     "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
     "chainId": 1,
     "decimals": 18,
