@@ -816,6 +816,14 @@
     "symbol": "RGT"
   },
   {
+    "address": "0x4e05d153305Bc472e220Ec3F7a7894b38f74741F",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x4e05d153305Bc472e220Ec3F7a7894b38f74741F.jpg",
+    "name": "Smart Aliens",
+    "symbol": "SAS"
+  },
+  {
     "address": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
     "chainId": 42161,
     "decimals": 18,
