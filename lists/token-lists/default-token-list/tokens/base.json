@@ -240,6 +240,14 @@
     "symbol": "WETH"
   },
   {
+    "address": "0xda9D200a1626A991E810D4a71f60ee970Fe3933C",
+    "chainId": 8453,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xda9D200a1626A991E810D4a71f60ee970Fe3933C.jpg",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC"
+  },
+  {
     "address": "0x981D41C115a2d48Cb1215D13Bda8f989d407c9c5",
     "chainId": 8453,
     "decimals": 18,
