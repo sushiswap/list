@@ -3958,5 +3958,29 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
     "name": "0x",
     "symbol": "ZRX"
+  },
+  {
+    "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32422/large/ARYZE_eUSD.png",
+    "name": "ARYZE eUSD",
+    "symbol": "eUSD"
+  },
+  {
+    "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32421/large/ARYZE_eEUR.png",
+    "name": "ARYZE eEUR",
+    "symbol": "eEUR"
+  },
+  {
+    "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32989/large/ARYZE_eGBP.png",
+    "name": "ARYZE eGBP",
+    "symbol": "eGBP"
   }
 ]
