@@ -16,6 +16,46 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0xC5Fa5669E326DA8B2C35540257cD48811F40a36B",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xC5Fa5669E326DA8B2C35540257cD48811F40a36B.jpg",
+    "name": "Axelar Wrapped DAI",
+    "symbol": "axlDAI"
+  },
+  {
+    "address": "0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB.jpg",
+    "name": "Axelar Wrapped ETH",
+    "symbol": "axlETH"
+  },
+  {
+    "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+    "chainId": 43114,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
+    "address": "0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66",
+    "chainId": 43114,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66.jpg",
+    "name": "Axelar Wrapped USDT",
+    "symbol": "axlUSDT"
+  },
+  {
+    "address": "0xa6220B4209353dFeF03B6cE410c8F01105515f94",
+    "chainId": 43114,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xa6220B4209353dFeF03B6cE410c8F01105515f94.jpg",
+    "name": "Axelar Wrapped WBTC",
+    "symbol": "axlWBTC"
+  },
+  {
     "address": "0x3cD790449CF7D187a143d4Bd7F4654d4f2403e02",
     "chainId": 43114,
     "decimals": 18,
