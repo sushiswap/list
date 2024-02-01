@@ -8,6 +8,14 @@
     "symbol": "1INCH"
   },
   {
+    "address": "0x1412ECa9dc7daEf60451e3155bB8Dbf9DA349933",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1412ECa9dc7daEf60451e3155bB8Dbf9DA349933.jpg",
+    "name": "A68.net",
+    "symbol": "A68.net"
+  },
+  {
     "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
     "chainId": 1,
     "decimals": 18,
