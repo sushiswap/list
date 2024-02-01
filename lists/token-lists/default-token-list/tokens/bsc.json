@@ -624,6 +624,14 @@
     "symbol": "REEF"
   },
   {
+    "address": "0xD0B52f0CD8bA42e43fa378c4c4DB2515Fbd7B911",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xD0B52f0CD8bA42e43fa378c4c4DB2515Fbd7B911.jpg",
+    "name": "Scam Token",
+    "symbol": "SCMT"
+  },
+  {
     "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
     "chainId": 56,
     "decimals": 18,
