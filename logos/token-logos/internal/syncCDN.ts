@@ -6,7 +6,7 @@ import * as cloudinary from "cloudinary";
 
 const BASE_DIR = "https://cdn.sushi.com/image/upload";
 
-const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 8453 | 1116 | 11235 | 59144 | 324 | 534352 | 314> = {
+const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 8453 | 1116 | 11235 | 59144 | 324 | 534352 | 314 | 7000> = {
   arbitrum: ChainId.ARBITRUM,
   "arbitrum-nova": ChainId.ARBITRUM_NOVA,
   avalanche: ChainId.AVALANCHE,
@@ -41,7 +41,8 @@ const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 8453 | 1116 | 11235 | 59144 
   xdai: ChainId.GNOSIS,
   "zksync-era": 324,
   scroll: 534352,
-  filecoin: 314 // ChainId.FILECOIN
+  filecoin: 314, // ChainId.FILECOIN
+  zetachain: 7000, //ChainId.ZETACHAIN
 };
 
 syncCDN();
