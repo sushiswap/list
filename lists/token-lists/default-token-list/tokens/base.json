@@ -48,6 +48,14 @@
     "symbol": "BALD"
   },
   {
+    "address": "0xAd1C24dE53fAD18270D5C99026302E989D212b41",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xAd1C24dE53fAD18270D5C99026302E989D212b41.jpg",
+    "name": "Berd",
+    "symbol": "BERD"
+  },
+  {
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
