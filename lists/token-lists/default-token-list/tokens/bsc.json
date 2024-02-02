@@ -624,6 +624,14 @@
     "symbol": "REEF"
   },
   {
+    "address": "0xd9867da5704CD1041E71382bA0C4ad64B63284C3",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xd9867da5704CD1041E71382bA0C4ad64B63284C3.jpg",
+    "name": "Rocky Doge ",
+    "symbol": "Rocky"
+  },
+  {
     "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
     "chainId": 56,
     "decimals": 18,
