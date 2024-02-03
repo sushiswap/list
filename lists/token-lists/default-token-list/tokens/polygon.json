@@ -744,6 +744,14 @@
     "symbol": "LICP"
   },
   {
+    "address": "0xFa8C29A2C153f5d9Ce4D824299467CA4e49a2C3A",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xFa8C29A2C153f5d9Ce4D824299467CA4e49a2C3A.jpg",
+    "name": "LIKE",
+    "symbol": "LIKE"
+  },
+  {
     "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
     "chainId": 137,
     "decimals": 18,
