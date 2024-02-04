@@ -648,6 +648,14 @@
     "symbol": "SPELL"
   },
   {
+    "address": "0xf15a85fd97Ab2Cc96D6bC5229f5d3688A01F09bd",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xf15a85fd97Ab2Cc96D6bC5229f5d3688A01F09bd.jpg",
+    "name": "StarPug",
+    "symbol": "SPG"
+  },
+  {
     "address": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
     "chainId": 56,
     "decimals": 18,
