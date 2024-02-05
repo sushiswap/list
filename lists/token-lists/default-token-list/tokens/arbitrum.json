@@ -784,6 +784,14 @@
     "symbol": "pTSLA"
   },
   {
+    "address": "0xd60F59495C0a4426a62AC17880653a9c8bA5d156",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xd60F59495C0a4426a62AC17880653a9c8bA5d156.jpg",
+    "name": "Reddit Coin",
+    "symbol": "RDC"
+  },
+  {
     "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
     "chainId": 42161,
     "decimals": 18,
