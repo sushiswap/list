@@ -64,6 +64,14 @@
     "symbol": "RAM"
   },
   {
+    "address": "0x71CF496Fc5Bc3041496421F09b069BC1cf6c98Db",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x71CF496Fc5Bc3041496421F09b069BC1cf6c98Db.jpg",
+    "name": "SCGames Token",
+    "symbol": "SCG"
+  },
+  {
     "address": "0xFf938bF442ACEF553441f06f35d2871a7393Ec2e",
     "chainId": 108,
     "decimals": 18,
