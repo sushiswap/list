@@ -8,7 +8,7 @@
     "build": "rimraf build && mkdir -p build && node internal/write.js > build/sushiswap-default.tokenlist.json",
     "prepublishOnly": "pnpm test && pnpm run build",
     "sync": "node internal/sync.js",
-    "syncDB": "prisma generate --data-proxy --schema=./internal/schema.prisma && ts-node ./internal/syncDB.ts",
+    "syncDB": "prisma generate --schema=./internal/schema.prisma && ts-node ./internal/syncDB.ts",
     "volume": "ts-node ./internal/tokenVolumes.ts",
     "ci:version": "pnpm version minor",
     "ci:publish": "pnpm publish --access public --tag latest"
