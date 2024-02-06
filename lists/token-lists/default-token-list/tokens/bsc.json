@@ -862,5 +862,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zec.jpg",
     "name": "Zcash Token",
     "symbol": "ZEC"
+  },
+  {
+    "address": "0x0000028a2eB8346cd5c0267856aB7594B7a55308",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x0000028a2eB8346cd5c0267856aB7594B7a55308.jpg",
+    "name": "Zeta",
+    "symbol": "ZETA"
   }
 ]
