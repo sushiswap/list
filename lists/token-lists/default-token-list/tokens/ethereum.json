@@ -3944,6 +3944,14 @@
     "symbol": "ZERO"
   },
   {
+    "address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf091867EC603A6628eD83D274E835539D82e9cc8.jpg",
+    "name": "Zeta",
+    "symbol": "ZETA"
+  },
+  {
     "address": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
     "chainId": 1,
     "decimals": 18,
