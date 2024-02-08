@@ -184,6 +184,14 @@
     "symbol": "SMUDCAT"
   },
   {
+    "address": "0x114EeE493A909a4eBa20bD2Bd86EDD4F29342C88",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x114EeE493A909a4eBa20bD2Bd86EDD4F29342C88.jpg",
+    "name": "300 Based Spartans",
+    "symbol": "SPARTANS"
+  },
+  {
     "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
     "chainId": 8453,
     "decimals": 18,
