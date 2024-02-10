@@ -816,6 +816,14 @@
     "symbol": "MM"
   },
   {
+    "address": "0x0ee6169d5De0bA9703F0ca411FF37F7E697A5912",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x0ee6169d5De0bA9703F0ca411FF37F7E697A5912.jpg",
+    "name": "Mnama Bull",
+    "symbol": "MNB"
+  },
+  {
     "address": "0x5d2375C6af4b7dE4e395ADa20aab937895B4fa70",
     "chainId": 137,
     "decimals": 18,
