@@ -240,6 +240,14 @@
     "symbol": "C3"
   },
   {
+    "address": "0x2BF397Fc57262bB2F3d2325a12306FaE0f9103E7",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2BF397Fc57262bB2F3d2325a12306FaE0f9103E7.jpg",
+    "name": "CALI",
+    "symbol": "CALI"
+  },
+  {
     "address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
     "chainId": 137,
     "decimals": 4,
