@@ -3480,6 +3480,14 @@
     "symbol": "USDT"
   },
   {
+    "address": "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0E573Ce2736Dd9637A0b21058352e1667925C7a8.jpg",
+    "name": "USDV",
+    "symbol": "USDV"
+  },
+  {
     "address": "0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48",
     "chainId": 1,
     "decimals": 18,
