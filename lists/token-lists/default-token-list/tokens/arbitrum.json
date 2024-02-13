@@ -664,6 +664,14 @@
     "symbol": "OMNI"
   },
   {
+    "address": "0xe615342515f56E0E216B10e016a6432f1454b207",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xe615342515f56E0E216B10e016a6432f1454b207.jpg",
+    "name": "OsanuToken",
+    "symbol": "OTC"
+  },
+  {
     "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
     "chainId": 42161,
     "decimals": 18,
