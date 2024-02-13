@@ -344,6 +344,14 @@
     "symbol": "USDT.e"
   },
   {
+    "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+    "chainId": 43114,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x323665443CEf804A3b5206103304BD4872EA4253.jpg",
+    "name": "USDV",
+    "symbol": "USDV"
+  },
+  {
     "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
     "chainId": 43114,
     "decimals": 18,
