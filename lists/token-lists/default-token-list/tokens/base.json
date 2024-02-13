@@ -48,6 +48,14 @@
     "symbol": "BALD"
   },
   {
+    "address": "0xe4316f2f07549Be05Dbad2D7B8FcFda074DaA4aF",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xe4316f2f07549Be05Dbad2D7B8FcFda074DaA4aF.jpg",
+    "name": "BrianArmstrongLovesDegenspartan",
+    "symbol": "BALD"
+  },
+  {
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
