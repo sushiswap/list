@@ -888,6 +888,14 @@
     "symbol": "SUSHI"
   },
   {
+    "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034.jpg",
+    "name": "Savvy",
+    "symbol": "SVY"
+  },
+  {
     "address": "0x955b9fe60a5b5093df9Dc4B1B18ec8e934e77162",
     "chainId": 42161,
     "decimals": 18,
