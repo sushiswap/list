@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB.jpg",
+    "name": "Arbius",
+    "symbol": "AIUS"
+  },
+  {
     "address": "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD",
     "chainId": 42170,
     "decimals": 18,
