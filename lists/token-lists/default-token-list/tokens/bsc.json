@@ -592,6 +592,14 @@
     "symbol": "ONT"
   },
   {
+    "address": "0x35364B0B29c9B6534F6A54752133dc76BF1795D9",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x35364B0B29c9B6534F6A54752133dc76BF1795D9.jpg",
+    "name": "PEPENAUT",
+    "symbol": "PPN"
+  },
+  {
     "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
     "chainId": 56,
     "decimals": 18,
