@@ -472,6 +472,14 @@
     "symbol": "ETH2X-FLI-P"
   },
   {
+    "address": "0xA0e4c84693266a9d3BBef2f394B33712c76599Ab",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xA0e4c84693266a9d3BBef2f394B33712c76599Ab.jpg",
+    "name": "EURO3",
+    "symbol": "EURO3"
+  },
+  {
     "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
     "chainId": 137,
     "decimals": 6,
