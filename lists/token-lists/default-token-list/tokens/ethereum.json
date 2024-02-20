@@ -3392,6 +3392,14 @@
     "symbol": "TXL"
   },
   {
+    "address": "0xD624E5C89466A15812c1D45Ce1533be1F16C1702",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xD624E5C89466A15812c1D45Ce1533be1F16C1702.jpg",
+    "name": "UBD Network",
+    "symbol": "UBDN"
+  },
+  {
     "address": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
     "chainId": 1,
     "decimals": 18,
