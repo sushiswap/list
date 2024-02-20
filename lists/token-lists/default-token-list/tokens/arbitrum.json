@@ -336,6 +336,14 @@
     "symbol": "FRM"
   },
   {
+    "address": "0x93c2Bc619B2D175d2960B8B41D8beA0Ea40a8D50",
+    "chainId": 42161,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x93c2Bc619B2D175d2960B8B41D8beA0Ea40a8D50.jpg",
+    "name": "Frozen AI",
+    "symbol": "FROZE"
+  },
+  {
     "address": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A",
     "chainId": 42161,
     "decimals": 6,
