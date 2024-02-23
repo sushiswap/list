@@ -106,7 +106,7 @@ module.exports = function buildList() {
       ...linea,
       ...scroll,
       ...filecoin,
-      ...cronos
+      ...cronos,
       ...zetachain
     ]),
   };
