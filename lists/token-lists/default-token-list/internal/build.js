@@ -45,6 +45,7 @@ const linea = require("../tokens/linea.json");
 const scroll = require("../tokens/scroll.json");
 const filecoin = require("../tokens/filecoin.json");
 const cronos = require("../tokens/cronos.json");
+const zetachain = require("../tokens/zetachain.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -106,6 +107,7 @@ module.exports = function buildList() {
       ...scroll,
       ...filecoin,
       ...cronos
+      ...zetachain
     ]),
   };
 };

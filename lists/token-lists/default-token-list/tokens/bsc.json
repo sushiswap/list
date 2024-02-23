@@ -56,6 +56,14 @@
     "symbol": "ATOM"
   },
   {
+    "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
     "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
     "chainId": 56,
     "decimals": 18,
@@ -496,6 +504,14 @@
     "symbol": "NAR"
   },
   {
+    "address": "0x1912A3504E59d1C1B060bf2d371DEB00b70E8796",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x1912A3504E59d1C1B060bf2d371DEB00b70E8796.jpg",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
+  },
+  {
     "address": "0x8506560320826e459F356CB56cCF721Da8875414",
     "chainId": 56,
     "decimals": 18,
@@ -558,6 +574,14 @@
     "logoURI": "https://bscscan.com/token/images/ogfan_32.png",
     "name": "OG",
     "symbol": "OG"
+  },
+  {
+    "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x9e20461bc2c4c980f62f1B279D71734207a6A356.jpg",
+    "name": "OmniCat",
+    "symbol": "OMNI"
   },
   {
     "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
@@ -728,6 +752,14 @@
     "symbol": "USDT"
   },
   {
+    "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x323665443CEf804A3b5206103304BD4872EA4253.jpg",
+    "name": "USDV",
+    "symbol": "USDV"
+  },
+  {
     "address": "0x1203355742e76875154C0D13eB81DCD7711dC7d9",
     "chainId": 56,
     "decimals": 6,
@@ -838,5 +870,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zec.jpg",
     "name": "Zcash Token",
     "symbol": "ZEC"
+  },
+  {
+    "address": "0x0000028a2eB8346cd5c0267856aB7594B7a55308",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x0000028a2eB8346cd5c0267856aB7594B7a55308.jpg",
+    "name": "Zeta",
+    "symbol": "ZETA"
   }
 ]

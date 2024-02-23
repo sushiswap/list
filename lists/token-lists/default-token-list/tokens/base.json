@@ -24,6 +24,14 @@
     "symbol": "axlUSDC"
   },
   {
+    "address": "0x7ED613AB8b2b4c6A781DDC97eA98a666c6437511",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x7ED613AB8b2b4c6A781DDC97eA98a666c6437511.jpg",
+    "name": "All Your Base",
+    "symbol": "AYB"
+  },
+  {
     "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
     "chainId": 8453,
     "decimals": 18,
@@ -80,6 +88,14 @@
     "symbol": "FARM"
   },
   {
+    "address": "0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105.jpg",
+    "name": "Fren Pet",
+    "symbol": "Fren Pet"
+  },
+  {
     "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
     "chainId": 8453,
     "decimals": 18,
@@ -120,10 +136,10 @@
     "symbol": "MOCHI"
   },
   {
-    "address": "0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56",
+    "address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
     "chainId": 8453,
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56.jpg",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50.jpg",
     "name": "Mochi",
     "symbol": "MOCHI"
   },
@@ -142,6 +158,30 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xc2106ca72996e49bBADcB836eeC52B765977fd20.jpg",
     "name": "NFTEarthOFT",
     "symbol": "NFTE"
+  },
+  {
+    "address": "0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d.jpg",
+    "name": "Non-Playable Coin",
+    "symbol": "NPC"
+  },
+  {
+    "address": "0xC48E605c7b722a57277e087a6170B9E227e5AC0A",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xC48E605c7b722a57277e087a6170B9E227e5AC0A.jpg",
+    "name": "OmniCat",
+    "symbol": "OMNI"
+  },
+  {
+    "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85.jpg",
+    "name": "Seamless",
+    "symbol": "SEAM"
   },
   {
     "address": "0x22DC834C3Ff3e45f484bF24B9B07b851B981900f",
@@ -182,6 +222,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.jpg",
     "name": "USD Base Coin",
     "symbol": "USDbc"
+  },
+  {
+    "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "chainId": 8453,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
   },
   {
     "address": "0x5A76A56ad937335168b30dF3AA1327277421C6Ae",

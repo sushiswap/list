@@ -1,11 +1,43 @@
 [
   {
+    "address": "0x14dF360966a1c4582d2b18EDbdae432EA0A27575",
+    "chainId": 1284,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x14dF360966a1c4582d2b18EDbdae432EA0A27575.jpg",
+    "name": "Axelar Wrapped DAI",
+    "symbol": "axlDAI"
+  },
+  {
+    "address": "0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f",
+    "chainId": 1284,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f.jpg",
+    "name": "Axelar Wrapped ETH",
+    "symbol": "axlETH"
+  },
+  {
+    "address": "0xCa01a1D0993565291051daFF390892518ACfAD3A",
+    "chainId": 1284,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xCa01a1D0993565291051daFF390892518ACfAD3A.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
+    "address": "0xDFd74aF792bC6D45D1803F425CE62Dd16f8Ae038",
+    "chainId": 1284,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xDFd74aF792bC6D45D1803F425CE62Dd16f8Ae038.jpg",
+    "name": "Axelar Wrapped USDT",
+    "symbol": "axlUSDT"
+  },
+  {
     "address": "0xc234A67a4F840E61adE794be47de455361b52413",
     "chainId": 1284,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
     "name": "Dai Stablecoin",
-    "symbol": "DAI"
+    "symbol": "nomadDAI"
   },
   {
     "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
@@ -37,7 +69,15 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
     "name": "USD Coin",
-    "symbol": "USDC"
+    "symbol": "nomadUSDC"
+  },
+  {
+    "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+    "chainId": 1284,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x931715FEE2d06333043d11F658C8CE934aC61D0c.jpg",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "wh.USDC"
   },
   {
     "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
@@ -45,7 +85,7 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
     "name": "Tether USD",
-    "symbol": "USDT"
+    "symbol": "nomadUSDT"
   },
   {
     "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
@@ -61,7 +101,7 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "Wrapped Bitcoin",
-    "symbol": "WBTC"
+    "symbol": "nomadWBTC"
   },
   {
     "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
@@ -69,7 +109,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ether",
-    "symbol": "WETH"
+    "symbol": "nomadWETH"
   },
   {
     "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
@@ -86,5 +126,21 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
     "name": "Sushi",
     "symbol": "anySUSHI"
+  },
+  {
+    "address": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
+    "chainId": 1284,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D.jpg",
+    "name": "Wrapped BTC (Wormhole)",
+    "symbol": "wh.WBTC"
+  },
+  {
+    "address": "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD",
+    "chainId": 1284,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xab3f0245B83feB11d15AAffeFD7AD465a59817eD.jpg",
+    "name": "Wrapped Ether (Wormhole)",
+    "symbol": "wh.WETH"
   }
 ]

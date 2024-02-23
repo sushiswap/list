@@ -1,5 +1,45 @@
 [
   {
+    "address": "0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF.jpg",
+    "name": "Axelar Wrapped DAI",
+    "symbol": "axlDAI"
+  },
+  {
+    "address": "0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B.jpg",
+    "name": "Axelar Wrapped ETH",
+    "symbol": "axlETH"
+  },
+  {
+    "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+    "chainId": 250,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x1B6382DBDEa11d97f24495C9A90b7c88469134a4.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
+    "address": "0xd226392C23fb3476274ED6759D4a478db3197d82",
+    "chainId": 250,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xd226392C23fb3476274ED6759D4a478db3197d82.jpg",
+    "name": "Axelar Wrapped USDT",
+    "symbol": "axlUSDT"
+  },
+  {
+    "address": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
+    "chainId": 250,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x448d59B4302aB5d2dadf9611bED9457491926c8e.jpg",
+    "name": "Axelar Wrapped WBTC",
+    "symbol": "axlWBTC"
+  },
+  {
     "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
     "chainId": 250,
     "decimals": 18,

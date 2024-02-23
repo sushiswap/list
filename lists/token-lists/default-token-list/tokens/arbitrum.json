@@ -64,6 +64,14 @@
     "symbol": "ARB"
   },
   {
+    "address": "0x64081252c497FCfeC247a664e9D10Ca8eD71b276",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x64081252c497FCfeC247a664e9D10Ca8eD71b276.jpg",
+    "name": "ArbiFLUX",
+    "symbol": "ArbiFLUX"
+  },
+  {
     "address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
     "chainId": 42161,
     "decimals": 18,
@@ -301,6 +309,14 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x2338a5d62E9A766289934e8d2e83a443e8065b83.jpg",
     "name": "Flux Protocol",
+    "symbol": "FLUX"
+  },
+  {
+    "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF80D589b3Dbe130c270a69F1a69D050f268786Df.jpg",
+    "name": "Flux",
     "symbol": "FLUX"
   },
   {
@@ -584,12 +600,20 @@
     "symbol": "NIFLOKI"
   },
   {
-    "address": "0x4DAD357726b41bb8932764340ee9108cC5AD33a0",
+    "address": "0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x4DAD357726b41bb8932764340ee9108cC5AD33a0.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990.jpg",
     "name": "NitroShiba",
     "symbol": "NISHIB"
+  },
+  {
+    "address": "0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d.jpg",
+    "name": "Nola",
+    "symbol": "NOLA"
   },
   {
     "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
@@ -630,6 +654,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1.jpg",
     "name": "OpenLeverage",
     "symbol": "OLE"
+  },
+  {
+    "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x9e20461bc2c4c980f62f1B279D71734207a6A356.jpg",
+    "name": "OmniCat",
+    "symbol": "OMNI"
   },
   {
     "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
@@ -856,6 +888,14 @@
     "symbol": "SUSHI"
   },
   {
+    "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034.jpg",
+    "name": "Savvy",
+    "symbol": "SVY"
+  },
+  {
     "address": "0x955b9fe60a5b5093df9Dc4B1B18ec8e934e77162",
     "chainId": 42161,
     "decimals": 18,
@@ -918,6 +958,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
+  },
+  {
+    "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+    "chainId": 42161,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x323665443CEf804A3b5206103304BD4872EA4253.jpg",
+    "name": "USDV",
+    "symbol": "USDV"
   },
   {
     "address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",

@@ -16,6 +16,46 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0xC5Fa5669E326DA8B2C35540257cD48811F40a36B",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xC5Fa5669E326DA8B2C35540257cD48811F40a36B.jpg",
+    "name": "Axelar Wrapped DAI",
+    "symbol": "axlDAI"
+  },
+  {
+    "address": "0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB.jpg",
+    "name": "Axelar Wrapped ETH",
+    "symbol": "axlETH"
+  },
+  {
+    "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+    "chainId": 43114,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
+    "address": "0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66",
+    "chainId": 43114,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66.jpg",
+    "name": "Axelar Wrapped USDT",
+    "symbol": "axlUSDT"
+  },
+  {
+    "address": "0xa6220B4209353dFeF03B6cE410c8F01105515f94",
+    "chainId": 43114,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xa6220B4209353dFeF03B6cE410c8F01105515f94.jpg",
+    "name": "Axelar Wrapped WBTC",
+    "symbol": "axlWBTC"
+  },
+  {
     "address": "0x3cD790449CF7D187a143d4Bd7F4654d4f2403e02",
     "chainId": 43114,
     "decimals": 18,
@@ -46,6 +86,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.jpg",
     "name": "BUSD Token",
     "symbol": "BUSD"
+  },
+  {
+    "address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE.jpg",
+    "name": "CheckDot",
+    "symbol": "CDT"
   },
   {
     "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
@@ -168,6 +216,14 @@
     "symbol": "MU"
   },
   {
+    "address": "0xD47E4F1ef1AA4090bc27420BDD5cB379Ced81440",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xD47E4F1ef1AA4090bc27420BDD5cB379Ced81440.jpg",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE"
+  },
+  {
     "address": "0x3134210a6BdB55eED6E59905bC34928DF6d74830",
     "chainId": 43114,
     "decimals": 6,
@@ -286,6 +342,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.jpg",
     "name": "Tether USD",
     "symbol": "USDT.e"
+  },
+  {
+    "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+    "chainId": 43114,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x323665443CEf804A3b5206103304BD4872EA4253.jpg",
+    "name": "USDV",
+    "symbol": "USDV"
   },
   {
     "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",

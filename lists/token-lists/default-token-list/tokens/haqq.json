@@ -3,7 +3,7 @@
     "address": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54",
     "chainId": 11235,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54.jpg",
     "name": "Wrapped Islamic Coin",
     "symbol": "WISLM"
   },
@@ -11,40 +11,56 @@
     "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
     "chainId": 11235,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6.jpg",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6.jpg",
+    "name": "Axelar Wrapped DAI",
+    "symbol": "axlDAI"
   },
   {
     "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
     "chainId": 11235,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265.jpg",
-    "name": "Wrapped Ether",
-    "symbol": "WETH"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265.jpg",
+    "name": "Axelar Wrapped Ether",
+    "symbol": "axlETH"
   },
   {
     "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
     "chainId": 11235,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687.jpg",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687.jpg",
+    "name": "Axelar Wrapped BTC",
+    "symbol": "axlWBTC"
   },
   {
     "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
     "chainId": 11235,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75.jpg",
-    "name": "Tether USD",
-    "symbol": "USDT"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75.jpg",
+    "name": "Axelar Wrapped Tether USD",
+    "symbol": "axlUSDT"
   },
   {
     "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
     "chainId": 11235,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/haqq/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd.jpg",
-    "name": "USD Coin",
-    "symbol": "USDC"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd.jpg",
+    "name": "Axelar Wrapped USD Coin",
+    "symbol": "axlUSDC"
+  },
+  {
+    "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
+    "chainId": 11235,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864.jpg",
+    "name": "Native token CosmosHub network",
+    "symbol": "ATOM"
+  },
+  {
+    "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
+    "chainId": 11235,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E.jpg",
+    "name": "Native token Osmosis network",
+    "symbol": "OSMO"
   }
 ]

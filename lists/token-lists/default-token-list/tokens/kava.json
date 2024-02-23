@@ -1,5 +1,45 @@
 [
   {
+    "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+    "chainId": 2222,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+    "name": "Axler Wrapped DAI",
+    "symbol": "axlDAI"
+  },
+  {
+    "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+    "chainId": 2222,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xb829b68f57CC546dA7E5806A929e53bE32a4625D.jpg",
+    "name": "Axelar Wrapped ETH",
+    "symbol": "axlETH"
+  },
+  {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "chainId": 2222,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
+    "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+    "chainId": 2222,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.jpg",
+    "name": "Axelar Wrapped USDT",
+    "symbol": "axlUSDT"
+  },
+  {
+    "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+    "chainId": 2222,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.jpg",
+    "name": "Axeler Wrapped WBTC",
+    "symbol": "axlWBTC"
+  },
+  {
     "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
     "chainId": 2222,
     "decimals": 18,
@@ -32,6 +72,14 @@
     "symbol": "anyUSDT"
   },
   {
+    "address": "0x919C1c267BC06a7039e03fcc2eF738525769109c",
+    "chainId": 2222,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x919C1c267BC06a7039e03fcc2eF738525769109c.jpg",
+    "name": "TetherUSDt",
+    "symbol": "USDt"
+  },
+  {
     "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
     "chainId": 2222,
     "decimals": 8,
@@ -56,11 +104,11 @@
     "symbol": "WKAVA"
   },
   {
-    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "address": "0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8",
     "chainId": 2222,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
-    "name": "Axelar Wrapped USDC",
-    "symbol": "axlUSDC"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   }
 ]

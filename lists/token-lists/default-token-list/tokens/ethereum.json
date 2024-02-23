@@ -56,6 +56,14 @@
     "symbol": "AGLD"
   },
   {
+    "address": "0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB.jpg",
+    "name": "Arbius",
+    "symbol": "AIUS"
+  },
+  {
     "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
     "chainId": 1,
     "decimals": 18,
@@ -832,6 +840,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF80D589b3Dbe130c270a69F1a69D050f268786Df.jpg",
+    "name": "Datamine",
+    "symbol": "DAM"
+  },
+  {
     "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
     "chainId": 1,
     "decimals": 18,
@@ -966,6 +982,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xB5e09e6Bf6a5E96934B3fd99a40F7EDACa1173Ed/logo.png",
     "name": "divinedao",
     "symbol": "DIVINE"
+  },
+  {
+    "address": "0xC7937B44532bf4C0a1f0de3a46c79DdDb6dD169d",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xC7937B44532bf4C0a1f0de3a46c79DdDb6dD169d.jpg",
+    "name": "Deez Nuts",
+    "symbol": "DN"
   },
   {
     "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
@@ -1190,6 +1214,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E.jpg",
     "name": "FLOKI",
     "symbol": "FLOKI"
+  },
+  {
+    "address": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9.jpg",
+    "name": "FLUX",
+    "symbol": "FLUX"
   },
   {
     "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
@@ -2336,6 +2368,14 @@
     "symbol": "OMG"
   },
   {
+    "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9e20461bc2c4c980f62f1B279D71734207a6A356.jpg",
+    "name": "OmniCat",
+    "symbol": "OMNI"
+  },
+  {
     "address": "0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3",
     "chainId": 1,
     "decimals": 18,
@@ -2888,6 +2928,14 @@
     "symbol": "SHPING"
   },
   {
+    "address": "0xEe7527841A932d2912224E20a405e1a1FF747084",
+    "chainId": 1,
+    "decimals": 7,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xEe7527841A932d2912224E20a405e1a1FF747084.jpg",
+    "name": "Stronghold SHx",
+    "symbol": "SHX"
+  },
+  {
     "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
     "chainId": 1,
     "decimals": 18,
@@ -3046,6 +3094,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9040e237C3bF18347bb00957Dc22167D0f2b999d/logo.png",
     "name": "Standard",
     "symbol": "STND"
+  },
+  {
+    "address": "0x74232704659ef37c08995e386A2E26cc27a8d7B1",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x74232704659ef37c08995e386A2E26cc27a8d7B1.jpg",
+    "name": "Strike Token",
+    "symbol": "STRK"
   },
   {
     "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
@@ -3430,6 +3486,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
+  },
+  {
+    "address": "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0E573Ce2736Dd9637A0b21058352e1667925C7a8.jpg",
+    "name": "USDV",
+    "symbol": "USDV"
   },
   {
     "address": "0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48",
@@ -3902,6 +3966,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7.jpg",
     "name": "Zero Money",
     "symbol": "ZERO"
+  },
+  {
+    "address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf091867EC603A6628eD83D274E835539D82e9cc8.jpg",
+    "name": "Zeta",
+    "symbol": "ZETA"
   },
   {
     "address": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
