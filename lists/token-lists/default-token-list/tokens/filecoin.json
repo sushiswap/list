@@ -16,20 +16,28 @@
     "symbol": "axlUSDC"
   },
   {
-    "address": "0x3C3501E6c353DbaEDDFA90376975Ce7aCe4Ac7a8",
-    "chainId": 314,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x3C3501E6c353DbaEDDFA90376975Ce7aCe4Ac7a8.jpg",
-    "name": "Staking FIL",
-    "symbol": "stFIL"
-  },
-  {
     "address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
     "chainId": 314,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
     "name": "Celer Wrapped USDT",
     "symbol": "ceUSDT"
+  },
+  {
+    "address": "0xc396f2266dAE4A1C75cF96a51C0E5824Aec6f947",
+    "chainId": 314,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xc396f2266dAE4A1C75cF96a51C0E5824Aec6f947.jpg",
+    "name": "FileElon",
+    "symbol": "FELON"
+  },
+  {
+    "address": "0x3C3501E6c353DbaEDDFA90376975Ce7aCe4Ac7a8",
+    "chainId": 314,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x3C3501E6c353DbaEDDFA90376975Ce7aCe4Ac7a8.jpg",
+    "name": "Staking FIL",
+    "symbol": "stFIL"
   },
   {
     "address": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
