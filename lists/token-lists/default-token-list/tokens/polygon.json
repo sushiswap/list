@@ -1208,6 +1208,14 @@
     "symbol": "SAND"
   },
   {
+    "address": "0x633C04EDAB4591E3e1AbC94c9B88CCA4bBBAC4bF",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x633C04EDAB4591E3e1AbC94c9B88CCA4bBBAC4bF.jpg",
+    "name": "Simpson",
+    "symbol": "SIMPSON"
+  },
+  {
     "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
     "chainId": 137,
     "decimals": 18,
