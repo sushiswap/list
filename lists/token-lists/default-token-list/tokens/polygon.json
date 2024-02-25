@@ -80,6 +80,14 @@
     "symbol": "ARPA"
   },
   {
+    "address": "0xFFEe9a2AD0909ff10c2cE82345cb52289A33d0a9",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xFFEe9a2AD0909ff10c2cE82345cb52289A33d0a9.jpg",
+    "name": "ARSOSENKA",
+    "symbol": "ARSOS"
+  },
+  {
     "address": "0x5eB8D998371971D01954205c7AFE90A7AF6a95AC",
     "chainId": 137,
     "decimals": 18,
