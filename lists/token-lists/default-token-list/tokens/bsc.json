@@ -464,6 +464,14 @@
     "symbol": "mGOOGL"
   },
   {
+    "address": "0x5843422FDf4c3785996D8C7080408B75D9caf644",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x5843422FDf4c3785996D8C7080408B75D9caf644.jpg",
+    "name": "MIGMIG",
+    "symbol": "MigMig"
+  },
+  {
     "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
     "chainId": 56,
     "decimals": 18,
