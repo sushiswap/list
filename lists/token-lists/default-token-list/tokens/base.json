@@ -216,6 +216,14 @@
     "symbol": "TOSHI"
   },
   {
+    "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE.jpg",
+    "name": "Base God",
+    "symbol": "TYBG"
+  },
+  {
     "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
     "chainId": 8453,
     "decimals": 6,
