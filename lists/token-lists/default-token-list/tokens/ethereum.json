@@ -3104,6 +3104,14 @@
     "symbol": "STRK"
   },
   {
+    "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766.jpg",
+    "name": "StarkNet Token",
+    "symbol": "STRK"
+  },
+  {
     "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
     "chainId": 1,
     "decimals": 18,
