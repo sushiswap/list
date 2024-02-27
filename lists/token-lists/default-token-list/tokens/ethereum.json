@@ -3616,6 +3616,14 @@
     "symbol": "WBTC"
   },
   {
+    "address": "0x0F0fb72cE8fd8792aDC656Bc4F968CEA226e676e",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0F0fb72cE8fd8792aDC656Bc4F968CEA226e676e.jpg",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC"
+  },
+  {
     "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
     "chainId": 1,
     "decimals": 18,
