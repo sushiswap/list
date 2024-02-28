@@ -48,6 +48,14 @@
     "symbol": "BALD"
   },
   {
+    "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
+    "chainId": 8453,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660.jpg",
+    "name": "Boge",
+    "symbol": "BOGE"
+  },
+  {
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
