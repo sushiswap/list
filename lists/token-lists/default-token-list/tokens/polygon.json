@@ -872,6 +872,14 @@
     "symbol": "NCT"
   },
   {
+    "address": "0x34c349d671e7d70b4DC42A572e79DC05F2E3b2f1",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x34c349d671e7d70b4DC42A572e79DC05F2E3b2f1.jpg",
+    "name": "NetBit",
+    "symbol": "NETBIT"
+  },
+  {
     "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
     "chainId": 137,
     "decimals": 18,
