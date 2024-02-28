@@ -8,6 +8,14 @@
     "symbol": "1INCH"
   },
   {
+    "address": "0x75B53b161d27225eabA06F497B1f2a50382eFc85",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x75B53b161d27225eabA06F497B1f2a50382eFc85.jpg",
+    "name": "1RUS DAO",
+    "symbol": "1RUSD"
+  },
+  {
     "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
     "chainId": 1,
     "decimals": 18,
