@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x5AE8b6c57802641F3B8fd9E1b79f6cc6fF92F51F",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x5AE8b6c57802641F3B8fd9E1b79f6cc6fF92F51F.jpg",
+    "name": "1RUS DAO",
+    "symbol": "1RUSD"
+  },
+  {
     "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "chainId": 56,
     "decimals": 18,
