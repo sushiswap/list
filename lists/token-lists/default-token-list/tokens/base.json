@@ -48,6 +48,14 @@
     "symbol": "BALD"
   },
   {
+    "address": "0x4C584cbC3a221998Dc003349e1c12A4179E97B25",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x4C584cbC3a221998Dc003349e1c12A4179E97B25.jpg",
+    "name": "BrettIsBased",
+    "symbol": "BMONEY"
+  },
+  {
     "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
     "chainId": 8453,
     "decimals": 9,
@@ -126,6 +134,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea.jpg",
     "name": "iFARM",
     "symbol": "iFARM"
+  },
+  {
+    "address": "0xbE3111856e4acA828593274eA6872f27968C8DD6",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0xbE3111856e4acA828593274eA6872f27968C8DD6.jpg",
+    "name": "KRAV",
+    "symbol": "KRAV"
   },
   {
     "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
@@ -286,13 +302,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0.jpg",
     "name": "0x Protocol Token",
     "symbol": "ZRX"
-  },
-  {
-    "address": "0xbE3111856e4acA828593274eA6872f27968C8DD6",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0xbE3111856e4acA828593274eA6872f27968C8DD6.jpg",
-    "name": "KRAV",
-    "symbol": "KRAV"
   }
 ]
