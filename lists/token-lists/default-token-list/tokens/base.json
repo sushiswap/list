@@ -128,6 +128,14 @@
     "symbol": "iFARM"
   },
   {
+    "address": "0xbE3111856e4acA828593274eA6872f27968C8DD6",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0xbE3111856e4acA828593274eA6872f27968C8DD6.jpg",
+    "name": "KRAV",
+    "symbol": "KRAV"
+  },
+  {
     "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
     "chainId": 8453,
     "decimals": 18,
@@ -182,6 +190,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xC48E605c7b722a57277e087a6170B9E227e5AC0A.jpg",
     "name": "OmniCat",
     "symbol": "OMNI"
+  },
+  {
+    "address": "0x2AB14eBeE61ed05a515f5775d3BC014e141C3Bb0",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x2AB14eBeE61ed05a515f5775d3BC014e141C3Bb0.jpg",
+    "name": "Penny",
+    "symbol": "PENNY"
   },
   {
     "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
@@ -286,13 +302,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0.jpg",
     "name": "0x Protocol Token",
     "symbol": "ZRX"
-  },
-  {
-    "address": "0xbE3111856e4acA828593274eA6872f27968C8DD6",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0xbE3111856e4acA828593274eA6872f27968C8DD6.jpg",
-    "name": "KRAV",
-    "symbol": "KRAV"
   }
 ]
