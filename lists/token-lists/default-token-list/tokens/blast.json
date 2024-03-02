@@ -1,18 +1,26 @@
 [
-    {
-      "address": "0x4300000000000000000000000000000000000003",
-      "chainId": 81457,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000003.jpg",
-      "name": "USD Blast",
-      "symbol": "USDB"
-    },
-    {
-      "address": "0x4300000000000000000000000000000000000004",
-      "chainId": 81457,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000004.jpg",
-      "name": "Wrapped ETH",
-      "symbol": "WETH"
-    }
-  ]
+  {
+    "address": "0x4300000000000000000000000000000000000003",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000003.jpg",
+    "name": "USD Blast",
+    "symbol": "USDB"
+  },
+  {
+    "address": "0x4300000000000000000000000000000000000004",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000004.jpg",
+    "name": "Wrapped ETH",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49.jpg",
+    "name": "Dog Wif Blast",
+    "symbol": "WIF"
+  }
+]
