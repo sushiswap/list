@@ -8,6 +8,14 @@
     "symbol": "MUSD"
   },
   {
+    "address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A.jpg",
+    "name": "Pump",
+    "symbol": "PUMP"
+  },
+  {
     "address": "0x4300000000000000000000000000000000000003",
     "chainId": 81457,
     "decimals": 18,
