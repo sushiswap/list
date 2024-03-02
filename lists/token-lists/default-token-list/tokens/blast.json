@@ -24,6 +24,14 @@
     "symbol": "BD"
   },
   {
+    "address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xB582Dc28968c725D2868130752aFa0c13EbF9b1a.jpg",
+    "name": "Blast Pepe",
+    "symbol": "BEPE"
+  },
+  {
     "address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
     "chainId": 81457,
     "decimals": 9,
