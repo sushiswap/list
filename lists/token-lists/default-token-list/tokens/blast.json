@@ -16,6 +16,14 @@
     "symbol": "BCat"
   },
   {
+    "address": "0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88.jpg",
+    "name": "BlastDEX",
+    "symbol": "BD"
+  },
+  {
     "address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
     "chainId": 81457,
     "decimals": 9,
