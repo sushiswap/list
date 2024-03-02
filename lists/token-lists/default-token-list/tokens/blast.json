@@ -80,6 +80,14 @@
     "symbol": "PUMP"
   },
   {
+    "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xd07379a755A8f11B57610154861D694b2A0f615a.jpg",
+    "name": "SwapBlast Finance Token",
+    "symbol": "SBF"
+  },
+  {
     "address": "0x4300000000000000000000000000000000000003",
     "chainId": 81457,
     "decimals": 18,
