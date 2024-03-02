@@ -16,6 +16,14 @@
     "symbol": "BINU"
   },
   {
+    "address": "0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84.jpg",
+    "name": "Dyor",
+    "symbol": "Dyor"
+  },
+  {
     "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
     "chainId": 81457,
     "decimals": 18,
