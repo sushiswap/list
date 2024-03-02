@@ -1,3 +1,0 @@
-# `@sushiswap/community-token-list`
-
-...

@@ -1,3 +1,0 @@
-# `@sushiswap/testnet-token-list`
-
-...
