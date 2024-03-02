@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
+    "chainId": 81457,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8.jpg",
+    "name": "Andy",
+    "symbol": "ANDY"
+  },
+  {
     "address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
     "chainId": 81457,
     "decimals": 18,
