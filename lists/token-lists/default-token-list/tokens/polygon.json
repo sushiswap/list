@@ -528,6 +528,14 @@
     "symbol": "FRAX"
   },
   {
+    "address": "0x3c811e25BBcfF099085B9b928807A69e84A8E17c",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x3c811e25BBcfF099085B9b928807A69e84A8E17c.jpg",
+    "name": "Fungi Babes",
+    "symbol": "FUBE"
+  },
+  {
     "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
     "chainId": 137,
     "decimals": 18,
