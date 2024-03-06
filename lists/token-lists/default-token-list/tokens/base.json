@@ -128,6 +128,14 @@
     "symbol": "iFARM"
   },
   {
+    "address": "0xbE3111856e4acA828593274eA6872f27968C8DD6",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0xbE3111856e4acA828593274eA6872f27968C8DD6.jpg",
+    "name": "KRAV",
+    "symbol": "KRAV"
+  },
+  {
     "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
     "chainId": 8453,
     "decimals": 18,
@@ -224,6 +232,14 @@
     "symbol": "TOSHI"
   },
   {
+    "address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee.jpg",
+    "name": "TOWER",
+    "symbol": "TOWER"
+  },
+  {
     "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
     "chainId": 8453,
     "decimals": 18,
@@ -286,13 +302,5 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0.jpg",
     "name": "0x Protocol Token",
     "symbol": "ZRX"
-  },
-  {
-    "address": "0xbE3111856e4acA828593274eA6872f27968C8DD6",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0xbE3111856e4acA828593274eA6872f27968C8DD6.jpg",
-    "name": "KRAV",
-    "symbol": "KRAV"
   }
 ]
