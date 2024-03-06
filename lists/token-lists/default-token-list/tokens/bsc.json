@@ -504,6 +504,14 @@
     "symbol": "NAR"
   },
   {
+    "address": "0x3A69AD8D3DbaC20dB9d3E4049F08beA08C5493B8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x3A69AD8D3DbaC20dB9d3E4049F08beA08C5493B8.jpg",
+    "name": "Neurone Education",
+    "symbol": "NEUR"
+  },
+  {
     "address": "0x1912A3504E59d1C1B060bf2d371DEB00b70E8796",
     "chainId": 56,
     "decimals": 18,
