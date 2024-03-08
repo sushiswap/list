@@ -216,6 +216,14 @@
     "symbol": "BOR"
   },
   {
+    "address": "0xE8954C1D18C20944576af45970eBdA9501b4B305",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xE8954C1D18C20944576af45970eBdA9501b4B305.jpg",
+    "name": "BRIAR",
+    "symbol": "BRIAR"
+  },
+  {
     "address": "0x4b54Bc363f5F9c6E0fcd82EaC6919aE213464Cc6",
     "chainId": 137,
     "decimals": 18,
