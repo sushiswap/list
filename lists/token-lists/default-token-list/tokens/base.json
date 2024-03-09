@@ -176,6 +176,14 @@
     "symbol": "MOCHITOSHI"
   },
   {
+    "address": "0x852cEA9BC9f3e98F83D7A6F78B4D8594e639B995",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x852cEA9BC9f3e98F83D7A6F78B4D8594e639B995.jpg",
+    "name": "Base Balloons",
+    "symbol": "NANG"
+  },
+  {
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "chainId": 8453,
     "decimals": 18,
