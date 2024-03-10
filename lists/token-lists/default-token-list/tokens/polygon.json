@@ -1080,6 +1080,14 @@
     "symbol": "PUSD"
   },
   {
+    "address": "0x88C678F1aD12c0bc8610d0dEDbF1033BCD1b3735",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x88C678F1aD12c0bc8610d0dEDbF1033BCD1b3735.jpg",
+    "name": "Phoenix USD",
+    "symbol": "PUSD"
+  },
+  {
     "address": "0x0527c8C43250279D6Eb74dA1078193f5316fc9a0",
     "chainId": 137,
     "decimals": 18,
