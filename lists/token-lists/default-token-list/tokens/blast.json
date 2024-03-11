@@ -118,5 +118,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49.jpg",
     "name": "Dog Wif Blast",
     "symbol": "WIF"
+  },
+  {
+    "address": "0x611b8E78690Afd8736b705832fbCfdEd874b7d4E",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x611b8E78690Afd8736b705832fbCfdEd874b7d4E.jpg",
+    "name": "METH",
+    "symbol": "METH"
   }
 ]
