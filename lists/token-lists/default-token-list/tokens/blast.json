@@ -16,6 +16,14 @@
     "symbol": "ANDY"
   },
   {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "chainId": 81457,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
     "address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
     "chainId": 81457,
     "decimals": 18,
