@@ -64,6 +64,14 @@
     "symbol": "AIUS"
   },
   {
+    "address": "0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852.jpg",
+    "name": "Arbius",
+    "symbol": "AIUS"
+  },
+  {
     "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
     "chainId": 1,
     "decimals": 18,
