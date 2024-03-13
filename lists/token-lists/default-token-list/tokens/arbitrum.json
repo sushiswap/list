@@ -296,6 +296,14 @@
     "symbol": "EUX"
   },
   {
+    "address": "0xC223C546539e7B4002065cff5B2fA67173E1e72D",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xC223C546539e7B4002065cff5B2fA67173E1e72D.jpg",
+    "name": "Flameindicator",
+    "symbol": "Find"
+  },
+  {
     "address": "0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA",
     "chainId": 42161,
     "decimals": 18,
