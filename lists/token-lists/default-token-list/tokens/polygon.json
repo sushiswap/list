@@ -520,6 +520,14 @@
     "symbol": "FISH"
   },
   {
+    "address": "0x3AB908015c365b48f946832cE33650033d13fB0b",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x3AB908015c365b48f946832cE33650033d13fB0b.jpg",
+    "name": "Futility of War",
+    "symbol": "FoW"
+  },
+  {
     "address": "0x65A05DB8322701724c197AF82C9CaE41195B0aA8",
     "chainId": 137,
     "decimals": 18,
