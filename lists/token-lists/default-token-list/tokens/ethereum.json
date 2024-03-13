@@ -56,6 +56,14 @@
     "symbol": "AGLD"
   },
   {
+    "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x2598c30330D5771AE9F983979209486aE26dE875.jpg",
+    "name": "Any Inu",
+    "symbol": "AI"
+  },
+  {
     "address": "0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB",
     "chainId": 1,
     "decimals": 18,
