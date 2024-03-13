@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x2598c30330D5771AE9F983979209486aE26dE875.jpg",
+    "name": "Any Inu",
+    "symbol": "AI"
+  },
+  {
     "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
     "chainId": 8453,
     "decimals": 6,
