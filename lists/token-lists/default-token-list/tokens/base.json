@@ -136,6 +136,14 @@
     "symbol": "iFARM"
   },
   {
+    "address": "0xeA930c80d8eac45993d127055E718555e7155fB1",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xeA930c80d8eac45993d127055E718555e7155fB1.jpg",
+    "name": "Infinite",
+    "symbol": "INF"
+  },
+  {
     "address": "0x895A26F67a8375D0419Cb7E4bd1109aC139ab741",
     "chainId": 8453,
     "decimals": 18,
