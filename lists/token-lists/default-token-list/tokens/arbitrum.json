@@ -240,6 +240,14 @@
     "symbol": "DOG"
   },
   {
+    "address": "0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5.jpg",
+    "name": "Donut",
+    "symbol": "DONUT"
+  },
+  {
     "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
     "chainId": 42161,
     "decimals": 18,
