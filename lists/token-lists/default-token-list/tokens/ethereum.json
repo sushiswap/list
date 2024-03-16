@@ -1528,6 +1528,14 @@
     "symbol": "HOPR"
   },
   {
+    "address": "0x840Cd1d11cA5Bc9fAe54b869E2E6Ac9ac8fa2131",
+    "chainId": 1,
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x840Cd1d11cA5Bc9fAe54b869E2E6Ac9ac8fa2131.jpg",
+    "name": "HOPECOIN",
+    "symbol": "HPC"
+  },
+  {
     "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
     "chainId": 1,
     "decimals": 18,
