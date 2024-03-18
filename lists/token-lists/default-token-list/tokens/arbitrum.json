@@ -712,6 +712,14 @@
     "symbol": "PEPE"
   },
   {
+    "address": "0xDEE46BE9D0b207e5d88D2Efd84a045E725A242F7",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xDEE46BE9D0b207e5d88D2Efd84a045E725A242F7.jpg",
+    "name": "Pepe",
+    "symbol": "PEPE"
+  },
+  {
     "address": "0xF602A45812040D90B202355bdc05438918CD3FE3",
     "chainId": 42161,
     "decimals": 18,
