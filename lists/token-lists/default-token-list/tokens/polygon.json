@@ -448,6 +448,14 @@
     "symbol": "ELE"
   },
   {
+    "address": "0x9b25e85Af36433F8a73B6CaEed83d6DE86a5309f",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x9b25e85Af36433F8a73B6CaEed83d6DE86a5309f.jpg",
+    "name": "Elemental Esports Token",
+    "symbol": "ELEM"
+  },
+  {
     "address": "0x60Ed6aCEF3a96F8CDaF0c0D207BbAfA66e751af2",
     "chainId": 137,
     "decimals": 18,
