@@ -536,6 +536,14 @@
     "symbol": "FRAX"
   },
   {
+    "address": "0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df.jpg",
+    "name": "3A Utility Token (FXERC20)",
+    "symbol": "fxA3A"
+  },
+  {
     "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
     "chainId": 137,
     "decimals": 18,
