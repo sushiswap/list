@@ -312,6 +312,14 @@
     "symbol": "WETH"
   },
   {
+    "address": "0x549B04de1E57841288C8Ba1eB34e2b8aab7320D7",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x549B04de1E57841288C8Ba1eB34e2b8aab7320D7.jpg",
+    "name": "Wizard of Dog",
+    "symbol": "WIZ"
+  },
+  {
     "address": "0x981D41C115a2d48Cb1215D13Bda8f989d407c9c5",
     "chainId": 8453,
     "decimals": 18,
