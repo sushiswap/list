@@ -88,6 +88,14 @@
     "symbol": "cbETH"
   },
   {
+    "address": "0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92.jpg",
+    "name": "Based Chad",
+    "symbol": "CHAD"
+  },
+  {
     "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
     "chainId": 8453,
     "decimals": 18,
