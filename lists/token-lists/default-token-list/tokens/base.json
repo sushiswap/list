@@ -120,6 +120,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0x9D8a9aEc7aDcb2b203D285b9c6F91ABbcDF1D7e4",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9D8a9aEc7aDcb2b203D285b9c6F91ABbcDF1D7e4.jpg",
+    "name": "Dolp",
+    "symbol": "DOLP"
+  },
+  {
     "address": "0xD08a2917653d4E460893203471f0000826fb4034",
     "chainId": 8453,
     "decimals": 18,
