@@ -64,6 +64,14 @@
     "symbol": "BOT"
   },
   {
+    "address": "0xDa761A290e01c69325D12D82AC402E5a73D62E81",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xDa761A290e01c69325D12D82AC402E5a73D62E81.jpg",
+    "name": "Base Pro Shops",
+    "symbol": "BPS"
+  },
+  {
     "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
     "chainId": 8453,
     "decimals": 18,
