@@ -240,6 +240,14 @@
     "symbol": "MOCHITOSHI"
   },
   {
+    "address": "0xDC46c1e93B71fF9209A0F8076a9951569DC35855",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xDC46c1e93B71fF9209A0F8076a9951569DC35855.jpg",
+    "name": "MYSTCL",
+    "symbol": "MYST"
+  },
+  {
     "address": "0x2CcbEcc47D83eE80e27fd09c8e757B82F1fFad4C",
     "chainId": 8453,
     "decimals": 18,
