@@ -680,6 +680,14 @@
     "symbol": "OMNI"
   },
   {
+    "address": "0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5.jpg",
+    "name": "OpenWorld",
+    "symbol": "OPEN"
+  },
+  {
     "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
     "chainId": 42161,
     "decimals": 18,
