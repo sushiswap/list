@@ -2096,6 +2096,14 @@
     "symbol": "MMSFT"
   },
   {
+    "address": "0x78332Ef8ae6d32877f277cbeFC9A7F82e9aD726C",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x78332Ef8ae6d32877f277cbeFC9A7F82e9aD726C.jpg",
+    "name": "PEPEMOB",
+    "symbol": "MOB"
+  },
+  {
     "address": "0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5",
     "chainId": 1,
     "decimals": 18,
