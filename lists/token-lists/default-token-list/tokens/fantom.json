@@ -400,6 +400,14 @@
     "symbol": "sFTM"
   },
   {
+    "address": "0x91A54394C30efd5a5cf9a943e122b60D642C81Ae",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x91A54394C30efd5a5cf9a943e122b60D642C81Ae.jpg",
+    "name": "SushiSwap LP Token",
+    "symbol": "SLP"
+  },
+  {
     "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
     "chainId": 250,
     "decimals": 18,
