@@ -328,6 +328,14 @@
     "symbol": "FLUX"
   },
   {
+    "address": "0xe6d40F7a705BD83Ae0E52f8628A8C8f2E6E8b5B3",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xe6d40F7a705BD83Ae0E52f8628A8C8f2E6E8b5B3.jpg",
+    "name": "Nothing",
+    "symbol": "FORTUN"
+  },
+  {
     "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "chainId": 42161,
     "decimals": 18,
