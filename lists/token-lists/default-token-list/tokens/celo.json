@@ -224,20 +224,28 @@
     "symbol": "UBE"
   },
   {
+    "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
+    "chainId": 42220,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xcebA9300f2b948710d2653dD7B07f33A8B32118C.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
     "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
     "chainId": 42220,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xef4229c8c3250C675F21BCefa42f58EfbfF6002a.jpg",
-    "name": "USD Coin",
-    "symbol": "USDC"
+    "name": "Optics USD v2",
+    "symbol": "USDCv2"
   },
   {
     "address": "0x1bfc26cE035c368503fAE319Cc2596716428ca44",
     "chainId": 42220,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png",
-    "name": "Optics USDC v2 POS",
-    "symbol": "USDC-POS"
+    "name": "Optics USDC v2 (PoS)",
+    "symbol": "USDCv2-PoS"
   },
   {
     "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
