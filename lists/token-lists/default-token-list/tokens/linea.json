@@ -24,6 +24,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "chainId": 59144,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/linea/0x176211869cA2b568f2A7D4EE941E073a821EE1ff.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
     "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
     "chainId": 59144,
     "decimals": 18,
