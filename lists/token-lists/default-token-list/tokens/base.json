@@ -96,6 +96,14 @@
     "symbol": "BSHIB"
   },
   {
+    "address": "0x8071C79B803dC5952cdc00e06BBF8609144a3Cf4",
+    "chainId": 8453,
+    "decimals": 10,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x8071C79B803dC5952cdc00e06BBF8609144a3Cf4.jpg",
+    "name": "BitcoinBase",
+    "symbol": "BTCB"
+  },
+  {
     "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
     "chainId": 8453,
     "decimals": 18,
