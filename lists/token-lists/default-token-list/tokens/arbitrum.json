@@ -176,6 +176,14 @@
     "symbol": "COMP"
   },
   {
+    "address": "0xFcc0351f3a1ff72409Df66a7589c1F9efBf53386",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFcc0351f3a1ff72409Df66a7589c1F9efBf53386.jpg",
+    "name": "Corn",
+    "symbol": "CORN"
+  },
+  {
     "address": "0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234",
     "chainId": 42161,
     "decimals": 18,
