@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x4acC81dc9c03e5329a2c19763A1D10ba9308339F",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x4acC81dc9c03e5329a2c19763A1D10ba9308339F.jpg",
+    "name": "Base Baboon",
+    "symbol": "$BOON"
+  },
+  {
     "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
     "chainId": 8453,
     "decimals": 6,
