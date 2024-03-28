@@ -200,6 +200,14 @@
     "symbol": "JELLY"
   },
   {
+    "address": "0x64cc19A52f4D631eF5BE07947CABA14aE00c52Eb",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x64cc19A52f4D631eF5BE07947CABA14aE00c52Eb.jpg",
+    "name": "Kibble",
+    "symbol": "KIBBLE"
+  },
+  {
     "address": "0xbE3111856e4acA828593274eA6872f27968C8DD6",
     "chainId": 8453,
     "decimals": 18,
