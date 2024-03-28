@@ -624,6 +624,14 @@
     "symbol": "BZRX"
   },
   {
+    "address": "0x28987f895DC589bCA62a1B1C3ff30C45AC19ab36",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x28987f895DC589bCA62a1B1C3ff30C45AC19ab36.jpg",
+    "name": "404CyberGirl",
+    "symbol": "C404"
+  },
+  {
     "address": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
     "chainId": 1,
     "decimals": 18,
