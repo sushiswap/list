@@ -2936,6 +2936,14 @@
     "symbol": "SEEN"
   },
   {
+    "address": "0xc52FaFDc900cB92Ae01E6E4F8979aF7f436e2EB2",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc52FaFDc900cB92Ae01E6E4F8979aF7f436e2EB2.jpg",
+    "name": "Settled ETHXY Token",
+    "symbol": "SEXY"
+  },
+  {
     "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
     "chainId": 1,
     "decimals": 18,
