@@ -848,6 +848,14 @@
     "symbol": "RGT"
   },
   {
+    "address": "0xb52BD62eE0Cf462Fa9CCbDA4bf27Fe84D9ab6Cf7",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xb52BD62eE0Cf462Fa9CCbDA4bf27Fe84D9ab6Cf7.jpg",
+    "name": "SAIL Token",
+    "symbol": "SAIL"
+  },
+  {
     "address": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
     "chainId": 42161,
     "decimals": 18,
