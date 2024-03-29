@@ -2880,6 +2880,14 @@
     "symbol": "SAFE"
   },
   {
+    "address": "0xd8F1460044925d2D5c723C7054cd9247027415B7",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xd8F1460044925d2D5c723C7054cd9247027415B7.jpg",
+    "name": "SAIL Token",
+    "symbol": "SAIL"
+  },
+  {
     "address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
     "chainId": 1,
     "decimals": 18,
