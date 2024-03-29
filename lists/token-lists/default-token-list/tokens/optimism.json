@@ -368,6 +368,14 @@
     "logoURI": "https://ethereum-optimism.github.io/data/RGT/logo.png"
   },
   {
+    "address": "0x7a1263eC3Bf0a19e25C553B8A2C312e903262C5E",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x7a1263eC3Bf0a19e25C553B8A2C312e903262C5E.jpg",
+    "name": "SAIL Token",
+    "symbol": "SAIL"
+  },
+  {
     "chainId": 10,
     "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
     "name": "Sarcophagus",
@@ -480,20 +488,20 @@
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
   },
   {
-    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-    "chainId": 10,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
-    "name": "USD Coin",
-    "symbol": "USDC.e"
-  },
-  {
     "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
     "chainId": 10,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85.jpg",
     "name": "USD Coin",
     "symbol": "USDC"
+  },
+  {
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC.e"
   },
   {
     "chainId": 10,
