@@ -96,6 +96,14 @@
     "symbol": "BCH"
   },
   {
+    "address": "0xf768F7F7d6D3dCE4152fA8bC925348585443a543",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xf768F7F7d6D3dCE4152fA8bC925348585443a543.jpg",
+    "name": "BrickFundToken",
+    "symbol": "BFTI"
+  },
+  {
     "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "chainId": 56,
     "decimals": 18,
