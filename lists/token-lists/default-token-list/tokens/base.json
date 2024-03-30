@@ -128,6 +128,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0x85E90a5430AF45776548ADB82eE4cD9E33B08077",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x85E90a5430AF45776548ADB82eE4cD9E33B08077.jpg",
+    "name": "DINO",
+    "symbol": "DINO"
+  },
+  {
     "address": "0x9D8a9aEc7aDcb2b203D285b9c6F91ABbcDF1D7e4",
     "chainId": 8453,
     "decimals": 18,
