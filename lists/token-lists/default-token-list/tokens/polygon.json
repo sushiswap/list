@@ -920,6 +920,14 @@
     "symbol": "NGNC"
   },
   {
+    "address": "0x3305c1501C3eccab791f04Ce57525121fB41a81e",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x3305c1501C3eccab791f04Ce57525121fB41a81e.jpg",
+    "name": "NumanciaCoin",
+    "symbol": "Nmc"
+  },
+  {
     "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
     "chainId": 137,
     "decimals": 18,
