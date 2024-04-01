@@ -1688,6 +1688,14 @@
     "symbol": "ITP"
   },
   {
+    "address": "0x7b9A74Cc04A43A3A1212d4784e7866fC2592707A",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7b9A74Cc04A43A3A1212d4784e7866fC2592707A.jpg",
+    "name": "JAN6",
+    "symbol": "JAN6"
+  },
+  {
     "address": "0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0",
     "chainId": 1,
     "decimals": 18,
