@@ -312,6 +312,14 @@
     "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png"
   },
   {
+    "address": "0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e.jpg",
+    "name": "Osaka Protocol",
+    "symbol": "OSAK"
+  },
+  {
     "chainId": 10,
     "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
     "name": "Paper",
