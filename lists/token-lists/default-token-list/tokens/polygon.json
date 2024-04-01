@@ -576,6 +576,14 @@
     "symbol": "GAJ"
   },
   {
+    "address": "0x670f92040b391D962DA03F1Ae7e8d03f9Dfa53f0",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x670f92040b391D962DA03F1Ae7e8d03f9Dfa53f0.jpg",
+    "name": "Gelada Coin",
+    "symbol": "GELADA"
+  },
+  {
     "address": "0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4",
     "chainId": 137,
     "decimals": 18,
