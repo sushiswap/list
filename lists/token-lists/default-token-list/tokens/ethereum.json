@@ -2456,6 +2456,14 @@
     "symbol": "ORN"
   },
   {
+    "address": "0xa21Af1050F7B26e0cfF45ee51548254C41ED6b5c",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa21Af1050F7B26e0cfF45ee51548254C41ED6b5c.jpg",
+    "name": "Osaka Protocol",
+    "symbol": "OSAK"
+  },
+  {
     "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
     "chainId": 1,
     "decimals": 18,
