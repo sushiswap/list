@@ -952,6 +952,14 @@
     "symbol": "OOKI"
   },
   {
+    "address": "0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7.jpg",
+    "name": "Osaka Protocol",
+    "symbol": "OSAK"
+  },
+  {
     "address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
     "chainId": 137,
     "decimals": 18,
