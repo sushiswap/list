@@ -352,6 +352,14 @@
     "symbol": "Helmet"
   },
   {
+    "address": "0xbE9Be2c0AC73425819ad32d9E6c32e73630b8103",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xbE9Be2c0AC73425819ad32d9E6c32e73630b8103.jpg",
+    "name": "Holkan Token",
+    "symbol": "HOLT"
+  },
+  {
     "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
     "chainId": 56,
     "decimals": 18,
