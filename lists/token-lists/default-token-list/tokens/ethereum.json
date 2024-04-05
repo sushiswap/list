@@ -3448,6 +3448,14 @@
     "symbol": "TXL"
   },
   {
+    "address": "0xeaA38273B7a723d930a43E4Be5eA7936F896F07F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xeaA38273B7a723d930a43E4Be5eA7936F896F07F.jpg",
+    "name": "UAP Coin",
+    "symbol": "UAP"
+  },
+  {
     "address": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
     "chainId": 1,
     "decimals": 18,
