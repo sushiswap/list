@@ -528,6 +528,14 @@
     "symbol": "NPM"
   },
   {
+    "address": "0xC0001ffF28A38FCF0D7Fa76Fbb52E2324139A6e0",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xC0001ffF28A38FCF0D7Fa76Fbb52E2324139A6e0.jpg",
+    "name": "NeuralSphere",
+    "symbol": "NSPH"
+  },
+  {
     "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
     "chainId": 56,
     "decimals": 8,
