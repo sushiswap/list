@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x13970dBa95f564222714F821048f185fEdaEcEB8",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x13970dBa95f564222714F821048f185fEdaEcEB8.jpg",
+    "name": "Arc20 ",
+    "symbol": "Arc20 "
+  },
+  {
     "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
     "chainId": 8453,
     "decimals": 6,
