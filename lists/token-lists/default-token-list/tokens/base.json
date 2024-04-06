@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x5B71f1868E1feA555Cf97985f6E943f80fAd280a",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x5B71f1868E1feA555Cf97985f6E943f80fAd280a.jpg",
+    "name": "Atomclass",
+    "symbol": "Atc"
+  },
+  {
     "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
     "chainId": 8453,
     "decimals": 6,
