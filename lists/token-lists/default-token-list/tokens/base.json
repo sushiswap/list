@@ -56,6 +56,14 @@
     "symbol": "baldcat"
   },
   {
+    "address": "0x97360a4A46Cc9ED9d118fc9d7a64841574d6A6B2",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x97360a4A46Cc9ED9d118fc9d7a64841574d6A6B2.jpg",
+    "name": "BaByBond",
+    "symbol": "BBB"
+  },
+  {
     "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
     "chainId": 8453,
     "decimals": 9,
