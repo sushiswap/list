@@ -632,6 +632,14 @@
     "symbol": "REEF"
   },
   {
+    "address": "0x8E66Ed5A6AE0BfE7108DaC63D217a81fD02E0ED3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x8E66Ed5A6AE0BfE7108DaC63D217a81fD02E0ED3.jpg",
+    "name": "Digital Rupee",
+    "symbol": "RUPEE"
+  },
+  {
     "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
     "chainId": 56,
     "decimals": 18,
