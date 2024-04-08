@@ -272,6 +272,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0x2566650055eBab6d469B5cCE3749b673f906552a",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x2566650055eBab6d469B5cCE3749b673f906552a.jpg",
+    "name": "Nogecoin",
+    "symbol": "NOGE"
+  },
+  {
     "address": "0x7F12d13B34F5F4f0a9449c16Bcd42f0da47AF200",
     "chainId": 8453,
     "decimals": 9,
