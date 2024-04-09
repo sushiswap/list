@@ -1808,6 +1808,14 @@
     "symbol": "LEAG"
   },
   {
+    "address": "0x3CF5AAB770D2895AD9B4AcEF518c78B10b27E74d",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3CF5AAB770D2895AD9B4AcEF518c78B10b27E74d.jpg",
+    "name": "lemuoid",
+    "symbol": "lemu"
+  },
+  {
     "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
     "chainId": 1,
     "decimals": 18,
