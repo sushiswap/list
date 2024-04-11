@@ -1232,6 +1232,14 @@
     "symbol": "ROY"
   },
   {
+    "address": "0x208C725E83F97dfCB36798e9704be4529A59C73F",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x208C725E83F97dfCB36798e9704be4529A59C73F.jpg",
+    "name": "RUNIC",
+    "symbol": "RUNIC"
+  },
+  {
     "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
     "chainId": 137,
     "decimals": 18,
