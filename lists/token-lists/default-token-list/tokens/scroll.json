@@ -24,6 +24,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+    "chainId": 534352,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/scroll/0xEcc68d0451E20292406967Fe7C04280E5238Ac7D.jpg",
+    "name": "Frax Ether",
+    "symbol": "frxETH"
+  },
+  {
     "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
     "chainId": 534352,
     "decimals": 6,
