@@ -408,6 +408,14 @@
     "symbol": "VELA"
   },
   {
+    "address": "0x10c1B6f768e13c624A4A23337f1a5bA5c9BE0E4B",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x10c1B6f768e13c624A4A23337f1a5bA5c9BE0E4B.jpg",
+    "name": "Warpie",
+    "symbol": "WARPIE"
+  },
+  {
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 8453,
     "decimals": 18,
