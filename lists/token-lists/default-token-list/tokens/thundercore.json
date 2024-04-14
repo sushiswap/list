@@ -32,6 +32,14 @@
     "symbol": "GEM"
   },
   {
+    "address": "0x8DAb32ca89D05331E67dE68Fa0ad31f243bF656b",
+    "chainId": 108,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x8DAb32ca89D05331E67dE68Fa0ad31f243bF656b.jpg",
+    "name": "GPUToken",
+    "symbol": "GPUx"
+  },
+  {
     "address": "0x1d44A37D6104DF6Cf996425839829BE09bEE4F33",
     "chainId": 108,
     "decimals": 18,
