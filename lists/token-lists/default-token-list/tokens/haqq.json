@@ -62,5 +62,21 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E.jpg",
     "name": "Native token Osmosis network",
     "symbol": "OSMO"
+  },
+  {
+    "address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
+    "chainId": 11235,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5aD523d94Efb56C400941eb6F34393b84c75ba39.jpg",
+    "name": "Tether USD from KAVA",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717",
+    "chainId": 11235,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717.jpg",
+    "name": "Circle USD from Noble",
+    "symbol": "USDC"  
   }
 ]
