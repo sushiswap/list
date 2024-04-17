@@ -592,6 +592,14 @@
     "symbol": "MIM"
   },
   {
+    "address": "0xFA58c669B855b29f99374d0F160dB286849D139B",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFA58c669B855b29f99374d0F160dB286849D139B.jpg",
+    "name": "MonkeyCoin",
+    "symbol": "MKC"
+  },
+  {
     "address": "0xB261104A83887aE92392Fb5CE5899fCFe5481456",
     "chainId": 42161,
     "decimals": 18,
