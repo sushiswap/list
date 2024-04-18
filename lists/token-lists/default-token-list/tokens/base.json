@@ -168,6 +168,14 @@
     "symbol": "Fren Pet"
   },
   {
+    "address": "0xd3a61a3A9b8E0dD8160C9bF5Ea79159e3E2452B8",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xd3a61a3A9b8E0dD8160C9bF5Ea79159e3E2452B8.jpg",
+    "name": "HAM",
+    "symbol": "HAM"
+  },
+  {
     "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
     "chainId": 8453,
     "decimals": 18,
