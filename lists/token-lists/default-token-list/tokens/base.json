@@ -312,6 +312,14 @@
     "symbol": "OSAK"
   },
   {
+    "address": "0xcb783b3BCc7AA4500Ec7EA5c8d9e8f9181cA2E90",
+    "chainId": 8453,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xcb783b3BCc7AA4500Ec7EA5c8d9e8f9181cA2E90.jpg",
+    "name": "Pedro The Raccoon",
+    "symbol": "PEDRO"
+  },
+  {
     "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
     "chainId": 8453,
     "decimals": 18,
