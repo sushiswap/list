@@ -4048,6 +4048,14 @@
     "symbol": "ZETA"
   },
   {
+    "address": "0xD4419C2d3DAA986Dc30444Fa333a846be44Fd1eb",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xD4419C2d3DAA986Dc30444Fa333a846be44Fd1eb.jpg",
+    "name": "ZIK coin",
+    "symbol": "ZIK"
+  },
+  {
     "address": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
     "chainId": 1,
     "decimals": 18,
