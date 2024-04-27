@@ -96,6 +96,14 @@
     "symbol": "BSHIB"
   },
   {
+    "address": "0xBEAc634251535866e703B92993d5a0F6FC649914",
+    "chainId": 8453,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xBEAc634251535866e703B92993d5a0F6FC649914.jpg",
+    "name": "CAT",
+    "symbol": "CAT"
+  },
+  {
     "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
     "chainId": 8453,
     "decimals": 18,
