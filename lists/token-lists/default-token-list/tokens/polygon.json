@@ -760,6 +760,14 @@
     "symbol": "KRILL"
   },
   {
+    "address": "0x27BdEa01543A09CE204bC1f11a9ACa9D96990563",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x27BdEa01543A09CE204bC1f11a9ACa9D96990563.jpg",
+    "name": "♥NE",
+    "symbol": "L♥VE"
+  },
+  {
     "address": "0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64",
     "chainId": 137,
     "decimals": 18,
