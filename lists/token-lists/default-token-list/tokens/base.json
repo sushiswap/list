@@ -320,6 +320,14 @@
     "symbol": "OSAK"
   },
   {
+    "address": "0x084777009ea06D88c281AA10985B83Aa74Db2eB2",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x084777009ea06D88c281AA10985B83Aa74Db2eB2.jpg",
+    "name": "RPM",
+    "symbol": "RPM"
+  },
+  {
     "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
     "chainId": 8453,
     "decimals": 18,
