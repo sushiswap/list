@@ -47,6 +47,7 @@ const filecoin = require("../tokens/filecoin.json");
 const cronos = require("../tokens/cronos.json");
 const zetachain = require("../tokens/zetachain.json");
 const blast = require("../tokens/blast.json");
+const skaleEuropa = require("../tokens/skale-europa.json")
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -109,7 +110,8 @@ module.exports = function buildList() {
       ...filecoin,
       ...cronos,
       ...zetachain,
-      ...blast
+      ...blast,
+      ...skaleEuropa
     ]),
   };
 };
