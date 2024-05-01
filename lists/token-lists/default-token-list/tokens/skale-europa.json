@@ -1,0 +1,58 @@
+[
+  {
+    "address": "0xD05C4be5f3be302d376518c9492EC0147Fa5A718",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD05C4be5f3be302d376518c9492EC0147Fa5A718.jpg",
+    "name": "DAI Stablecoin",
+    "symbol": "DAI"
+  },
+  {
+    "address": "0xD2Aaa00700000000000000000000000000000000",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD2Aaa00700000000000000000000000000000000.jpg",
+    "name": "ERC20 Ether Clone",
+    "symbol": "ETHC"
+  },
+  {
+    "address": "0x73d22d8a2D1f59Bf5Bcf62cA382481a2073FAF58",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x73d22d8a2D1f59Bf5Bcf62cA382481a2073FAF58.jpg",
+    "name": "Pax Dollar",
+    "symbol": "USDP"
+  },
+  {
+    "address": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xE0595a049d02b7674572b0d59cd4880Db60EDC50.jpg",
+    "name": "SKALE",
+    "symbol": "SKL"
+  },
+  {
+    "address": "0x1c0491E3396AD6a35f061c62387a95d7218FC515",
+    "chainId": 2046399126,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x1c0491E3396AD6a35f061c62387a95d7218FC515.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x5F795bb52dAC3085f578f4877D450e2929D2F13d",
+    "chainId": 2046399126,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x5F795bb52dAC3085f578f4877D450e2929D2F13d.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870",
+    "chainId": 2046399126,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870.jpg",
+    "name": "Wrapped WBTC",
+    "symbol": "WBTC"
+  }
+]
