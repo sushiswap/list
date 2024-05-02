@@ -3600,6 +3600,14 @@
     "symbol": "UwU"
   },
   {
+    "address": "0x3d234A9d23F01c5556AD3dfA88F470f8982ab1b4",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3d234A9d23F01c5556AD3dfA88F470f8982ab1b4.jpg",
+    "name": "VATRA INU",
+    "symbol": "VATR"
+  },
+  {
     "address": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
     "chainId": 1,
     "decimals": 18,
