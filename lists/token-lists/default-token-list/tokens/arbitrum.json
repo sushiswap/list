@@ -376,6 +376,14 @@
     "symbol": "GBOT"
   },
   {
+    "address": "0x6b1FC4e376cb4aD66E3768bAFc3Fe0A58b695468",
+    "chainId": 42161,
+    "decimals": 10,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x6b1FC4e376cb4aD66E3768bAFc3Fe0A58b695468.jpg",
+    "name": "GiTeTo 7",
+    "symbol": "GiTeTo 7"
+  },
+  {
     "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
     "chainId": 42161,
     "decimals": 18,
