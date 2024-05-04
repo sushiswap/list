@@ -8,6 +8,14 @@
     "symbol": "ADA"
   },
   {
+    "address": "0xEC4eDcf1F344aDA4c1bECf8bB9766e7B559aa3e3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xEC4eDcf1F344aDA4c1bECf8bB9766e7B559aa3e3.jpg",
+    "name": "Ads Plus Advertising Network",
+    "symbol": "ADS"
+  },
+  {
     "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
     "chainId": 56,
     "decimals": 18,
