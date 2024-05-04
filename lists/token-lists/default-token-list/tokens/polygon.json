@@ -184,6 +184,14 @@
     "symbol": "BIFI"
   },
   {
+    "address": "0xB748603F41Cd446b159dce961fA7132f90427542",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xB748603F41Cd446b159dce961fA7132f90427542.jpg",
+    "name": "BITMATICNFT$",
+    "symbol": "BITN$"
+  },
+  {
     "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
     "chainId": 137,
     "decimals": 18,
