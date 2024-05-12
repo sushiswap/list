@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x83764F62B9Fd5ae2dE43904dE7E45Ff47476e2B5",
+    "chainId": 8453,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x83764F62B9Fd5ae2dE43904dE7E45Ff47476e2B5.jpg",
+    "name": "BaseDoodleCat",
+    "symbol": "$DOCAT"
+  },
+  {
     "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
     "chainId": 8453,
     "decimals": 6,
