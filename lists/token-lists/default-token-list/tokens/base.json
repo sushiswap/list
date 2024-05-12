@@ -408,6 +408,14 @@
     "symbol": "TYBG"
   },
   {
+    "address": "0x19039390fB85D22f6f4e7cbe512609Ef5fd4BB9F",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x19039390fB85D22f6f4e7cbe512609Ef5fd4BB9F.jpg",
+    "name": "Uniswap V2",
+    "symbol": "UNI-V2"
+  },
+  {
     "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
     "chainId": 8453,
     "decimals": 6,
