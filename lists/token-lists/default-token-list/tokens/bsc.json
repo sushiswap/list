@@ -264,6 +264,14 @@
     "symbol": "DOT"
   },
   {
+    "address": "0x2aC895fEba458B42884DCbCB47D57e44c3a303c8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x2aC895fEba458B42884DCbCB47D57e44c3a303c8.jpg",
+    "name": "HOLD",
+    "symbol": "EARN"
+  },
+  {
     "address": "0x45808Ce43eb2D7685fF0242631f0FeB6f3D8701a",
     "chainId": 56,
     "decimals": 18,
