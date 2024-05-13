@@ -144,6 +144,14 @@
     "symbol": "DOLP"
   },
   {
+    "address": "0x803b629C339941e2b77D2dC499DAc9e1fD9eAC66",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x803b629C339941e2b77D2dC499DAc9e1fD9eAC66.jpg",
+    "name": "HOLD",
+    "symbol": "EARN"
+  },
+  {
     "address": "0xD08a2917653d4E460893203471f0000826fb4034",
     "chainId": 8453,
     "decimals": 18,
