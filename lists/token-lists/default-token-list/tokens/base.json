@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4.jpg",
+    "name": "AlienBase Token",
+    "symbol": "ALB"
+  },
+  {
     "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
     "chainId": 8453,
     "decimals": 6,
