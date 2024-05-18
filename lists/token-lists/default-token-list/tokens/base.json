@@ -328,6 +328,14 @@
     "symbol": "OX"
   },
   {
+    "address": "0x3636a7734b669Ce352e97780Df361ce1f809c58C",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x3636a7734b669Ce352e97780Df361ce1f809c58C.jpg",
+    "name": "ROCKY",
+    "symbol": "ROCKY"
+  },
+  {
     "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
     "chainId": 8453,
     "decimals": 18,
