@@ -448,6 +448,14 @@
     "symbol": "bDIGG"
   },
   {
+    "address": "0x32C6F1c1731Ff8F98eE2EDe8954f696446307846",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x32C6F1c1731Ff8F98eE2EDe8954f696446307846.jpg",
+    "name": "Bearded Dragon",
+    "symbol": "BEARDY"
+  },
+  {
     "address": "0x01597E397605Bf280674Bf292623460b4204C375",
     "chainId": 1,
     "decimals": 18,
