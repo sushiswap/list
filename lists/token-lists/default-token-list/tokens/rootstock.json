@@ -1,0 +1,66 @@
+[
+  {
+    "address": "0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f.jpg",
+    "name": "ETHs",
+    "symbol": "ETHs"
+  },
+  {
+    "address": "0x6B1A73d547F4009a26B8485B63d7015d248Ad406",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x6B1A73d547F4009a26B8485B63d7015d248Ad406.jpg",
+    "name": "rDAI",
+    "symbol": "rDAI"
+  },
+  {
+    "address": "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5.jpg",
+    "name": "RIF",
+    "symbol": "RIF"
+  },
+  {
+    "address": "0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4.jpg",
+    "name": "rUSDC",
+    "symbol": "rUSDC"
+  },
+  {
+    "address": "0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96.jpg",
+    "name": "rUSDT",
+    "symbol": "rUSDT"
+  },
+  {
+    "address": "0xEFc78fc7d48b64958315949279Ba181c2114ABBd",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0xEFc78fc7d48b64958315949279Ba181c2114ABBd.jpg",
+    "name": "Sovryn Token",
+    "symbol": "SOV"
+  },
+  {
+    "address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x542fDA317318eBF1d3DEAf76E0b632741A7e677d.jpg",
+    "name": "Wrapped WBTC",
+    "symbol": "WRBTC"
+  },
+  {
+    "address": "0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F.jpg",
+    "name": "XUSD",
+    "symbol": "XUSD"
+  }
+]
