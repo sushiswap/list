@@ -632,6 +632,14 @@
     "symbol": "REEF"
   },
   {
+    "address": "0x698fc56771178C7850912916560D946199d5a2E7",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x698fc56771178C7850912916560D946199d5a2E7.jpg",
+    "name": "SEAGE",
+    "symbol": "SEAGE"
+  },
+  {
     "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
     "chainId": 56,
     "decimals": 18,
