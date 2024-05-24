@@ -536,6 +536,14 @@
     "symbol": "FRAX"
   },
   {
+    "address": "0x7214e413731aBB94ee85e1BD6DB59E1Db19a24E0",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7214e413731aBB94ee85e1BD6DB59E1Db19a24E0.jpg",
+    "name": "FutureTalkCoin",
+    "symbol": "FTC"
+  },
+  {
     "address": "0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df",
     "chainId": 137,
     "decimals": 18,
