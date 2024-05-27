@@ -12,8 +12,8 @@
     "chainId": 2046399126,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD2Aaa00700000000000000000000000000000000.jpg",
-    "name": "ERC20 Ether Clone",
-    "symbol": "ETHC"
+    "name": "Ether",
+    "symbol": "ETH"
   },
   {
     "address": "0x73d22d8a2D1f59Bf5Bcf62cA382481a2073FAF58",
