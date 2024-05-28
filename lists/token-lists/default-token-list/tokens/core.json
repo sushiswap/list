@@ -24,6 +24,14 @@
     "symbol": "BTC.b"
   },
   {
+    "address": "0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79.jpg",
+    "name": "Pepe",
+    "symbol": "PEPE"
+  },
+  {
     "address": "0x04596cf36027D177d460c2D0c4235eEc0a97EcBB",
     "chainId": 1116,
     "decimals": 18,
