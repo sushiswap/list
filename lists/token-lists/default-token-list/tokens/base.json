@@ -328,6 +328,14 @@
     "symbol": "OX"
   },
   {
+    "address": "0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F",
+    "chainId": 8453,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F.jpg",
+    "name": "RAFL",
+    "symbol": "RAFL"
+  },
+  {
     "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
     "chainId": 8453,
     "decimals": 18,
