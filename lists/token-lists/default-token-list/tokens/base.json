@@ -480,6 +480,14 @@
     "symbol": "YOU"
   },
   {
+    "address": "0x805B97Be968903eF95294c559092f52e12A84E50",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x805B97Be968903eF95294c559092f52e12A84E50.jpg",
+    "name": "Zombie Brett",
+    "symbol": "ZRETT"
+  },
+  {
     "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
     "chainId": 8453,
     "decimals": 18,
