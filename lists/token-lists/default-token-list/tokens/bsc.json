@@ -336,6 +336,14 @@
     "symbol": "FXS"
   },
   {
+    "address": "0x76760bF2b1b4b16cb24a20A076ABCb36897a73ad",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x76760bF2b1b4b16cb24a20A076ABCb36897a73ad.jpg",
+    "name": "Global Miracle",
+    "symbol": "GM"
+  },
+  {
     "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
     "chainId": 56,
     "decimals": 6,
