@@ -24,6 +24,14 @@
     "symbol": "FCL"
   },
   {
+    "address": "0x92DA735FE1Dc545719a104aFe16c7FeEDEe06562",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0x92DA735FE1Dc545719a104aFe16c7FeEDEe06562.jpg",
+    "name": "Nukereum",
+    "symbol": "NUKE"
+  },
+  {
     "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
     "chainId": 100,
     "decimals": 18,
