@@ -1024,6 +1024,14 @@
     "symbol": "PKR"
   },
   {
+    "address": "0xE4C4c6EbeaCA99e4Bbb537e898A6856a56661e0F",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xE4C4c6EbeaCA99e4Bbb537e898A6856a56661e0F.jpg",
+    "name": "Palladium",
+    "symbol": "PLM"
+  },
+  {
     "address": "0xdC3aCB92712D1D44fFE15d3A8D66d9d18C81e038",
     "chainId": 137,
     "decimals": 18,
