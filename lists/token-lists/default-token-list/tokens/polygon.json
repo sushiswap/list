@@ -616,6 +616,14 @@
     "symbol": "GMS"
   },
   {
+    "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xE5417Af564e4bFDA1c483642db72007871397896.jpg",
+    "name": "Gains Network",
+    "symbol": "GNS"
+  },
+  {
     "address": "0x127E47abA094a9a87D084a3a93732909Ff031419",
     "chainId": 137,
     "decimals": 18,
