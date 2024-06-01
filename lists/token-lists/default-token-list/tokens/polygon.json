@@ -760,6 +760,14 @@
     "symbol": "KRILL"
   },
   {
+    "address": "0x8A7c9e32147d7E42cabB8cE04AFFcc065c69c58B",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x8A7c9e32147d7E42cabB8cE04AFFcc065c69c58B.jpg",
+    "name": "Cock",
+    "symbol": "KUK"
+  },
+  {
     "address": "0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64",
     "chainId": 137,
     "decimals": 18,
