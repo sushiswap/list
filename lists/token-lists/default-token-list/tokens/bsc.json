@@ -120,6 +120,14 @@
     "symbol": "BOB"
   },
   {
+    "address": "0xdB09518B9Bd98e8Dc80e915280A01e984c510641",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xdB09518B9Bd98e8Dc80e915280A01e984c510641.jpg",
+    "name": "Bear Token",
+    "symbol": "BRKN"
+  },
+  {
     "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
     "chainId": 56,
     "decimals": 18,
