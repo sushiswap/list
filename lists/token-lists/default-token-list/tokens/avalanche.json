@@ -112,6 +112,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0x806cc7A21BD85E960857aC1e097802fAbaD6F594",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x806cc7A21BD85E960857aC1e097802fAbaD6F594.jpg",
+    "name": "HOLD",
+    "symbol": "EARN"
+  },
+  {
     "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
     "chainId": 43114,
     "decimals": 18,
