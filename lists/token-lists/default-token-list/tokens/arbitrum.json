@@ -227,7 +227,7 @@
     "address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dodo.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581.jpg",
     "name": "DODO bird",
     "symbol": "DODO"
   },
