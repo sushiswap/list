@@ -368,6 +368,14 @@
     "symbol": "INJ"
   },
   {
+    "address": "0xbFC83596b4DA935a0d89b6FF49f46b3ef563FAFd",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xbFC83596b4DA935a0d89b6FF49f46b3ef563FAFd.jpg",
+    "name": "Snow Leopard - IRBIS",
+    "symbol": "IRBIS"
+  },
+  {
     "address": "0x3c037C4c2296f280bB318D725D0b454B76c199b9",
     "chainId": 56,
     "decimals": 18,
