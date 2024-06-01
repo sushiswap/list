@@ -104,6 +104,14 @@
     "symbol": "BSHIB"
   },
   {
+    "address": "0x6e27769c1728e99E4b842E2f669C0630730F2aA5",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x6e27769c1728e99E4b842E2f669C0630730F2aA5.jpg",
+    "name": "Based Wife",
+    "symbol": "BWIFE"
+  },
+  {
     "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
     "chainId": 8453,
     "decimals": 18,
