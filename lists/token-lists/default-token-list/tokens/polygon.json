@@ -448,6 +448,14 @@
     "symbol": "ELE"
   },
   {
+    "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xE0339c80fFDE91F3e20494Df88d4206D86024cdF.jpg",
+    "name": "Dogelon (PoS)",
+    "symbol": "ELON"
+  },
+  {
     "address": "0x60Ed6aCEF3a96F8CDaF0c0D207BbAfA66e751af2",
     "chainId": 137,
     "decimals": 18,
