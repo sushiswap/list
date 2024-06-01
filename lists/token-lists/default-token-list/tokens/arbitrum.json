@@ -288,6 +288,14 @@
     "symbol": "EMAX"
   },
   {
+    "address": "0xea66f8aaA1aEDCE5C999Fd5a6125a1658E020CDE",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xea66f8aaA1aEDCE5C999Fd5a6125a1658E020CDE.jpg",
+    "name": "ETO Token",
+    "symbol": "ETO"
+  },
+  {
     "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
     "chainId": 42161,
     "decimals": 6,
