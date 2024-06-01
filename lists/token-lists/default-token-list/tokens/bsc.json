@@ -352,6 +352,14 @@
     "symbol": "Helmet"
   },
   {
+    "address": "0x35AFFc89884A81f11A3aa77CD52161d4e1E1E8C9",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x35AFFc89884A81f11A3aa77CD52161d4e1E1E8C9.jpg",
+    "name": "HardcoreMeme",
+    "symbol": "HO2"
+  },
+  {
     "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
     "chainId": 56,
     "decimals": 18,
