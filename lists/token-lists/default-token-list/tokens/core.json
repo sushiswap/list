@@ -32,6 +32,14 @@
     "symbol": "PLANET"
   },
   {
+    "address": "0xA20b3B97df3a02f9185175760300a06B4e0A2C05",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xA20b3B97df3a02f9185175760300a06B4e0A2C05.jpg",
+    "name": "StakedCore",
+    "symbol": "SCORE"
+  },
+  {
     "address": "0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9",
     "chainId": 1116,
     "decimals": 6,
