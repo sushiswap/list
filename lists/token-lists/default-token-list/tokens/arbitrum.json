@@ -912,6 +912,14 @@
     "symbol": "SPELL"
   },
   {
+    "address": "0x057ba66c2109Fd4487F0781E0203B71fd77a6341",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x057ba66c2109Fd4487F0781E0203B71fd77a6341.jpg",
+    "name": "SERVICE",
+    "symbol": "SRV"
+  },
+  {
     "address": "0xF7428FFCb2581A2804998eFbB036A43255c8A8D3",
     "chainId": 42161,
     "decimals": 18,
