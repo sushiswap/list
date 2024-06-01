@@ -488,6 +488,14 @@
     "symbol": "mNFLX"
   },
   {
+    "address": "0xBd4B29918D92d613B019252091aB0189f354534f",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xBd4B29918D92d613B019252091aB0189f354534f.jpg",
+    "name": "Matsuri Shiba Inu",
+    "symbol": "MSHIBA"
+  },
+  {
     "address": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
     "chainId": 56,
     "decimals": 18,
