@@ -88,6 +88,14 @@
     "symbol": "BAND"
   },
   {
+    "address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x101d82428437127bF1608F699CD651e6Abf9766E.jpg",
+    "name": "Basic Attention Token",
+    "symbol": "BAT"
+  },
+  {
     "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
     "chainId": 56,
     "decimals": 18,
