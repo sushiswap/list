@@ -56,6 +56,14 @@
     "symbol": "ALPHA"
   },
   {
+    "address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x0621d647cecbFb64b79E44302c1933cB4f27054d.jpg",
+    "name": "Amp Token (PoS)",
+    "symbol": "AMP"
+  },
+  {
     "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
     "chainId": 137,
     "decimals": 18,
