@@ -200,6 +200,14 @@
     "symbol": "MIM"
   },
   {
+    "address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x88128fd4b259552A9A1D457f435a6527AAb72d42.jpg",
+    "name": "Maker",
+    "symbol": "MKR.e"
+  },
+  {
     "address": "0xF873633DF9D5cDd62BB1f402499CC470a72A02D7",
     "chainId": 43114,
     "decimals": 18,
