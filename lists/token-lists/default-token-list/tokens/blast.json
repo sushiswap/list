@@ -64,6 +64,14 @@
     "symbol": "Dyor"
   },
   {
+    "address": "0x611b8E78690Afd8736b705832fbCfdEd874b7d4E",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x611b8E78690Afd8736b705832fbCfdEd874b7d4E.jpg",
+    "name": "METH",
+    "symbol": "METH"
+  },
+  {
     "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
     "chainId": 81457,
     "decimals": 18,
