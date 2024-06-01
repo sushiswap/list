@@ -64,6 +64,14 @@
     "symbol": "Dyor"
   },
   {
+    "address": "0xBd58597AF004cc524cce6C8ad440a4537dcf556c",
+    "chainId": 81457,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xBd58597AF004cc524cce6C8ad440a4537dcf556c.jpg",
+    "name": "Madam Webbed",
+    "symbol": "MAWE"
+  },
+  {
     "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
     "chainId": 81457,
     "decimals": 18,
