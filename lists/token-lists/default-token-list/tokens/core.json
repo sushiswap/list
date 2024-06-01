@@ -24,6 +24,14 @@
     "symbol": "BTC.b"
   },
   {
+    "address": "0x59e8a776Cc08D7f847203d52ccd44a72bAA1CDdD",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x59e8a776Cc08D7f847203d52ccd44a72bAA1CDdD.jpg",
+    "name": "JustAnEgg",
+    "symbol": "EGG"
+  },
+  {
     "address": "0x04596cf36027D177d460c2D0c4235eEc0a97EcBB",
     "chainId": 1116,
     "decimals": 18,
