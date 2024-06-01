@@ -64,6 +64,14 @@
     "symbol": "baldcat"
   },
   {
+    "address": "0x347F500323D51E9350285Daf299ddB529009e6AE",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x347F500323D51E9350285Daf299ddB529009e6AE.jpg",
+    "name": "BLERF",
+    "symbol": "BLERF"
+  },
+  {
     "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
     "chainId": 8453,
     "decimals": 9,
