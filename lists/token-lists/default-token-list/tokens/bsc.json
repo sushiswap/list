@@ -120,6 +120,14 @@
     "symbol": "BOB"
   },
   {
+    "address": "0xffEecbf8D7267757c2dc3d13D730E97E15BfdF7F",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xffEecbf8D7267757c2dc3d13D730E97E15BfdF7F.jpg",
+    "name": "BoringDAO",
+    "symbol": "BORING"
+  },
+  {
     "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
     "chainId": 56,
     "decimals": 18,
