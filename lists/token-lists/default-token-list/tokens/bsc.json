@@ -304,6 +304,14 @@
     "symbol": "FRAX"
   },
   {
+    "address": "0xC703dA39aE3B9Db67C207c7Bad8100E1AfdC0F9c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xC703dA39aE3B9Db67C207c7Bad8100E1AfdC0F9c.jpg",
+    "name": "FRGX",
+    "symbol": "FRGX"
+  },
+  {
     "address": "0x393B312C01048b3ed2720bF1B090084C09e408A1",
     "chainId": 56,
     "decimals": 18,
