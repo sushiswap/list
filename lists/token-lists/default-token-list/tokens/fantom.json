@@ -478,5 +478,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ftm.jpg",
     "name": "Wrapped Fantom",
     "symbol": "WFTM"
+  },
+  {
+    "address": "0x216898167bFBEF4C703BDFdb6F28C95C8b5588A9",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x216898167bFBEF4C703BDFdb6F28C95C8b5588A9.jpg",
+    "name": "Christmas Season",
+    "symbol": "XMAS"
   }
 ]
