@@ -400,6 +400,14 @@
     "symbol": "KUN"
   },
   {
+    "address": "0x5f90da089D90389323AeFafDd4Ce5B5d2f6CCe7E",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x5f90da089D90389323AeFafDd4Ce5B5d2f6CCe7E.jpg",
+    "name": "Lincoin",
+    "symbol": "LCN"
+  },
+  {
     "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
     "chainId": 56,
     "decimals": 18,
