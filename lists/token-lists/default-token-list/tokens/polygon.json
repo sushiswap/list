@@ -1456,6 +1456,14 @@
     "symbol": "VSQ"
   },
   {
+    "address": "0xe22F1A127F7d9f84d47a89B7fDC7587EeE323e87",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xe22F1A127F7d9f84d47a89B7fDC7587EeE323e87.jpg",
+    "name": "WarmToken",
+    "symbol": "WARM"
+  },
+  {
     "address": "0xFA3872970c1952741C518B33f1DcE815f55Dc00A",
     "chainId": 137,
     "decimals": 18,
