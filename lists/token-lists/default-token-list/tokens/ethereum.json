@@ -203,7 +203,7 @@
     "address": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4104b135DBC9609Fc1A9490E61369036497660c8/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4104b135DBC9609Fc1A9490E61369036497660c8.jpg",
     "name": "APWine Token",
     "symbol": "APW"
   },
