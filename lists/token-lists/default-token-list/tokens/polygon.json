@@ -1024,6 +1024,14 @@
     "symbol": "PKR"
   },
   {
+    "address": "0x79263dfe55F3f96ae21f8755c6725572b39764aF",
+    "chainId": 137,
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x79263dfe55F3f96ae21f8755c6725572b39764aF.jpg",
+    "name": "PolyNodix Euro",
+    "symbol": "PNEURO"
+  },
+  {
     "address": "0xdC3aCB92712D1D44fFE15d3A8D66d9d18C81e038",
     "chainId": 137,
     "decimals": 18,
