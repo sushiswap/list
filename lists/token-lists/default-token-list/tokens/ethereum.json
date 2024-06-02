@@ -3744,6 +3744,14 @@
     "symbol": "WFIL"
   },
   {
+    "address": "0x4C7B16526DFAb7A7661A384f0468025f9411FC60",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4C7B16526DFAb7A7661A384f0468025f9411FC60.jpg",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC"
+  },
+  {
     "address": "0x85D7bdfc9c3426b33A684241eEEE70385Bc42820",
     "chainId": 1,
     "decimals": 18,
