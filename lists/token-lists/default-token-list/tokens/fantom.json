@@ -139,8 +139,8 @@
     "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
     "chainId": 250,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cover.jpg",
-    "name": "Cover",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xB01E8419d842beebf1b70A7b5f7142abbaf7159D.jpg",
+    "name": "Cover Protocol Governance",
     "symbol": "COVER"
   },
   {
