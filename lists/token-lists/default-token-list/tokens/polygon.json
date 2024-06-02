@@ -928,6 +928,14 @@
     "symbol": "NPM"
   },
   {
+    "address": "0x99E9B05aB043918F71a8011f0017Df0555085194",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x99E9B05aB043918F71a8011f0017Df0555085194.jpg",
+    "name": "ONE",
+    "symbol": "OES"
+  },
+  {
     "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
     "chainId": 137,
     "decimals": 18,
