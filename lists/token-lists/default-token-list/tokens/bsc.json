@@ -88,6 +88,14 @@
     "symbol": "BAND"
   },
   {
+    "address": "0xD48474E7444727bF500a32D5AbE01943f3A59A64",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xD48474E7444727bF500a32D5AbE01943f3A59A64.jpg",
+    "name": "BitBook",
+    "symbol": "BBT"
+  },
+  {
     "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
     "chainId": 56,
     "decimals": 18,
