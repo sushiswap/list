@@ -240,6 +240,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0xe2cD4Ca1C175A9B2e9Fc144475B00109e8cC2458",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xe2cD4Ca1C175A9B2e9Fc144475B00109e8cC2458.jpg",
+    "name": "Decrypton",
+    "symbol": "DCRY"
+  },
+  {
     "address": "0x748AD98b14C814B28812eB42ad219C8672909879",
     "chainId": 56,
     "decimals": 18,
