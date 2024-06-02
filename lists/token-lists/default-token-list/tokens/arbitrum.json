@@ -152,6 +152,14 @@
     "symbol": "CAP"
   },
   {
+    "address": "0x7BaCD1860a35864a0c394a9cF9bb949899345ead",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x7BaCD1860a35864a0c394a9cF9bb949899345ead.jpg",
+    "name": "CAR",
+    "symbol": "CAR"
+  },
+  {
     "address": "0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f",
     "chainId": 42161,
     "decimals": 18,
