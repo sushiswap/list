@@ -512,6 +512,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0xAa3ED6E6Ea3Ed78D4d57E373aABD6f54DF5bb508",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xAa3ED6E6Ea3Ed78D4d57E373aABD6f54DF5bb508.jpg",
+    "name": "NGA TIGER",
+    "symbol": "NGA"
+  },
+  {
     "address": "0x8506560320826e459F356CB56cCF721Da8875414",
     "chainId": 56,
     "decimals": 18,
