@@ -307,7 +307,7 @@
     "address": "0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a",
     "chainId": 250,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a.jpg",
     "name": "Frax Share",
     "symbol": "FXS"
   },
