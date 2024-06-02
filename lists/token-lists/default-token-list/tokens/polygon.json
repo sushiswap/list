@@ -776,6 +776,14 @@
     "symbol": "LINK"
   },
   {
+    "address": "0xc410bA0CC044D202035f59db8a1C6d9191017795",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xc410bA0CC044D202035f59db8a1C6d9191017795.jpg",
+    "name": "LOOT",
+    "symbol": "LOOT"
+  },
+  {
     "address": "0x858bCEE0E62dd0c961611ddDDB908767B0ce801C",
     "chainId": 137,
     "decimals": 18,
