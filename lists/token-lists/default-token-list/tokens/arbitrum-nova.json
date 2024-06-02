@@ -24,6 +24,14 @@
     "symbol": "ARB"
   },
   {
+    "address": "0x5B7B5C5B3D5C4eD1D48564D1DD9178cE4fd5D33a",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x5B7B5C5B3D5C4eD1D48564D1DD9178cE4fd5D33a.jpg",
+    "name": "BOBO X PEPE",
+    "symbol": "BOPE"
+  },
+  {
     "address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
     "chainId": 42170,
     "decimals": 18,
