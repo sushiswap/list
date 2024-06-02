@@ -864,6 +864,14 @@
     "symbol": "MTA"
   },
   {
+    "address": "0xF6b2F4246558070Ce6d9450C4BD034e8b0d6daed",
+    "chainId": 137,
+    "decimals": 16,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xF6b2F4246558070Ce6d9450C4BD034e8b0d6daed.jpg",
+    "name": "MetaGun",
+    "symbol": "MTG"
+  },
+  {
     "address": "0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1",
     "chainId": 137,
     "decimals": 18,
