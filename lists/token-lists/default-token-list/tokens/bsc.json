@@ -136,6 +136,14 @@
     "symbol": "BSCX"
   },
   {
+    "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.jpg",
+    "name": "Biswap",
+    "symbol": "BSW"
+  },
+  {
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "chainId": 56,
     "decimals": 18,
