@@ -328,6 +328,14 @@
     "symbol": "cSUSHI"
   },
   {
+    "address": "0x5C9F6D2c299c02bE5fB7D2C94b90D5f5a2fbC895",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5C9F6D2c299c02bE5fB7D2C94b90D5f5a2fbC895.jpg",
+    "name": "Cute Grok",
+    "symbol": "CUTEGROK"
+  },
+  {
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
     "chainId": 137,
     "decimals": 18,
