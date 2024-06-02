@@ -224,6 +224,14 @@
     "symbol": "BTC2x-FLI"
   },
   {
+    "address": "0x462D8d82C2B2D2DDabf7f8a93928De09d47A5807",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x462D8d82C2B2D2DDabf7f8a93928De09d47A5807.jpg",
+    "name": "BlazarBits (PoS)",
+    "symbol": "BzB"
+  },
+  {
     "address": "0x54cFe73f2c7d0c4b62Ab869B473F5512Dc0944D2",
     "chainId": 137,
     "decimals": 18,
