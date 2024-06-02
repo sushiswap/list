@@ -240,6 +240,14 @@
     "symbol": "C3"
   },
   {
+    "address": "0xB6a5ae40e79891E4DeAdAd06C8A7cA47396Df21C",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xB6a5ae40e79891E4DeAdAd06C8A7cA47396Df21C.jpg",
+    "name": "Carbify",
+    "symbol": "CBY"
+  },
+  {
     "address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
     "chainId": 137,
     "decimals": 4,
