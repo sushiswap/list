@@ -776,6 +776,14 @@
     "symbol": "LINK"
   },
   {
+    "address": "0x53C0758fd31Fbd34D138e4979D2c0FBd9fbd7a6d",
+    "chainId": 137,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x53C0758fd31Fbd34D138e4979D2c0FBd9fbd7a6d.jpg",
+    "name": "EL Kabomba",
+    "symbol": "LKBOMB"
+  },
+  {
     "address": "0x858bCEE0E62dd0c961611ddDDB908767B0ce801C",
     "chainId": 137,
     "decimals": 18,
