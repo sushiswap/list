@@ -328,6 +328,14 @@
     "symbol": "cSUSHI"
   },
   {
+    "address": "0xf36A5D696c03d5a0d650b1Dbe78a3863913Df292",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xf36A5D696c03d5a0d650b1Dbe78a3863913Df292.jpg",
+    "name": "CatMint",
+    "symbol": "CTM"
+  },
+  {
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
     "chainId": 137,
     "decimals": 18,
