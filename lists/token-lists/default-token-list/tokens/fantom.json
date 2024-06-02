@@ -312,6 +312,14 @@
     "symbol": "FXS"
   },
   {
+    "address": "0xfF5BB88180498D83f36bd3127223f3e59D50efeA",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xfF5BB88180498D83f36bd3127223f3e59D50efeA.jpg",
+    "name": "FXSOM",
+    "symbol": "FXSOM"
+  },
+  {
     "address": "0x44B26E839eB3572c5E959F994804A5De66600349",
     "chainId": 250,
     "decimals": 18,
