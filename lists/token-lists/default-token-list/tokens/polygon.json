@@ -496,6 +496,14 @@
     "symbol": "EURS"
   },
   {
+    "address": "0xCa1D97F5Fea406FC00Cc562c7c80D221627099A1",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xCa1D97F5Fea406FC00Cc562c7c80D221627099A1.jpg",
+    "name": "EZETH",
+    "symbol": "EZETH"
+  },
+  {
     "address": "0xD125443F38A69d776177c2B9c041f462936F8218",
     "chainId": 137,
     "decimals": 18,
