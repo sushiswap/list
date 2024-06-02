@@ -8,6 +8,14 @@
     "symbol": "AAVE"
   },
   {
+    "address": "0xeEc7f90224df80CAa20E1c98158ede080A7EC4E9",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xeEc7f90224df80CAa20E1c98158ede080A7EC4E9.jpg",
+    "name": "ABITCOINGOLD COIN",
+    "symbol": "ABG"
+  },
+  {
     "address": "0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7",
     "chainId": 137,
     "decimals": 9,
