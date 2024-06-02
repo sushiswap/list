@@ -131,7 +131,7 @@
     "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
     "chainId": 250,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840.jpg",
     "name": "Cerby Token",
     "symbol": "CERBY"
   },
