@@ -416,6 +416,14 @@
     "symbol": "TOWER"
   },
   {
+    "address": "0xA637AD27729647D31ea552FC88CAbE5803d56Aee",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xA637AD27729647D31ea552FC88CAbE5803d56Aee.jpg",
+    "name": "ToTheMoonCoin",
+    "symbol": "TTMC"
+  },
+  {
     "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
     "chainId": 8453,
     "decimals": 18,
