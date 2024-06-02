@@ -2872,6 +2872,14 @@
     "symbol": "RLC"
   },
   {
+    "address": "0xc1C146E09640FE9e5D670288CC43C6269949D9a1",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc1C146E09640FE9e5D670288CC43C6269949D9a1.jpg",
+    "name": "Robotrade",
+    "symbol": "ROBO"
+  },
+  {
     "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
     "chainId": 1,
     "decimals": 18,
