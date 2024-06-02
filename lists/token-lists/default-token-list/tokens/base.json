@@ -472,6 +472,14 @@
     "symbol": "XEN"
   },
   {
+    "address": "0x8Fe815417913a93Ea99049FC0718ee1647A2a07c",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x8Fe815417913a93Ea99049FC0718ee1647A2a07c.jpg",
+    "name": "XSwap",
+    "symbol": "XSWAP"
+  },
+  {
     "address": "0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98",
     "chainId": 8453,
     "decimals": 18,
