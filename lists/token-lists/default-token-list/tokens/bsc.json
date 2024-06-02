@@ -131,8 +131,8 @@
     "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/bscex_32.png",
-    "name": "BSCEX",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587.jpg",
+    "name": "BSCX",
     "symbol": "BSCX"
   },
   {
