@@ -776,6 +776,14 @@
     "symbol": "LINK"
   },
   {
+    "address": "0x0184d2dEd589227E32d0Fe6B2780042688352E17",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x0184d2dEd589227E32d0Fe6B2780042688352E17.jpg",
+    "name": "LJI TOKEN",
+    "symbol": "LJI"
+  },
+  {
     "address": "0x858bCEE0E62dd0c961611ddDDB908767B0ce801C",
     "chainId": 137,
     "decimals": 18,
