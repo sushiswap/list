@@ -640,6 +640,14 @@
     "symbol": "GRT"
   },
   {
+    "address": "0x7bFce73B37Ea2151843BE4bDF72F37E094a4676C",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7bFce73B37Ea2151843BE4bDF72F37E094a4676C.jpg",
+    "name": "Golden treasure",
+    "symbol": "GTR"
+  },
+  {
     "address": "0x057E0bd9B797f9Eeeb8307B35DbC8c12E534c41E",
     "chainId": 137,
     "decimals": 9,
