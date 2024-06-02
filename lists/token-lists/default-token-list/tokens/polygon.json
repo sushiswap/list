@@ -224,6 +224,14 @@
     "symbol": "BTC2x-FLI"
   },
   {
+    "address": "0x3f9E871Fb9e45d353A6A2E6BA800A39084bA75c0",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x3f9E871Fb9e45d353A6A2E6BA800A39084bA75c0.jpg",
+    "name": "Bitdot ",
+    "symbol": "Btd"
+  },
+  {
     "address": "0x54cFe73f2c7d0c4b62Ab869B473F5512Dc0944D2",
     "chainId": 137,
     "decimals": 18,
