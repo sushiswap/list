@@ -32,6 +32,14 @@
     "symbol": "PLANET"
   },
   {
+    "address": "0x0810F7f017b252cf342a3C866E90478A6078e756",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x0810F7f017b252cf342a3C866E90478A6078e756.jpg",
+    "name": "SMUDGE",
+    "symbol": "SMUDGE"
+  },
+  {
     "address": "0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9",
     "chainId": 1116,
     "decimals": 6,
