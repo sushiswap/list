@@ -1312,6 +1312,14 @@
     "symbol": "TETU"
   },
   {
+    "address": "0x7a95DC02887f1643DF1a1b8461d44E10Eb4BE803",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7a95DC02887f1643DF1a1b8461d44E10Eb4BE803.jpg",
+    "name": "Prickly",
+    "symbol": "THORN"
+  },
+  {
     "address": "0x9B034262e0095210ab9ddec60199741a8a1FbFe7",
     "chainId": 137,
     "decimals": 18,
