@@ -512,6 +512,14 @@
     "symbol": "BIT"
   },
   {
+    "address": "0x77531AD4292B834959d91D4E4c5b2351A654F205",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x77531AD4292B834959d91D4E4c5b2351A654F205.jpg",
+    "name": "BLOCERY FINANCE",
+    "symbol": "BLOCERY"
+  },
+  {
     "address": "0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea",
     "chainId": 1,
     "decimals": 18,
