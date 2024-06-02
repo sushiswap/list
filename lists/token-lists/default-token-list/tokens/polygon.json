@@ -328,6 +328,14 @@
     "symbol": "cSUSHI"
   },
   {
+    "address": "0x86Cb71D83C4611ff8d4EA5b757f7da92652997F9",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x86Cb71D83C4611ff8d4EA5b757f7da92652997F9.jpg",
+    "name": "Dachshund Corgi Inu",
+    "symbol": "DACHS"
+  },
+  {
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
     "chainId": 137,
     "decimals": 18,
