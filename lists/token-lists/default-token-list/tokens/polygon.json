@@ -784,6 +784,14 @@
     "symbol": "lsMATIC"
   },
   {
+    "address": "0x5Db9d5E17dBF12Ded2f5D77851e749Ce5985Fb37",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5Db9d5E17dBF12Ded2f5D77851e749Ce5985Fb37.jpg",
+    "name": "LUSH",
+    "symbol": "LUSH"
+  },
+  {
     "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
     "chainId": 137,
     "decimals": 18,
