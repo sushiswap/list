@@ -264,6 +264,14 @@
     "symbol": "CGG"
   },
   {
+    "address": "0x65F9A36cedDEc67ea76154eF985c60114FcebEce",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x65F9A36cedDEc67ea76154eF985c60114FcebEce.jpg",
+    "name": "CHAT",
+    "symbol": "CHAT"
+  },
+  {
     "address": "0xb74f2220Ad34A03730400c9C97Bd10863bBc4130",
     "chainId": 137,
     "decimals": 6,
