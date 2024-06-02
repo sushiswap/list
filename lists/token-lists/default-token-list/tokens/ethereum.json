@@ -2712,6 +2712,14 @@
     "symbol": "pWING"
   },
   {
+    "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4123a133ae3c521FD134D7b13A2dEC35b56c2463.jpg",
+    "name": "Qredo Token",
+    "symbol": "QRDO"
+  },
+  {
     "address": "0xAB2A7B5876D707e0126B3A75EF7781c77c8877EE",
     "chainId": 1,
     "decimals": 18,
