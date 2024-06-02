@@ -72,6 +72,14 @@
     "symbol": "BOGE"
   },
   {
+    "address": "0x72499bdDb67F4CA150E1f522Ca82c87bc9fB18c8",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x72499bdDb67F4CA150E1f522Ca82c87bc9fB18c8.jpg",
+    "name": "Bonk",
+    "symbol": "BONK"
+  },
+  {
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
