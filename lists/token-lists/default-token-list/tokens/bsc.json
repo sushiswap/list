@@ -83,8 +83,8 @@
     "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/band.jpg",
-    "name": "BAND Protocol Token",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18.jpg",
+    "name": "Band Protocol Token",
     "symbol": "BAND"
   },
   {
