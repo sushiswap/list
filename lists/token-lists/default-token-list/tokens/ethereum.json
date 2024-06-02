@@ -584,6 +584,14 @@
     "symbol": "BOR"
   },
   {
+    "address": "0xe25bd528104Ea496E5682BA3c40dDA2Df242A659",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xe25bd528104Ea496E5682BA3c40dDA2Df242A659.jpg",
+    "name": "BPAY",
+    "symbol": "BPAY"
+  },
+  {
     "address": "0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da",
     "chainId": 1,
     "decimals": 18,
