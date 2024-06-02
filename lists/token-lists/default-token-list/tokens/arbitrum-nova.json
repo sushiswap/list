@@ -32,6 +32,14 @@
     "symbol": "BRICK"
   },
   {
+    "address": "0xD0DeC7DBC52E6C5b921f0Bde97099002801809f2",
+    "chainId": 42170,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xD0DeC7DBC52E6C5b921f0Bde97099002801809f2.jpg",
+    "name": "Coin varvar",
+    "symbol": "CVAR"
+  },
+  {
     "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
     "chainId": 42170,
     "decimals": 18,
