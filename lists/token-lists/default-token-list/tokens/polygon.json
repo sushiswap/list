@@ -400,6 +400,14 @@
     "symbol": "DMAGIC"
   },
   {
+    "address": "0xAFD6DdFEB1Cf868F22BAB772CFDcC781E84e07D4",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xAFD6DdFEB1Cf868F22BAB772CFDcC781E84e07D4.jpg",
+    "name": "DoS Token",
+    "symbol": "DoS"
+  },
+  {
     "address": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
     "chainId": 137,
     "decimals": 18,
