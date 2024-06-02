@@ -1264,6 +1264,14 @@
     "symbol": "SPADE"
   },
   {
+    "address": "0x90e40Ea81d70C95DFDaE231F23b2397c4B1c3421",
+    "chainId": 137,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x90e40Ea81d70C95DFDaE231F23b2397c4B1c3421.jpg",
+    "name": "SSL",
+    "symbol": "SSL"
+  },
+  {
     "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
     "chainId": 137,
     "decimals": 18,
