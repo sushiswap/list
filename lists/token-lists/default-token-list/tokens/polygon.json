@@ -1136,6 +1136,14 @@
     "symbol": "pZUG"
   },
   {
+    "address": "0xe5eC53961862EdED9033Ab5234B3e70D67E7dfc4",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xe5eC53961862EdED9033Ab5234B3e70D67E7dfc4.jpg",
+    "name": "Quantum Gateway",
+    "symbol": "QGate"
+  },
+  {
     "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
     "chainId": 137,
     "decimals": 18,
