@@ -296,6 +296,14 @@
     "symbol": "AUDIO"
   },
   {
+    "address": "0x6E98E5401ADCB0D76F4DEBfc3d794B3031F48790",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x6E98E5401ADCB0D76F4DEBfc3d794B3031F48790.jpg",
+    "name": "Aurix Exchange",
+    "symbol": "AUR"
+  },
+  {
     "address": "0x65e3fA51C4ce0af1B9CD5CBC7C5fDb80a09D431D",
     "chainId": 1,
     "decimals": 6,
