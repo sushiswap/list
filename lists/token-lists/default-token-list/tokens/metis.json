@@ -8,12 +8,12 @@
     "symbol": "DAI"
   },
   {
-    "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+    "address": "0xa1eac26477ED67C064D36390eB55721F5B3d01f3",
     "chainId": 1088,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
-    "name": "Mai Stablecoin",
-    "symbol": "MAI"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0xa1eac26477ED67C064D36390eB55721F5B3d01f3.jpg",
+    "name": "Pepe",
+    "symbol": "m.PEPE"
   },
   {
     "address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
@@ -24,20 +24,20 @@
     "symbol": "m.SUSHI"
   },
   {
+    "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+    "chainId": 1088,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+    "name": "Mai Stablecoin",
+    "symbol": "MAI"
+  },
+  {
     "address": "0x186573b175aDF5801cF95Fb06b232ccAB123c6F4",
     "chainId": 1088,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x186573b175aDF5801cF95Fb06b232ccAB123c6F4.jpg",
     "name": "Monkex",
     "symbol": "MONKEX"
-  },
-  {
-    "address": "0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b",
-    "chainId": 1088,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.jpg",
-    "name": "Wrapped Monkex",
-    "symbol": "WMONKEX"
   },
   {
     "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
@@ -78,5 +78,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/metis.svg",
     "name": "Wrapped Metis",
     "symbol": "WMETIS"
+  },
+  {
+    "address": "0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b",
+    "chainId": 1088,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.jpg",
+    "name": "Wrapped Monkex",
+    "symbol": "WMONKEX"
   }
 ]
