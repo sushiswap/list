@@ -96,6 +96,14 @@
     "symbol": "BCH"
   },
   {
+    "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f.jpg",
+    "name": "BELT Token",
+    "symbol": "BELT"
+  },
+  {
     "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "chainId": 56,
     "decimals": 18,
