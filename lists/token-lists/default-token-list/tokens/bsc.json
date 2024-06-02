@@ -768,6 +768,14 @@
     "symbol": "USDT"
   },
   {
+    "address": "0xFa99B65948601dAD0669177185fafE0f23c5563c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xFa99B65948601dAD0669177185fafE0f23c5563c.jpg",
+    "name": "Tellar",
+    "symbol": "USDT"
+  },
+  {
     "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
     "chainId": 56,
     "decimals": 6,
