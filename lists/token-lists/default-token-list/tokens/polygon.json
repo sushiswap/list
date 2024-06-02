@@ -280,6 +280,14 @@
     "symbol": "CHUM"
   },
   {
+    "address": "0xEEF8449fE50352654f2235F13A25A95D52179de6",
+    "chainId": 137,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xEEF8449fE50352654f2235F13A25A95D52179de6.jpg",
+    "name": "CLP Coin(PoS)",
+    "symbol": "CLPC"
+  },
+  {
     "address": "0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC",
     "chainId": 137,
     "decimals": 18,
