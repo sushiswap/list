@@ -520,6 +520,14 @@
     "symbol": "FISH"
   },
   {
+    "address": "0x48cBc913dE09317dF2365e6827Df50dA083701D5",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x48cBc913dE09317dF2365e6827Df50dA083701D5.jpg",
+    "name": "The 4th Pillar Token (PoS)",
+    "symbol": "FOUR"
+  },
+  {
     "address": "0x65A05DB8322701724c197AF82C9CaE41195B0aA8",
     "chainId": 137,
     "decimals": 18,
