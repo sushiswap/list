@@ -1304,6 +1304,14 @@
     "symbol": "FONT"
   },
   {
+    "address": "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0.jpg",
+    "name": "The 4th Pillar Token",
+    "symbol": "FOUR"
+  },
+  {
     "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "chainId": 1,
     "decimals": 18,
