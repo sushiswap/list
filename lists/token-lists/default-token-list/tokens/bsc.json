@@ -472,6 +472,14 @@
     "symbol": "MIM"
   },
   {
+    "address": "0xf48f91df403976060cC05dBbf8A0901b09fdeFd4",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xf48f91df403976060cC05dBbf8A0901b09fdeFd4.jpg",
+    "name": "Minu",
+    "symbol": "MINU"
+  },
+  {
     "address": "0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
     "chainId": 56,
     "decimals": 18,
