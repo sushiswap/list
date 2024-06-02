@@ -96,6 +96,14 @@
     "symbol": "BCH"
   },
   {
+    "address": "0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28.jpg",
+    "name": "Beta Token",
+    "symbol": "BETA"
+  },
+  {
     "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "chainId": 56,
     "decimals": 18,
