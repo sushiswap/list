@@ -2464,6 +2464,14 @@
     "symbol": "OOKI"
   },
   {
+    "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://etherscan.io/token/images/opencustody_32.png",
+    "name": "Open Custody Protocol",
+    "symbol": "OPEN"
+  },
+  {
     "address": "0x888888888889C00c67689029D7856AAC1065eC11",
     "chainId": 1,
     "decimals": 18,
