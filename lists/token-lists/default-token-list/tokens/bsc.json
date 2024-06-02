@@ -8,6 +8,14 @@
     "symbol": "ADA"
   },
   {
+    "address": "0xb427e47e8fDD678278d2A91EEaC014ffcDDaF029",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xb427e47e8fDD678278d2A91EEaC014ffcDDaF029.jpg",
+    "name": "Agatech",
+    "symbol": "AGATA"
+  },
+  {
     "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
     "chainId": 56,
     "decimals": 18,
