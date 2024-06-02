@@ -16,6 +16,14 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x2598c30330D5771AE9F983979209486aE26dE875.jpg",
+    "name": "Any Inu",
+    "symbol": "AI"
+  },
+  {
     "address": "0xC5Fa5669E326DA8B2C35540257cD48811F40a36B",
     "chainId": 43114,
     "decimals": 18,
