@@ -232,6 +232,14 @@
     "symbol": "JELLY"
   },
   {
+    "address": "0xd75e916216087DA1868f6CEeCE7d1924e6c844df",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xd75e916216087DA1868f6CEeCE7d1924e6c844df.jpg",
+    "name": "joi",
+    "symbol": "joi"
+  },
+  {
     "address": "0x64cc19A52f4D631eF5BE07947CABA14aE00c52Eb",
     "chainId": 8453,
     "decimals": 18,
