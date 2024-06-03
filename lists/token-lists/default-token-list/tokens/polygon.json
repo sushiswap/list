@@ -1248,6 +1248,14 @@
     "symbol": "SNX"
   },
   {
+    "address": "0xFa2aa7E3fDaA1621D1C4862475C41f1414F751B2",
+    "chainId": 137,
+    "decimals": 10,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xFa2aa7E3fDaA1621D1C4862475C41f1414F751B2.jpg",
+    "name": "Stock Coin",
+    "symbol": "SOC"
+  },
+  {
     "address": "0x8c059898ca6274750b6bF1cf38F2848347C490cc",
     "chainId": 137,
     "decimals": 18,
