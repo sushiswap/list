@@ -440,6 +440,14 @@
     "symbol": "DUCKIES"
   },
   {
+    "address": "0x1c48bF5e52E45146c48030711e0C8f51268B4Dc2",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x1c48bF5e52E45146c48030711e0C8f51268B4Dc2.jpg",
+    "name": "Eboma Coin",
+    "symbol": "EBOMA"
+  },
+  {
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "chainId": 137,
     "decimals": 18,
