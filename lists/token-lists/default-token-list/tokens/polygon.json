@@ -344,6 +344,14 @@
     "symbol": "DATA"
   },
   {
+    "address": "0xc91953E110EbB0039859304A0d1b64f8450763fC",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xc91953E110EbB0039859304A0d1b64f8450763fC.jpg",
+    "name": "Dynamic Crypto Index",
+    "symbol": "DCI"
+  },
+  {
     "address": "0x8a2870fb69A90000D6439b7aDfB01d4bA383A415",
     "chainId": 137,
     "decimals": 18,
