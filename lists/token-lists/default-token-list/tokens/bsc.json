@@ -296,6 +296,14 @@
     "symbol": "FIL"
   },
   {
+    "address": "0x5A2bf0951b25DD5E70349Fa12c7bcf18C4d8C5f3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x5A2bf0951b25DD5E70349Fa12c7bcf18C4d8C5f3.jpg",
+    "name": "FinKRAN",
+    "symbol": "FKRAN"
+  },
+  {
     "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
     "chainId": 56,
     "decimals": 18,
