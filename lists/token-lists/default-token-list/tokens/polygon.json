@@ -1240,6 +1240,14 @@
     "symbol": "SAND"
   },
   {
+    "address": "0x13502309cB5EC9aDB98Ecb812c225b09D2474e2e",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x13502309cB5EC9aDB98Ecb812c225b09D2474e2e.jpg",
+    "name": "SafeMineCoin",
+    "symbol": "SMCN"
+  },
+  {
     "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
     "chainId": 137,
     "decimals": 18,
