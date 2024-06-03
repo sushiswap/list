@@ -91,7 +91,7 @@
     "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bch.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.jpg",
     "name": "Bitcoin Cash Token",
     "symbol": "BCH"
   },
