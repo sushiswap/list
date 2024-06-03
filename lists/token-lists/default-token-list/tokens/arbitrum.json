@@ -280,6 +280,14 @@
     "symbol": "DXD"
   },
   {
+    "address": "0xE76F6A764411253fb2C79F6660FEa5a1699b9Eaf",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xE76F6A764411253fb2C79F6660FEa5a1699b9Eaf.jpg",
+    "name": "Boka",
+    "symbol": "EB"
+  },
+  {
     "address": "0x123389C2f0e9194d9bA98c21E63c375B67614108",
     "chainId": 42161,
     "decimals": 18,
