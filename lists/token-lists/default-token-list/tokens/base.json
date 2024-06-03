@@ -40,6 +40,14 @@
     "symbol": "AYB"
   },
   {
+    "address": "0xB9E4793793890533C894fe2b1C12985be420394e",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xB9E4793793890533C894fe2b1C12985be420394e.jpg",
+    "name": "BabyBome",
+    "symbol": "BabyBome"
+  },
+  {
     "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
     "chainId": 8453,
     "decimals": 18,
