@@ -440,6 +440,14 @@
     "symbol": "DUCKIES"
   },
   {
+    "address": "0x8228350bbFCd805FE0e8b3951753fe921C43F7e0",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x8228350bbFCd805FE0e8b3951753fe921C43F7e0.jpg",
+    "name": "Eco Coin",
+    "symbol": "ECO"
+  },
+  {
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "chainId": 137,
     "decimals": 18,
