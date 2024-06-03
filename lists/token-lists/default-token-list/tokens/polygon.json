@@ -1240,6 +1240,14 @@
     "symbol": "SAND"
   },
   {
+    "address": "0xA9cf71ea2A759054F4b5Bb225E9d8A2127773c63",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xA9cf71ea2A759054F4b5Bb225E9d8A2127773c63.jpg",
+    "name": "SushiSwap LP Token",
+    "symbol": "SLP"
+  },
+  {
     "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
     "chainId": 137,
     "decimals": 18,
