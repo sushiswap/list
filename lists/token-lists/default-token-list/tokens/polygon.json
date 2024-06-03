@@ -88,6 +88,14 @@
     "symbol": "AUDIO"
   },
   {
+    "address": "0x7a34F66707B7FF0152E29d6F9Bd81d74BdD84578",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7a34F66707B7FF0152E29d6F9Bd81d74BdD84578.jpg",
+    "name": "AURI INC",
+    "symbol": "AURI"
+  },
+  {
     "address": "0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23",
     "chainId": 137,
     "decimals": 18,
