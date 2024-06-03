@@ -576,6 +576,14 @@
     "symbol": "GAJ"
   },
   {
+    "address": "0x66E53846610C4853f3A15f5A701ccCF7daDF2ce5",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x66E53846610C4853f3A15f5A701ccCF7daDF2ce5.jpg",
+    "name": "GAMEFORK",
+    "symbol": "GAMEFORK"
+  },
+  {
     "address": "0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4",
     "chainId": 137,
     "decimals": 18,
