@@ -416,6 +416,14 @@
     "symbol": "LNR"
   },
   {
+    "address": "0x4F2c8449C6518fAdf8e16Ff0Df2EfAcb13614B71",
+    "chainId": 56,
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x4F2c8449C6518fAdf8e16Ff0Df2EfAcb13614B71.jpg",
+    "name": "loveplaysex",
+    "symbol": "love69"
+  },
+  {
     "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
     "chainId": 56,
     "decimals": 18,
