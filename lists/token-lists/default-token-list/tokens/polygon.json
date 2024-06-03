@@ -176,6 +176,14 @@
     "symbol": "BCT"
   },
   {
+    "address": "0x99Da9663c2Cd80D5fCdCE596ABbc087874EB7f0A",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x99Da9663c2Cd80D5fCdCE596ABbc087874EB7f0A.jpg",
+    "name": "Bebus Token",
+    "symbol": "Bebus"
+  },
+  {
     "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
     "chainId": 137,
     "decimals": 18,
