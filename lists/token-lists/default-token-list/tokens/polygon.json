@@ -304,6 +304,14 @@
     "symbol": "COMP"
   },
   {
+    "address": "0xBCd738dD3f237e63BA04591725C8740975e645DE",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xBCd738dD3f237e63BA04591725C8740975e645DE.jpg",
+    "name": "Crypto Dinar",
+    "symbol": "CRDR"
+  },
+  {
     "address": "0x04f3C4cF2e806da6DF31e80E8A5D121F98eDD61d",
     "chainId": 137,
     "decimals": 18,
