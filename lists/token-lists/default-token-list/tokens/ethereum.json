@@ -3896,6 +3896,14 @@
     "symbol": "xcRMRK"
   },
   {
+    "address": "0x3005003BDA885deE7c74182e5FE336e9E3Df87bB",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3005003BDA885deE7c74182e5FE336e9E3Df87bB.jpg",
+    "name": "XD Token",
+    "symbol": "XD"
+  },
+  {
     "address": "0x72B886d09C117654aB7dA13A14d603001dE0B777",
     "chainId": 1,
     "decimals": 18,
