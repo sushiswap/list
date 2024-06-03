@@ -24,6 +24,14 @@
     "symbol": "BTC.b"
   },
   {
+    "address": "0x5B14811F8DAbc5BfcEE435D93dDF001F7ED22217",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x5B14811F8DAbc5BfcEE435D93dDF001F7ED22217.jpg",
+    "name": "Open OEX",
+    "symbol": "OEX"
+  },
+  {
     "address": "0x04596cf36027D177d460c2D0c4235eEc0a97EcBB",
     "chainId": 1116,
     "decimals": 18,
