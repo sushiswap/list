@@ -416,6 +416,14 @@
     "symbol": "LNR"
   },
   {
+    "address": "0x1C2FB104ee3c7997e9DBCeD4E6c494890E66d22a",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x1C2FB104ee3c7997e9DBCeD4E6c494890E66d22a.jpg",
+    "name": "Locos De Amor",
+    "symbol": "LoCoS"
+  },
+  {
     "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
     "chainId": 56,
     "decimals": 18,
