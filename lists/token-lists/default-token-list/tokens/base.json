@@ -72,6 +72,14 @@
     "symbol": "BOGE"
   },
   {
+    "address": "0x53ABA78e8ad49a0Ba707C192fC328A3E18E4D786",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x53ABA78e8ad49a0Ba707C192fC328A3E18E4D786.jpg",
+    "name": "Bonk Jr. gmBRIAN.com",
+    "symbol": "BONKjr"
+  },
+  {
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
