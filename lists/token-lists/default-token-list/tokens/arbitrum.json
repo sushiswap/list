@@ -712,6 +712,14 @@
     "symbol": "pAAPL"
   },
   {
+    "address": "0x2879e4Cff83108042A3bd575B5ca46f5b230d073",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x2879e4Cff83108042A3bd575B5ca46f5b230d073.jpg",
+    "name": "Pamp Da Coin",
+    "symbol": "PAMP"
+  },
+  {
     "address": "0xE656165d39419C03D588515c835d109E19221e1E",
     "chainId": 42161,
     "decimals": 18,
