@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xdd3476005540DD19EDC3578777560633776C2f71",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xdd3476005540DD19EDC3578777560633776C2f71.jpg",
+    "name": "Ascension 5D ",
+    "symbol": "A5D"
+  },
+  {
     "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "chainId": 56,
     "decimals": 18,
