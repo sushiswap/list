@@ -120,6 +120,14 @@
     "symbol": "BOB"
   },
   {
+    "address": "0x8605378E01fE0Af432C813870DC8dAE70221A18E",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x8605378E01fE0Af432C813870DC8dAE70221A18E.jpg",
+    "name": "BorderChain Token",
+    "symbol": "BORDER"
+  },
+  {
     "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
     "chainId": 56,
     "decimals": 18,
