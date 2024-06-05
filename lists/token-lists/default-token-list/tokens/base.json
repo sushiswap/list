@@ -336,6 +336,14 @@
     "symbol": "OX"
   },
   {
+    "address": "0x40468be13c4388D2AB68a09F56973fa95DB5bca0",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x40468be13c4388D2AB68a09F56973fa95DB5bca0.jpg",
+    "name": "Pizza",
+    "symbol": "PIZZA"
+  },
+  {
     "address": "0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F",
     "chainId": 8453,
     "decimals": 8,
