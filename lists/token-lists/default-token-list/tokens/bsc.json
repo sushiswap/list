@@ -696,6 +696,14 @@
     "symbol": "STM"
   },
   {
+    "address": "0x021262aF2E066Fd0f992d4A6C5F24BCa75A95a4B",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x021262aF2E066Fd0f992d4A6C5F24BCa75A95a4B.jpg",
+    "name": "Sweet Pets",
+    "symbol": "STPS"
+  },
+  {
     "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
     "chainId": 56,
     "decimals": 18,
