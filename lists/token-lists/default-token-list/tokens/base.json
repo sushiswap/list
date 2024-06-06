@@ -312,6 +312,14 @@
     "symbol": "NORMIE"
   },
   {
+    "address": "0x47b464eDB8Dc9BC67b5CD4C9310BB87b773845bD",
+    "chainId": 8453,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x47b464eDB8Dc9BC67b5CD4C9310BB87b773845bD.jpg",
+    "name": "Normie",
+    "symbol": "NORMIE"
+  },
+  {
     "address": "0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d",
     "chainId": 8453,
     "decimals": 18,
