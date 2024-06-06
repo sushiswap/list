@@ -8,6 +8,14 @@
     "symbol": "ETHs"
   },
   {
+    "address": "0x9AC7fE28967B30E3A4e6e03286d715b42B453D10",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0x9AC7fE28967B30E3A4e6e03286d715b42B453D10.jpg",
+    "name": "MOC",
+    "symbol": "MOC"
+  },
+  {
     "address": "0x6B1A73d547F4009a26B8485B63d7015d248Ad406",
     "chainId": 30,
     "decimals": 18,
