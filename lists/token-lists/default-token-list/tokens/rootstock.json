@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db.jpg",
+    "name": "Dollar on Chain",
+    "symbol": "DOC"
+  },
+  {
     "address": "0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f",
     "chainId": 30,
     "decimals": 18,
