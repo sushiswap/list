@@ -24,6 +24,14 @@
     "symbol": "RIF"
   },
   {
+    "address": "0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61.jpg",
+    "name": "RIFPro",
+    "symbol": "RIFP"
+  },
+  {
     "address": "0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4",
     "chainId": 30,
     "decimals": 18,
