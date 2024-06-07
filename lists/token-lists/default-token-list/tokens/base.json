@@ -304,14 +304,6 @@
     "symbol": "NFTE"
   },
   {
-    "address": "0x7F12d13B34F5F4f0a9449c16Bcd42f0da47AF200",
-    "chainId": 8453,
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x7F12d13B34F5F4f0a9449c16Bcd42f0da47AF200.jpg",
-    "name": "Normie",
-    "symbol": "NORMIE"
-  },
-  {
     "address": "0x47b464eDB8Dc9BC67b5CD4C9310BB87b773845bD",
     "chainId": 8453,
     "decimals": 9,

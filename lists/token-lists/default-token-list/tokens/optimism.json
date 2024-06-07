@@ -192,6 +192,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg"
   },
   {
+    "address": "0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98.jpg",
+    "name": "Giveth Token",
+    "symbol": "GIV"
+  },
+  {
     "chainId": 10,
     "address": "0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08",
     "name": "Gitcoin",
