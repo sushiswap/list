@@ -568,6 +568,14 @@
     "symbol": "BOB"
   },
   {
+    "address": "0xB90B2A35C65dBC466b04240097Ca756ad2005295",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xB90B2A35C65dBC466b04240097Ca756ad2005295.jpg",
+    "name": "BOBO",
+    "symbol": "BOBO"
+  },
+  {
     "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
     "chainId": 1,
     "decimals": 18,
