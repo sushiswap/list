@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8.jpg",
+    "name": "BitPRO",
+    "symbol": "BITP"
+  },
+  {
     "address": "0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db",
     "chainId": 30,
     "decimals": 18,
