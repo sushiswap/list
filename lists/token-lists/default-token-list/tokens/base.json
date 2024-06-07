@@ -288,6 +288,14 @@
     "symbol": "MOCHITOSHI"
   },
   {
+    "address": "0x7771450EcE9C61430953D2646f995E33a06C91F5",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x7771450EcE9C61430953D2646f995E33a06C91F5.jpg",
+    "name": "Monke",
+    "symbol": "MONKE"
+  },
+  {
     "address": "0x2CcbEcc47D83eE80e27fd09c8e757B82F1fFad4C",
     "chainId": 8453,
     "decimals": 18,
