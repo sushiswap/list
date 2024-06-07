@@ -56,6 +56,14 @@
     "symbol": "SOV"
   },
   {
+    "address": "0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37",
+    "chainId": 30,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37.jpg",
+    "name": "RIF US Dollar",
+    "symbol": "USDRIF"
+  },
+  {
     "address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
     "chainId": 30,
     "decimals": 18,
