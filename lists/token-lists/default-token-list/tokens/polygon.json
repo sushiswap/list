@@ -1168,6 +1168,14 @@
     "symbol": "REIN"
   },
   {
+    "address": "0x971c5D1249549Ea49AdD080AD60e8D2bb619cE61",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x971c5D1249549Ea49AdD080AD60e8D2bb619cE61.jpg",
+    "name": "RELLYOS",
+    "symbol": "RELL"
+  },
+  {
     "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
     "chainId": 137,
     "decimals": 8,
