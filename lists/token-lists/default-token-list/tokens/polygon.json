@@ -1512,6 +1512,14 @@
     "symbol": "WGC"
   },
   {
+    "address": "0x328a7CeA57E17EBAd00b5c64DB508120ec74FCd4",
+    "chainId": 137,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x328a7CeA57E17EBAd00b5c64DB508120ec74FCd4.jpg",
+    "name": "WIFEI",
+    "symbol": "WIFEI"
+  },
+  {
     "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
     "chainId": 137,
     "decimals": 18,
