@@ -728,6 +728,14 @@
     "symbol": "JRT"
   },
   {
+    "address": "0x00c4eB203c1eF912498D2271c24Cb58222ACe887",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x00c4eB203c1eF912498D2271c24Cb58222ACe887.jpg",
+    "name": "KAWAII",
+    "symbol": "KAWAII"
+  },
+  {
     "address": "0x4e78011Ce80ee02d2c3e649Fb657E45898257815",
     "chainId": 137,
     "decimals": 9,
