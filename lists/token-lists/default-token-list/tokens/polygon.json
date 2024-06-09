@@ -1488,6 +1488,14 @@
     "symbol": "wCCX"
   },
   {
+    "address": "0x314d9FFc1e3D609Ad8D9DBcc1a0305FE26EaD550",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x314d9FFc1e3D609Ad8D9DBcc1a0305FE26EaD550.jpg",
+    "name": "VERNUS",
+    "symbol": "WERS"
+  },
+  {
     "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
     "chainId": 137,
     "decimals": 18,
