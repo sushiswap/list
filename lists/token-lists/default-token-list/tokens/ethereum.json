@@ -608,6 +608,14 @@
     "symbol": "BSGG"
   },
   {
+    "address": "0x35AA217f55BdB014AeBF0c7527296558a2D250c2",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x35AA217f55BdB014AeBF0c7527296558a2D250c2.jpg",
+    "name": "Index Coop Bitcoin 2x Index",
+    "symbol": "BTC2X"
+  },
+  {
     "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
     "chainId": 1,
     "decimals": 18,
