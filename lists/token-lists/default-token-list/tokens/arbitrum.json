@@ -288,6 +288,14 @@
     "symbol": "EMAX"
   },
   {
+    "address": "0x0bef95Cc308027C9a754D7674DE0844AE1dcD5b1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0bef95Cc308027C9a754D7674DE0844AE1dcD5b1.jpg",
+    "name": "Index Coop Ethereum 3x Index",
+    "symbol": "ETH3X"
+  },
+  {
     "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
     "chainId": 42161,
     "decimals": 6,
