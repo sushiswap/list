@@ -1584,6 +1584,14 @@
     "symbol": "HUSD"
   },
   {
+    "address": "0xc4506022Fb8090774E8A628d5084EED61D9B99Ee",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc4506022Fb8090774E8A628d5084EED61D9B99Ee.jpg",
+    "name": "High Yield ETH Index",
+    "symbol": "hyETH"
+  },
+  {
     "address": "0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F",
     "chainId": 1,
     "decimals": 18,
