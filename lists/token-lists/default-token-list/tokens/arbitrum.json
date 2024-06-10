@@ -416,14 +416,6 @@
     "symbol": "GRT"
   },
   {
-    "address": "0x73DB621CC8f0a767BeD0e5C0A2920F480D77b765",
-    "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x73DB621CC8f0a767BeD0e5C0A2920F480D77b765.jpg",
-    "name": "GTA",
-    "symbol": "GTA"
-  },
-  {
     "address": "0x02150e97271fDC0D6E3A16d9094A0948266F07dD",
     "chainId": 42161,
     "decimals": 18,
