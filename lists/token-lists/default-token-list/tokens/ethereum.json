@@ -1192,6 +1192,14 @@
     "symbol": "ESD"
   },
   {
+    "address": "0x31F13653433B6c48fD5B19945cD9ab20621F8d4B",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x31F13653433B6c48fD5B19945cD9ab20621F8d4B.jpg",
+    "name": "Index Coop Ethereum 2x Index",
+    "symbol": "ETH2X"
+  },
+  {
     "address": "0x3c37577f1DE12046AEa6975862559a50d8f50158",
     "chainId": 1,
     "decimals": 18,
