@@ -8,6 +8,14 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
+    "chainId": 100,
+    "decimals": 16,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da.jpg",
+    "name": "BZZ on xDai",
+    "symbol": "BZZ"
+  },
+  {
     "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
     "chainId": 100,
     "decimals": 18,
