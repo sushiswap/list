@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x0d8d255F3373b105bFd9226A78882E829A78433b",
+    "chainId": 42161,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0d8d255F3373b105bFd9226A78882E829A78433b.jpg",
+    "name": "Aark",
+    "symbol": "AARK"
+  },
+  {
     "address": "0x53691596d1BCe8CEa565b84d4915e69e03d9C99d",
     "chainId": 42161,
     "decimals": 18,
