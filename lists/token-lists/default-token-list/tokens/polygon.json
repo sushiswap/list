@@ -1072,6 +1072,14 @@
     "symbol": "polyFXS"
   },
   {
+    "address": "0x2595CB24520dea9b98053B9855F2Eb7881527B02",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2595CB24520dea9b98053B9855F2Eb7881527B02.jpg",
+    "name": "PoopcoinLTDOfficial",
+    "symbol": "POO"
+  },
+  {
     "address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
     "chainId": 137,
     "decimals": 18,
