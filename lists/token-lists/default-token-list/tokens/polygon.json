@@ -304,6 +304,14 @@
     "symbol": "COMP"
   },
   {
+    "address": "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c.jpg",
+    "name": "BitCone",
+    "symbol": "CONE"
+  },
+  {
     "address": "0x04f3C4cF2e806da6DF31e80E8A5D121F98eDD61d",
     "chainId": 137,
     "decimals": 18,
