@@ -224,6 +224,14 @@
     "symbol": "BTC2x-FLI"
   },
   {
+    "address": "0xB631937b9E75A66291E7570E8Ed3Db10Eb43A888",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xB631937b9E75A66291E7570E8Ed3Db10Eb43A888.jpg",
+    "name": "BUCKET",
+    "symbol": "BUCKET"
+  },
+  {
     "address": "0x54cFe73f2c7d0c4b62Ab869B473F5512Dc0944D2",
     "chainId": 137,
     "decimals": 18,
