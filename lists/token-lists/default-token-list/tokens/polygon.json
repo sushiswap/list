@@ -328,6 +328,14 @@
     "symbol": "cSUSHI"
   },
   {
+    "address": "0xfe985EC834345b7E49aFC797492cEf5118FB2235",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xfe985EC834345b7E49aFC797492cEf5118FB2235.jpg",
+    "name": "CityCoins",
+    "symbol": "CTY"
+  },
+  {
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
     "chainId": 137,
     "decimals": 18,
