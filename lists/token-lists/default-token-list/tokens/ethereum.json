@@ -1720,6 +1720,14 @@
     "symbol": "ITP"
   },
   {
+    "address": "0x8408D24945a4e29dDc559101F08beF52d65D441F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8408D24945a4e29dDc559101F08beF52d65D441F.jpg",
+    "name": "JaJa",
+    "symbol": "Ja"
+  },
+  {
     "address": "0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0",
     "chainId": 1,
     "decimals": 18,
