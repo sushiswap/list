@@ -1312,6 +1312,14 @@
     "symbol": "TETU"
   },
   {
+    "address": "0xF272b076A567D593f9Fb53af977a95394274eB05",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xF272b076A567D593f9Fb53af977a95394274eB05.jpg",
+    "name": "TokenfieldV2",
+    "symbol": "TFV"
+  },
+  {
     "address": "0x9B034262e0095210ab9ddec60199741a8a1FbFe7",
     "chainId": 137,
     "decimals": 18,
