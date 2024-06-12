@@ -104,6 +104,14 @@
     "symbol": "BRETT"
   },
   {
+    "address": "0x9261b5A8A68b6d2b05d8514Fb875dBb364a9D6C2",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9261b5A8A68b6d2b05d8514Fb875dBb364a9D6C2.jpg",
+    "name": "BRETTY",
+    "symbol": "BRETTY"
+  },
+  {
     "address": "0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA",
     "chainId": 8453,
     "decimals": 18,
