@@ -2592,6 +2592,14 @@
     "symbol": "PIPT"
   },
   {
+    "address": "0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC.jpg",
+    "name": "Pirate Nation Token",
+    "symbol": "PIRATE"
+  },
+  {
     "address": "0x1590ABe3612Be1CB3ab5B0f28874D521576e97Dc",
     "chainId": 1,
     "decimals": 18,
