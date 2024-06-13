@@ -960,6 +960,14 @@
     "symbol": "SWPR"
   },
   {
+    "address": "0x8CF7e3aa6fAf6Ae180E5eC3f0fb95081C2086eBe",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8CF7e3aa6fAf6Ae180E5eC3f0fb95081C2086eBe.jpg",
+    "name": "SX Network",
+    "symbol": "SX"
+  },
+  {
     "address": "0xA72159FC390f0E3C6D415e658264c7c4051E9b87",
     "chainId": 42161,
     "decimals": 18,
