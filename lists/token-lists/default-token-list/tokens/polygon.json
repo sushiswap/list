@@ -184,6 +184,14 @@
     "symbol": "BIFI"
   },
   {
+    "address": "0x108f78473d774E531AF3A58FBFdb49B194Ed0715",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x108f78473d774E531AF3A58FBFdb49B194Ed0715.jpg",
+    "name": "Block",
+    "symbol": "Block"
+  },
+  {
     "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
     "chainId": 137,
     "decimals": 18,
