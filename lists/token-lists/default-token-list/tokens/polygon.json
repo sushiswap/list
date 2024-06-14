@@ -1344,6 +1344,14 @@
     "symbol": "TORN"
   },
   {
+    "address": "0xF5d7Af7e040dC20B5fd366854c14cDfd92787f2E",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xF5d7Af7e040dC20B5fd366854c14cDfd92787f2E.jpg",
+    "name": "Trailer Swift Token",
+    "symbol": "TRSWFT"
+  },
+  {
     "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
     "chainId": 137,
     "decimals": 18,
