@@ -208,6 +208,14 @@
     "symbol": "HANeP"
   },
   {
+    "address": "0xD007960A9CCee79D180EB05EFB65278345cc79eD",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xD007960A9CCee79D180EB05EFB65278345cc79eD.jpg",
+    "name": "HAROLD",
+    "symbol": "HAROLD"
+  },
+  {
     "address": "0x4d25E94291FE8dcFBfA572cbB2aAa7B755087c91",
     "chainId": 8453,
     "decimals": 18,
