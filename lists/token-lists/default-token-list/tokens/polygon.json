@@ -928,6 +928,14 @@
     "symbol": "NPM"
   },
   {
+    "address": "0x901E5B15F5B4C126B4B123aB27A70f9be7cd9152",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x901E5B15F5B4C126B4B123aB27A70f9be7cd9152.jpg",
+    "name": "Novel",
+    "symbol": "NVL"
+  },
+  {
     "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
     "chainId": 137,
     "decimals": 18,
