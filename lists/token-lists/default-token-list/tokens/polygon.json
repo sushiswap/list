@@ -80,6 +80,14 @@
     "symbol": "ARPA"
   },
   {
+    "address": "0x89BA620Fd2e3273edE52153B1293E29b356CDbdB",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x89BA620Fd2e3273edE52153B1293E29b356CDbdB.jpg",
+    "name": "Assyrian",
+    "symbol": "ASS"
+  },
+  {
     "address": "0x5eB8D998371971D01954205c7AFE90A7AF6a95AC",
     "chainId": 137,
     "decimals": 18,
