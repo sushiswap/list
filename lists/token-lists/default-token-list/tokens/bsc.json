@@ -32,6 +32,14 @@
     "symbol": "ANKR"
   },
   {
+    "address": "0x9482CE04f2E827FF03E3Fdd12ef7EF5Df7E18A71",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x9482CE04f2E827FF03E3Fdd12ef7EF5Df7E18A71.jpg",
+    "name": "Arpan Token",
+    "symbol": "ART"
+  },
+  {
     "address": "0x80D5f92C2c8C682070C95495313dDB680B267320",
     "chainId": 56,
     "decimals": 2,
