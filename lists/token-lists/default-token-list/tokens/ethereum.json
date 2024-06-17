@@ -1184,6 +1184,14 @@
     "symbol": "ENTR"
   },
   {
+    "address": "0x6f39d1d4b896833c590B2F587AAE3FeCD8837441",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x6f39d1d4b896833c590B2F587AAE3FeCD8837441.jpg",
+    "name": "Every One Money",
+    "symbol": "EOM"
+  },
+  {
     "address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
     "chainId": 1,
     "decimals": 18,
