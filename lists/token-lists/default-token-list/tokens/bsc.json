@@ -336,6 +336,14 @@
     "symbol": "FXS"
   },
   {
+    "address": "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649.jpg",
+    "name": "Gravity",
+    "symbol": "G"
+  },
+  {
     "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
     "chainId": 56,
     "decimals": 6,
