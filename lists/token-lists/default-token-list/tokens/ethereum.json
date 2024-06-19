@@ -1520,6 +1520,14 @@
     "symbol": "GTON"
   },
   {
+    "address": "0x525574C899A7c877a11865339e57376092168258",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x525574C899A7c877a11865339e57376092168258.jpg",
+    "name": "GURU Token",
+    "symbol": "GURU"
+  },
+  {
     "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
     "chainId": 1,
     "decimals": 18,
