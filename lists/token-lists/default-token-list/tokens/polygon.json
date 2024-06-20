@@ -1598,5 +1598,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc.jpg",
     "name": "ZED RUN",
     "symbol": "ZED"
+  },
+  {
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
+    "name": "LayerZero",
+    "symbol": "ZRO"
   }
 ]

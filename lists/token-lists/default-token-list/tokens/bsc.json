@@ -894,5 +894,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x0000028a2eB8346cd5c0267856aB7594B7a55308.jpg",
     "name": "Zeta",
     "symbol": "ZETA"
+  },
+  {
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
+    "name": "LayerZero",
+    "symbol": "ZRO"
   }
 ]
