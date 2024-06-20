@@ -512,6 +512,14 @@
     "symbol": "YOU"
   },
   {
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
+    "name": "LayerZero",
+    "symbol": "ZRO"
+  },
+  {
     "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
     "chainId": 8453,
     "decimals": 18,

@@ -598,5 +598,13 @@
     "symbol": "ZRX",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png"
+  },
+  {
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
+    "name": "LayerZero",
+    "symbol": "ZRO"
   }
 ]
