@@ -232,6 +232,14 @@
     "symbol": "NGNC"
   },
   {
+    "address": "0x88A0F8318Bf0CE19e999f1802bf5B12DC8d7cdFe",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x88A0F8318Bf0CE19e999f1802bf5B12DC8d7cdFe.jpg",
+    "name": "Pleasure Coin",
+    "symbol": "NSFW"
+  },
+  {
     "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
     "chainId": 43114,
     "decimals": 18,
