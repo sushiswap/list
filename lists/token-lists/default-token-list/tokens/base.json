@@ -328,6 +328,14 @@
     "symbol": "NPC"
   },
   {
+    "address": "0x137A61B3311E967b0D1e79d5546167C9DC9E6B5B",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x137A61B3311E967b0D1e79d5546167C9DC9E6B5B.jpg",
+    "name": "Pleasure Coin",
+    "symbol": "NSFW"
+  },
+  {
     "address": "0xC48E605c7b722a57277e087a6170B9E227e5AC0A",
     "chainId": 8453,
     "decimals": 18,
