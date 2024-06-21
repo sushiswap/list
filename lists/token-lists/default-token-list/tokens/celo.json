@@ -168,6 +168,14 @@
     "symbol": "MOBI"
   },
   {
+    "address": "0x8E0C1cDCEEb773139B471fd1137502A28588178a",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x8E0C1cDCEEb773139B471fd1137502A28588178a.jpg",
+    "name": "Pleasure Coin",
+    "symbol": "NSFW"
+  },
+  {
     "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
     "chainId": 42220,
     "decimals": 18,
@@ -232,6 +240,14 @@
     "symbol": "USDC"
   },
   {
+    "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
+    "chainId": 42220,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "name": "Optics USDC v1",
+    "symbol": "USDCv1"
+  },
+  {
     "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
     "chainId": 42220,
     "decimals": 6,
@@ -246,14 +262,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png",
     "name": "Optics USDC v2 (PoS)",
     "symbol": "USDCv2-PoS"
-  },
-  {
-    "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
-    "chainId": 42220,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
-    "name": "Optics USDC v1",
-    "symbol": "USDCv1"
   },
   {
     "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
