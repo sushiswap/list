@@ -376,6 +376,14 @@
     "symbol": "nICE"
   },
   {
+    "address": "0xf32554C06D030035cd6Ca1902B3874fDB7230c14",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xf32554C06D030035cd6Ca1902B3874fDB7230c14.jpg",
+    "name": "Pleasure Coin",
+    "symbol": "NSFW"
+  },
+  {
     "address": "0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8",
     "chainId": 250,
     "decimals": 18,
