@@ -640,6 +640,14 @@
     "symbol": "NPM"
   },
   {
+    "address": "0x98A5F77d1feC5D68c9a6DEcB715F11beaBa84F38",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x98A5F77d1feC5D68c9a6DEcB715F11beaBa84F38.jpg",
+    "name": "Pleasure Coin",
+    "symbol": "NSFW"
+  },
+  {
     "address": "0xfb9Fed8cB962548A11fE7F6F282949061395c7F5",
     "chainId": 42161,
     "decimals": 18,
