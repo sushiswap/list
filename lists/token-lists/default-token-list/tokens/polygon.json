@@ -1320,6 +1320,14 @@
     "symbol": "THREE"
   },
   {
+    "address": "0x735E890b977721677B7C80eF33d00dd062c68238",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x735E890b977721677B7C80eF33d00dd062c68238.jpg",
+    "name": "Pepewiftie",
+    "symbol": "TIE"
+  },
+  {
     "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
     "chainId": 137,
     "decimals": 18,
