@@ -3048,6 +3048,14 @@
     "symbol": "sILV2"
   },
   {
+    "address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7.jpg",
+    "name": "SKALE",
+    "symbol": "SKL"
+  },
+  {
     "address": "0x2610F0bFC21EF389fe4D03CFB7De9ac1E6C99D6E",
     "chainId": 1,
     "decimals": 18,
