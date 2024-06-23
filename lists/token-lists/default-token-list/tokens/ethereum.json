@@ -1520,6 +1520,14 @@
     "symbol": "GTON"
   },
   {
+    "address": "0xc25a81Bee04c0C8c35d7cfF1241C4c0E05cE4CC0",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc25a81Bee04c0C8c35d7cfF1241C4c0E05cE4CC0.jpg",
+    "name": "Hawk Tuah",
+    "symbol": "Hawk Tuah"
+  },
+  {
     "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
     "chainId": 1,
     "decimals": 18,
