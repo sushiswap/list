@@ -976,6 +976,14 @@
     "symbol": "TCR"
   },
   {
+    "address": "0xc4324898552FF292737ee6Cb66Ea7fA5896155bC",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xc4324898552FF292737ee6Cb66Ea7fA5896155bC.jpg",
+    "name": "TIMELESS TOKEN ",
+    "symbol": "TLT"
+  },
+  {
     "address": "0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a",
     "chainId": 42161,
     "decimals": 18,
