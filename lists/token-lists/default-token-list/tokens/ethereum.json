@@ -608,6 +608,14 @@
     "symbol": "BSGG"
   },
   {
+    "address": "0xC0BC84e95864BdfDCd1CCFB8A3AA522E79Ca1410",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xC0BC84e95864BdfDCd1CCFB8A3AA522E79Ca1410.jpg",
+    "name": "bitcoin",
+    "symbol": "btc"
+  },
+  {
     "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
     "chainId": 1,
     "decimals": 18,
