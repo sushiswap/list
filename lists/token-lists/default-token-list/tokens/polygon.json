@@ -56,6 +56,14 @@
     "symbol": "ALPHA"
   },
   {
+    "address": "0xB5511C011ba306150cDCAa0065A0e13377fec680",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xB5511C011ba306150cDCAa0065A0e13377fec680.jpg",
+    "name": "Amanita",
+    "symbol": "AMANI"
+  },
+  {
     "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
     "chainId": 137,
     "decimals": 18,
