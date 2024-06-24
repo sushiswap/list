@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xF7F957D88768126916dAF3C1705D13C291d2B7D8",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xF7F957D88768126916dAF3C1705D13C291d2B7D8.jpg",
+    "name": "Aquas.Trade",
+    "symbol": "AQUA"
+  },
+  {
     "address": "0xD05C4be5f3be302d376518c9492EC0147Fa5A718",
     "chainId": 2046399126,
     "decimals": 18,
