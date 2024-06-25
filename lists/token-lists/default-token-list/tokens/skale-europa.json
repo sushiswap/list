@@ -8,6 +8,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB.jpg",
+    "name": "Compass",
+    "symbol": "CMPS"
+  },
+  {
     "address": "0xD2Aaa00700000000000000000000000000000000",
     "chainId": 2046399126,
     "decimals": 18,
