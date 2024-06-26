@@ -264,6 +264,14 @@
     "symbol": "DOT"
   },
   {
+    "address": "0x47f2DFb4C203488CbEAf42B0E4C2cC82Dc2539Ef",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x47f2DFb4C203488CbEAf42B0E4C2cC82Dc2539Ef.jpg",
+    "name": "Energy Coin Market",
+    "symbol": "ECM"
+  },
+  {
     "address": "0x45808Ce43eb2D7685fF0242631f0FeB6f3D8701a",
     "chainId": 56,
     "decimals": 18,
