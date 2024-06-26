@@ -1,13 +1,5 @@
 [
   {
-    "address": "0xD05C4be5f3be302d376518c9492EC0147Fa5A718",
-    "chainId": 2046399126,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD05C4be5f3be302d376518c9492EC0147Fa5A718.jpg",
-    "name": "DAI Stablecoin",
-    "symbol": "DAI"
-  },
-  {
     "address": "0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB",
     "chainId": 2046399126,
     "decimals": 18,
@@ -16,12 +8,28 @@
     "symbol": "CMPS"
   },
   {
+    "address": "0xD05C4be5f3be302d376518c9492EC0147Fa5A718",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD05C4be5f3be302d376518c9492EC0147Fa5A718.jpg",
+    "name": "DAI Stablecoin",
+    "symbol": "DAI"
+  },
+  {
     "address": "0xD2Aaa00700000000000000000000000000000000",
     "chainId": 2046399126,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD2Aaa00700000000000000000000000000000000.jpg",
     "name": "Ether",
     "symbol": "ETH"
+  },
+  {
+    "address": "0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg",
+    "name": "Exorde Network Token",
+    "symbol": "EXD"
   },
   {
     "address": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
