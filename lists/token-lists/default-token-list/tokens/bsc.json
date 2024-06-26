@@ -632,6 +632,14 @@
     "symbol": "REEF"
   },
   {
+    "address": "0x9C9297A270C2DBD78bEb14ecD3bebFB0a3a3Ca5B",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x9C9297A270C2DBD78bEb14ecD3bebFB0a3a3Ca5B.jpg",
+    "name": "SDT1 LAB ONE",
+    "symbol": "SDT1"
+  },
+  {
     "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
     "chainId": 56,
     "decimals": 18,
