@@ -1208,6 +1208,14 @@
     "symbol": "EUROe"
   },
   {
+    "address": "0x02dE007D412266a2e0Fa9287C103474170F06560",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x02dE007D412266a2e0Fa9287C103474170F06560.jpg",
+    "name": "Exorde Network Token",
+    "symbol": "EXD"
+  },
+  {
     "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
     "chainId": 1,
     "decimals": 18,
