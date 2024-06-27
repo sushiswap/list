@@ -256,6 +256,14 @@
     "symbol": "DITTO"
   },
   {
+    "address": "0xEAF0aCd7fE39F2eA5ac52B0A8C20D3878082cc36",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xEAF0aCd7fE39F2eA5ac52B0A8C20D3878082cc36.jpg",
+    "name": "Donkey Kong",
+    "symbol": "DK"
+  },
+  {
     "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
     "chainId": 56,
     "decimals": 18,
