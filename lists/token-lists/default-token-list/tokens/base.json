@@ -360,6 +360,14 @@
     "symbol": "PIZZA"
   },
   {
+    "address": "0x3179bAB60cfB2713F6ff70F0496B4cf1AA55B065",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x3179bAB60cfB2713F6ff70F0496B4cf1AA55B065.jpg",
+    "name": "Pouchy",
+    "symbol": "POUCHY"
+  },
+  {
     "address": "0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F",
     "chainId": 8453,
     "decimals": 8,
