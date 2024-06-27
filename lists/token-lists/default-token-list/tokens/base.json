@@ -488,6 +488,14 @@
     "symbol": "WARPIE"
   },
   {
+    "address": "0xBF1ba91C02659Db90a57c92f800F0bFEB290e399",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xBF1ba91C02659Db90a57c92f800F0bFEB290e399.jpg",
+    "name": "Wealth Coin",
+    "symbol": "WEL"
+  },
+  {
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 8453,
     "decimals": 18,
