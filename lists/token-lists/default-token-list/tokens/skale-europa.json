@@ -32,6 +32,14 @@
     "symbol": "EXD"
   },
   {
+    "address": "0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558",
+    "chainId": 2046399126,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg",
+    "name": "Europa HITMAKR",
+    "symbol": "HMKR"
+  },
+  {
     "address": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
     "chainId": 2046399126,
     "decimals": 18,
