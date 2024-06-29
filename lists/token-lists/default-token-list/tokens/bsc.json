@@ -400,6 +400,14 @@
     "symbol": "KUN"
   },
   {
+    "address": "0xAD253a36D830C422E1C9333b879E77960B333d5f",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xAD253a36D830C422E1C9333b879E77960B333d5f.jpg",
+    "name": "Localcoin",
+    "symbol": "LBC"
+  },
+  {
     "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
     "chainId": 56,
     "decimals": 18,
