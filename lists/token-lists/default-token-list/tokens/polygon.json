@@ -1440,6 +1440,14 @@
     "symbol": "VAI"
   },
   {
+    "address": "0x7B6B84E6dCeCD040cc6CDcbe5457355489385173",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7B6B84E6dCeCD040cc6CDcbe5457355489385173.jpg",
+    "name": "Votemode",
+    "symbol": "Votemode"
+  },
+  {
     "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
     "chainId": 137,
     "decimals": 18,
