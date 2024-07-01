@@ -86,5 +86,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE.jpg",
     "name": "Gold Deenar",
     "symbol": "DEEN" 
+  },
+  {
+    "address": "0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
+    "chainId": 11235,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
+    "name": "Stride staked ISLM",
+    "symbol": "stISLM" 
   }
 ]
