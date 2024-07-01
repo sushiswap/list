@@ -448,6 +448,14 @@
     "symbol": "TOWER"
   },
   {
+    "address": "0x642e8f9b36634ef688a97cBa67F833Da174d9cfA",
+    "chainId": 8453,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x642e8f9b36634ef688a97cBa67F833Da174d9cfA.jpg",
+    "name": "Tweet On Base",
+    "symbol": "Tweets"
+  },
+  {
     "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
     "chainId": 8453,
     "decimals": 18,
