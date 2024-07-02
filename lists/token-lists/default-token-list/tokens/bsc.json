@@ -176,6 +176,14 @@
     "symbol": "BUSD"
   },
   {
+    "address": "0xd5832b536A3e82d887436AAfd56F4851c5f4389b",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xd5832b536A3e82d887436AAfd56F4851c5f4389b.jpg",
+    "name": "BUSD",
+    "symbol": "BUSD"
+  },
+  {
     "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
     "chainId": 56,
     "decimals": 18,
