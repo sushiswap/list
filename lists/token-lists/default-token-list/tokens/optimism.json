@@ -312,6 +312,14 @@
     "symbol": "NFTE"
   },
   {
+    "address": "0xa219B43C6e5935085Bcaf7Fd590C83ABe62dCd77",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xa219B43C6e5935085Bcaf7Fd590C83ABe62dCd77.jpg",
+    "name": "Pleasure Coin",
+    "symbol": "NSFW"
+  },
+  {
     "chainId": 10,
     "address": "0x4200000000000000000000000000000000000042",
     "name": "Optimism",
@@ -592,19 +600,19 @@
     "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png"
   },
   {
-    "chainId": 10,
-    "address": "0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33",
-    "name": "0x Protocol Token",
-    "symbol": "ZRX",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png"
-  },
-  {
     "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
     "chainId": 10,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
     "name": "LayerZero",
     "symbol": "ZRO"
+  },
+  {
+    "chainId": 10,
+    "address": "0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33",
+    "name": "0x Protocol Token",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png"
   }
 ]
