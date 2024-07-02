@@ -56,6 +56,14 @@
     "symbol": "SUSHI"
   },
   {
+    "address": "0x883CFBd30bD076a063A453335414909545186275",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x883CFBd30bD076a063A453335414909545186275.jpg",
+    "name": "Europa TOS",
+    "symbol": "TOS"
+  },
+  {
     "address": "0x5F795bb52dAC3085f578f4877D450e2929D2F13d",
     "chainId": 2046399126,
     "decimals": 6,
