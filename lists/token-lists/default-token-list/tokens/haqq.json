@@ -78,5 +78,21 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717.jpg",
     "name": "Circle USD from Noble",
     "symbol": "USDC"  
+  },
+  {
+    "address": "0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE",
+    "chainId": 11235,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE.jpg",
+    "name": "Gold Deenar",
+    "symbol": "DEEN" 
+  },
+  {
+    "address": "0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
+    "chainId": 11235,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
+    "name": "Stride staked ISLM",
+    "symbol": "stISLM" 
   }
 ]
