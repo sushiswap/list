@@ -2344,6 +2344,14 @@
     "symbol": "NSBT"
   },
   {
+    "address": "0x8e0CdaE2263DE5cC4BC81D8fAEd9a7E1987D1D0e",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8e0CdaE2263DE5cC4BC81D8fAEd9a7E1987D1D0e.jpg",
+    "name": "Pleasure Coin",
+    "symbol": "NSFW"
+  },
+  {
     "address": "0x70Bef3bB2f001dA2fDDb207dAe696cD9FAFf3f5d",
     "chainId": 1,
     "decimals": 18,
