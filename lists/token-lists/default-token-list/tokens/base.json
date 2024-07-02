@@ -360,6 +360,14 @@
     "symbol": "OX"
   },
   {
+    "address": "0x0F286eE54dFaB5443D7922CD6B3d165e4976a015",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x0F286eE54dFaB5443D7922CD6B3d165e4976a015.jpg",
+    "name": "Portugal24",
+    "symbol": "p24"
+  },
+  {
     "address": "0x40468be13c4388D2AB68a09F56973fa95DB5bca0",
     "chainId": 8453,
     "decimals": 18,
