@@ -3416,6 +3416,14 @@
     "symbol": "TORN"
   },
   {
+    "address": "0x68ccACa9ADF1552B3316d6067690eC27397c8ea8",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x68ccACa9ADF1552B3316d6067690eC27397c8ea8.jpg",
+    "name": "Cryptos",
+    "symbol": "TOS"
+  },
+  {
     "address": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
     "chainId": 1,
     "decimals": 18,
