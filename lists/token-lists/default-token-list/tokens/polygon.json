@@ -1304,6 +1304,14 @@
     "symbol": "SX"
   },
   {
+    "address": "0xfB0D130c7cDE1cB6b1f9C73bB38965E64D0e1576",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xfB0D130c7cDE1cB6b1f9C73bB38965E64D0e1576.jpg",
+    "name": "teraxcoin",
+    "symbol": "TARX"
+  },
+  {
     "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
     "chainId": 137,
     "decimals": 2,
