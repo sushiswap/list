@@ -160,6 +160,14 @@
     "symbol": "mcUSD"
   },
   {
+    "address": "0xa5c6cE66A4e90BF20ffE18da7fC1aB0a03EdAb1E",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xa5c6cE66A4e90BF20ffE18da7fC1aB0a03EdAb1E.jpg",
+    "name": "Moeda Independente Brasileira ",
+    "symbol": "MIB"
+  },
+  {
     "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
     "chainId": 42220,
     "decimals": 18,
