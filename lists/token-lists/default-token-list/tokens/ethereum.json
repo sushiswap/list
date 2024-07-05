@@ -3744,6 +3744,14 @@
     "symbol": "WCUSD"
   },
   {
+    "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee.jpg",
+    "name": "Wrapped eETH",
+    "symbol": "weETH"
+  },
+  {
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "chainId": 1,
     "decimals": 18,
