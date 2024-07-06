@@ -952,6 +952,14 @@
     "symbol": "SUSHI"
   },
   {
+    "address": "0x57bEB06d8c7B19B7405ae3453c99B2E9982Af4e2",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x57bEB06d8c7B19B7405ae3453c99B2E9982Af4e2.jpg",
+    "name": "Sure Valley",
+    "symbol": "SUTY"
+  },
+  {
     "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
     "chainId": 42161,
     "decimals": 18,
