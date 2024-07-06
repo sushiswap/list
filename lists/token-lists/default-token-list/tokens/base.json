@@ -424,6 +424,14 @@
     "symbol": "SUSHI"
   },
   {
+    "address": "0x496db3FC8c7077DC5fBd0E2Ad972894f40527E19",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x496db3FC8c7077DC5fBd0E2Ad972894f40527E19.jpg",
+    "name": "Based THC",
+    "symbol": "THC"
+  },
+  {
     "address": "0xb8D98a102b0079B69FFbc760C8d857A31653e56e",
     "chainId": 8453,
     "decimals": 18,
