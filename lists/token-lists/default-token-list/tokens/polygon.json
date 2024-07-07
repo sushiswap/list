@@ -1288,6 +1288,14 @@
     "symbol": "STND"
   },
   {
+    "address": "0x48BDF3A13E9567d5889910e15B9CF3D8e4ae0790",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x48BDF3A13E9567d5889910e15B9CF3D8e4ae0790.jpg",
+    "name": "SUPR",
+    "symbol": "SUPR"
+  },
+  {
     "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
     "chainId": 137,
     "decimals": 18,
