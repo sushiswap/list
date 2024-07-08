@@ -288,6 +288,14 @@
     "symbol": "AUCTION"
   },
   {
+    "address": "0x4cCe605eD955295432958d8951D0B176C10720d5",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4cCe605eD955295432958d8951D0B176C10720d5.jpg",
+    "name": "AUDD",
+    "symbol": "AUDD"
+  },
+  {
     "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
     "chainId": 1,
     "decimals": 18,
