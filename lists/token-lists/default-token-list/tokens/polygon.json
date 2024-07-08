@@ -1472,6 +1472,14 @@
     "symbol": "WARU"
   },
   {
+    "address": "0xadBC558ae0f58c4bA32Fc6A92e9cd3A5606A165c",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xadBC558ae0f58c4bA32Fc6A92e9cd3A5606A165c.jpg",
+    "name": "WATER",
+    "symbol": "Waterfall"
+  },
+  {
     "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
     "chainId": 137,
     "decimals": 18,
