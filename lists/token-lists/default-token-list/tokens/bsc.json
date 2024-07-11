@@ -64,6 +64,14 @@
     "symbol": "axlUSDC"
   },
   {
+    "address": "0x125E739e62cD044709578Ba1Be2cb59D66603C4B",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x125E739e62cD044709578Ba1Be2cb59D66603C4B.jpg",
+    "name": "Bit4Eco",
+    "symbol": "B4E"
+  },
+  {
     "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
     "chainId": 56,
     "decimals": 18,
