@@ -272,6 +272,14 @@
     "symbol": "CHECK"
   },
   {
+    "address": "0xD3081bA7CfeE453C79041d322E30Dc15D05B8e0a",
+    "chainId": 137,
+    "decimals": 10,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xD3081bA7CfeE453C79041d322E30Dc15D05B8e0a.jpg",
+    "name": "Child protection",
+    "symbol": "CHILD"
+  },
+  {
     "address": "0x2e2DDe47952b9c7deFDE7424d00dD2341AD927Ca",
     "chainId": 137,
     "decimals": 18,
