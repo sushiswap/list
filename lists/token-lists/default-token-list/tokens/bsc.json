@@ -672,6 +672,14 @@
     "symbol": "SPS"
   },
   {
+    "address": "0xd7DeAdbf768dEC8ac13850e4F6787Ac53a9d0447",
+    "chainId": 56,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xd7DeAdbf768dEC8ac13850e4F6787Ac53a9d0447.jpg",
+    "name": "SSC Wealth Coin",
+    "symbol": "SSCWC"
+  },
+  {
     "address": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
     "chainId": 56,
     "decimals": 18,
