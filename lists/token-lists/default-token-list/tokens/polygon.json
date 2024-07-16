@@ -144,6 +144,14 @@
     "symbol": "AXS"
   },
   {
+    "address": "0xFf3C2f49C4558234AA490De1790087Be5CAE9008",
+    "chainId": 137,
+    "decimals": 15,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xFf3C2f49C4558234AA490De1790087Be5CAE9008.jpg",
+    "name": "AZVADA@polygon",
+    "symbol": "AZVADA"
+  },
+  {
     "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
     "chainId": 137,
     "decimals": 18,
