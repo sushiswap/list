@@ -40,6 +40,14 @@
     "symbol": "HMKR"
   },
   {
+    "address": "0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f.jpg",
+    "name": "RubyToken",
+    "symbol": "RUBY"
+  },
+  {
     "address": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
     "chainId": 2046399126,
     "decimals": 18,
