@@ -1096,6 +1096,14 @@
     "symbol": "dsETH"
   },
   {
+    "address": "0x9eeC446ecA97074C765cb4A77F07b0f57847B7F7",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9eeC446ecA97074C765cb4A77F07b0f57847B7F7.jpg",
+    "name": "Danger token",
+    "symbol": "Dtt "
+  },
+  {
     "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
     "chainId": 1,
     "decimals": 18,
