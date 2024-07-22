@@ -112,6 +112,14 @@
     "symbol": "BLK"
   },
   {
+    "address": "0x302cF107fB1fecC54F1ED288d4e96eE13f98387b",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x302cF107fB1fecC54F1ED288d4e96eE13f98387b.jpg",
+    "name": "BlumpKoin",
+    "symbol": "BLUM"
+  },
+  {
     "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
     "chainId": 56,
     "decimals": 18,
