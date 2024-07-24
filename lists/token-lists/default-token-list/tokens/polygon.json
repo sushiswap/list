@@ -400,6 +400,14 @@
     "symbol": "DMAGIC"
   },
   {
+    "address": "0xC195c76eecB775D678f9D0D512Ad2f0b3a747D2C",
+    "chainId": 137,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xC195c76eecB775D678f9D0D512Ad2f0b3a747D2C.jpg",
+    "name": "Diamante",
+    "symbol": "DMT"
+  },
+  {
     "address": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
     "chainId": 137,
     "decimals": 18,
