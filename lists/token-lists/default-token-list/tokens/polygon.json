@@ -496,6 +496,14 @@
     "symbol": "EURS"
   },
   {
+    "address": "0x45b0bF770edAd9b3A8Aaa015B47a1f46a7cF956F",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x45b0bF770edAd9b3A8Aaa015B47a1f46a7cF956F.jpg",
+    "name": "Falcon",
+    "symbol": "Falcon"
+  },
+  {
     "address": "0xD125443F38A69d776177c2B9c041f462936F8218",
     "chainId": 137,
     "decimals": 18,
