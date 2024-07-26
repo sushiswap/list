@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x81A19Fe3d949E81C7D7BeaC8D2d4Bacdf41270C2",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x81A19Fe3d949E81C7D7BeaC8D2d4Bacdf41270C2.jpg",
+    "name": "Xybercoin Chrome",
+    "symbol": "$Chrome"
+  },
+  {
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "chainId": 137,
     "decimals": 18,
