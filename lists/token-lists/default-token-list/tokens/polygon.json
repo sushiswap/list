@@ -1352,6 +1352,14 @@
     "symbol": "TORN"
   },
   {
+    "address": "0x281E38a1fc3E581Fce8E01332c34A06E6F6E3436",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x281E38a1fc3E581Fce8E01332c34A06E6F6E3436.jpg",
+    "name": "ThePolygonPegasusCoin",
+    "symbol": "TPPC"
+  },
+  {
     "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
     "chainId": 137,
     "decimals": 18,
