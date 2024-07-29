@@ -1600,6 +1600,14 @@
     "symbol": "ibETHv2"
   },
   {
+    "address": "0xd9D6979854579EBd5Aa9399C1450d378b9Ad775B",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xd9D6979854579EBd5Aa9399C1450d378b9Ad775B.jpg",
+    "name": "InnBook",
+    "symbol": "IBT"
+  },
+  {
     "address": "0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B",
     "chainId": 1,
     "decimals": 18,
