@@ -1752,6 +1752,14 @@
     "symbol": "jim"
   },
   {
+    "address": "0x5c3e599b9C76090e3584E41A8323998F4108CFa2",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x5c3e599b9C76090e3584E41A8323998F4108CFa2.jpg",
+    "name": "JerryJet",
+    "symbol": "JJMC"
+  },
+  {
     "address": "0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3",
     "chainId": 1,
     "decimals": 18,
