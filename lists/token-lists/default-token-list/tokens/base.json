@@ -80,6 +80,14 @@
     "symbol": "BOGE"
   },
   {
+    "address": "0xB310C7D7428B95aD1B86ba4191704576150429B6",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xB310C7D7428B95aD1B86ba4191704576150429B6.jpg",
+    "name": "BasedBomb",
+    "symbol": "BOMB"
+  },
+  {
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
