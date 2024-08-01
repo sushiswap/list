@@ -464,6 +464,14 @@
     "symbol": "TOWER"
   },
   {
+    "address": "0x4073de1f5f60f92C8d014251e1A6396589c10C09",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x4073de1f5f60f92C8d014251e1A6396589c10C09.jpg",
+    "name": "Tuna Driver",
+    "symbol": "TUNA"
+  },
+  {
     "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
     "chainId": 8453,
     "decimals": 18,
