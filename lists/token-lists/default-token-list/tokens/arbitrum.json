@@ -904,6 +904,14 @@
     "symbol": "SNSY"
   },
   {
+    "address": "0x346c574C56e1A4aAa8dc88Cda8F7EB12b39947aB",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x346c574C56e1A4aAa8dc88Cda8F7EB12b39947aB.jpg",
+    "name": "SolvBTC Babylon",
+    "symbol": "SolvBTC.BBN"
+  },
+  {
     "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
     "chainId": 42161,
     "decimals": 18,
