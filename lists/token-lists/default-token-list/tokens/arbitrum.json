@@ -680,6 +680,14 @@
     "symbol": "OLE"
   },
   {
+    "address": "0x8Da5e4F33AdDC8cEac8d8D4c4d76c4D63ebf2b74",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8Da5e4F33AdDC8cEac8d8D4c4d76c4D63ebf2b74.jpg",
+    "name": "OLYM3 Blockchain",
+    "symbol": "OLYM"
+  },
+  {
     "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
     "chainId": 42161,
     "decimals": 18,
