@@ -128,6 +128,14 @@
     "symbol": "bROOBEE"
   },
   {
+    "address": "0xCd7f597b7B2136ff24A4481B0B4DF2F6A0B1Ecc3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xCd7f597b7B2136ff24A4481B0B4DF2F6A0B1Ecc3.jpg",
+    "name": "BeaR Token",
+    "symbol": "BRT"
+  },
+  {
     "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
     "chainId": 56,
     "decimals": 18,
