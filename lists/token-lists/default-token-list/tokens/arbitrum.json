@@ -912,6 +912,14 @@
     "symbol": "SolvBTC.BBN"
   },
   {
+    "address": "0xaFAfd68AFe3fe65d376eEC9Eab1802616cFacCb8",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xaFAfd68AFe3fe65d376eEC9Eab1802616cFacCb8.jpg",
+    "name": "SolvBTC Ethena",
+    "symbol": "SolvBTC.ENA"
+  },
+  {
     "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
     "chainId": 42161,
     "decimals": 18,
