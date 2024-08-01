@@ -2256,6 +2256,14 @@
     "symbol": "NEAR"
   },
   {
+    "address": "0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637.jpg",
+    "name": "Neiro",
+    "symbol": "NEIRO"
+  },
+  {
     "address": "0x98585dFc8d9e7D48F0b1aE47ce33332CF4237D96",
     "chainId": 1,
     "decimals": 18,
