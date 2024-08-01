@@ -904,6 +904,14 @@
     "symbol": "SNSY"
   },
   {
+    "address": "0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0.jpg",
+    "name": "Solv BTC",
+    "symbol": "SolvBTC"
+  },
+  {
     "address": "0x346c574C56e1A4aAa8dc88Cda8F7EB12b39947aB",
     "chainId": 42161,
     "decimals": 18,
