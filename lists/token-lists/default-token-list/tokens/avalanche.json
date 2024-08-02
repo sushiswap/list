@@ -240,6 +240,14 @@
     "symbol": "NSFW"
   },
   {
+    "address": "0x80B4eBfb0BbFF93E769c8f66c17767d59eB456e8",
+    "chainId": 43114,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x80B4eBfb0BbFF93E769c8f66c17767d59eB456e8.jpg",
+    "name": "NUSHITS",
+    "symbol": "NUSHITS"
+  },
+  {
     "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
     "chainId": 43114,
     "decimals": 18,
