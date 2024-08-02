@@ -440,6 +440,14 @@
     "symbol": "DUCKIES"
   },
   {
+    "address": "0xcf8bf1248B73E8517917973c685d280FFCC175A3",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xcf8bf1248B73E8517917973c685d280FFCC175A3.jpg",
+    "name": "dushcoin",
+    "symbol": "dush"
+  },
+  {
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "chainId": 137,
     "decimals": 18,
