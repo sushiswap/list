@@ -336,6 +336,14 @@
     "symbol": "BACON"
   },
   {
+    "address": "0x32b86b99441480a7E5BD3A26c124ec2373e3F015",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x32b86b99441480a7E5BD3A26c124ec2373e3F015.jpg",
+    "name": "BAD IDEA AI",
+    "symbol": "BAD"
+  },
+  {
     "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
     "chainId": 1,
     "decimals": 18,
