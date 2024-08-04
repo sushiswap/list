@@ -1096,6 +1096,14 @@
     "symbol": "POP"
   },
   {
+    "address": "0x321c144241c8068AFBcfACeBF94B72e8006f1685",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x321c144241c8068AFBcfACeBF94B72e8006f1685.jpg",
+    "name": "PRINCE COIN",
+    "symbol": "PRI"
+  },
+  {
     "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
     "chainId": 137,
     "decimals": 18,
