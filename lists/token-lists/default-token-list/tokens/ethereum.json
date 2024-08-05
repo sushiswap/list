@@ -3755,7 +3755,7 @@
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   },
