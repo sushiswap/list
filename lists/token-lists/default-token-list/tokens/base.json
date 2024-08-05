@@ -512,6 +512,14 @@
     "symbol": "WETH"
   },
   {
+    "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb.jpg",
+    "name": "Wrapped PAW",
+    "symbol": "wPAW"
+  },
+  {
     "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
     "chainId": 8453,
     "decimals": 18,
