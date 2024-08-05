@@ -3848,6 +3848,14 @@
     "symbol": "WOW"
   },
   {
+    "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb.jpg",
+    "name": "Wrapped PAW",
+    "symbol": "wPAW"
+  },
+  {
     "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
     "chainId": 1,
     "decimals": 6,
