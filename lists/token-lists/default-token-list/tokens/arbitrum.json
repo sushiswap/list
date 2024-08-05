@@ -1128,6 +1128,14 @@
     "symbol": "WOO"
   },
   {
+    "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb.jpg",
+    "name": "Wrapped PAW",
+    "symbol": "wPAW"
+  },
+  {
     "address": "0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B",
     "chainId": 42161,
     "decimals": 18,
