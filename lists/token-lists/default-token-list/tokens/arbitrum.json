@@ -168,6 +168,14 @@
     "symbol": "CELR"
   },
   {
+    "address": "0xf6c372F81CF07537bD41B5A7B17a3c87F98E57D7",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf6c372F81CF07537bD41B5A7B17a3c87F98E57D7.jpg",
+    "name": "Cerebrum",
+    "symbol": "CERE"
+  },
+  {
     "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
     "chainId": 42161,
     "decimals": 18,
