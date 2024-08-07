@@ -760,6 +760,14 @@
     "symbol": "KRILL"
   },
   {
+    "address": "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xC03E6ad83dE7C58c9166fF08D66B960d78e64105.jpg",
+    "name": "Landshare Token",
+    "symbol": "LAND"
+  },
+  {
     "address": "0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64",
     "chainId": 137,
     "decimals": 18,
