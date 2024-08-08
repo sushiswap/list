@@ -280,6 +280,14 @@
     "symbol": "DXD"
   },
   {
+    "address": "0xb9E7C3c1B0022b567e792b290e74665a54d2419b",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xb9E7C3c1B0022b567e792b290e74665a54d2419b.jpg",
+    "name": "Ebragonys",
+    "symbol": "EBRA"
+  },
+  {
     "address": "0x123389C2f0e9194d9bA98c21E63c375B67614108",
     "chainId": 42161,
     "decimals": 18,
