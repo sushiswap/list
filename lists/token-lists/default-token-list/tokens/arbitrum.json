@@ -1008,6 +1008,14 @@
     "symbol": "TAP"
   },
   {
+    "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40.jpg",
+    "name": "Arbitrum tBTC v2",
+    "symbol": "tBTC"
+  },
+  {
     "address": "0xA72159FC390f0E3C6D415e658264c7c4051E9b87",
     "chainId": 42161,
     "decimals": 18,
