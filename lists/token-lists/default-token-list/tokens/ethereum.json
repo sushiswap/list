@@ -2216,6 +2216,14 @@
     "symbol": "MVIXY"
   },
   {
+    "address": "0xE73d53e3a982ab2750A0b76F9012e18B256Cc243",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xE73d53e3a982ab2750A0b76F9012e18B256Cc243.jpg",
+    "name": "N",
+    "symbol": "N"
+  },
+  {
     "address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
     "chainId": 1,
     "decimals": 18,
