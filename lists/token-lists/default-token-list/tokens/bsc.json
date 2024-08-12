@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xeF3F5C1892A8d7A3304E4A15959E124402d69974",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xeF3F5C1892A8d7A3304E4A15959E124402d69974.jpg",
+    "name": "NeoNoble Token",
+    "symbol": "$NENO"
+  },
+  {
     "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "chainId": 56,
     "decimals": 18,
