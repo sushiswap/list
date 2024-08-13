@@ -6,7 +6,7 @@ import * as cloudinary from "cloudinary";
 
 const BASE_DIR = "https://cdn.sushi.com/image/upload";
 
-const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 8453 | 1116 | 11235 | 59144 | 324 | 534352 | 314 | 7000 | 81457 | 2046399126 | 30> = {
+const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 8453 | 1116 | 11235 | 59144 | 324 | 534352 | 314 | 7000 | 81457 | 2046399126 | 30 | 25> = {
   arbitrum: ChainId.ARBITRUM,
   "arbitrum-nova": ChainId.ARBITRUM_NOVA,
   avalanche: ChainId.AVALANCHE,
@@ -46,6 +46,7 @@ const NETWORK_TO_CHAIN_ID: Record<string, ChainId | 8453 | 1116 | 11235 | 59144 
   blast: 81457, // ChainId.BLAST
   "skale-europa": 2046399126, // ChainId.SKALE_EUROPA
   rootstock: 30, // ChainId.ROOTSTOCK
+  cronos: 25 // ChainId.CRONOS
 };
 
 syncCDN();
