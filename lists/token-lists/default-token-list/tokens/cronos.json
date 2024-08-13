@@ -1528,14 +1528,6 @@
        "symbol": "CROB"
    },
    {
-       "address": "0x0CEfcd5f75907B38c308B06B70D392fF19123094",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0CEfcd5f75907B38c308B06B70D392fF19123094.jpg",
-       "name": "TektonikVevesMeentedFarruVeenuFukremEbeesoosArhgooCorgiAI",
-       "symbol": "SONORC"
-   },
-   {
        "address": "0x9Ea69FD44a7BD7265d5B19AE8cb2E19F80DA059c",
        "chainId": 25,
        "decimals": 18,
