@@ -1,1698 +1,1706 @@
 [
-   {
-       "address": "0x679f6863a653251C8C215e77205A7058b5bF676a",
-       "chainId": 25,
-       "decimals": 9,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x679f6863a653251C8C215e77205A7058b5bF676a.jpg",
-       "name": "TrollCoin",
-       "symbol": "TROLL"
-   },
-   {
-       "address": "0x26E11c74793977E4d719e449aa08b0D65cb45C9C",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x26E11c74793977E4d719e449aa08b0D65cb45C9C.jpg",
-       "name": "LetsCRO",
-       "symbol": "LFC"
-   },
-   {
-       "address": "0x1eBFD0d52Aa04350f512aBcFd45ffb0bb86F0cc2",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1eBFD0d52Aa04350f512aBcFd45ffb0bb86F0cc2.jpg",
-       "name": "STARDUST",
-       "symbol": "STARDUST"
-   },
-   {
-       "address": "0xD50f5739A09f36C6f97cC9a4849C5462Ba6129A3",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD50f5739A09f36C6f97cC9a4849C5462Ba6129A3.jpg",
-       "name": "Croginal Cats",
-       "symbol": "Croginal"
-   },
-   {
-       "address": "0x181cC996Eea445212e61bD45FF742b88c3907287",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x181cC996Eea445212e61bD45FF742b88c3907287.jpg",
-       "name": "Krees Coin",
-       "symbol": "KREES"
-   },
-   {
-       "address": "0xD42E078ceA2bE8D03cd9dFEcC1f0d28915Edea78",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD42E078ceA2bE8D03cd9dFEcC1f0d28915Edea78.jpg",
-       "name": "USC Stablecoin",
-       "symbol": "USC"
-   },
-   {
-       "address": "0xcD303c638812291f9df0C18a2f32F2F0ec8fdb60",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcD303c638812291f9df0C18a2f32F2F0ec8fdb60.jpg",
-       "name": "ChiToken",
-       "symbol": "CHI"
-   },
-   {
-       "address": "0x288898a6057d2D4989c533E96Cb3bc30843c91D7",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x288898a6057d2D4989c533E96Cb3bc30843c91D7.jpg",
-       "name": "Puush da Button",
-       "symbol": "PUUSH"
-   },
-   {
-       "address": "0x34aceA6Cc02578aF041a5E976b7289ca23cCB7A8",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x34aceA6Cc02578aF041a5E976b7289ca23cCB7A8.jpg",
-       "name": "RIP",
-       "symbol": "RIP"
-   },
-   {
-       "address": "0x59e60d641677cEcAE77868176F314F42572F5284",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x59e60d641677cEcAE77868176F314F42572F5284.jpg",
-       "name": "$NUTS",
-       "symbol": "NUTS"
-   },
-   {
-       "address": "0xF307A39752Da29B1C1E45C2c1476976EAB272686",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xF307A39752Da29B1C1E45C2c1476976EAB272686.jpg",
-       "name": "STONKS",
-       "symbol": "STONKS"
-   },
-   {
-       "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a.jpg",
-       "name": "ETH Token",
-       "symbol": "ETH"
-   },
-   {
-       "address": "0xcCcCcCcCdbEC186DC426F8B5628AF94737dF0E60",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcCcCcCcCdbEC186DC426F8B5628AF94737dF0E60.jpg",
-       "name": "crow with knife",
-       "symbol": "CAW"
-   },
-   {
-       "address": "0x15C65aD983F4E5814595953808C8616f867d061c",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x15C65aD983F4E5814595953808C8616f867d061c.jpg",
-       "name": "Ellipsis",
-       "symbol": "EPX"
-   },
-   {
-       "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23.jpg",
-       "name": "WCRO Token",
-       "symbol": "WCRO"
-   },
-   {
-       "address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03.jpg",
-       "name": "VVS Token",
-       "symbol": "VVS"
-   },
-   {
-       "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59.jpg",
-       "name": "USDC Token",
-       "symbol": "USDC"
-   },
-   {
-       "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x062E66477Faf219F25D27dCED647BF57C3107d52.jpg",
-       "name": "WBTC Token",
-       "symbol": "WBTC"
-   },
-   {
-       "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770.jpg",
-       "name": "Tether USD",
-       "symbol": "USDT"
-   },
-   {
-       "address": "0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee.jpg",
-       "name": "Shiba Inu",
-       "symbol": "SHIB"
-   },
-   {
-       "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D.jpg",
-       "name": "Dai Stablecoin",
-       "symbol": "DAI"
-   },
-   {
-       "address": "0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396.jpg",
-       "name": "Dogecoin",
-       "symbol": "DOGE"
-   },
-   {
-       "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93.jpg",
-       "name": "ATOM",
-       "symbol": "ATOM"
-   },
-   {
-       "address": "0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2.jpg",
-       "name": "TONIC",
-       "symbol": "TONIC"
-   },
-   {
-       "address": "0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9.jpg",
-       "name": "LINK",
-       "symbol": "LINK"
-   },
-   {
-       "address": "0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7.jpg",
-       "name": "ENJ",
-       "symbol": "ENJ"
-   },
-   {
-       "address": "0x02DCcaf514C98451320a9365C5b46C61d3246ff3",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x02DCcaf514C98451320a9365C5b46C61d3246ff3.jpg",
-       "name": "Dogelon Mars",
-       "symbol": "ELON"
-   },
-   {
-       "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347.jpg",
-       "name": "SINGLE Token",
-       "symbol": "SINGLE"
-   },
-   {
-       "address": "0x994047FE66406CbD646cd85B990E11D7F5dB8fC7",
-       "chainId": 25,
-       "decimals": 10,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x994047FE66406CbD646cd85B990E11D7F5dB8fC7.jpg",
-       "name": "DOT",
-       "symbol": "DOT"
-   },
-   {
-       "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0.jpg",
-       "name": "ADA",
-       "symbol": "ADA"
-   },
-   {
-       "address": "0xa58e3AeAeA3292c3E260378e55E9684C59E7A27a",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xa58e3AeAeA3292c3E260378e55E9684C59E7A27a.jpg",
-       "name": "DappRadar",
-       "symbol": "RADAR"
-   },
-   {
-       "address": "0x98616a1427a1734DaEbA1E1894db48051244A065",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x98616a1427a1734DaEbA1E1894db48051244A065.jpg",
-       "name": "DeRace Token",
-       "symbol": "DERC"
-   },
-   {
-       "address": "0x49c3bBB239f4FB44327073510f4bA72D207a81D6",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x49c3bBB239f4FB44327073510f4bA72D207a81D6.jpg",
-       "name": "Pendle",
-       "symbol": "PENDLE"
-   },
-   {
-       "address": "0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e.jpg",
-       "name": "TrueUSD",
-       "symbol": "TUSD"
-   },
-   {
-       "address": "0x747d6C858168B8cD6e537160320b5dE58FD3367C",
-       "chainId": 25,
-       "decimals": 7,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x747d6C858168B8cD6e537160320b5dE58FD3367C.jpg",
-       "name": "XLM",
-       "symbol": "XLM"
-   },
-   {
-       "address": "0xA37caA841072a305a0799718aFA16cd504C52118",
-       "chainId": 25,
-       "decimals": 4,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA37caA841072a305a0799718aFA16cd504C52118.jpg",
-       "name": "EOS",
-       "symbol": "EOS"
-   },
-   {
-       "address": "0x70BB395F1A824D9a3F9D510C25e699cEaf603dEc",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x70BB395F1A824D9a3F9D510C25e699cEaf603dEc.jpg",
-       "name": "Qredo Token",
-       "symbol": "QRDO"
-   },
-   {
-       "address": "0x9C62F89a8C9907582f21205Ce90443730361EA05",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9C62F89a8C9907582f21205Ce90443730361EA05.jpg",
-       "name": "ApeCoin",
-       "symbol": "APE"
-   },
-   {
-       "address": "0x45C135C1CDCE8d25A3B729A28659561385C52671",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x45C135C1CDCE8d25A3B729A28659561385C52671.jpg",
-       "name": "Alethea AI",
-       "symbol": "ALI"
-   },
-   {
-       "address": "0xf78a326ACd53651F8dF5D8b137295e434B7c8ba5",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf78a326ACd53651F8dF5D8b137295e434B7c8ba5.jpg",
-       "name": "MATIC",
-       "symbol": "MATIC"
-   },
-   {
-       "address": "0xA29EB0318F522ca98FdB5cEdc0c7549526625517",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA29EB0318F522ca98FdB5cEdc0c7549526625517.jpg",
-       "name": "V3S-Peg Tectonic",
-       "symbol": "V3TONIC"
-   },
-   {
-       "address": "0xdB04627376661D678Cf6efFBad509D631B0050ae",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdB04627376661D678Cf6efFBad509D631B0050ae.jpg",
-       "name": "V3S-Peg CRO",
-       "symbol": "V3CRO"
-   },
-   {
-       "address": "0xD9EF024bb157C2B897a95007a1b73543712f3b48",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD9EF024bb157C2B897a95007a1b73543712f3b48.jpg",
-       "name": "V3S-Peg Darkness Dollar",
-       "symbol": "V3DUSD"
-   },
-   {
-       "address": "0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD.jpg",
-       "name": "VSHARE",
-       "symbol": "VSHARE"
-   },
-   {
-       "address": "0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427.jpg",
-       "name": "V3SToken",
-       "symbol": "V3S"
-   },
-   {
-       "address": "0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a.jpg",
-       "name": "Darkness Dollar",
-       "symbol": "DUSD"
-   },
-   {
-       "address": "0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8.jpg",
-       "name": "Darkness Share",
-       "symbol": "NESS"
-   },
-   {
-       "address": "0x39a65A74Dc5A778Ff93d1765Ea51F57BC49c81B3",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x39a65A74Dc5A778Ff93d1765Ea51F57BC49c81B3.jpg",
-       "name": "AKT",
-       "symbol": "AKT"
-   },
-   {
-       "address": "0x63888BaFc5975630E4E5CF50c3845a3250115F64",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x63888BaFc5975630E4E5CF50c3845a3250115F64.jpg",
-       "name": "Fantom Token",
-       "symbol": "FTM"
-   },
-   {
-       "address": "0x00D7699b71290094CcB1a5884cD835bD65a78c17",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x00D7699b71290094CcB1a5884cD835bD65a78c17.jpg",
-       "name": "VersaGames",
-       "symbol": "VERSA"
-   },
-   {
-       "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5.jpg",
-       "name": "DarkCrypto",
-       "symbol": "DARK"
-   },
-   {
-       "address": "0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c.jpg",
-       "name": "DarkCrypto Share",
-       "symbol": "SKY"
-   },
-   {
-       "address": "0xfEf44a0C77eca218F443382d3128a7A251a8C542",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xfEf44a0C77eca218F443382d3128a7A251a8C542.jpg",
-       "name": "Curve DAO Token",
-       "symbol": "CRV"
-   },
-   {
-       "address": "0x46EfE38eC0558C48352e2eBc85AF3bd2E87Fb2A1",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x46EfE38eC0558C48352e2eBc85AF3bd2E87Fb2A1.jpg",
-       "name": "My Neighbor Alice",
-       "symbol": "ALICE"
-   },
-   {
-       "address": "0x7A887D4f8a3221e1aaFA2f4435b774D51429A3e1",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7A887D4f8a3221e1aaFA2f4435b774D51429A3e1.jpg",
-       "name": "GALA",
-       "symbol": "GALA"
-   },
-   {
-       "address": "0x9d97Be214b68C7051215BB61059B4e299Cd792c3",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9d97Be214b68C7051215BB61059B4e299Cd792c3.jpg",
-       "name": "Litecoin",
-       "symbol": "LTC"
-   },
-   {
-       "address": "0x8Bf3E654075E269c1C415e4889C12D9837452be0",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8Bf3E654075E269c1C415e4889C12D9837452be0.jpg",
-       "name": "Internet Computer",
-       "symbol": "ICP"
-   },
-   {
-       "address": "0x9097eA65B55dfC7383A7EFB465e8fFC18D46e784",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9097eA65B55dfC7383A7EFB465e8fFC18D46e784.jpg",
-       "name": "The Sandbox",
-       "symbol": "SAND"
-   },
-   {
-       "address": "0x7589B70aBb83427bb7049e08ee9fC6479ccB7a23",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7589B70aBb83427bb7049e08ee9fC6479ccB7a23.jpg",
-       "name": "Bitcoin Cash",
-       "symbol": "BCH"
-   },
-   {
-       "address": "0x2fEfe47989214c2e74A6319076c138d395681407",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2fEfe47989214c2e74A6319076c138d395681407.jpg",
-       "name": "Algorand",
-       "symbol": "ALGO"
-   },
-   {
-       "address": "0x6Ed8c99E5c6B2c551e012E4272d8f3d1DF23a71A",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x6Ed8c99E5c6B2c551e012E4272d8f3d1DF23a71A.jpg",
-       "name": "Decentraland",
-       "symbol": "MANA"
-   },
-   {
-       "address": "0xc00DcfBc7aC19B7210fa9c73b5F1d2E0f7E62711",
-       "chainId": 25,
-       "decimals": 0,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc00DcfBc7aC19B7210fa9c73b5F1d2E0f7E62711.jpg",
-       "name": "Smooth Love Potion",
-       "symbol": "SLP"
-   },
-   {
-       "address": "0x22EF9d73EA90E774CfB21fADDF84b37BD54FE7a6",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x22EF9d73EA90E774CfB21fADDF84b37BD54FE7a6.jpg",
-       "name": "Flow",
-       "symbol": "FLOW"
-   },
-   {
-       "address": "0x8f27dB0E597B67F33d5Fb58D5EEcD6A3CC780942",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8f27dB0E597B67F33d5Fb58D5EEcD6A3CC780942.jpg",
-       "name": "Immutable X",
-       "symbol": "IMX"
-   },
-   {
-       "address": "0x5a56509C61ad80680caF5b3B980E6C88319eeE33",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5a56509C61ad80680caF5b3B980E6C88319eeE33.jpg",
-       "name": "OMG Network",
-       "symbol": "OMG"
-   },
-   {
-       "address": "0xc70ed252E55d68A7020A754Fb92Fa5c68e3c199f",
-       "chainId": 25,
-       "decimals": 12,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc70ed252E55d68A7020A754Fb92Fa5c68e3c199f.jpg",
-       "name": "Zilliqa",
-       "symbol": "ZIL"
-   },
-   {
-       "address": "0xE27753e456AbA584f10aCEf0B4e367EF38f01e14",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xE27753e456AbA584f10aCEf0B4e367EF38f01e14.jpg",
-       "name": "Axie Infinity Shards",
-       "symbol": "AXS"
-   },
-   {
-       "address": "0x16aD43896f7C47a5d9Ee546c44A22205738B329c",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x16aD43896f7C47a5d9Ee546c44A22205738B329c.jpg",
-       "name": "Uniswap",
-       "symbol": "UNI"
-   },
-   {
-       "address": "0xc9DE0F3e08162312528FF72559db82590b481800",
-       "chainId": 25,
-       "decimals": 9,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc9DE0F3e08162312528FF72559db82590b481800.jpg",
-       "name": "Solana",
-       "symbol": "SOL"
-   },
-   {
-       "address": "0x8d58088D4E8Ffe75A8b6357ba5ff17B93B912640",
-       "chainId": 25,
-       "decimals": 9,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8d58088D4E8Ffe75A8b6357ba5ff17B93B912640.jpg",
-       "name": "Avalanche",
-       "symbol": "AVAX"
-   },
-   {
-       "address": "0x61426C150207AbF8a215f3377a0819dDcA842aF3",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x61426C150207AbF8a215f3377a0819dDcA842aF3.jpg",
-       "name": "Helium",
-       "symbol": "HNT"
-   },
-   {
-       "address": "0xd73EBf885C4157D3E88c6D87ad3b8018B4a32fEF",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd73EBf885C4157D3E88c6D87ad3b8018B4a32fEF.jpg",
-       "name": "Kyber Network Crystal",
-       "symbol": "KNC"
-   },
-   {
-       "address": "0xE657b115bc45c0786274c824f83e3e02CE809185",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xE657b115bc45c0786274c824f83e3e02CE809185.jpg",
-       "name": "Aave",
-       "symbol": "AAVE"
-   },
-   {
-       "address": "0xAF760dE3201fEeD80FEeA59FB16A8360C8c4d1a2",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xAF760dE3201fEeD80FEeA59FB16A8360C8c4d1a2.jpg",
-       "name": "Loopring",
-       "symbol": "LRC"
-   },
-   {
-       "address": "0x9D5a7d02D51Dc523197e62c2865907dbB53642Af",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9D5a7d02D51Dc523197e62c2865907dbB53642Af.jpg",
-       "name": "Tezos",
-       "symbol": "XTZ"
-   },
-   {
-       "address": "0x5893915Fe3d15e4004F7232c80036bFa92aCa564",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5893915Fe3d15e4004F7232c80036bFa92aCa564.jpg",
-       "name": "Mines of Dalarnia",
-       "symbol": "DAR"
-   },
-   {
-       "address": "0x4c523222Cd0DE11616F7aD685f24145B9FaF7996",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4c523222Cd0DE11616F7aD685f24145B9FaF7996.jpg",
-       "name": "The Graph",
-       "symbol": "GRT"
-   },
-   {
-       "address": "0x4E4F362170bFb88D3c9378FF7818d93fC2fbd257",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4E4F362170bFb88D3c9378FF7818d93fC2fbd257.jpg",
-       "name": "Chiliz",
-       "symbol": "CHZ"
-   },
-   {
-       "address": "0x171C8AAA57D0107d0187f54Ccf4CC03406E76a4E",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x171C8AAA57D0107d0187f54Ccf4CC03406E76a4E.jpg",
-       "name": "THORChain",
-       "symbol": "RUNE"
-   },
-   {
-       "address": "0x0BD48A8A9565385649D9d7f1c945D1d0C4543E26",
-       "chainId": 25,
-       "decimals": 12,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0BD48A8A9565385649D9d7f1c945D1d0C4543E26.jpg",
-       "name": "Kusama",
-       "symbol": "KSM"
-   },
-   {
-       "address": "0x4E05F3C7ee6155e3add224470E1c4583D4F424A3",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4E05F3C7ee6155e3add224470E1c4583D4F424A3.jpg",
-       "name": "Injective",
-       "symbol": "INJ"
-   },
-   {
-       "address": "0x47A9D630dc5b28F75d3AF3be3AAa982512Cd89Aa",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x47A9D630dc5b28F75d3AF3be3AAa982512Cd89Aa.jpg",
-       "name": "Argo Protocol",
-       "symbol": "ARGO"
-   },
-   {
-       "address": "0xB3fc0777738168ce33B228F1831EEbD5A81aaDB3",
-       "chainId": 25,
-       "decimals": 0,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB3fc0777738168ce33B228F1831EEbD5A81aaDB3.jpg",
-       "name": "Neo",
-       "symbol": "NEO"
-   },
-   {
-       "address": "0x7bDF81a86f4AA8B442Ca05670Cbf296BB22Bc7bB",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7bDF81a86f4AA8B442Ca05670Cbf296BB22Bc7bB.jpg",
-       "name": "yearn.finance",
-       "symbol": "YFI"
-   },
-   {
-       "address": "0xdb3de0AAC8A39490932FA19c2e32F179368Ab840",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdb3de0AAC8A39490932FA19c2e32F179368Ab840.jpg",
-       "name": "SushiSwap",
-       "symbol": "SUSHI"
-   },
-   {
-       "address": "0x7d54F4E05f273a9317f723997612Ed64eF53C900",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7d54F4E05f273a9317f723997612Ed64eF53C900.jpg",
-       "name": "Quant",
-       "symbol": "QNT"
-   },
-   {
-       "address": "0xab9Cf8C5A9B6Cf5215c82D088D37d04bB146704A",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xab9Cf8C5A9B6Cf5215c82D088D37d04bB146704A.jpg",
-       "name": "Maker",
-       "symbol": "MKR"
-   },
-   {
-       "address": "0xc4010CfB5172D82A348bcBC8cD543733c1e9BF89",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc4010CfB5172D82A348bcBC8cD543733c1e9BF89.jpg",
-       "name": "Holo",
-       "symbol": "HOT"
-   },
-   {
-       "address": "0xfA0235feF8644C107f7e531Fa9CFe0613Fbe8909",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xfA0235feF8644C107f7e531Fa9CFe0613Fbe8909.jpg",
-       "name": "Celer Network",
-       "symbol": "CELR"
-   },
-   {
-       "address": "0x2b4eE166a125E01Aba019885932C944cEfED2932",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2b4eE166a125E01Aba019885932C944cEfED2932.jpg",
-       "name": "Ren",
-       "symbol": "REN"
-   },
-   {
-       "address": "0x32529346958711B3beF92B96507C14821e50C9c8",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x32529346958711B3beF92B96507C14821e50C9c8.jpg",
-       "name": "Qtum",
-       "symbol": "QTUM"
-   },
-   {
-       "address": "0x2F712E0a6f92e3f865EaEb86f07BAFc67974d26c",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2F712E0a6f92e3f865EaEb86f07BAFc67974d26c.jpg",
-       "name": "Basic Attention Token",
-       "symbol": "BAT"
-   },
-   {
-       "address": "0xB858e614779f148992949A3b15E6127dDA204ca4",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB858e614779f148992949A3b15E6127dDA204ca4.jpg",
-       "name": "Serum",
-       "symbol": "SRM"
-   },
-   {
-       "address": "0x4442C740cc5B47F032983106E66E3C9dC945676C",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4442C740cc5B47F032983106E66E3C9dC945676C.jpg",
-       "name": "dYdX",
-       "symbol": "DYDX"
-   },
-   {
-       "address": "0x33564807CC70c6422124d867B344D7b90bF21A76",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x33564807CC70c6422124d867B344D7b90bF21A76.jpg",
-       "name": "UMA",
-       "symbol": "UMA"
-   },
-   {
-       "address": "0xcdee9300A1527E0000b054320D371A9C8c4a8AF6",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcdee9300A1527E0000b054320D371A9C8c4a8AF6.jpg",
-       "name": "Chromia",
-       "symbol": "CHR"
-   },
-   {
-       "address": "0x47E16f9EE811d3651D979941325c545Da6385daF",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x47E16f9EE811d3651D979941325c545Da6385daF.jpg",
-       "name": "Efinity Token",
-       "symbol": "EFI"
-   },
-   {
-       "address": "0xA0913e0D7A85954e89452e7Ccb8d1235db74C330",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA0913e0D7A85954e89452e7Ccb8d1235db74C330.jpg",
-       "name": "Ethereum Name Service",
-       "symbol": "ENS"
-   },
-   {
-       "address": "0x044597363b0054986aE4289d25CD7D0D451766Fc",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x044597363b0054986aE4289d25CD7D0D451766Fc.jpg",
-       "name": "PlayDapp Token",
-       "symbol": "PLA"
-   },
-   {
-       "address": "0x30BBA7b57952E7028c47d5c6AB295D0Da7139eF9",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x30BBA7b57952E7028c47d5c6AB295D0Da7139eF9.jpg",
-       "name": "Stacks",
-       "symbol": "STX"
-   },
-   {
-       "address": "0xEea900FE18F77593C7D7C105fBa9bd714164AC95",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xEea900FE18F77593C7D7C105fBa9bd714164AC95.jpg",
-       "name": "1INCH Token",
-       "symbol": "1INCH"
-   },
-   {
-       "address": "0x227EdF65f866255A0ED4B5b453fe43A41182EC3A",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x227EdF65f866255A0ED4B5b453fe43A41182EC3A.jpg",
-       "name": "JasmyCoin",
-       "symbol": "JASMY"
-   },
-   {
-       "address": "0xEaEA1a708DaB6f732E35F06588293204318ac48F",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xEaEA1a708DaB6f732E35F06588293204318ac48F.jpg",
-       "name": "Render Token",
-       "symbol": "RNDR"
-   },
-   {
-       "address": "0x4Fb1af9D09DB3fbbda96071EaE0aeae6E871F9AC",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4Fb1af9D09DB3fbbda96071EaE0aeae6E871F9AC.jpg",
-       "name": "Compound",
-       "symbol": "COMP"
-   },
-   {
-       "address": "0x1FE0f470736548794b47AFe5613d3A309d964d3c",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1FE0f470736548794b47AFe5613d3A309d964d3c.jpg",
-       "name": "Ankr Network",
-       "symbol": "ANKR"
-   },
-   {
-       "address": "0x9Aa8F72dd2C06EAff0113bD0380255E1fbDAeaC4",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9Aa8F72dd2C06EAff0113bD0380255E1fbDAeaC4.jpg",
-       "name": "Synthetix Network Token",
-       "symbol": "SNX"
-   },
-   {
-       "address": "0xD3BB5C6961157eB4eb03658Dc5D4144808828168",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD3BB5C6961157eB4eb03658Dc5D4144808828168.jpg",
-       "name": "Adventure Gold",
-       "symbol": "AGLD"
-   },
-   {
-       "address": "0xB37e6457C17A370b2eAEb40849d20dcaEa5f7e92",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB37e6457C17A370b2eAEb40849d20dcaEa5f7e92.jpg",
-       "name": "Spell Token",
-       "symbol": "SPELL"
-   },
-   {
-       "address": "0x211153266F15F9314B214A7dd614d90f850a8D6a",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x211153266F15F9314B214A7dd614d90f850a8D6a.jpg",
-       "name": "XY Oracle",
-       "symbol": "XYO"
-   },
-   {
-       "address": "0xe0C7226a58f54db71eDc6289Ba2dc80349B41974",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xe0C7226a58f54db71eDc6289Ba2dc80349B41974.jpg",
-       "name": "Hedera",
-       "symbol": "HBAR"
-   },
-   {
-       "address": "0xB4f1D9A65816da7e112F11C9A2900b8C5beeD525",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB4f1D9A65816da7e112F11C9A2900b8C5beeD525.jpg",
-       "name": "Aurora",
-       "symbol": "AURORA"
-   },
-   {
-       "address": "0xC74D59A548ecf7fc1754bb7810D716E9Ac3e3AE5",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC74D59A548ecf7fc1754bb7810D716E9Ac3e3AE5.jpg",
-       "name": "Binance USD",
-       "symbol": "BUSD"
-   },
-   {
-       "address": "0xfF9620d9F80F80056cbE4Bb84403a9E9C5174213",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xfF9620d9F80F80056cbE4Bb84403a9E9C5174213.jpg",
-       "name": "Yield Guild Games Token",
-       "symbol": "YGG"
-   },
-   {
-       "address": "0x5dEED46f39c485bA03b61d83763d0f6357dc4737",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5dEED46f39c485bA03b61d83763d0f6357dc4737.jpg",
-       "name": "Nervos Network",
-       "symbol": "CKB"
-   },
-   {
-       "address": "0x753053956Bd46cFe000B0968d41f887149B19c41",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x753053956Bd46cFe000B0968d41f887149B19c41.jpg",
-       "name": "SingularityNET",
-       "symbol": "AGIX"
-   },
-   {
-       "address": "0xe6801928061CDbE32AC5AD0634427E140EFd05F9",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xe6801928061CDbE32AC5AD0634427E140EFd05F9.jpg",
-       "name": "Beefy.finance",
-       "symbol": "BIFI"
-   },
-   {
-       "address": "0x813EFfe620c71Bd1b522a8E6FA74C0e46C80DA2E",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x813EFfe620c71Bd1b522a8E6FA74C0e46C80DA2E.jpg",
-       "name": "Boson Protocol",
-       "symbol": "BOSON"
-   },
-   {
-       "address": "0x15a9e70f166BcaAA7bfF094d865cE5aAa73A2A58",
-       "chainId": 25,
-       "decimals": 9,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x15a9e70f166BcaAA7bfF094d865cE5aAa73A2A58.jpg",
-       "name": "Casper",
-       "symbol": "CSPR"
-   },
-   {
-       "address": "0xeB6B3AEdA7A2705fAC5e2350fA4D71a64b393b37",
-       "chainId": 25,
-       "decimals": 12,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xeB6B3AEdA7A2705fAC5e2350fA4D71a64b393b37.jpg",
-       "name": "Arweave",
-       "symbol": "AR"
-   },
-   {
-       "address": "0x78E9974A74d6c980De4E3F8039248320c5A2d714",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x78E9974A74d6c980De4E3F8039248320c5A2d714.jpg",
-       "name": "Origin Protocol",
-       "symbol": "OGN"
-   },
-   {
-       "address": "0x81749e7258f9e577f61f49ABeeB426b70F561b89",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x81749e7258f9e577f61f49ABeeB426b70F561b89.jpg",
-       "name": "PAX Gold",
-       "symbol": "PAXG"
-   },
-   {
-       "address": "0xA37b89C9fcdeE564b95d5cE6cE6D90Ad1038Ee92",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA37b89C9fcdeE564b95d5cE6cE6D90Ad1038Ee92.jpg",
-       "name": "Lido DAO Token",
-       "symbol": "LDO"
-   },
-   {
-       "address": "0x3Ff6184f97104323B5FD0d186F8B8bE91A91cE27",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x3Ff6184f97104323B5FD0d186F8B8bE91A91cE27.jpg",
-       "name": "WOO Network",
-       "symbol": "WOO"
-   },
-   {
-       "address": "0xC9B5b981E7FFd630f456614d75230022F46fD03d",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC9B5b981E7FFd630f456614d75230022F46fD03d.jpg",
-       "name": "VET",
-       "symbol": "VET"
-   },
-   {
-       "address": "0x68D43230470c67BeB61e00a6E8EC869F947365fD",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x68D43230470c67BeB61e00a6E8EC869F947365fD.jpg",
-       "name": "HOD",
-       "symbol": "HOD"
-   },
-   {
-       "address": "0xAFE470AE215e48c144c7158EAe3CcF0C451cb0CB",
-       "chainId": 25,
-       "decimals": 24,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xAFE470AE215e48c144c7158EAe3CcF0C451cb0CB.jpg",
-       "name": "NEAR",
-       "symbol": "NEAR"
-   },
-   {
-       "address": "0x268B344bF8bbCd9Dd4e4FA68264309B05F15820a",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x268B344bF8bbCd9Dd4e4FA68264309B05F15820a.jpg",
-       "name": "GLMR",
-       "symbol": "GLMR"
-   },
-   {
-       "address": "0x213E6fb02009c13692bAA23C63FdE8D623d22705",
-       "chainId": 25,
-       "decimals": 12,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x213E6fb02009c13692bAA23C63FdE8D623d22705.jpg",
-       "name": "ACA",
-       "symbol": "ACA"
-   },
-   {
-       "address": "0x1B554fda68bA95924E5bbD0BaF8e769F039e775B",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1B554fda68bA95924E5bbD0BaF8e769F039e775B.jpg",
-       "name": "SPS",
-       "symbol": "SPS"
-   },
-   {
-       "address": "0x5fdbFE38E050829374001630B8710BDd05Ea55C0",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5fdbFE38E050829374001630B8710BDd05Ea55C0.jpg",
-       "name": "VOXEL",
-       "symbol": "VOXEL"
-   },
-   {
-       "address": "0x62E622fa4E180C391f2E089FC1d5eA7AdCB96575",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x62E622fa4E180C391f2E089FC1d5eA7AdCB96575.jpg",
-       "name": "KRL",
-       "symbol": "KRL"
-   },
-   {
-       "address": "0x5c54Cc9A7abeD2dd102361c142417756Fb157292",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5c54Cc9A7abeD2dd102361c142417756Fb157292.jpg",
-       "name": "Elrond",
-       "symbol": "EGLD"
-   },
-   {
-       "address": "0x85608d6373FDCfc9fB1582187dC3A81C2942F3f2",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x85608d6373FDCfc9fB1582187dC3A81C2942F3f2.jpg",
-       "name": "Chucky",
-       "symbol": "CHUCKY"
-   },
-   {
-       "address": "0xf0F2cCf4F18a13F73F7C48FA248645dD4Ac51341",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf0F2cCf4F18a13F73F7C48FA248645dD4Ac51341.jpg",
-       "name": "Harmony",
-       "symbol": "ONE"
-   },
-   {
-       "address": "0x7d7130B0B4733D603Cea12628b52067ce8458058",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7d7130B0B4733D603Cea12628b52067ce8458058.jpg",
-       "name": "Filecoin",
-       "symbol": "FIL"
-   },
-   {
-       "address": "0x73B6FcF8Ed6daEfE3775bC38949F115305047C0d",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x73B6FcF8Ed6daEfE3775bC38949F115305047C0d.jpg",
-       "name": "Theta Network",
-       "symbol": "THETA"
-   },
-   {
-       "address": "0xf6726cEBd173CF30926B69087179E18489183422",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf6726cEBd173CF30926B69087179E18489183422.jpg",
-       "name": "ICON",
-       "symbol": "ICX"
-   },
-   {
-       "address": "0xcD7d4cB8a8B4810Fb740A42E344513d49e0AC11f",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcD7d4cB8a8B4810Fb740A42E344513d49e0AC11f.jpg",
-       "name": "Step App",
-       "symbol": "FITFI"
-   },
-   {
-       "address": "0xb9Ce0dd29C91E02d4620F57a66700Fc5e41d6D15",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xb9Ce0dd29C91E02d4620F57a66700Fc5e41d6D15.jpg",
-       "name": "XRP",
-       "symbol": "XRP"
-   },
-   {
-       "address": "0xeBAceB7F193955b946cC5dd8f8724a80671a1F2F",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xeBAceB7F193955b946cC5dd8f8724a80671a1F2F.jpg",
-       "name": "Bonded CRO",
-       "symbol": "bCRO"
-   },
-   {
-       "address": "0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9",
-       "chainId": 25,
-       "decimals": 9,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9.jpg",
-       "name": "Crogecoin",
-       "symbol": "CROGE"
-   },
-   {
-       "address": "0xd9ce64C200721a98103102f9ea8e894E347EA287",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd9ce64C200721a98103102f9ea8e894E347EA287.jpg",
-       "name": "Ethereum Classic",
-       "symbol": "ETC"
-   },
-   {
-       "address": "0xD1c530d427E0421Cc585B23644c8a7A261699e3b",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD1c530d427E0421Cc585B23644c8a7A261699e3b.jpg",
-       "name": "SuperRare",
-       "symbol": "RARE"
-   },
-   {
-       "address": "0x0FBe22186FC31CD4220f81Aea7480bC6cF4FC001",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0FBe22186FC31CD4220f81Aea7480bC6cF4FC001.jpg",
-       "name": "Merit Circle",
-       "symbol": "MC"
-   },
-   {
-       "address": "0x7e0497443D42Ae5CADcB69740FB80E02be7FDC1f",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7e0497443D42Ae5CADcB69740FB80E02be7FDC1f.jpg",
-       "name": "Status Network Token",
-       "symbol": "SNT"
-   },
-   {
-       "address": "0x13928f9d15698CFb6A29e648219D56606776a906",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x13928f9d15698CFb6A29e648219D56606776a906.jpg",
-       "name": "Project Galaxy",
-       "symbol": "GAL"
-   },
-   {
-       "address": "0x4168Ec9022C39d4d41513F26A7b0ca489d73549c",
-       "chainId": 25,
-       "decimals": 8,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4168Ec9022C39d4d41513F26A7b0ca489d73549c.jpg",
-       "name": "Alchemy",
-       "symbol": "ACH"
-   },
-   {
-       "address": "0x39bC1e38c842C60775Ce37566D03B41A7A66C782",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x39bC1e38c842C60775Ce37566D03B41A7A66C782.jpg",
-       "name": "Ferro Token",
-       "symbol": "FER"
-   },
-   {
-       "address": "0x28D292A914eDaeb6DAA13642231333bd157632B2",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x28D292A914eDaeb6DAA13642231333bd157632B2.jpg",
-       "name": "Panterra Opal",
-       "symbol": "OPL"
-   },
-   {
-       "address": "0x0224010BA2d567ffa014222eD960D1fa43B8C8E1",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0224010BA2d567ffa014222eD960D1fa43B8C8E1.jpg",
-       "name": "Minted Token",
-       "symbol": "MTD"
-   },
-   {
-       "address": "0x7ABa852082b6F763E13010CA33B5D9Ea4EeE2983",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7ABa852082b6F763E13010CA33B5D9Ea4EeE2983.jpg",
-       "name": "Fira",
-       "symbol": "FIRA"
-   },
-   {
-       "address": "0xCbF0ADeA24fd5f32c6e7f0474f0d1b94Ace4E2e7",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xCbF0ADeA24fd5f32c6e7f0474f0d1b94Ace4E2e7.jpg",
-       "name": "CronosID",
-       "symbol": "CROID"
-   },
-   {
-       "address": "0xdb7d0A1eC37dE1dE924F8e8adac6Ed338D4404E9",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdb7d0A1eC37dE1dE924F8e8adac6Ed338D4404E9.jpg",
-       "name": "Veno",
-       "symbol": "VNO"
-   },
-   {
-       "address": "0xae620DC4B9b6e44FBeb4a949F63AC957Cc43b5dD",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xae620DC4B9b6e44FBeb4a949F63AC957Cc43b5dD.jpg",
-       "name": "AutoSingle",
-       "symbol": "AUTOS"
-   },
-   {
-       "address": "0x83aFB1C32E5637ACd0a452D87c3249f4a9F0013A",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x83aFB1C32E5637ACd0a452D87c3249f4a9F0013A.jpg",
-       "name": "Fulcrom",
-       "symbol": "FUL"
-   },
-   {
-       "address": "0xAaE84acbfD07C8650dd9dAcC99C068aB420d0327",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xAaE84acbfD07C8650dd9dAcC99C068aB420d0327.jpg",
-       "name": "BONE",
-       "symbol": "BONE"
-   },
-   {
-       "address": "0x06780B8F6625721875e8a0f0397d9377BF1B1B71",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x06780B8F6625721875e8a0f0397d9377BF1B1B71.jpg",
-       "name": "ZED RUN",
-       "symbol": "ZED"
-   },
-   {
-       "address": "0x41080CA7Be4b3F0cACBD95164e9a56b582382cAA",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x41080CA7Be4b3F0cACBD95164e9a56b582382cAA.jpg",
-       "name": "Zogi",
-       "symbol": "ZOGI"
-   },
-   {
-       "address": "0xEb540106a1e006F6010fAe45Dc94ee5F4800D66d",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xEb540106a1e006F6010fAe45Dc94ee5F4800D66d.jpg",
-       "name": "Contentos",
-       "symbol": "COS"
-   },
-   {
-       "address": "0x06C04B0AD236e7Ca3B3189b1d049FE80109C7977",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x06C04B0AD236e7Ca3B3189b1d049FE80109C7977.jpg",
-       "name": "Bored Candy City",
-       "symbol": "CANDY"
-   },
-   {
-       "address": "0xBf2C2a77Be1974853228EFB858e7e0547bbd686D",
-       "chainId": 25,
-       "decimals": 9,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xBf2C2a77Be1974853228EFB858e7e0547bbd686D.jpg",
-       "name": "FLOKI",
-       "symbol": "FLOKI"
-   },
-   {
-       "address": "0x9Fae23A2700FEeCd5b93e43fDBc03c76AA7C08A6",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9Fae23A2700FEeCd5b93e43fDBc03c76AA7C08A6.jpg",
-       "name": "LCRO",
-       "symbol": "LCRO"
-   },
-   {
-       "address": "0x0DdB6540aFD29b14F7E02D1292BD675b5Ceea896",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0DdB6540aFD29b14F7E02D1292BD675b5Ceea896.jpg",
-       "name": "LimeWire",
-       "symbol": "LMWR"
-   },
-   {
-       "address": "0x0369302aaBbbe58443b3F17Fa0B0D05D5dC9cb4e",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0369302aaBbbe58443b3F17Fa0B0D05D5dC9cb4e.jpg",
-       "name": "TOMI",
-       "symbol": "TOMI"
-   },
-   {
-       "address": "0xf868c454784048AF4f857991583E34243c92Ff48",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf868c454784048AF4f857991583E34243c92Ff48.jpg",
-       "name": "PEPE",
-       "symbol": "PEPE"
-   },
-   {
-       "address": "0x8540384C996056F1902c9785D85260612eb9Dc29",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8540384C996056F1902c9785D85260612eb9Dc29.jpg",
-       "name": "Milady",
-       "symbol": "LADYS"
-   },
-   {
-       "address": "0xd27FC10235E41Ba8c70652Ed833460949Ed2B882",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd27FC10235E41Ba8c70652Ed833460949Ed2B882.jpg",
-       "name": "IRISnet",
-       "symbol": "IRIS"
-   },
-   {
-       "address": "0xaF02D78F39C0002D14b95A3bE272DA02379AfF21",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xaF02D78F39C0002D14b95A3bE272DA02379AfF21.jpg",
-       "name": "Fortune",
-       "symbol": "FRTN"
-   },
-   {
-       "address": "0x6b431B8a964BFcf28191b07c91189fF4403957D0",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x6b431B8a964BFcf28191b07c91189fF4403957D0.jpg",
-       "name": "CorgiAI",
-       "symbol": "CORGIAI"
-   },
-   {
-       "address": "0xBe2bd41D6b3fBe01eda6e1AddeD7a4b242e04528",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xBe2bd41D6b3fBe01eda6e1AddeD7a4b242e04528.jpg",
-       "name": "Fetch",
-       "symbol": "FET"
-   },
-   {
-       "address": "0xB4E667FE769F36117bc259E05435c906EF4c1EeC",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB4E667FE769F36117bc259E05435c906EF4c1EeC.jpg",
-       "name": "Axelar",
-       "symbol": "AXL"
-   },
-   {
-       "address": "0x62437579887178BEa81A182DB627427BB8E71766",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x62437579887178BEa81A182DB627427BB8E71766.jpg",
-       "name": "GOLD",
-       "symbol": "GOLD"
-   },
-   {
-       "address": "0x25e8C72D267b96E757875d8b565A42c0e3B8f12f",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x25e8C72D267b96E757875d8b565A42c0e3B8f12f.jpg",
-       "name": "dogwifhat",
-       "symbol": "WIF"
-   },
-   {
-       "address": "0x195c4583C58944cF3435c3097195Cd5452be33AC",
-       "chainId": 25,
-       "decimals": 9,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x195c4583C58944cF3435c3097195Cd5452be33AC.jpg",
-       "name": "Myro",
-       "symbol": "MYRO"
-   },
-   {
-       "address": "0x59BAfb7168972EcCA5e395F7dA88e71eCe47a260",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x59BAfb7168972EcCA5e395F7dA88e71eCe47a260.jpg",
-       "name": "Papparico Finance Token",
-       "symbol": "PPFT"
-   },
-   {
-       "address": "0xb588051e6De4E22Cb9680942Bf6a77a7Bc34A2F0",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xb588051e6De4E22Cb9680942Bf6a77a7Bc34A2F0.jpg",
-       "name": "BOOK OF MEME",
-       "symbol": "BOME"
-   },
-   {
-       "address": "0x664E4b17EA045fE92868821F3eE0a76a5dB38166",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x664E4b17EA045fE92868821F3eE0a76a5dB38166.jpg",
-       "name": "Robin",
-       "symbol": "ROBIN"
-   },
-   {
-       "address": "0xed70e1b02a63fAfD5ECE7c0a2A1B12d4b424B4A8",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xed70e1b02a63fAfD5ECE7c0a2A1B12d4b424B4A8.jpg",
-       "name": "Croakey",
-       "symbol": "CROAK"
-   },
-   {
-       "address": "0x75689264A5E2dAb1B27DDfb2b10592872139659A",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x75689264A5E2dAb1B27DDfb2b10592872139659A.jpg",
-       "name": "LOAF",
-       "symbol": "LOAF"
-   },
-   {
-       "address": "0x3b41B27E74Dd366CE27cB389dc7877D4e1516d4d",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x3b41B27E74Dd366CE27cB389dc7877D4e1516d4d.jpg",
-       "name": "Mistery",
-       "symbol": "MERY"
-   },
-   {
-       "address": "0x9FA6552c1E9df51070A3b456355B5d76cBD59B5A",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9FA6552c1E9df51070A3b456355B5d76cBD59B5A.jpg",
-       "name": "Emit",
-       "symbol": "EMIT"
-   },
-   {
-       "address": "0x457b85cA86EA1E1BeCf46f50d19ddAE61077c2d2",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x457b85cA86EA1E1BeCf46f50d19ddAE61077c2d2.jpg",
-       "name": "Unloaded Lion Token",
-       "symbol": "UNLOADED"
-   },
-   {
-       "address": "0xc48b39cD739cF638471082F5574856306943f054",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc48b39cD739cF638471082F5574856306943f054.jpg",
-       "name": "Augur",
-       "symbol": "REP"
-   },
-   {
-       "address": "0x3F2Cec6455f874edC9d86E48312787CCb19e0f72",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x3F2Cec6455f874edC9d86E48312787CCb19e0f72.jpg",
-       "name": "VeThor Token",
-       "symbol": "VTHO"
-   },
-   {
-       "address": "0x39B9f8B9c0F37766dB1592F0294E01a39B52D46c",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x39B9f8B9c0F37766dB1592F0294E01a39B52D46c.jpg",
-       "name": "BEAT",
-       "symbol": "BEAT"
-   },
-   {
-       "address": "0x7a7c9db510aB29A2FC362a4c34260BEcB5cE3446",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7a7c9db510aB29A2FC362a4c34260BEcB5cE3446.jpg",
-       "name": "Crypto.com Wrapped Staked ETH",
-       "symbol": "CDCETH"
-   },
-   {
-       "address": "0x982b59aaE4f0BC66960b4BF06d6fE96b9F33d3F7",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x982b59aaE4f0BC66960b4BF06d6fE96b9F33d3F7.jpg",
-       "name": "TIA",
-       "symbol": "TIA"
-   },
-   {
-       "address": "0x83E8B8C435C594e0aBa30910f725c5186B2455a0",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x83E8B8C435C594e0aBa30910f725c5186B2455a0.jpg",
-       "name": "CANTO",
-       "symbol": "CANTO"
-   },
-   {
-       "address": "0x8f45Cc102D6ad9502CC305E5590b4d5c844b2DD7",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8f45Cc102D6ad9502CC305E5590b4d5c844b2DD7.jpg",
-       "name": "JUNO",
-       "symbol": "JUNO"
-   },
-   {
-       "address": "0x38e61f5D15B7985799cCcA3c0E1e549458C0c772",
-       "chainId": 25,
-       "decimals": 30,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x38e61f5D15B7985799cCcA3c0E1e549458C0c772.jpg",
-       "name": "Nano",
-       "symbol": "XNO"
-   },
-   {
-       "address": "0x63eD0a82cAC237667C89Cd6AC5BFa2317186FdAa",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x63eD0a82cAC237667C89Cd6AC5BFa2317186FdAa.jpg",
-       "name": "CROB",
-       "symbol": "CROB"
-   },
-   {
-       "address": "0x9Ea69FD44a7BD7265d5B19AE8cb2E19F80DA059c",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9Ea69FD44a7BD7265d5B19AE8cb2E19F80DA059c.jpg",
-       "name": "EARN NETWORK",
-       "symbol": "EARN"
-   },
-   {
-       "address": "0x2d1D4F5166441eDF0943328254f8a28AdE2124Ba",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2d1D4F5166441eDF0943328254f8a28AdE2124Ba.jpg",
-       "name": "WEMIX",
-       "symbol": "WEMIX"
-   },
-   {
-       "address": "0x276E28664DEC4982F892A5B836e11F23040b6995",
-       "chainId": 25,
-       "decimals": 6,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x276E28664DEC4982F892A5B836e11F23040b6995.jpg",
-       "name": "Liquid Tia",
-       "symbol": "LTIA"
-   },
-   {
-       "address": "0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964.jpg",
-       "name": "Crolon Mars",
-       "symbol": "CLMRS"
-   },
-   {
-       "address": "0x9BE47E9Dca99a6F5CB3666d079571Ec229Ae2CA4",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9BE47E9Dca99a6F5CB3666d079571Ec229Ae2CA4.jpg",
-       "name": "Buy the Dip",
-       "symbol": "DIP"
-   },
-   {
-       "address": "0x40914BBDdea0ec8d22E044cd3131F1B5ED4e866d",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x40914BBDdea0ec8d22E044cd3131F1B5ED4e866d.jpg",
-       "name": "ORB",
-       "symbol": "ORB"
-   },
-   {
-       "address": "0x04632bA88Ae963a21A3E07781eC5BF07223e2cbF",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x04632bA88Ae963a21A3E07781eC5BF07223e2cbF.jpg",
-       "name": "CroFam",
-       "symbol": "CROFAM"
-   },
-   {
-       "address": "0x9885488cD6864DF90eeBa6C5d07B35f08CEb05e9",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9885488cD6864DF90eeBa6C5d07B35f08CEb05e9.jpg",
-       "name": "Grave",
-       "symbol": "GRVE"
-   },
-   {
-       "address": "0xea292Deb7Ac933F61580eEE269F7ba3C2f23f5a0",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xea292Deb7Ac933F61580eEE269F7ba3C2f23f5a0.jpg",
-       "name": "CROfam",
-       "symbol": "RTRD"
-   },
-   {
-       "address": "0x46E2B5423F6ff46A8A35861EC9DAfF26af77AB9A",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x46E2B5423F6ff46A8A35861EC9DAfF26af77AB9A.jpg",
-       "name": "Moonflow",
-       "symbol": "MOON"
-   },
-   {
-       "address": "0x7E575f50777f5096f323EB063fD80BA447627060",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7E575f50777f5096f323EB063fD80BA447627060.jpg",
-       "name": "Serious Coin",
-       "symbol": "SERIOUS"
-   },
-   {
-       "address": "0xd677944Df705924AF369d2FCcf4A989f343DbCDf",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd677944Df705924AF369d2FCcf4A989f343DbCDf.jpg",
-       "name": "FORTUNE FAVOURS THE BRAVE",
-       "symbol": "FFTB"
-   },
-   {
-       "address": "0xa0D445dC147f598d63518b5783CA97Cd8Bd9f5Bc",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xa0D445dC147f598d63518b5783CA97Cd8Bd9f5Bc.jpg",
-       "name": "mouse in pasta",
-       "symbol": "STUCK"
-   },
-   {
-       "address": "0x0e66Ed8e8646472aB98a7acd38E7bDcB86da456f",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0e66Ed8e8646472aB98a7acd38E7bDcB86da456f.jpg",
-       "name": "BAD TOKEN",
-       "symbol": "BAD"
-   },
-   {
-       "address": "0x2BD1b292Ae9B7b813986Ea17b769FA150A42872C",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2BD1b292Ae9B7b813986Ea17b769FA150A42872C.jpg",
-       "name": "Raccroon",
-       "symbol": "RCO"
-   },
-   {
-       "address": "0x9A9635d9FF1bE7fC75e8b175C9fbCEE4b0c97317",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9A9635d9FF1bE7fC75e8b175C9fbCEE4b0c97317.jpg",
-       "name": "Skill Token",
-       "symbol": "SKILL"
-   },
-   {
-       "address": "0x9695921470A8680Bc5ee1bec9C10BB4695870a55",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9695921470A8680Bc5ee1bec9C10BB4695870a55.jpg",
-       "name": "Valor Token",
-       "symbol": "VALOR"
-   },
-   {
-       "address": "0x4ddA1Bb6E378dCEf97bfF1057b6452615E86373c",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4ddA1Bb6E378dCEf97bfF1057b6452615E86373c.jpg",
-       "name": "Kaching",
-       "symbol": "KCH"
-   },
-   {
-       "address": "0x7b42BbcEC77663147BC15B038830532A61FDA59b",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7b42BbcEC77663147BC15B038830532A61FDA59b.jpg",
-       "name": "Scooter",
-       "symbol": "SCOOTER"
-   },
-   {
-       "address": "0x1EBd45a0415bA286f10Babd9E27c69F62B7dB7d7",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1EBd45a0415bA286f10Babd9E27c69F62B7dB7d7.jpg",
-       "name": "crocw/knife",
-       "symbol": "STAB"
-   },
-   {
-       "address": "0x431469cE9D70A5879e959bF15cFFAD003dC7f69F",
-       "chainId": 25,
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x431469cE9D70A5879e959bF15cFFAD003dC7f69F.jpg",
-       "name": "DAMOON",
-       "symbol": "DAMOON"
-   }
+  {
+    "address": "0xEea900FE18F77593C7D7C105fBa9bd714164AC95",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xEea900FE18F77593C7D7C105fBa9bd714164AC95.jpg",
+    "name": "1INCH Token",
+    "symbol": "1INCH"
+  },
+  {
+    "address": "0xE657b115bc45c0786274c824f83e3e02CE809185",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xE657b115bc45c0786274c824f83e3e02CE809185.jpg",
+    "name": "Aave",
+    "symbol": "AAVE"
+  },
+  {
+    "address": "0x213E6fb02009c13692bAA23C63FdE8D623d22705",
+    "chainId": 25,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x213E6fb02009c13692bAA23C63FdE8D623d22705.jpg",
+    "name": "ACA",
+    "symbol": "ACA"
+  },
+  {
+    "address": "0x4168Ec9022C39d4d41513F26A7b0ca489d73549c",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4168Ec9022C39d4d41513F26A7b0ca489d73549c.jpg",
+    "name": "Alchemy",
+    "symbol": "ACH"
+  },
+  {
+    "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0.jpg",
+    "name": "ADA",
+    "symbol": "ADA"
+  },
+  {
+    "address": "0x753053956Bd46cFe000B0968d41f887149B19c41",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x753053956Bd46cFe000B0968d41f887149B19c41.jpg",
+    "name": "SingularityNET",
+    "symbol": "AGIX"
+  },
+  {
+    "address": "0xD3BB5C6961157eB4eb03658Dc5D4144808828168",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD3BB5C6961157eB4eb03658Dc5D4144808828168.jpg",
+    "name": "Adventure Gold",
+    "symbol": "AGLD"
+  },
+  {
+    "address": "0x39a65A74Dc5A778Ff93d1765Ea51F57BC49c81B3",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x39a65A74Dc5A778Ff93d1765Ea51F57BC49c81B3.jpg",
+    "name": "AKT",
+    "symbol": "AKT"
+  },
+  {
+    "address": "0x2fEfe47989214c2e74A6319076c138d395681407",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2fEfe47989214c2e74A6319076c138d395681407.jpg",
+    "name": "Algorand",
+    "symbol": "ALGO"
+  },
+  {
+    "address": "0x45C135C1CDCE8d25A3B729A28659561385C52671",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x45C135C1CDCE8d25A3B729A28659561385C52671.jpg",
+    "name": "Alethea AI",
+    "symbol": "ALI"
+  },
+  {
+    "address": "0x46EfE38eC0558C48352e2eBc85AF3bd2E87Fb2A1",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x46EfE38eC0558C48352e2eBc85AF3bd2E87Fb2A1.jpg",
+    "name": "My Neighbor Alice",
+    "symbol": "ALICE"
+  },
+  {
+    "address": "0x1FE0f470736548794b47AFe5613d3A309d964d3c",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1FE0f470736548794b47AFe5613d3A309d964d3c.jpg",
+    "name": "Ankr Network",
+    "symbol": "ANKR"
+  },
+  {
+    "address": "0x9C62F89a8C9907582f21205Ce90443730361EA05",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9C62F89a8C9907582f21205Ce90443730361EA05.jpg",
+    "name": "ApeCoin",
+    "symbol": "APE"
+  },
+  {
+    "address": "0xeB6B3AEdA7A2705fAC5e2350fA4D71a64b393b37",
+    "chainId": 25,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xeB6B3AEdA7A2705fAC5e2350fA4D71a64b393b37.jpg",
+    "name": "Arweave",
+    "symbol": "AR"
+  },
+  {
+    "address": "0x47A9D630dc5b28F75d3AF3be3AAa982512Cd89Aa",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x47A9D630dc5b28F75d3AF3be3AAa982512Cd89Aa.jpg",
+    "name": "Argo Protocol",
+    "symbol": "ARGO"
+  },
+  {
+    "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93.jpg",
+    "name": "ATOM",
+    "symbol": "ATOM"
+  },
+  {
+    "address": "0xB4f1D9A65816da7e112F11C9A2900b8C5beeD525",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB4f1D9A65816da7e112F11C9A2900b8C5beeD525.jpg",
+    "name": "Aurora",
+    "symbol": "AURORA"
+  },
+  {
+    "address": "0xae620DC4B9b6e44FBeb4a949F63AC957Cc43b5dD",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xae620DC4B9b6e44FBeb4a949F63AC957Cc43b5dD.jpg",
+    "name": "AutoSingle",
+    "symbol": "AUTOS"
+  },
+  {
+    "address": "0x8d58088D4E8Ffe75A8b6357ba5ff17B93B912640",
+    "chainId": 25,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8d58088D4E8Ffe75A8b6357ba5ff17B93B912640.jpg",
+    "name": "Avalanche",
+    "symbol": "AVAX"
+  },
+  {
+    "address": "0xB4E667FE769F36117bc259E05435c906EF4c1EeC",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB4E667FE769F36117bc259E05435c906EF4c1EeC.jpg",
+    "name": "Axelar",
+    "symbol": "AXL"
+  },
+  {
+    "address": "0xE27753e456AbA584f10aCEf0B4e367EF38f01e14",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xE27753e456AbA584f10aCEf0B4e367EF38f01e14.jpg",
+    "name": "Axie Infinity Shards",
+    "symbol": "AXS"
+  },
+  {
+    "address": "0x0e66Ed8e8646472aB98a7acd38E7bDcB86da456f",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0e66Ed8e8646472aB98a7acd38E7bDcB86da456f.jpg",
+    "name": "BAD TOKEN",
+    "symbol": "BAD"
+  },
+  {
+    "address": "0x2F712E0a6f92e3f865EaEb86f07BAFc67974d26c",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2F712E0a6f92e3f865EaEb86f07BAFc67974d26c.jpg",
+    "name": "Basic Attention Token",
+    "symbol": "BAT"
+  },
+  {
+    "address": "0x7589B70aBb83427bb7049e08ee9fC6479ccB7a23",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7589B70aBb83427bb7049e08ee9fC6479ccB7a23.jpg",
+    "name": "Bitcoin Cash",
+    "symbol": "BCH"
+  },
+  {
+    "address": "0xeBAceB7F193955b946cC5dd8f8724a80671a1F2F",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xeBAceB7F193955b946cC5dd8f8724a80671a1F2F.jpg",
+    "name": "Bonded CRO",
+    "symbol": "bCRO"
+  },
+  {
+    "address": "0x39B9f8B9c0F37766dB1592F0294E01a39B52D46c",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x39B9f8B9c0F37766dB1592F0294E01a39B52D46c.jpg",
+    "name": "BEAT",
+    "symbol": "BEAT"
+  },
+  {
+    "address": "0xe6801928061CDbE32AC5AD0634427E140EFd05F9",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xe6801928061CDbE32AC5AD0634427E140EFd05F9.jpg",
+    "name": "Beefy.finance",
+    "symbol": "BIFI"
+  },
+  {
+    "address": "0xb588051e6De4E22Cb9680942Bf6a77a7Bc34A2F0",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xb588051e6De4E22Cb9680942Bf6a77a7Bc34A2F0.jpg",
+    "name": "BOOK OF MEME",
+    "symbol": "BOME"
+  },
+  {
+    "address": "0xAaE84acbfD07C8650dd9dAcC99C068aB420d0327",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xAaE84acbfD07C8650dd9dAcC99C068aB420d0327.jpg",
+    "name": "BONE",
+    "symbol": "BONE"
+  },
+  {
+    "address": "0x813EFfe620c71Bd1b522a8E6FA74C0e46C80DA2E",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x813EFfe620c71Bd1b522a8E6FA74C0e46C80DA2E.jpg",
+    "name": "Boson Protocol",
+    "symbol": "BOSON"
+  },
+  {
+    "address": "0xC74D59A548ecf7fc1754bb7810D716E9Ac3e3AE5",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC74D59A548ecf7fc1754bb7810D716E9Ac3e3AE5.jpg",
+    "name": "Binance USD",
+    "symbol": "BUSD"
+  },
+  {
+    "address": "0x06C04B0AD236e7Ca3B3189b1d049FE80109C7977",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x06C04B0AD236e7Ca3B3189b1d049FE80109C7977.jpg",
+    "name": "Bored Candy City",
+    "symbol": "CANDY"
+  },
+  {
+    "address": "0x83E8B8C435C594e0aBa30910f725c5186B2455a0",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x83E8B8C435C594e0aBa30910f725c5186B2455a0.jpg",
+    "name": "CANTO",
+    "symbol": "CANTO"
+  },
+  {
+    "address": "0xcCcCcCcCdbEC186DC426F8B5628AF94737dF0E60",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcCcCcCcCdbEC186DC426F8B5628AF94737dF0E60.jpg",
+    "name": "crow with knife",
+    "symbol": "CAW"
+  },
+  {
+    "address": "0xd4B9Dd61ebA441f706EB4728518D1eFc20Af4ee8",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd4B9Dd61ebA441f706EB4728518D1eFc20Af4ee8.jpg",
+    "name": "Crow with knife",
+    "symbol": "CAW2.0"
+  },
+  {
+    "address": "0x7a7c9db510aB29A2FC362a4c34260BEcB5cE3446",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7a7c9db510aB29A2FC362a4c34260BEcB5cE3446.jpg",
+    "name": "Crypto.com Wrapped Staked ETH",
+    "symbol": "CDCETH"
+  },
+  {
+    "address": "0xfA0235feF8644C107f7e531Fa9CFe0613Fbe8909",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xfA0235feF8644C107f7e531Fa9CFe0613Fbe8909.jpg",
+    "name": "Celer Network",
+    "symbol": "CELR"
+  },
+  {
+    "address": "0xcD303c638812291f9df0C18a2f32F2F0ec8fdb60",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcD303c638812291f9df0C18a2f32F2F0ec8fdb60.jpg",
+    "name": "ChiToken",
+    "symbol": "CHI"
+  },
+  {
+    "address": "0xcdee9300A1527E0000b054320D371A9C8c4a8AF6",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcdee9300A1527E0000b054320D371A9C8c4a8AF6.jpg",
+    "name": "Chromia",
+    "symbol": "CHR"
+  },
+  {
+    "address": "0x85608d6373FDCfc9fB1582187dC3A81C2942F3f2",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x85608d6373FDCfc9fB1582187dC3A81C2942F3f2.jpg",
+    "name": "Chucky",
+    "symbol": "CHUCKY"
+  },
+  {
+    "address": "0x4E4F362170bFb88D3c9378FF7818d93fC2fbd257",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4E4F362170bFb88D3c9378FF7818d93fC2fbd257.jpg",
+    "name": "Chiliz",
+    "symbol": "CHZ"
+  },
+  {
+    "address": "0x5dEED46f39c485bA03b61d83763d0f6357dc4737",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5dEED46f39c485bA03b61d83763d0f6357dc4737.jpg",
+    "name": "Nervos Network",
+    "symbol": "CKB"
+  },
+  {
+    "address": "0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964.jpg",
+    "name": "Crolon Mars",
+    "symbol": "CLMRS"
+  },
+  {
+    "address": "0x4Fb1af9D09DB3fbbda96071EaE0aeae6E871F9AC",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4Fb1af9D09DB3fbbda96071EaE0aeae6E871F9AC.jpg",
+    "name": "Compound",
+    "symbol": "COMP"
+  },
+  {
+    "address": "0x6b431B8a964BFcf28191b07c91189fF4403957D0",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x6b431B8a964BFcf28191b07c91189fF4403957D0.jpg",
+    "name": "CorgiAI",
+    "symbol": "CORGIAI"
+  },
+  {
+    "address": "0xEb540106a1e006F6010fAe45Dc94ee5F4800D66d",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xEb540106a1e006F6010fAe45Dc94ee5F4800D66d.jpg",
+    "name": "Contentos",
+    "symbol": "COS"
+  },
+  {
+    "address": "0xed70e1b02a63fAfD5ECE7c0a2A1B12d4b424B4A8",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xed70e1b02a63fAfD5ECE7c0a2A1B12d4b424B4A8.jpg",
+    "name": "Croakey",
+    "symbol": "CROAK"
+  },
+  {
+    "address": "0x63eD0a82cAC237667C89Cd6AC5BFa2317186FdAa",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x63eD0a82cAC237667C89Cd6AC5BFa2317186FdAa.jpg",
+    "name": "CROB",
+    "symbol": "CROB"
+  },
+  {
+    "address": "0x04632bA88Ae963a21A3E07781eC5BF07223e2cbF",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x04632bA88Ae963a21A3E07781eC5BF07223e2cbF.jpg",
+    "name": "CroFam",
+    "symbol": "CROFAM"
+  },
+  {
+    "address": "0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9",
+    "chainId": 25,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9.jpg",
+    "name": "Crogecoin",
+    "symbol": "CROGE"
+  },
+  {
+    "address": "0xD50f5739A09f36C6f97cC9a4849C5462Ba6129A3",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD50f5739A09f36C6f97cC9a4849C5462Ba6129A3.jpg",
+    "name": "Croginal Cats",
+    "symbol": "Croginal"
+  },
+  {
+    "address": "0xCbF0ADeA24fd5f32c6e7f0474f0d1b94Ace4E2e7",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xCbF0ADeA24fd5f32c6e7f0474f0d1b94Ace4E2e7.jpg",
+    "name": "CronosID",
+    "symbol": "CROID"
+  },
+  {
+    "address": "0xfEf44a0C77eca218F443382d3128a7A251a8C542",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xfEf44a0C77eca218F443382d3128a7A251a8C542.jpg",
+    "name": "Curve DAO Token",
+    "symbol": "CRV"
+  },
+  {
+    "address": "0x15a9e70f166BcaAA7bfF094d865cE5aAa73A2A58",
+    "chainId": 25,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x15a9e70f166BcaAA7bfF094d865cE5aAa73A2A58.jpg",
+    "name": "Casper",
+    "symbol": "CSPR"
+  },
+  {
+    "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D.jpg",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI"
+  },
+  {
+    "address": "0x431469cE9D70A5879e959bF15cFFAD003dC7f69F",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x431469cE9D70A5879e959bF15cFFAD003dC7f69F.jpg",
+    "name": "DAMOON",
+    "symbol": "DAMOON"
+  },
+  {
+    "address": "0x5893915Fe3d15e4004F7232c80036bFa92aCa564",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5893915Fe3d15e4004F7232c80036bFa92aCa564.jpg",
+    "name": "Mines of Dalarnia",
+    "symbol": "DAR"
+  },
+  {
+    "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5.jpg",
+    "name": "DarkCrypto",
+    "symbol": "DARK"
+  },
+  {
+    "address": "0x98616a1427a1734DaEbA1E1894db48051244A065",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x98616a1427a1734DaEbA1E1894db48051244A065.jpg",
+    "name": "DeRace Token",
+    "symbol": "DERC"
+  },
+  {
+    "address": "0x9BE47E9Dca99a6F5CB3666d079571Ec229Ae2CA4",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9BE47E9Dca99a6F5CB3666d079571Ec229Ae2CA4.jpg",
+    "name": "Buy the Dip",
+    "symbol": "DIP"
+  },
+  {
+    "address": "0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396.jpg",
+    "name": "Dogecoin",
+    "symbol": "DOGE"
+  },
+  {
+    "address": "0x994047FE66406CbD646cd85B990E11D7F5dB8fC7",
+    "chainId": 25,
+    "decimals": 10,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x994047FE66406CbD646cd85B990E11D7F5dB8fC7.jpg",
+    "name": "DOT",
+    "symbol": "DOT"
+  },
+  {
+    "address": "0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a.jpg",
+    "name": "Darkness Dollar",
+    "symbol": "DUSD"
+  },
+  {
+    "address": "0x4442C740cc5B47F032983106E66E3C9dC945676C",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4442C740cc5B47F032983106E66E3C9dC945676C.jpg",
+    "name": "dYdX",
+    "symbol": "DYDX"
+  },
+  {
+    "address": "0x9Ea69FD44a7BD7265d5B19AE8cb2E19F80DA059c",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9Ea69FD44a7BD7265d5B19AE8cb2E19F80DA059c.jpg",
+    "name": "EARN NETWORK",
+    "symbol": "EARN"
+  },
+  {
+    "address": "0x47E16f9EE811d3651D979941325c545Da6385daF",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x47E16f9EE811d3651D979941325c545Da6385daF.jpg",
+    "name": "Efinity Token",
+    "symbol": "EFI"
+  },
+  {
+    "address": "0x5c54Cc9A7abeD2dd102361c142417756Fb157292",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5c54Cc9A7abeD2dd102361c142417756Fb157292.jpg",
+    "name": "Elrond",
+    "symbol": "EGLD"
+  },
+  {
+    "address": "0x02DCcaf514C98451320a9365C5b46C61d3246ff3",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x02DCcaf514C98451320a9365C5b46C61d3246ff3.jpg",
+    "name": "Dogelon Mars",
+    "symbol": "ELON"
+  },
+  {
+    "address": "0x9FA6552c1E9df51070A3b456355B5d76cBD59B5A",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9FA6552c1E9df51070A3b456355B5d76cBD59B5A.jpg",
+    "name": "Emit",
+    "symbol": "EMIT"
+  },
+  {
+    "address": "0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7.jpg",
+    "name": "ENJ",
+    "symbol": "ENJ"
+  },
+  {
+    "address": "0xA0913e0D7A85954e89452e7Ccb8d1235db74C330",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA0913e0D7A85954e89452e7Ccb8d1235db74C330.jpg",
+    "name": "Ethereum Name Service",
+    "symbol": "ENS"
+  },
+  {
+    "address": "0xA37caA841072a305a0799718aFA16cd504C52118",
+    "chainId": 25,
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA37caA841072a305a0799718aFA16cd504C52118.jpg",
+    "name": "EOS",
+    "symbol": "EOS"
+  },
+  {
+    "address": "0x15C65aD983F4E5814595953808C8616f867d061c",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x15C65aD983F4E5814595953808C8616f867d061c.jpg",
+    "name": "Ellipsis",
+    "symbol": "EPX"
+  },
+  {
+    "address": "0xd9ce64C200721a98103102f9ea8e894E347EA287",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd9ce64C200721a98103102f9ea8e894E347EA287.jpg",
+    "name": "Ethereum Classic",
+    "symbol": "ETC"
+  },
+  {
+    "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a.jpg",
+    "name": "ETH Token",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0x39bC1e38c842C60775Ce37566D03B41A7A66C782",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x39bC1e38c842C60775Ce37566D03B41A7A66C782.jpg",
+    "name": "Ferro Token",
+    "symbol": "FER"
+  },
+  {
+    "address": "0xBe2bd41D6b3fBe01eda6e1AddeD7a4b242e04528",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xBe2bd41D6b3fBe01eda6e1AddeD7a4b242e04528.jpg",
+    "name": "Fetch",
+    "symbol": "FET"
+  },
+  {
+    "address": "0xd677944Df705924AF369d2FCcf4A989f343DbCDf",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd677944Df705924AF369d2FCcf4A989f343DbCDf.jpg",
+    "name": "FORTUNE FAVOURS THE BRAVE",
+    "symbol": "FFTB"
+  },
+  {
+    "address": "0x7d7130B0B4733D603Cea12628b52067ce8458058",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7d7130B0B4733D603Cea12628b52067ce8458058.jpg",
+    "name": "Filecoin",
+    "symbol": "FIL"
+  },
+  {
+    "address": "0x7ABa852082b6F763E13010CA33B5D9Ea4EeE2983",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7ABa852082b6F763E13010CA33B5D9Ea4EeE2983.jpg",
+    "name": "Fira",
+    "symbol": "FIRA"
+  },
+  {
+    "address": "0xcD7d4cB8a8B4810Fb740A42E344513d49e0AC11f",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcD7d4cB8a8B4810Fb740A42E344513d49e0AC11f.jpg",
+    "name": "Step App",
+    "symbol": "FITFI"
+  },
+  {
+    "address": "0xBf2C2a77Be1974853228EFB858e7e0547bbd686D",
+    "chainId": 25,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xBf2C2a77Be1974853228EFB858e7e0547bbd686D.jpg",
+    "name": "FLOKI",
+    "symbol": "FLOKI"
+  },
+  {
+    "address": "0x22EF9d73EA90E774CfB21fADDF84b37BD54FE7a6",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x22EF9d73EA90E774CfB21fADDF84b37BD54FE7a6.jpg",
+    "name": "Flow",
+    "symbol": "FLOW"
+  },
+  {
+    "address": "0xaF02D78F39C0002D14b95A3bE272DA02379AfF21",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xaF02D78F39C0002D14b95A3bE272DA02379AfF21.jpg",
+    "name": "Fortune",
+    "symbol": "FRTN"
+  },
+  {
+    "address": "0x63888BaFc5975630E4E5CF50c3845a3250115F64",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x63888BaFc5975630E4E5CF50c3845a3250115F64.jpg",
+    "name": "Fantom Token",
+    "symbol": "FTM"
+  },
+  {
+    "address": "0x83aFB1C32E5637ACd0a452D87c3249f4a9F0013A",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x83aFB1C32E5637ACd0a452D87c3249f4a9F0013A.jpg",
+    "name": "Fulcrom",
+    "symbol": "FUL"
+  },
+  {
+    "address": "0x13928f9d15698CFb6A29e648219D56606776a906",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x13928f9d15698CFb6A29e648219D56606776a906.jpg",
+    "name": "Project Galaxy",
+    "symbol": "GAL"
+  },
+  {
+    "address": "0x7A887D4f8a3221e1aaFA2f4435b774D51429A3e1",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7A887D4f8a3221e1aaFA2f4435b774D51429A3e1.jpg",
+    "name": "GALA",
+    "symbol": "GALA"
+  },
+  {
+    "address": "0x268B344bF8bbCd9Dd4e4FA68264309B05F15820a",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x268B344bF8bbCd9Dd4e4FA68264309B05F15820a.jpg",
+    "name": "GLMR",
+    "symbol": "GLMR"
+  },
+  {
+    "address": "0x62437579887178BEa81A182DB627427BB8E71766",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x62437579887178BEa81A182DB627427BB8E71766.jpg",
+    "name": "GOLD",
+    "symbol": "GOLD"
+  },
+  {
+    "address": "0x4c523222Cd0DE11616F7aD685f24145B9FaF7996",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4c523222Cd0DE11616F7aD685f24145B9FaF7996.jpg",
+    "name": "The Graph",
+    "symbol": "GRT"
+  },
+  {
+    "address": "0x9885488cD6864DF90eeBa6C5d07B35f08CEb05e9",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9885488cD6864DF90eeBa6C5d07B35f08CEb05e9.jpg",
+    "name": "Grave",
+    "symbol": "GRVE"
+  },
+  {
+    "address": "0xe0C7226a58f54db71eDc6289Ba2dc80349B41974",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xe0C7226a58f54db71eDc6289Ba2dc80349B41974.jpg",
+    "name": "Hedera",
+    "symbol": "HBAR"
+  },
+  {
+    "address": "0x61426C150207AbF8a215f3377a0819dDcA842aF3",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x61426C150207AbF8a215f3377a0819dDcA842aF3.jpg",
+    "name": "Helium",
+    "symbol": "HNT"
+  },
+  {
+    "address": "0x68D43230470c67BeB61e00a6E8EC869F947365fD",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x68D43230470c67BeB61e00a6E8EC869F947365fD.jpg",
+    "name": "HOD",
+    "symbol": "HOD"
+  },
+  {
+    "address": "0xc4010CfB5172D82A348bcBC8cD543733c1e9BF89",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc4010CfB5172D82A348bcBC8cD543733c1e9BF89.jpg",
+    "name": "Holo",
+    "symbol": "HOT"
+  },
+  {
+    "address": "0x8Bf3E654075E269c1C415e4889C12D9837452be0",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8Bf3E654075E269c1C415e4889C12D9837452be0.jpg",
+    "name": "Internet Computer",
+    "symbol": "ICP"
+  },
+  {
+    "address": "0xf6726cEBd173CF30926B69087179E18489183422",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf6726cEBd173CF30926B69087179E18489183422.jpg",
+    "name": "ICON",
+    "symbol": "ICX"
+  },
+  {
+    "address": "0x8f27dB0E597B67F33d5Fb58D5EEcD6A3CC780942",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8f27dB0E597B67F33d5Fb58D5EEcD6A3CC780942.jpg",
+    "name": "Immutable X",
+    "symbol": "IMX"
+  },
+  {
+    "address": "0x4E05F3C7ee6155e3add224470E1c4583D4F424A3",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4E05F3C7ee6155e3add224470E1c4583D4F424A3.jpg",
+    "name": "Injective",
+    "symbol": "INJ"
+  },
+  {
+    "address": "0xd27FC10235E41Ba8c70652Ed833460949Ed2B882",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd27FC10235E41Ba8c70652Ed833460949Ed2B882.jpg",
+    "name": "IRISnet",
+    "symbol": "IRIS"
+  },
+  {
+    "address": "0x227EdF65f866255A0ED4B5b453fe43A41182EC3A",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x227EdF65f866255A0ED4B5b453fe43A41182EC3A.jpg",
+    "name": "JasmyCoin",
+    "symbol": "JASMY"
+  },
+  {
+    "address": "0x8f45Cc102D6ad9502CC305E5590b4d5c844b2DD7",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8f45Cc102D6ad9502CC305E5590b4d5c844b2DD7.jpg",
+    "name": "JUNO",
+    "symbol": "JUNO"
+  },
+  {
+    "address": "0x4ddA1Bb6E378dCEf97bfF1057b6452615E86373c",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4ddA1Bb6E378dCEf97bfF1057b6452615E86373c.jpg",
+    "name": "Kaching",
+    "symbol": "KCH"
+  },
+  {
+    "address": "0xd73EBf885C4157D3E88c6D87ad3b8018B4a32fEF",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd73EBf885C4157D3E88c6D87ad3b8018B4a32fEF.jpg",
+    "name": "Kyber Network Crystal",
+    "symbol": "KNC"
+  },
+  {
+    "address": "0x181cC996Eea445212e61bD45FF742b88c3907287",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x181cC996Eea445212e61bD45FF742b88c3907287.jpg",
+    "name": "Krees Coin",
+    "symbol": "KREES"
+  },
+  {
+    "address": "0x62E622fa4E180C391f2E089FC1d5eA7AdCB96575",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x62E622fa4E180C391f2E089FC1d5eA7AdCB96575.jpg",
+    "name": "KRL",
+    "symbol": "KRL"
+  },
+  {
+    "address": "0x0BD48A8A9565385649D9d7f1c945D1d0C4543E26",
+    "chainId": 25,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0BD48A8A9565385649D9d7f1c945D1d0C4543E26.jpg",
+    "name": "Kusama",
+    "symbol": "KSM"
+  },
+  {
+    "address": "0x8540384C996056F1902c9785D85260612eb9Dc29",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8540384C996056F1902c9785D85260612eb9Dc29.jpg",
+    "name": "Milady",
+    "symbol": "LADYS"
+  },
+  {
+    "address": "0x9Fae23A2700FEeCd5b93e43fDBc03c76AA7C08A6",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9Fae23A2700FEeCd5b93e43fDBc03c76AA7C08A6.jpg",
+    "name": "LCRO",
+    "symbol": "LCRO"
+  },
+  {
+    "address": "0xA37b89C9fcdeE564b95d5cE6cE6D90Ad1038Ee92",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA37b89C9fcdeE564b95d5cE6cE6D90Ad1038Ee92.jpg",
+    "name": "Lido DAO Token",
+    "symbol": "LDO"
+  },
+  {
+    "address": "0x26E11c74793977E4d719e449aa08b0D65cb45C9C",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x26E11c74793977E4d719e449aa08b0D65cb45C9C.jpg",
+    "name": "LetsCRO",
+    "symbol": "LFC"
+  },
+  {
+    "address": "0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9.jpg",
+    "name": "LINK",
+    "symbol": "LINK"
+  },
+  {
+    "address": "0x0DdB6540aFD29b14F7E02D1292BD675b5Ceea896",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0DdB6540aFD29b14F7E02D1292BD675b5Ceea896.jpg",
+    "name": "LimeWire",
+    "symbol": "LMWR"
+  },
+  {
+    "address": "0x75689264A5E2dAb1B27DDfb2b10592872139659A",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x75689264A5E2dAb1B27DDfb2b10592872139659A.jpg",
+    "name": "LOAF",
+    "symbol": "LOAF"
+  },
+  {
+    "address": "0xAF760dE3201fEeD80FEeA59FB16A8360C8c4d1a2",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xAF760dE3201fEeD80FEeA59FB16A8360C8c4d1a2.jpg",
+    "name": "Loopring",
+    "symbol": "LRC"
+  },
+  {
+    "address": "0x9d97Be214b68C7051215BB61059B4e299Cd792c3",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9d97Be214b68C7051215BB61059B4e299Cd792c3.jpg",
+    "name": "Litecoin",
+    "symbol": "LTC"
+  },
+  {
+    "address": "0x276E28664DEC4982F892A5B836e11F23040b6995",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x276E28664DEC4982F892A5B836e11F23040b6995.jpg",
+    "name": "Liquid Tia",
+    "symbol": "LTIA"
+  },
+  {
+    "address": "0x6Ed8c99E5c6B2c551e012E4272d8f3d1DF23a71A",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x6Ed8c99E5c6B2c551e012E4272d8f3d1DF23a71A.jpg",
+    "name": "Decentraland",
+    "symbol": "MANA"
+  },
+  {
+    "address": "0xf78a326ACd53651F8dF5D8b137295e434B7c8ba5",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf78a326ACd53651F8dF5D8b137295e434B7c8ba5.jpg",
+    "name": "MATIC",
+    "symbol": "MATIC"
+  },
+  {
+    "address": "0x0FBe22186FC31CD4220f81Aea7480bC6cF4FC001",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0FBe22186FC31CD4220f81Aea7480bC6cF4FC001.jpg",
+    "name": "Merit Circle",
+    "symbol": "MC"
+  },
+  {
+    "address": "0x3b41B27E74Dd366CE27cB389dc7877D4e1516d4d",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x3b41B27E74Dd366CE27cB389dc7877D4e1516d4d.jpg",
+    "name": "Mistery",
+    "symbol": "MERY"
+  },
+  {
+    "address": "0xab9Cf8C5A9B6Cf5215c82D088D37d04bB146704A",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xab9Cf8C5A9B6Cf5215c82D088D37d04bB146704A.jpg",
+    "name": "Maker",
+    "symbol": "MKR"
+  },
+  {
+    "address": "0x46E2B5423F6ff46A8A35861EC9DAfF26af77AB9A",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x46E2B5423F6ff46A8A35861EC9DAfF26af77AB9A.jpg",
+    "name": "Moonflow",
+    "symbol": "MOON"
+  },
+  {
+    "address": "0x0224010BA2d567ffa014222eD960D1fa43B8C8E1",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0224010BA2d567ffa014222eD960D1fa43B8C8E1.jpg",
+    "name": "Minted Token",
+    "symbol": "MTD"
+  },
+  {
+    "address": "0x195c4583C58944cF3435c3097195Cd5452be33AC",
+    "chainId": 25,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x195c4583C58944cF3435c3097195Cd5452be33AC.jpg",
+    "name": "Myro",
+    "symbol": "MYRO"
+  },
+  {
+    "address": "0xAFE470AE215e48c144c7158EAe3CcF0C451cb0CB",
+    "chainId": 25,
+    "decimals": 24,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xAFE470AE215e48c144c7158EAe3CcF0C451cb0CB.jpg",
+    "name": "NEAR",
+    "symbol": "NEAR"
+  },
+  {
+    "address": "0xB3fc0777738168ce33B228F1831EEbD5A81aaDB3",
+    "chainId": 25,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB3fc0777738168ce33B228F1831EEbD5A81aaDB3.jpg",
+    "name": "Neo",
+    "symbol": "NEO"
+  },
+  {
+    "address": "0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8.jpg",
+    "name": "Darkness Share",
+    "symbol": "NESS"
+  },
+  {
+    "address": "0x59e60d641677cEcAE77868176F314F42572F5284",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x59e60d641677cEcAE77868176F314F42572F5284.jpg",
+    "name": "$NUTS",
+    "symbol": "NUTS"
+  },
+  {
+    "address": "0x78E9974A74d6c980De4E3F8039248320c5A2d714",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x78E9974A74d6c980De4E3F8039248320c5A2d714.jpg",
+    "name": "Origin Protocol",
+    "symbol": "OGN"
+  },
+  {
+    "address": "0x5a56509C61ad80680caF5b3B980E6C88319eeE33",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5a56509C61ad80680caF5b3B980E6C88319eeE33.jpg",
+    "name": "OMG Network",
+    "symbol": "OMG"
+  },
+  {
+    "address": "0xf0F2cCf4F18a13F73F7C48FA248645dD4Ac51341",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf0F2cCf4F18a13F73F7C48FA248645dD4Ac51341.jpg",
+    "name": "Harmony",
+    "symbol": "ONE"
+  },
+  {
+    "address": "0x28D292A914eDaeb6DAA13642231333bd157632B2",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x28D292A914eDaeb6DAA13642231333bd157632B2.jpg",
+    "name": "Panterra Opal",
+    "symbol": "OPL"
+  },
+  {
+    "address": "0x40914BBDdea0ec8d22E044cd3131F1B5ED4e866d",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x40914BBDdea0ec8d22E044cd3131F1B5ED4e866d.jpg",
+    "name": "ORB",
+    "symbol": "ORB"
+  },
+  {
+    "address": "0x81749e7258f9e577f61f49ABeeB426b70F561b89",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x81749e7258f9e577f61f49ABeeB426b70F561b89.jpg",
+    "name": "PAX Gold",
+    "symbol": "PAXG"
+  },
+  {
+    "address": "0x49c3bBB239f4FB44327073510f4bA72D207a81D6",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x49c3bBB239f4FB44327073510f4bA72D207a81D6.jpg",
+    "name": "Pendle",
+    "symbol": "PENDLE"
+  },
+  {
+    "address": "0xf868c454784048AF4f857991583E34243c92Ff48",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf868c454784048AF4f857991583E34243c92Ff48.jpg",
+    "name": "PEPE",
+    "symbol": "PEPE"
+  },
+  {
+    "address": "0x044597363b0054986aE4289d25CD7D0D451766Fc",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x044597363b0054986aE4289d25CD7D0D451766Fc.jpg",
+    "name": "PlayDapp Token",
+    "symbol": "PLA"
+  },
+  {
+    "address": "0x59BAfb7168972EcCA5e395F7dA88e71eCe47a260",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x59BAfb7168972EcCA5e395F7dA88e71eCe47a260.jpg",
+    "name": "Papparico Finance Token",
+    "symbol": "PPFT"
+  },
+  {
+    "address": "0x288898a6057d2D4989c533E96Cb3bc30843c91D7",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x288898a6057d2D4989c533E96Cb3bc30843c91D7.jpg",
+    "name": "Puush da Button",
+    "symbol": "PUUSH"
+  },
+  {
+    "address": "0x7d54F4E05f273a9317f723997612Ed64eF53C900",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7d54F4E05f273a9317f723997612Ed64eF53C900.jpg",
+    "name": "Quant",
+    "symbol": "QNT"
+  },
+  {
+    "address": "0x70BB395F1A824D9a3F9D510C25e699cEaf603dEc",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x70BB395F1A824D9a3F9D510C25e699cEaf603dEc.jpg",
+    "name": "Qredo Token",
+    "symbol": "QRDO"
+  },
+  {
+    "address": "0x32529346958711B3beF92B96507C14821e50C9c8",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x32529346958711B3beF92B96507C14821e50C9c8.jpg",
+    "name": "Qtum",
+    "symbol": "QTUM"
+  },
+  {
+    "address": "0xa58e3AeAeA3292c3E260378e55E9684C59E7A27a",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xa58e3AeAeA3292c3E260378e55E9684C59E7A27a.jpg",
+    "name": "DappRadar",
+    "symbol": "RADAR"
+  },
+  {
+    "address": "0xD1c530d427E0421Cc585B23644c8a7A261699e3b",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD1c530d427E0421Cc585B23644c8a7A261699e3b.jpg",
+    "name": "SuperRare",
+    "symbol": "RARE"
+  },
+  {
+    "address": "0x2BD1b292Ae9B7b813986Ea17b769FA150A42872C",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2BD1b292Ae9B7b813986Ea17b769FA150A42872C.jpg",
+    "name": "Raccroon",
+    "symbol": "RCO"
+  },
+  {
+    "address": "0x2b4eE166a125E01Aba019885932C944cEfED2932",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2b4eE166a125E01Aba019885932C944cEfED2932.jpg",
+    "name": "Ren",
+    "symbol": "REN"
+  },
+  {
+    "address": "0xc48b39cD739cF638471082F5574856306943f054",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc48b39cD739cF638471082F5574856306943f054.jpg",
+    "name": "Augur",
+    "symbol": "REP"
+  },
+  {
+    "address": "0x34aceA6Cc02578aF041a5E976b7289ca23cCB7A8",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x34aceA6Cc02578aF041a5E976b7289ca23cCB7A8.jpg",
+    "name": "RIP",
+    "symbol": "RIP"
+  },
+  {
+    "address": "0xEaEA1a708DaB6f732E35F06588293204318ac48F",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xEaEA1a708DaB6f732E35F06588293204318ac48F.jpg",
+    "name": "Render Token",
+    "symbol": "RNDR"
+  },
+  {
+    "address": "0x664E4b17EA045fE92868821F3eE0a76a5dB38166",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x664E4b17EA045fE92868821F3eE0a76a5dB38166.jpg",
+    "name": "Robin",
+    "symbol": "ROBIN"
+  },
+  {
+    "address": "0xea292Deb7Ac933F61580eEE269F7ba3C2f23f5a0",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xea292Deb7Ac933F61580eEE269F7ba3C2f23f5a0.jpg",
+    "name": "CROfam",
+    "symbol": "RTRD"
+  },
+  {
+    "address": "0x171C8AAA57D0107d0187f54Ccf4CC03406E76a4E",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x171C8AAA57D0107d0187f54Ccf4CC03406E76a4E.jpg",
+    "name": "THORChain",
+    "symbol": "RUNE"
+  },
+  {
+    "address": "0x9097eA65B55dfC7383A7EFB465e8fFC18D46e784",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9097eA65B55dfC7383A7EFB465e8fFC18D46e784.jpg",
+    "name": "The Sandbox",
+    "symbol": "SAND"
+  },
+  {
+    "address": "0x7b42BbcEC77663147BC15B038830532A61FDA59b",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7b42BbcEC77663147BC15B038830532A61FDA59b.jpg",
+    "name": "Scooter",
+    "symbol": "SCOOTER"
+  },
+  {
+    "address": "0x7E575f50777f5096f323EB063fD80BA447627060",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7E575f50777f5096f323EB063fD80BA447627060.jpg",
+    "name": "Serious Coin",
+    "symbol": "SERIOUS"
+  },
+  {
+    "address": "0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee.jpg",
+    "name": "Shiba Inu",
+    "symbol": "SHIB"
+  },
+  {
+    "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347.jpg",
+    "name": "SINGLE Token",
+    "symbol": "SINGLE"
+  },
+  {
+    "address": "0x9A9635d9FF1bE7fC75e8b175C9fbCEE4b0c97317",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9A9635d9FF1bE7fC75e8b175C9fbCEE4b0c97317.jpg",
+    "name": "Skill Token",
+    "symbol": "SKILL"
+  },
+  {
+    "address": "0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c.jpg",
+    "name": "DarkCrypto Share",
+    "symbol": "SKY"
+  },
+  {
+    "address": "0xc00DcfBc7aC19B7210fa9c73b5F1d2E0f7E62711",
+    "chainId": 25,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc00DcfBc7aC19B7210fa9c73b5F1d2E0f7E62711.jpg",
+    "name": "Smooth Love Potion",
+    "symbol": "SLP"
+  },
+  {
+    "address": "0x7e0497443D42Ae5CADcB69740FB80E02be7FDC1f",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7e0497443D42Ae5CADcB69740FB80E02be7FDC1f.jpg",
+    "name": "Status Network Token",
+    "symbol": "SNT"
+  },
+  {
+    "address": "0x9Aa8F72dd2C06EAff0113bD0380255E1fbDAeaC4",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9Aa8F72dd2C06EAff0113bD0380255E1fbDAeaC4.jpg",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX"
+  },
+  {
+    "address": "0xc9DE0F3e08162312528FF72559db82590b481800",
+    "chainId": 25,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc9DE0F3e08162312528FF72559db82590b481800.jpg",
+    "name": "Solana",
+    "symbol": "SOL"
+  },
+  {
+    "address": "0xB37e6457C17A370b2eAEb40849d20dcaEa5f7e92",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB37e6457C17A370b2eAEb40849d20dcaEa5f7e92.jpg",
+    "name": "Spell Token",
+    "symbol": "SPELL"
+  },
+  {
+    "address": "0x1B554fda68bA95924E5bbD0BaF8e769F039e775B",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1B554fda68bA95924E5bbD0BaF8e769F039e775B.jpg",
+    "name": "SPS",
+    "symbol": "SPS"
+  },
+  {
+    "address": "0xB858e614779f148992949A3b15E6127dDA204ca4",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB858e614779f148992949A3b15E6127dDA204ca4.jpg",
+    "name": "Serum",
+    "symbol": "SRM"
+  },
+  {
+    "address": "0x1EBd45a0415bA286f10Babd9E27c69F62B7dB7d7",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1EBd45a0415bA286f10Babd9E27c69F62B7dB7d7.jpg",
+    "name": "crocw/knife",
+    "symbol": "STAB"
+  },
+  {
+    "address": "0x1eBFD0d52Aa04350f512aBcFd45ffb0bb86F0cc2",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1eBFD0d52Aa04350f512aBcFd45ffb0bb86F0cc2.jpg",
+    "name": "STARDUST",
+    "symbol": "STARDUST"
+  },
+  {
+    "address": "0xF307A39752Da29B1C1E45C2c1476976EAB272686",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xF307A39752Da29B1C1E45C2c1476976EAB272686.jpg",
+    "name": "STONKS",
+    "symbol": "STONKS"
+  },
+  {
+    "address": "0xa0D445dC147f598d63518b5783CA97Cd8Bd9f5Bc",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xa0D445dC147f598d63518b5783CA97Cd8Bd9f5Bc.jpg",
+    "name": "mouse in pasta",
+    "symbol": "STUCK"
+  },
+  {
+    "address": "0x30BBA7b57952E7028c47d5c6AB295D0Da7139eF9",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x30BBA7b57952E7028c47d5c6AB295D0Da7139eF9.jpg",
+    "name": "Stacks",
+    "symbol": "STX"
+  },
+  {
+    "address": "0xdb3de0AAC8A39490932FA19c2e32F179368Ab840",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdb3de0AAC8A39490932FA19c2e32F179368Ab840.jpg",
+    "name": "SushiSwap",
+    "symbol": "SUSHI"
+  },
+  {
+    "address": "0x73B6FcF8Ed6daEfE3775bC38949F115305047C0d",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x73B6FcF8Ed6daEfE3775bC38949F115305047C0d.jpg",
+    "name": "Theta Network",
+    "symbol": "THETA"
+  },
+  {
+    "address": "0x982b59aaE4f0BC66960b4BF06d6fE96b9F33d3F7",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x982b59aaE4f0BC66960b4BF06d6fE96b9F33d3F7.jpg",
+    "name": "TIA",
+    "symbol": "TIA"
+  },
+  {
+    "address": "0x0369302aaBbbe58443b3F17Fa0B0D05D5dC9cb4e",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0369302aaBbbe58443b3F17Fa0B0D05D5dC9cb4e.jpg",
+    "name": "TOMI",
+    "symbol": "TOMI"
+  },
+  {
+    "address": "0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2.jpg",
+    "name": "TONIC",
+    "symbol": "TONIC"
+  },
+  {
+    "address": "0x679f6863a653251C8C215e77205A7058b5bF676a",
+    "chainId": 25,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x679f6863a653251C8C215e77205A7058b5bF676a.jpg",
+    "name": "TrollCoin",
+    "symbol": "TROLL"
+  },
+  {
+    "address": "0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e.jpg",
+    "name": "TrueUSD",
+    "symbol": "TUSD"
+  },
+  {
+    "address": "0x33564807CC70c6422124d867B344D7b90bF21A76",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x33564807CC70c6422124d867B344D7b90bF21A76.jpg",
+    "name": "UMA",
+    "symbol": "UMA"
+  },
+  {
+    "address": "0x16aD43896f7C47a5d9Ee546c44A22205738B329c",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x16aD43896f7C47a5d9Ee546c44A22205738B329c.jpg",
+    "name": "Uniswap",
+    "symbol": "UNI"
+  },
+  {
+    "address": "0x457b85cA86EA1E1BeCf46f50d19ddAE61077c2d2",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x457b85cA86EA1E1BeCf46f50d19ddAE61077c2d2.jpg",
+    "name": "Unloaded Lion Token",
+    "symbol": "UNLOADED"
+  },
+  {
+    "address": "0xD42E078ceA2bE8D03cd9dFEcC1f0d28915Edea78",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD42E078ceA2bE8D03cd9dFEcC1f0d28915Edea78.jpg",
+    "name": "USC Stablecoin",
+    "symbol": "USC"
+  },
+  {
+    "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59.jpg",
+    "name": "USDC Token",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0xdB04627376661D678Cf6efFBad509D631B0050ae",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdB04627376661D678Cf6efFBad509D631B0050ae.jpg",
+    "name": "V3S-Peg CRO",
+    "symbol": "V3CRO"
+  },
+  {
+    "address": "0xD9EF024bb157C2B897a95007a1b73543712f3b48",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD9EF024bb157C2B897a95007a1b73543712f3b48.jpg",
+    "name": "V3S-Peg Darkness Dollar",
+    "symbol": "V3DUSD"
+  },
+  {
+    "address": "0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427.jpg",
+    "name": "V3SToken",
+    "symbol": "V3S"
+  },
+  {
+    "address": "0xA29EB0318F522ca98FdB5cEdc0c7549526625517",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA29EB0318F522ca98FdB5cEdc0c7549526625517.jpg",
+    "name": "V3S-Peg Tectonic",
+    "symbol": "V3TONIC"
+  },
+  {
+    "address": "0x9695921470A8680Bc5ee1bec9C10BB4695870a55",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9695921470A8680Bc5ee1bec9C10BB4695870a55.jpg",
+    "name": "Valor Token",
+    "symbol": "VALOR"
+  },
+  {
+    "address": "0x00D7699b71290094CcB1a5884cD835bD65a78c17",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x00D7699b71290094CcB1a5884cD835bD65a78c17.jpg",
+    "name": "VersaGames",
+    "symbol": "VERSA"
+  },
+  {
+    "address": "0xC9B5b981E7FFd630f456614d75230022F46fD03d",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC9B5b981E7FFd630f456614d75230022F46fD03d.jpg",
+    "name": "VET",
+    "symbol": "VET"
+  },
+  {
+    "address": "0xdb7d0A1eC37dE1dE924F8e8adac6Ed338D4404E9",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdb7d0A1eC37dE1dE924F8e8adac6Ed338D4404E9.jpg",
+    "name": "Veno",
+    "symbol": "VNO"
+  },
+  {
+    "address": "0x5fdbFE38E050829374001630B8710BDd05Ea55C0",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5fdbFE38E050829374001630B8710BDd05Ea55C0.jpg",
+    "name": "VOXEL",
+    "symbol": "VOXEL"
+  },
+  {
+    "address": "0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD.jpg",
+    "name": "VSHARE",
+    "symbol": "VSHARE"
+  },
+  {
+    "address": "0x3F2Cec6455f874edC9d86E48312787CCb19e0f72",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x3F2Cec6455f874edC9d86E48312787CCb19e0f72.jpg",
+    "name": "VeThor Token",
+    "symbol": "VTHO"
+  },
+  {
+    "address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03.jpg",
+    "name": "VVS Token",
+    "symbol": "VVS"
+  },
+  {
+    "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x062E66477Faf219F25D27dCED647BF57C3107d52.jpg",
+    "name": "WBTC Token",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23.jpg",
+    "name": "WCRO Token",
+    "symbol": "WCRO"
+  },
+  {
+    "address": "0x2d1D4F5166441eDF0943328254f8a28AdE2124Ba",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2d1D4F5166441eDF0943328254f8a28AdE2124Ba.jpg",
+    "name": "WEMIX",
+    "symbol": "WEMIX"
+  },
+  {
+    "address": "0x25e8C72D267b96E757875d8b565A42c0e3B8f12f",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x25e8C72D267b96E757875d8b565A42c0e3B8f12f.jpg",
+    "name": "dogwifhat",
+    "symbol": "WIF"
+  },
+  {
+    "address": "0x3Ff6184f97104323B5FD0d186F8B8bE91A91cE27",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x3Ff6184f97104323B5FD0d186F8B8bE91A91cE27.jpg",
+    "name": "WOO Network",
+    "symbol": "WOO"
+  },
+  {
+    "address": "0x747d6C858168B8cD6e537160320b5dE58FD3367C",
+    "chainId": 25,
+    "decimals": 7,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x747d6C858168B8cD6e537160320b5dE58FD3367C.jpg",
+    "name": "XLM",
+    "symbol": "XLM"
+  },
+  {
+    "address": "0x38e61f5D15B7985799cCcA3c0E1e549458C0c772",
+    "chainId": 25,
+    "decimals": 30,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x38e61f5D15B7985799cCcA3c0E1e549458C0c772.jpg",
+    "name": "Nano",
+    "symbol": "XNO"
+  },
+  {
+    "address": "0xb9Ce0dd29C91E02d4620F57a66700Fc5e41d6D15",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xb9Ce0dd29C91E02d4620F57a66700Fc5e41d6D15.jpg",
+    "name": "XRP",
+    "symbol": "XRP"
+  },
+  {
+    "address": "0x9D5a7d02D51Dc523197e62c2865907dbB53642Af",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9D5a7d02D51Dc523197e62c2865907dbB53642Af.jpg",
+    "name": "Tezos",
+    "symbol": "XTZ"
+  },
+  {
+    "address": "0x211153266F15F9314B214A7dd614d90f850a8D6a",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x211153266F15F9314B214A7dd614d90f850a8D6a.jpg",
+    "name": "XY Oracle",
+    "symbol": "XYO"
+  },
+  {
+    "address": "0x7bDF81a86f4AA8B442Ca05670Cbf296BB22Bc7bB",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7bDF81a86f4AA8B442Ca05670Cbf296BB22Bc7bB.jpg",
+    "name": "yearn.finance",
+    "symbol": "YFI"
+  },
+  {
+    "address": "0xfF9620d9F80F80056cbE4Bb84403a9E9C5174213",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xfF9620d9F80F80056cbE4Bb84403a9E9C5174213.jpg",
+    "name": "Yield Guild Games Token",
+    "symbol": "YGG"
+  },
+  {
+    "address": "0x06780B8F6625721875e8a0f0397d9377BF1B1B71",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x06780B8F6625721875e8a0f0397d9377BF1B1B71.jpg",
+    "name": "ZED RUN",
+    "symbol": "ZED"
+  },
+  {
+    "address": "0xc70ed252E55d68A7020A754Fb92Fa5c68e3c199f",
+    "chainId": 25,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc70ed252E55d68A7020A754Fb92Fa5c68e3c199f.jpg",
+    "name": "Zilliqa",
+    "symbol": "ZIL"
+  },
+  {
+    "address": "0x41080CA7Be4b3F0cACBD95164e9a56b582382cAA",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x41080CA7Be4b3F0cACBD95164e9a56b582382cAA.jpg",
+    "name": "Zogi",
+    "symbol": "ZOGI"
+  }
 ]
