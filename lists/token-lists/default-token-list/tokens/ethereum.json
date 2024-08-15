@@ -616,6 +616,14 @@
     "symbol": "BTC2x-FLI"
   },
   {
+    "address": "0x1E76649a0F0B13c430d128B78C236Da9A0aBB8bE",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1E76649a0F0B13c430d128B78C236Da9A0aBB8bE.jpg",
+    "name": "Bitsee (Btcsec) by BitSecure",
+    "symbol": "BTCSEC"
+  },
+  {
     "address": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750",
     "chainId": 1,
     "decimals": 8,
