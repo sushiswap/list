@@ -1128,6 +1128,14 @@
     "symbol": "WBTC"
   },
   {
+    "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe.jpg",
+    "name": "Wrapped eETH",
+    "symbol": "weETH"
+  },
+  {
     "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
     "chainId": 42161,
     "decimals": 18,
