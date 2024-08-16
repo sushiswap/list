@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x1E4A2f01D401F5f58FE132Dd14a270ab7C110Cb3",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x1E4A2f01D401F5f58FE132Dd14a270ab7C110Cb3.jpg",
+    "name": "AKASH",
+    "symbol": "AA"
+  },
+  {
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "chainId": 137,
     "decimals": 18,
