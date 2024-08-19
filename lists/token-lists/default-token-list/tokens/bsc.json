@@ -592,6 +592,14 @@
     "symbol": "OMNI"
   },
   {
+    "address": "0xeAC77Dd00D220445C5DA2B507711010a81A9d72d",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xeAC77Dd00D220445C5DA2B507711010a81A9d72d.jpg",
+    "name": "The Omnix",
+    "symbol": "OMNIX"
+  },
+  {
     "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
     "chainId": 56,
     "decimals": 18,
