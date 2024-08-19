@@ -600,6 +600,14 @@
     "symbol": "MKC"
   },
   {
+    "address": "0x24404DC041d74cd03cFE28855F555559390C931b",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x24404DC041d74cd03cFE28855F555559390C931b.jpg",
+    "name": "Moons",
+    "symbol": "MOON"
+  },
+  {
     "address": "0xB261104A83887aE92392Fb5CE5899fCFe5481456",
     "chainId": 42161,
     "decimals": 18,
