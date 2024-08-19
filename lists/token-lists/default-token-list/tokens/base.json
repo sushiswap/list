@@ -192,6 +192,14 @@
     "symbol": "Fren Pet"
   },
   {
+    "address": "0x1db0c569ebb4a8b57AC01833B9792F526305e062",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x1db0c569ebb4a8b57AC01833B9792F526305e062.jpg",
+    "name": "GENOME",
+    "symbol": "GENOME"
+  },
+  {
     "address": "0xd3a61a3A9b8E0dD8160C9bF5Ea79159e3E2452B8",
     "chainId": 8453,
     "decimals": 18,
