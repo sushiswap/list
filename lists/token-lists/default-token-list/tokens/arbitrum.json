@@ -96,6 +96,14 @@
     "symbol": "ARBYS"
   },
   {
+    "address": "0xeF7c11793D723ce3ccd36C4Da36266C1d3Dc68F8",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xeF7c11793D723ce3ccd36C4Da36266C1d3Dc68F8.jpg",
+    "name": "AI ARENA",
+    "symbol": "ARNA"
+  },
+  {
     "address": "0xA6219B4Bf4B861A2b1C02da43b2aF266186eDC04",
     "chainId": 42161,
     "decimals": 9,
