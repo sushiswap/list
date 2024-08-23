@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xe74657b0b89ad676F7B2953A8ca393b4A43FeBd5",
+    "chainId": 137,
+    "decimals": 14,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xe74657b0b89ad676F7B2953A8ca393b4A43FeBd5.jpg",
+    "name": "SavnSent",
+    "symbol": "7SNT"
+  },
+  {
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "chainId": 137,
     "decimals": 18,
