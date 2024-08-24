@@ -1480,6 +1480,14 @@
     "symbol": "WARU"
   },
   {
+    "address": "0x58b39c93243f44D7e708fD35C7d5863Cc9434C94",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x58b39c93243f44D7e708fD35C7d5863Cc9434C94.jpg",
+    "name": "WATT_token",
+    "symbol": "WATT"
+  },
+  {
     "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
     "chainId": 137,
     "decimals": 18,
