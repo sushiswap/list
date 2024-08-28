@@ -72,6 +72,14 @@
     "symbol": "ankrMATIC"
   },
   {
+    "address": "0x0BAb407A2cB76d14a5C047f035Dffeba87DDdC85",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x0BAb407A2cB76d14a5C047f035Dffeba87DDdC85.jpg",
+    "name": "AgeOfVerse",
+    "symbol": "AOV"
+  },
+  {
     "address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
     "chainId": 137,
     "decimals": 18,
