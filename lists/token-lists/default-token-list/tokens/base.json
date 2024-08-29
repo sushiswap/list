@@ -152,6 +152,14 @@
     "symbol": "COMP"
   },
   {
+    "address": "0x56f6f2A23AE5EF82D8Dc46934F7Cf8D0b15ddEdD",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x56f6f2A23AE5EF82D8Dc46934F7Cf8D0b15ddEdD.jpg",
+    "name": "Croginal Cats",
+    "symbol": "Croginal"
+  },
+  {
     "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
     "chainId": 8453,
     "decimals": 18,
