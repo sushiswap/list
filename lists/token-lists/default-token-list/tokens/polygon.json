@@ -872,6 +872,14 @@
     "symbol": "MTA"
   },
   {
+    "address": "0x678eCc1373105A17c1f9E9AB06B6EdF11C146A0f",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x678eCc1373105A17c1f9E9AB06B6EdF11C146A0f.jpg",
+    "name": "Mundialis",
+    "symbol": "MUND"
+  },
+  {
     "address": "0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1",
     "chainId": 137,
     "decimals": 18,
