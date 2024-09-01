@@ -280,6 +280,14 @@
     "symbol": "MBS"
   },
   {
+    "address": "0x5b39Ccb445f9305D3eD9B6C948Dc0435eEE3946A",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x5b39Ccb445f9305D3eD9B6C948Dc0435eEE3946A.jpg",
+    "name": "MAKERS",
+    "symbol": "MKRS"
+  },
+  {
     "address": "0xe1f9ac62a2f34881f6Fe0F84322dE9d7024C2b8E",
     "chainId": 8453,
     "decimals": 8,
