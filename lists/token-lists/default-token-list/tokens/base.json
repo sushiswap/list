@@ -136,6 +136,14 @@
     "symbol": "cbETH"
   },
   {
+    "address": "0xB2A778e4F589D3a95eA9C44AcD3d005074171D75",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xB2A778e4F589D3a95eA9C44AcD3d005074171D75.jpg",
+    "name": "CEEK on Base",
+    "symbol": "CEEK"
+  },
+  {
     "address": "0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92",
     "chainId": 8453,
     "decimals": 18,
