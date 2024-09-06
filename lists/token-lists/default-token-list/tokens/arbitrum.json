@@ -504,6 +504,14 @@
     "symbol": "jrDPX"
   },
   {
+    "address": "0x443031aEADc9989793426ee5872a21A90da6A5eD",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x443031aEADc9989793426ee5872a21A90da6A5eD.jpg",
+    "name": "Koryntia Token",
+    "symbol": "KOTYA"
+  },
+  {
     "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
     "chainId": 42161,
     "decimals": 18,
