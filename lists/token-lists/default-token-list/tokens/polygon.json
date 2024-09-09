@@ -1168,6 +1168,14 @@
     "symbol": "RAIDER"
   },
   {
+    "address": "0x431CD3C9AC9Fc73644BF68bF5691f4B83F9E104f",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x431CD3C9AC9Fc73644BF68bF5691f4B83F9E104f.jpg",
+    "name": "Rainbow Token",
+    "symbol": "RBW"
+  },
+  {
     "address": "0x89C296Be2F904F3e99a6125815b4B78F5388d2dd",
     "chainId": 137,
     "decimals": 18,
