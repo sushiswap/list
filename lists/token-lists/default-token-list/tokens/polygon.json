@@ -928,6 +928,14 @@
     "symbol": "NGNC"
   },
   {
+    "address": "0x3A4BA29eFFe6C0F203F7Ba0A3671d2fF45d946cF",
+    "chainId": 137,
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x3A4BA29eFFe6C0F203F7Ba0A3671d2fF45d946cF.jpg",
+    "name": "nonyaneinvesco",
+    "symbol": "NIS"
+  },
+  {
     "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
     "chainId": 137,
     "decimals": 18,
