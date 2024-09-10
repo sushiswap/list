@@ -440,6 +440,14 @@
     "symbol": "DUCKIES"
   },
   {
+    "address": "0x2CF9297417cC292dFDb59619c7A29B1f8178ddeb",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2CF9297417cC292dFDb59619c7A29B1f8178ddeb.jpg",
+    "name": "DevCoin",
+    "symbol": "DVC"
+  },
+  {
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "chainId": 137,
     "decimals": 18,
