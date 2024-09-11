@@ -288,6 +288,14 @@
     "symbol": "EMAX"
   },
   {
+    "address": "0xDFB8BE6F8c87f74295A87de951974362CedCFA30",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xDFB8BE6F8c87f74295A87de951974362CedCFA30.jpg",
+    "name": "EdgeMatrix Computing network",
+    "symbol": "EMC"
+  },
+  {
     "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
     "chainId": 42161,
     "decimals": 6,
