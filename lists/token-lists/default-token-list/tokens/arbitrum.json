@@ -896,6 +896,14 @@
     "symbol": "RGT"
   },
   {
+    "address": "0xD44257ddE89ca53F1471582f718632e690e46Dc2",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xD44257ddE89ca53F1471582f718632e690e46Dc2.jpg",
+    "name": "S",
+    "symbol": "S"
+  },
+  {
     "address": "0xb52BD62eE0Cf462Fa9CCbDA4bf27Fe84D9ab6Cf7",
     "chainId": 42161,
     "decimals": 18,
