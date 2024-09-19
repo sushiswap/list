@@ -720,6 +720,14 @@
     "symbol": "OSAK"
   },
   {
+    "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396.jpg",
+    "name": "Overnight Finance",
+    "symbol": "OVN"
+  },
+  {
     "address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
     "chainId": 42161,
     "decimals": 18,
