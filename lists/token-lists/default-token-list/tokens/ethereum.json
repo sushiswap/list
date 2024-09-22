@@ -3488,6 +3488,14 @@
     "symbol": "TRY"
   },
   {
+    "address": "0xc5fB36dd2fb59d3B98dEfF88425a3F425Ee469eD",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc5fB36dd2fb59d3B98dEfF88425a3F425Ee469eD.jpg",
+    "name": "Dejitaru Tsuka",
+    "symbol": "TSUKA"
+  },
+  {
     "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
     "chainId": 1,
     "decimals": 18,
