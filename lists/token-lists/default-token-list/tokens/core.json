@@ -8,6 +8,14 @@
     "symbol": "ARS"
   },
   {
+    "address": "0xE28C76f86798F348e1073C97Adf08D0705155347",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xE28C76f86798F348e1073C97Adf08D0705155347.jpg",
+    "name": "Anonymous",
+    "symbol": "BITCOIN"
+  },
+  {
     "address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
     "chainId": 1116,
     "decimals": 18,
