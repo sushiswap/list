@@ -2568,6 +2568,14 @@
     "symbol": "PEPE"
   },
   {
+    "address": "0xDBc32866be488948e0699C966910ab04aBbC5b6c",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDBc32866be488948e0699C966910ab04aBbC5b6c.jpg",
+    "name": "PepePizzaCoin",
+    "symbol": "PEPI"
+  },
+  {
     "address": "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268",
     "chainId": 1,
     "decimals": 18,
