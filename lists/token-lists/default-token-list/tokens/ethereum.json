@@ -3080,6 +3080,14 @@
     "symbol": "SNX"
   },
   {
+    "address": "0x8F72696e649395EdB9eCfcBE6155A4230A5b2eF1",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8F72696e649395EdB9eCfcBE6155A4230A5b2eF1.jpg",
+    "name": "Solidecoin",
+    "symbol": "SOLIDE"
+  },
+  {
     "address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
     "chainId": 1,
     "decimals": 18,
