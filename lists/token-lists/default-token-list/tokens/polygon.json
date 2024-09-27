@@ -376,6 +376,14 @@
     "symbol": "DG"
   },
   {
+    "address": "0x291EEE97ac20DE85d03fF82Ab28b83847AF25093",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x291EEE97ac20DE85d03fF82Ab28b83847AF25093.jpg",
+    "name": "Dogenium",
+    "symbol": "DGNM"
+  },
+  {
     "address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
     "chainId": 137,
     "decimals": 18,
