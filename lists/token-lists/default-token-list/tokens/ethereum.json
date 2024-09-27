@@ -3600,6 +3600,14 @@
     "symbol": "USDP"
   },
   {
+    "address": "0x1122E608089C10Eaa6803a213e67f6ED032027f7",
+    "chainId": 1,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1122E608089C10Eaa6803a213e67f6ED032027f7.jpg",
+    "name": "USDS",
+    "symbol": "USDS"
+  },
+  {
     "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "chainId": 1,
     "decimals": 6,
