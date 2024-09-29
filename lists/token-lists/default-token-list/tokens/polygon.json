@@ -1112,6 +1112,14 @@
     "symbol": "Propel"
   },
   {
+    "address": "0xfC6F6F29b56D09C19368261B7E7fA697D4A53120",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xfC6F6F29b56D09C19368261B7E7fA697D4A53120.jpg",
+    "name": "Print",
+    "symbol": "PTR"
+  },
+  {
     "address": "0x5d0915f929FC090fd9c843a53e7e30335dD199bc",
     "chainId": 137,
     "decimals": 18,
