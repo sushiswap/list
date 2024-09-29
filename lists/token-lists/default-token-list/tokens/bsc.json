@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xd6087565813a988B5978C150b619D0998900c8eE",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xd6087565813a988B5978C150b619D0998900c8eE.jpg",
+    "name": "Volcanium",
+    "symbol": "$VOL"
+  },
+  {
     "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "chainId": 56,
     "decimals": 18,
