@@ -960,6 +960,14 @@
     "symbol": "SolvBTC.ENA"
   },
   {
+    "address": "0x1f1E37649299DfA2A605e261a59EC1D0a75f0DbA",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1f1E37649299DfA2A605e261a59EC1D0a75f0DbA.jpg",
+    "name": "Sapien",
+    "symbol": "SPE"
+  },
+  {
     "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
     "chainId": 42161,
     "decimals": 18,
