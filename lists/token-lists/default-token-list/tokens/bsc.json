@@ -736,6 +736,14 @@
     "symbol": "TEN"
   },
   {
+    "address": "0x39006641dB2d9C3618523a1778974c0D7e98e39d",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x39006641dB2d9C3618523a1778974c0D7e98e39d.jpg",
+    "name": "Trade Coin",
+    "symbol": "TRDC"
+  },
+  {
     "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "chainId": 56,
     "decimals": 18,
