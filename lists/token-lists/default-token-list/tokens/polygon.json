@@ -328,6 +328,14 @@
     "symbol": "cSUSHI"
   },
   {
+    "address": "0x9f9cCcD50B3f2A578c24C64345669A4b951dFfD6",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x9f9cCcD50B3f2A578c24C64345669A4b951dFfD6.jpg",
+    "name": "Costume Token ",
+    "symbol": "ctt"
+  },
+  {
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
     "chainId": 137,
     "decimals": 18,
