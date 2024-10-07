@@ -328,6 +328,14 @@
     "symbol": "cSUSHI"
   },
   {
+    "address": "0x7B3bD12675c6B9d6993eB81283cb68E6eB9260b5",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7B3bD12675c6B9d6993eB81283cb68E6eB9260b5.jpg",
+    "name": "Crypto Trading Fund",
+    "symbol": "CTF"
+  },
+  {
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
     "chainId": 137,
     "decimals": 18,
