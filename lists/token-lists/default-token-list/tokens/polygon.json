@@ -936,6 +936,14 @@
     "symbol": "NPM"
   },
   {
+    "address": "0x7a2E86df8b16d41261b797268d161559dDBB687a",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7a2E86df8b16d41261b797268d161559dDBB687a.jpg",
+    "name": "notpixel",
+    "symbol": "NPX"
+  },
+  {
     "address": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
     "chainId": 137,
     "decimals": 18,
