@@ -1144,6 +1144,14 @@
     "symbol": "PYQ"
   },
   {
+    "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x430EF9263E76DAE63c84292C3409D61c598E9682.jpg",
+    "name": "PYR Token",
+    "symbol": "PYR"
+  },
+  {
     "address": "0xeb45921FEDaDF41dF0BfCF5c33453aCedDA32441",
     "chainId": 137,
     "decimals": 18,
