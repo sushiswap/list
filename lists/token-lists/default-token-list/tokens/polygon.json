@@ -448,6 +448,14 @@
     "symbol": "ELE"
   },
   {
+    "address": "0x7eC26842F195c852Fa843bB9f6D8B583a274a157",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7eC26842F195c852Fa843bB9f6D8B583a274a157.jpg",
+    "name": "Enjin Coin (PoS)",
+    "symbol": "ENJ"
+  },
+  {
     "address": "0x60Ed6aCEF3a96F8CDaF0c0D207BbAfA66e751af2",
     "chainId": 137,
     "decimals": 18,
