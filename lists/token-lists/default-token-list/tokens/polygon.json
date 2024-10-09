@@ -616,6 +616,14 @@
     "symbol": "GMS"
   },
   {
+    "address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8.jpg",
+    "name": "Gnosis Token (PoS)",
+    "symbol": "GNO"
+  },
+  {
     "address": "0x127E47abA094a9a87D084a3a93732909Ff031419",
     "chainId": 137,
     "decimals": 18,
