@@ -144,6 +144,14 @@
     "symbol": "GRAPE"
   },
   {
+    "address": "0x08a45b4A2c3c7AC58459c761a4738B6C61508821",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x08a45b4A2c3c7AC58459c761a4738B6C61508821.jpg",
+    "name": "Happy Cat Meme",
+    "symbol": "HCM"
+  },
+  {
     "address": "0xCDEB5641dC5BF05845317B00643A713CCC3b22e6",
     "chainId": 43114,
     "decimals": 18,
