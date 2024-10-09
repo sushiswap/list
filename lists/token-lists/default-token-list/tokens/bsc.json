@@ -704,6 +704,14 @@
     "symbol": "STM"
   },
   {
+    "address": "0x015b01b64881F57e44A88ec9ea402770214cEAc9",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x015b01b64881F57e44A88ec9ea402770214cEAc9.jpg",
+    "name": "STRG",
+    "symbol": "STRG"
+  },
+  {
     "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
     "chainId": 56,
     "decimals": 18,
