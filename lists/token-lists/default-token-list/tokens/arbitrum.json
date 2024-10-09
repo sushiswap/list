@@ -907,7 +907,7 @@
     "address": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sdt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9.jpg",
     "name": "Stake DAO Token",
     "symbol": "SDT"
   },
