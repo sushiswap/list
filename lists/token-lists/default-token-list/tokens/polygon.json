@@ -1256,6 +1256,14 @@
     "symbol": "SAND"
   },
   {
+    "address": "0xb50A804C2eEC3faE25241fa9683f38eb99d6df38",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xb50A804C2eEC3faE25241fa9683f38eb99d6df38.jpg",
+    "name": "SIDRA MEME",
+    "symbol": "SIDRA"
+  },
+  {
     "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
     "chainId": 137,
     "decimals": 18,
