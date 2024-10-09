@@ -1640,6 +1640,14 @@
     "symbol": "IDLE"
   },
   {
+    "address": "0x4877D83FaAc234Dbd38d0F17BBc27A80604D3aED",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4877D83FaAc234Dbd38d0F17BBc27A80604D3aED.jpg",
+    "name": "Illiterate PC",
+    "symbol": "Illiterate"
+  },
+  {
     "address": "0x0acC0FEE1D86D2cD5AF372615bf59b298D50cd69",
     "chainId": 1,
     "decimals": 18,
