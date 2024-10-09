@@ -984,6 +984,14 @@
     "symbol": "pAUTO"
   },
   {
+    "address": "0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e.jpg",
+    "name": "Paxos Standard (PoS)",
+    "symbol": "PAX"
+  },
+  {
     "address": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
     "chainId": 137,
     "decimals": 18,
