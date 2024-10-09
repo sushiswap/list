@@ -88,6 +88,14 @@
     "symbol": "BAND"
   },
   {
+    "address": "0xd4D3D2c61422DcFD9bc152890D255ad1077BC88e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xd4D3D2c61422DcFD9bc152890D255ad1077BC88e.jpg",
+    "name": "Barbaros Token",
+    "symbol": "BBR"
+  },
+  {
     "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
     "chainId": 56,
     "decimals": 18,
