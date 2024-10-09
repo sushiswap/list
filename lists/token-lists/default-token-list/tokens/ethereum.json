@@ -2808,6 +2808,14 @@
     "symbol": "RAY"
   },
   {
+    "address": "0x86Eab36585EDDb7a949a0B4771BA733D942A8AA7",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x86Eab36585EDDb7a949a0B4771BA733D942A8AA7.jpg",
+    "name": "Reddit",
+    "symbol": "REDDIT"
+  },
+  {
     "address": "0xa35Bd2246978Dfbb1980DFf8Ff0f5834335dFdbc",
     "chainId": 1,
     "decimals": 18,
