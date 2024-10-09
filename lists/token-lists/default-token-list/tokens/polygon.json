@@ -352,6 +352,14 @@
     "symbol": "DEGEN"
   },
   {
+    "address": "0x4dc7F8F4DaE298d7f04d1955114E08F852d1Eb44",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x4dc7F8F4DaE298d7f04d1955114E08F852d1Eb44.jpg",
+    "name": "DEMOCRACY",
+    "symbol": "DEMO"
+  },
+  {
     "address": "0x3D1D2aFd191b165D140e3E8329E634665fFB0E5e",
     "chainId": 137,
     "decimals": 18,
