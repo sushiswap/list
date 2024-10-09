@@ -872,6 +872,14 @@
     "symbol": "XVS"
   },
   {
+    "address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xD3b71117E6C1558c1553305b44988cd944e97300.jpg",
+    "name": "YEL Token",
+    "symbol": "YEL"
+  },
+  {
     "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
     "chainId": 56,
     "decimals": 18,
