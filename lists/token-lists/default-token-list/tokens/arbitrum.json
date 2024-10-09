@@ -360,6 +360,14 @@
     "symbol": "FRM"
   },
   {
+    "address": "0xaF521B2DF94660DAd17a40Bcee012da2453bD59B",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xaF521B2DF94660DAd17a40Bcee012da2453bD59B.jpg",
+    "name": "FROGEINU",
+    "symbol": "FROGEINU"
+  },
+  {
     "address": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A",
     "chainId": 42161,
     "decimals": 6,
