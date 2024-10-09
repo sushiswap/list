@@ -784,6 +784,14 @@
     "symbol": "LINK"
   },
   {
+    "address": "0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1.jpg",
+    "name": "LoopringCoin V2 (PoS)",
+    "symbol": "LRC"
+  },
+  {
     "address": "0x858bCEE0E62dd0c961611ddDDB908767B0ce801C",
     "chainId": 137,
     "decimals": 18,
