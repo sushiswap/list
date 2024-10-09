@@ -1128,6 +1128,14 @@
     "symbol": "USX"
   },
   {
+    "address": "0xBa63B175A0a9687FE9db8A605a27b7f250C519D6",
+    "chainId": 42161,
+    "decimals": 3,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xBa63B175A0a9687FE9db8A605a27b7f250C519D6.jpg",
+    "name": "Velya",
+    "symbol": "VEL"
+  },
+  {
     "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
     "chainId": 42161,
     "decimals": 18,
