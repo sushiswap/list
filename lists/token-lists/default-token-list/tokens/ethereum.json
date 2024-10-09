@@ -1152,6 +1152,14 @@
     "symbol": "EGT"
   },
   {
+    "address": "0x2d294E375FB7d434CD41A44463689712046Cf08B",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x2d294E375FB7d434CD41A44463689712046Cf08B.jpg",
+    "name": "ElonGrok",
+    "symbol": "ElonGrok"
+  },
+  {
     "address": "0x893700A1a86EE68B92536bf6fd4d3200d7369F7d",
     "chainId": 1,
     "decimals": 18,
