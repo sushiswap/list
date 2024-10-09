@@ -736,6 +736,14 @@
     "symbol": "TEN"
   },
   {
+    "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x14016E85a25aeb13065688cAFB43044C2ef86784.jpg",
+    "name": "TrueUSD",
+    "symbol": "TUSD"
+  },
+  {
     "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "chainId": 56,
     "decimals": 18,
