@@ -536,6 +536,14 @@
     "symbol": "XEN"
   },
   {
+    "address": "0xF2eBdEAF4aAb4160E812C0282F13c6D023467d80",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xF2eBdEAF4aAb4160E812C0282F13c6D023467d80.jpg",
+    "name": "YANKEE BASE",
+    "symbol": "YANKEE"
+  },
+  {
     "address": "0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98",
     "chainId": 8453,
     "decimals": 18,
