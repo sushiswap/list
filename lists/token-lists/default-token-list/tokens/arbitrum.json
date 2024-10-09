@@ -512,6 +512,14 @@
     "symbol": "jrDPX"
   },
   {
+    "address": "0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB.jpg",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC"
+  },
+  {
     "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
     "chainId": 42161,
     "decimals": 18,
