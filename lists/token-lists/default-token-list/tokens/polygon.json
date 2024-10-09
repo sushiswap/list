@@ -312,6 +312,14 @@
     "symbol": "CREAM"
   },
   {
+    "address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C.jpg",
+    "name": "CRO (PoS)",
+    "symbol": "CRO"
+  },
+  {
     "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
     "chainId": 137,
     "decimals": 18,
