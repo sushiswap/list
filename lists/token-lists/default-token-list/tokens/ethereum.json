@@ -3888,6 +3888,14 @@
     "symbol": "WZEC"
   },
   {
+    "address": "0xb2e96a63479C2Edd2FD62b382c89D5CA79f572d3",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xb2e96a63479C2Edd2FD62b382c89D5CA79f572d3.jpg",
+    "name": "Wrapped ZNN",
+    "symbol": "wZNN"
+  },
+  {
     "address": "0x7f3141c4D6b047fb930991b450f1eD996a51CB26",
     "chainId": 1,
     "decimals": 18,
