@@ -1024,6 +1024,14 @@
     "symbol": "PICKLE"
   },
   {
+    "address": "0xB0a851ce3226B4D4316e109C3088FA9c6245b028",
+    "chainId": 137,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xB0a851ce3226B4D4316e109C3088FA9c6245b028.jpg",
+    "name": "CEBU PISO",
+    "symbol": "PISO"
+  },
+  {
     "address": "0x61E9c2F3501889f6167921087Bd6EA306002904a",
     "chainId": 137,
     "decimals": 18,
