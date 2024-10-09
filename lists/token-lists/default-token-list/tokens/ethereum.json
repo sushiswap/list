@@ -3848,6 +3848,14 @@
     "symbol": "WOW"
   },
   {
+    "address": "0x96546AFE4a21515A3a30CD3fd64A70eB478DC174",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x96546AFE4a21515A3a30CD3fd64A70eB478DC174.jpg",
+    "name": "Wrapped QSR",
+    "symbol": "wQSR"
+  },
+  {
     "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
     "chainId": 1,
     "decimals": 6,
