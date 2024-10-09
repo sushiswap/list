@@ -1608,6 +1608,14 @@
     "symbol": "YFI"
   },
   {
+    "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xDA537104D6A5edd53c6fBba9A898708E465260b6.jpg",
+    "name": "(PoS) yearn.finance",
+    "symbol": "YFI"
+  },
+  {
     "address": "0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc",
     "chainId": 137,
     "decimals": 18,
