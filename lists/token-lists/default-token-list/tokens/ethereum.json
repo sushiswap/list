@@ -2560,6 +2560,14 @@
     "symbol": "PENDLE"
   },
   {
+    "address": "0xD4f5E48235aA1465cc2Ce0B31cA79746B9721b1E",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xD4f5E48235aA1465cc2Ce0B31cA79746B9721b1E.jpg",
+    "name": "Pepa",
+    "symbol": "PEPA"
+  },
+  {
     "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
     "chainId": 1,
     "decimals": 18,
