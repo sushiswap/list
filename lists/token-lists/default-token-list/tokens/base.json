@@ -536,6 +536,14 @@
     "symbol": "XEN"
   },
   {
+    "address": "0xDfda89054ECC64D29969Efe751049dB8D5C54caF",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xDfda89054ECC64D29969Efe751049dB8D5C54caF.jpg",
+    "name": "4XXXX TOKEN ",
+    "symbol": "XX4XX "
+  },
+  {
     "address": "0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98",
     "chainId": 8453,
     "decimals": 18,
