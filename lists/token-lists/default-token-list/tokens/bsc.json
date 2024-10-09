@@ -120,6 +120,14 @@
     "symbol": "BOB"
   },
   {
+    "address": "0x5D0158A5c3ddF47d4Ea4517d8DB0D76aA2e87563",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x5D0158A5c3ddF47d4Ea4517d8DB0D76aA2e87563.jpg",
+    "name": "Bondly",
+    "symbol": "BONDLY"
+  },
+  {
     "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
     "chainId": 56,
     "decimals": 18,
