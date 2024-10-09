@@ -1056,6 +1056,14 @@
     "symbol": "TCR"
   },
   {
+    "address": "0x707754Ea8963193D594aD8F5d92aE43645C851c6",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x707754Ea8963193D594aD8F5d92aE43645C851c6.jpg",
+    "name": "TESLA DINER",
+    "symbol": "TESLA DINER"
+  },
+  {
     "address": "0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a",
     "chainId": 42161,
     "decimals": 18,
