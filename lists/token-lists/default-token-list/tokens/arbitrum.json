@@ -587,7 +587,7 @@
     "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mcb.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42.jpg",
     "name": "MCDEX Token",
     "symbol": "MCB"
   },
