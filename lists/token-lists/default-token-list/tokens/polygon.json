@@ -1595,8 +1595,8 @@
     "address": "0x6811079E3c63ED96Eb005384d7E7ec8810E3D521",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xsushi.jpg",
-    "name": "SushiBar",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6811079E3c63ED96Eb005384d7E7ec8810E3D521.jpg",
+    "name": "SushiBar (PoS)",
     "symbol": "xSUSHI"
   },
   {
