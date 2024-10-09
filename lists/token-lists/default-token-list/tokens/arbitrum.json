@@ -392,6 +392,14 @@
     "symbol": "GBOT"
   },
   {
+    "address": "0x001a9997081b1bBA9E0ECDDF659f850710f3E944",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x001a9997081b1bBA9E0ECDDF659f850710f3E944.jpg",
+    "name": "Green Dino",
+    "symbol": "GDNO"
+  },
+  {
     "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
     "chainId": 42161,
     "decimals": 18,
