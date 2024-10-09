@@ -336,6 +336,14 @@
     "symbol": "TIME"
   },
   {
+    "address": "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339.jpg",
+    "name": "UMA Voting Token v1",
+    "symbol": "UMA.e"
+  },
+  {
     "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
     "chainId": 43114,
     "decimals": 6,
