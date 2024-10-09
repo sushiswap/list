@@ -835,8 +835,8 @@
     "address": "0x4DA996C5Fe84755C80e108cf96Fe705174c5e36A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png",
-    "name": "WOWSwap",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x4DA996C5Fe84755C80e108cf96Fe705174c5e36A.jpg",
+    "name": "WOWswap",
     "symbol": "WOW"
   },
   {
