@@ -472,6 +472,14 @@
     "symbol": "IMO"
   },
   {
+    "address": "0xAC1D2636642AB1d91cb77A00b2b35B1b73c6e1fA",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xAC1D2636642AB1d91cb77A00b2b35B1b73c6e1fA.jpg",
+    "name": "in20",
+    "symbol": "in20"
+  },
+  {
     "address": "0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
     "chainId": 42161,
     "decimals": 18,
