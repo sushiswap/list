@@ -1064,6 +1064,14 @@
     "symbol": "TURBO"
   },
   {
+    "address": "0xd693Ec944A85eeca4247eC1c3b130DCa9B0C3b22",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xd693Ec944A85eeca4247eC1c3b130DCa9B0C3b22.jpg",
+    "name": "UMA Voting Token v1",
+    "symbol": "UMA"
+  },
+  {
     "address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
     "chainId": 42161,
     "decimals": 9,
