@@ -496,6 +496,14 @@
     "symbol": "mTSLA"
   },
   {
+    "address": "0x755f34709E369D37C6Fa52808aE84A32007d1155",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x755f34709E369D37C6Fa52808aE84A32007d1155.jpg",
+    "name": "Nabox Token",
+    "symbol": "NABOX"
+  },
+  {
     "address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
     "chainId": 56,
     "decimals": 18,
