@@ -1912,6 +1912,14 @@
     "symbol": "LSD"
   },
   {
+    "address": "0x9097262AdC6cC00CC913e7eEB1DDA5aACA4D984a",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9097262AdC6cC00CC913e7eEB1DDA5aACA4D984a.jpg",
+    "name": "LuminaX",
+    "symbol": "LuminaX"
+  },
+  {
     "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
     "chainId": 1,
     "decimals": 18,
