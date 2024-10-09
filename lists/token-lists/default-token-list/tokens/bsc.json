@@ -808,6 +808,14 @@
     "symbol": "VAI"
   },
   {
+    "address": "0x45abD7773B55d74095b80B3312FAF6e657b77B5b",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x45abD7773B55d74095b80B3312FAF6e657b77B5b.jpg",
+    "name": "VIGOR TOKEN",
+    "symbol": "VT"
+  },
+  {
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "chainId": 56,
     "decimals": 18,
