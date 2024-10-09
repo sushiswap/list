@@ -168,6 +168,14 @@
     "symbol": "JOE"
   },
   {
+    "address": "0x39fC9e94Caeacb435842FADeDeCB783589F50f5f",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x39fC9e94Caeacb435842FADeDeCB783589F50f5f.jpg",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC"
+  },
+  {
     "address": "0x5947BB275c521040051D82396192181b413227A3",
     "chainId": 43114,
     "decimals": 18,
