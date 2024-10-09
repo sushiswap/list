@@ -736,6 +736,14 @@
     "symbol": "TEN"
   },
   {
+    "address": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x05aD6E30A855BE07AfA57e08a4f30d00810a402e.jpg",
+    "name": "Tiny Coin",
+    "symbol": "TINC"
+  },
+  {
     "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "chainId": 56,
     "decimals": 18,
