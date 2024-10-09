@@ -1280,6 +1280,14 @@
     "symbol": "SPADE"
   },
   {
+    "address": "0x243f63efD3A35F382d4b8F16E0F9c4454276aCAE",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x243f63efD3A35F382d4b8F16E0F9c4454276aCAE.jpg",
+    "name": "SeguraSafeSwap",
+    "symbol": "SSS"
+  },
+  {
     "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
     "chainId": 137,
     "decimals": 18,
