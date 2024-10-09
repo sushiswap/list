@@ -336,6 +336,14 @@
     "symbol": "FXS"
   },
   {
+    "address": "0x1b45BeA7Bc42c9B8831C407B2348B66abf163d31",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x1b45BeA7Bc42c9B8831C407B2348B66abf163d31.jpg",
+    "name": "Grassroots Token",
+    "symbol": "GR"
+  },
+  {
     "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
     "chainId": 56,
     "decimals": 6,
