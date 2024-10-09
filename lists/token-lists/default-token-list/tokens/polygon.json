@@ -184,6 +184,14 @@
     "symbol": "BIFI"
   },
   {
+    "address": "0x6E0750D359F6f2d1e4637F5b0002519c4b5041a8",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6E0750D359F6f2d1e4637F5b0002519c4b5041a8.jpg",
+    "name": "Babelgam",
+    "symbol": "BLG"
+  },
+  {
     "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
     "chainId": 137,
     "decimals": 18,
