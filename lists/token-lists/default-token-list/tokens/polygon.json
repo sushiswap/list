@@ -1048,6 +1048,14 @@
     "symbol": "POLAR"
   },
   {
+    "address": "0xcB059C5573646047D6d88dDdb87B745C18161d3b",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xcB059C5573646047D6d88dDdb87B745C18161d3b.jpg",
+    "name": "Polymath (PoS)",
+    "symbol": "POLY"
+  },
+  {
     "address": "0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a",
     "chainId": 137,
     "decimals": 18,
