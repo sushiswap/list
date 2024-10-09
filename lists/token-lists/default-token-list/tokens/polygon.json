@@ -1592,6 +1592,14 @@
     "symbol": "XGEM"
   },
   {
+    "address": "0x442ED5A1E34AEEe5aF714B6A4fb17037Be319db3",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x442ED5A1E34AEEe5aF714B6A4fb17037Be319db3.jpg",
+    "name": "XPAPA",
+    "symbol": "XPA"
+  },
+  {
     "address": "0x6811079E3c63ED96Eb005384d7E7ec8810E3D521",
     "chainId": 137,
     "decimals": 18,
