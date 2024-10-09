@@ -176,6 +176,14 @@
     "symbol": "BCT"
   },
   {
+    "address": "0x7de1FC413cA2ff76dD57454cf156E543Fd408cBb",
+    "chainId": 137,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7de1FC413cA2ff76dD57454cf156E543Fd408cBb.jpg",
+    "name": "BENANCE",
+    "symbol": "BENANCE"
+  },
+  {
     "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
     "chainId": 137,
     "decimals": 18,
