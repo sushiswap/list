@@ -1056,6 +1056,14 @@
     "symbol": "TCR"
   },
   {
+    "address": "0xd58D345Fd9c82262E087d2D0607624B410D88242",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xd58D345Fd9c82262E087d2D0607624B410D88242.jpg",
+    "name": "Tellor Tributes",
+    "symbol": "TRB"
+  },
+  {
     "address": "0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a",
     "chainId": 42161,
     "decimals": 18,
