@@ -144,6 +144,14 @@
     "symbol": "GRAPE"
   },
   {
+    "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9.jpg",
+    "name": "Graph Token",
+    "symbol": "GRT.e"
+  },
+  {
     "address": "0xCDEB5641dC5BF05845317B00643A713CCC3b22e6",
     "chainId": 43114,
     "decimals": 18,
