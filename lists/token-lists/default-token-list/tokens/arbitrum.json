@@ -995,7 +995,7 @@
     "address": "0xA970AF1a584579B618be4d69aD6F73459D112F95",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/susd.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xA970AF1a584579B618be4d69aD6F73459D112F95.jpg",
     "name": "Synth sUSD",
     "symbol": "sUSD"
   },
