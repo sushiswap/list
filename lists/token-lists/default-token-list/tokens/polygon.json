@@ -984,6 +984,14 @@
     "symbol": "pAUTO"
   },
   {
+    "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x553d3D295e0f695B9228246232eDF400ed3560B5.jpg",
+    "name": "Paxos Gold (PoS)",
+    "symbol": "PAXG"
+  },
+  {
     "address": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
     "chainId": 137,
     "decimals": 18,
