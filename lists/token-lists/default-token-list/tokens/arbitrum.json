@@ -1064,6 +1064,14 @@
     "symbol": "TURBO"
   },
   {
+    "address": "0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07.jpg",
+    "name": "TrueUSD",
+    "symbol": "TUSD"
+  },
+  {
     "address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
     "chainId": 42161,
     "decimals": 9,
