@@ -832,6 +832,14 @@
     "symbol": "miMatic"
   },
   {
+    "address": "0x5329F774f9394b9699d26C322b43953C8f9eb0cA",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5329F774f9394b9699d26C322b43953C8f9eb0cA.jpg",
+    "name": "MAHAKAAL COIN",
+    "symbol": "MKL"
+  },
+  {
     "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
     "chainId": 137,
     "decimals": 18,
