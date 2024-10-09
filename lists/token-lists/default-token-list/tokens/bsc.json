@@ -848,6 +848,14 @@
     "symbol": "wSOTE"
   },
   {
+    "address": "0x7859B01BbF675d67Da8cD128a50D155cd881B576",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x7859B01BbF675d67Da8cD128a50D155cd881B576.jpg",
+    "name": "Mars Ecosystem Token",
+    "symbol": "XMS"
+  },
+  {
     "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
     "chainId": 56,
     "decimals": 18,
