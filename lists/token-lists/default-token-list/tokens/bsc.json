@@ -840,6 +840,14 @@
     "symbol": "WOW"
   },
   {
+    "address": "0xA58950F05FeA2277d2608748412bf9F802eA4901",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xA58950F05FeA2277d2608748412bf9F802eA4901.jpg",
+    "name": "Wall Street Games",
+    "symbol": "WSG"
+  },
+  {
     "address": "0x541E619858737031A1244A5d0Cd47E5ef480342c",
     "chainId": 56,
     "decimals": 18,
