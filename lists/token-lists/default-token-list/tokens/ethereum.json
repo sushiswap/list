@@ -1472,6 +1472,14 @@
     "symbol": "GMI"
   },
   {
+    "address": "0x677fE4bd9EE5A3E36d3662505977Cc387CEe7b1A",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x677fE4bd9EE5A3E36d3662505977Cc387CEe7b1A.jpg",
+    "name": "GenieCoin",
+    "symbol": "GNC"
+  },
+  {
     "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
     "chainId": 1,
     "decimals": 18,
