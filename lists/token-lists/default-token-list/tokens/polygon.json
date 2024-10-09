@@ -184,6 +184,14 @@
     "symbol": "BIFI"
   },
   {
+    "address": "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842.jpg",
+    "name": "Bancor Network Token (PoS)",
+    "symbol": "BNT"
+  },
+  {
     "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
     "chainId": 137,
     "decimals": 18,
