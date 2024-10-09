@@ -56,6 +56,14 @@
     "symbol": "MOON"
   },
   {
+    "address": "0x64ce88aE0b90db03710D265d9786765d2F8EFA8b",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x64ce88aE0b90db03710D265d9786765d2F8EFA8b.jpg",
+    "name": "Polkamon",
+    "symbol": "PMON"
+  },
+  {
     "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
     "chainId": 42170,
     "decimals": 18,
