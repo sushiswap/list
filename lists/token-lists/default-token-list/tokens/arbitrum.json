@@ -736,6 +736,14 @@
     "symbol": "pAAPL"
   },
   {
+    "address": "0x17C67F53E1D6fc64A85d071de44796DE8Bd34980",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x17C67F53E1D6fc64A85d071de44796DE8Bd34980.jpg",
+    "name": "Pampa Claus",
+    "symbol": "PAMPA"
+  },
+  {
     "address": "0xE656165d39419C03D588515c835d109E19221e1E",
     "chainId": 42161,
     "decimals": 18,
