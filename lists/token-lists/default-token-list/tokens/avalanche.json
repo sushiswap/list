@@ -104,6 +104,14 @@
     "symbol": "CERBY"
   },
   {
+    "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437.jpg",
+    "name": "Compound",
+    "symbol": "COMP.e"
+  },
+  {
     "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
     "chainId": 43114,
     "decimals": 18,
