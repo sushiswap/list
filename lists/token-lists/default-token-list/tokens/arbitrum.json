@@ -347,7 +347,7 @@
     "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F.jpg",
     "name": "Frax",
     "symbol": "FRAX"
   },
