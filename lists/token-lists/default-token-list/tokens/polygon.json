@@ -1435,8 +1435,8 @@
     "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
     "chainId": 137,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-    "name": "Tether USD",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.jpg",
+    "name": "(PoS) Tether USD",
     "symbol": "USDT"
   },
   {
