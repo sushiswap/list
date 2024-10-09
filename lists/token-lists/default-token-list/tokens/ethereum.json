@@ -2584,6 +2584,14 @@
     "symbol": "PERP"
   },
   {
+    "address": "0x62aBdd605E710Cc80a52062a8cC7c5d659dDDbE7",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x62aBdd605E710Cc80a52062a8cC7c5d659dDDbE7.jpg",
+    "name": "pSeudoEthereum",
+    "symbol": "pEth"
+  },
+  {
     "address": "0xE1Fc4455f62a6E89476f1072530C20CF1A0622dA",
     "chainId": 1,
     "decimals": 18,
