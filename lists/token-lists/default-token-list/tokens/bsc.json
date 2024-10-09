@@ -832,6 +832,14 @@
     "symbol": "WENLAMBO"
   },
   {
+    "address": "0x8b303d5BbfBbf46F1a4d9741E491e06986894e18",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x8b303d5BbfBbf46F1a4d9741E491e06986894e18.jpg",
+    "name": "Woonkly Power",
+    "symbol": "WOOP"
+  },
+  {
     "address": "0x4DA996C5Fe84755C80e108cf96Fe705174c5e36A",
     "chainId": 56,
     "decimals": 18,
