@@ -32,6 +32,14 @@
     "symbol": "ANKR"
   },
   {
+    "address": "0x6679eB24F59dFe111864AEc72B443d1Da666B360",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x6679eB24F59dFe111864AEc72B443d1Da666B360.jpg",
+    "name": "ARIVA",
+    "symbol": "ARV"
+  },
+  {
     "address": "0x80D5f92C2c8C682070C95495313dDB680B267320",
     "chainId": 56,
     "decimals": 2,
