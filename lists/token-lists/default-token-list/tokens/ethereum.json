@@ -2680,6 +2680,14 @@
     "symbol": "POOL"
   },
   {
+    "address": "0xB098E7F74D66E5D654aaA19F3B4B071D7f442CB3",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xB098E7F74D66E5D654aaA19F3B4B071D7f442CB3.jpg",
+    "name": "Potato",
+    "symbol": "POTATO"
+  },
+  {
     "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
     "chainId": 1,
     "decimals": 18,
