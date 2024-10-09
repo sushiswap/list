@@ -120,6 +120,14 @@
     "symbol": "axlUSDC"
   },
   {
+    "address": "0xBfa641051Ba0a0Ad1b0AcF549a89536A0D76472E",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xBfa641051Ba0a0Ad1b0AcF549a89536A0D76472E.jpg",
+    "name": "Badger",
+    "symbol": "BADGER"
+  },
+  {
     "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
     "chainId": 42161,
     "decimals": 18,
