@@ -808,6 +808,14 @@
     "symbol": "VAI"
   },
   {
+    "address": "0x5F84ce30DC3cF7909101C69086c50De191895883",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x5F84ce30DC3cF7909101C69086c50De191895883.jpg",
+    "name": "Venus Reward Token",
+    "symbol": "VRT"
+  },
+  {
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "chainId": 56,
     "decimals": 18,
