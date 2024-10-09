@@ -1408,6 +1408,14 @@
     "symbol": "GAS"
   },
   {
+    "address": "0xc370C70907DA6775D2Fdba15143869Ab74922b29",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc370C70907DA6775D2Fdba15143869Ab74922b29.jpg",
+    "name": "GDRCv1Token",
+    "symbol": "GDRCv1"
+  },
+  {
     "address": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E",
     "chainId": 1,
     "decimals": 18,
