@@ -808,6 +808,14 @@
     "symbol": "VAI"
   },
   {
+    "address": "0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0.jpg",
+    "name": "yieldwatch",
+    "symbol": "WATCH"
+  },
+  {
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "chainId": 56,
     "decimals": 18,
