@@ -688,6 +688,14 @@
     "symbol": "IMRTL"
   },
   {
+    "address": "0x4E8dc2149EaC3f3dEf36b1c281EA466338249371",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x4E8dc2149EaC3f3dEf36b1c281EA466338249371.jpg",
+    "name": "Injective Token (PoS)",
+    "symbol": "INJ"
+  },
+  {
     "address": "0xf50D05A1402d0adAfA880D36050736f9f6ee7dee",
     "chainId": 137,
     "decimals": 18,
