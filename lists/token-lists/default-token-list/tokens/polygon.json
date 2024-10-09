@@ -800,6 +800,14 @@
     "symbol": "MANA"
   },
   {
+    "address": "0xc17Ea6b9dB6f202Ec7755BE2450c9f0Cc41A5793",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xc17Ea6b9dB6f202Ec7755BE2450c9f0Cc41A5793.jpg",
+    "name": "MEME",
+    "symbol": "MEME"
+  },
+  {
     "address": "0x91cA694d2B293f70Fe722fbA7d8A5259188959c3",
     "chainId": 137,
     "decimals": 18,
