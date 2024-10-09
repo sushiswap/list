@@ -736,6 +736,14 @@
     "symbol": "TEN"
   },
   {
+    "address": "0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
+    "chainId": 56,
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x2222227E22102Fe3322098e4CBfE18cFebD57c95.jpg",
+    "name": "Alien Worlds Trilium",
+    "symbol": "TLM"
+  },
+  {
     "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "chainId": 56,
     "decimals": 18,
