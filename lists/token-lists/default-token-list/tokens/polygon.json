@@ -752,6 +752,14 @@
     "symbol": "KOM"
   },
   {
+    "address": "0x5aBD74c7192e7688F81206d8A4F6B9c298f3D282",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5aBD74c7192e7688F81206d8A4F6B9c298f3D282.jpg",
+    "name": "KINGPAPA",
+    "symbol": "KPAPA"
+  },
+  {
     "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
     "chainId": 137,
     "decimals": 18,
