@@ -744,6 +744,14 @@
     "symbol": "TWT"
   },
   {
+    "address": "0xB35947e4E2F4c56676f6146f7DE37AEd3a421e26",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xB35947e4E2F4c56676f6146f7DE37AEd3a421e26.jpg",
+    "name": "Talari",
+    "symbol": "TXOF"
+  },
+  {
     "address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
     "chainId": 56,
     "decimals": 18,
