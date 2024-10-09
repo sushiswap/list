@@ -360,6 +360,14 @@
     "symbol": "ICE"
   },
   {
+    "address": "0xa66b9baCA9681C154890AD703dc5e2766d4ec2C1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xa66b9baCA9681C154890AD703dc5e2766d4ec2C1.jpg",
+    "name": "ITs CORN",
+    "symbol": "ICN"
+  },
+  {
     "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
     "chainId": 56,
     "decimals": 18,
