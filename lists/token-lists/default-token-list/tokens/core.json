@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xDFAAF719cBaEB34D6a041F845d31B29c1381e3ff",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xDFAAF719cBaEB34D6a041F845d31B29c1381e3ff.jpg",
+    "name": "A-59",
+    "symbol": "A-59"
+  },
+  {
     "address": "0x204e2D49b7cDA6d93301bcF667A2Da28Fb0e5780",
     "chainId": 1116,
     "decimals": 18,
