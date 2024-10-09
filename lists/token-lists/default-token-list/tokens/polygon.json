@@ -1592,6 +1592,14 @@
     "symbol": "XGEM"
   },
   {
+    "address": "0x924442A46EAC25646b520Da8D78218Ae8FF437C2",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x924442A46EAC25646b520Da8D78218Ae8FF437C2.jpg",
+    "name": "Xucre",
+    "symbol": "XRE"
+  },
+  {
     "address": "0x6811079E3c63ED96Eb005384d7E7ec8810E3D521",
     "chainId": 137,
     "decimals": 18,
