@@ -1216,6 +1216,14 @@
     "symbol": "renFIL"
   },
   {
+    "address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762.jpg",
+    "name": "Request",
+    "symbol": "REQ"
+  },
+  {
     "address": "0x263026E7e53DBFDce5ae55Ade22493f828922965",
     "chainId": 137,
     "decimals": 18,
