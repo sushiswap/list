@@ -712,6 +712,14 @@
     "symbol": "CLNY"
   },
   {
+    "address": "0x07a24CA74a7592C16827d186b802E004cec33Bb3",
+    "chainId": 1,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x07a24CA74a7592C16827d186b802E004cec33Bb3.jpg",
+    "name": "CLP Coin",
+    "symbol": "CLPC"
+  },
+  {
     "address": "0x68CFb82Eacb9f198d508B514d898a403c449533E",
     "chainId": 1,
     "decimals": 18,
