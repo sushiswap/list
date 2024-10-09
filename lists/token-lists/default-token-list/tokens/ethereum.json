@@ -1152,6 +1152,14 @@
     "symbol": "EGT"
   },
   {
+    "address": "0x2AfF95470e4Ede7Ff7ea220E2973392189838A7A",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x2AfF95470e4Ede7Ff7ea220E2973392189838A7A.jpg",
+    "name": "El Magador",
+    "symbol": "ELMAGA"
+  },
+  {
     "address": "0x893700A1a86EE68B92536bf6fd4d3200d7369F7d",
     "chainId": 1,
     "decimals": 18,
