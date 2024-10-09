@@ -648,6 +648,14 @@
     "symbol": "GURU"
   },
   {
+    "address": "0xC8A94a3d3D2dabC3C1CaffFFDcA6A7543c3e3e65",
+    "chainId": 137,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xC8A94a3d3D2dabC3C1CaffFFDcA6A7543c3e3e65.jpg",
+    "name": "Gemini dollar (PoS)",
+    "symbol": "GUSD"
+  },
+  {
     "address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
     "chainId": 137,
     "decimals": 18,
