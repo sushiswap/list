@@ -176,6 +176,14 @@
     "symbol": "BUSD"
   },
   {
+    "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6.jpg",
+    "name": "Coin98",
+    "symbol": "C98"
+  },
+  {
     "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
     "chainId": 56,
     "decimals": 18,
