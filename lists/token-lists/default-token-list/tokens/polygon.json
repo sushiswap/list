@@ -1040,6 +1040,14 @@
     "symbol": "PKR"
   },
   {
+    "address": "0xb4cA6E79670D497d00c4384c15C7ab697F74E52c",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xb4cA6E79670D497d00c4384c15C7ab697F74E52c.jpg",
+    "name": "ProfitPulse",
+    "symbol": "POL"
+  },
+  {
     "address": "0xdC3aCB92712D1D44fFE15d3A8D66d9d18C81e038",
     "chainId": 137,
     "decimals": 18,
