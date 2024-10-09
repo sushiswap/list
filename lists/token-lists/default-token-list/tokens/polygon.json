@@ -152,6 +152,14 @@
     "symbol": "BAL"
   },
   {
+    "address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac.jpg",
+    "name": "BandToken (PoS)",
+    "symbol": "BAND"
+  },
+  {
     "address": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab",
     "chainId": 137,
     "decimals": 18,
