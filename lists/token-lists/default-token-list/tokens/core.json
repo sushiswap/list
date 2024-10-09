@@ -78,5 +78,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
+  },
+  {
+    "address": "0x3A202eE3e212C2884e9eC7001488caF14119754e",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x3A202eE3e212C2884e9eC7001488caF14119754e.jpg",
+    "name": "Whales",
+    "symbol": "WHLS"
   }
 ]
