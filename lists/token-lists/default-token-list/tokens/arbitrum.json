@@ -512,6 +512,14 @@
     "symbol": "jrDPX"
   },
   {
+    "address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60.jpg",
+    "name": "Lido DAO Token",
+    "symbol": "LDO"
+  },
+  {
     "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
     "chainId": 42161,
     "decimals": 18,
