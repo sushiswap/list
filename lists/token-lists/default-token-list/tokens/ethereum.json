@@ -3144,6 +3144,14 @@
     "symbol": "SRM"
   },
   {
+    "address": "0x6C22D4037A63C07BBDE5A46F3fFA8b0a7c51fB5B",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x6C22D4037A63C07BBDE5A46F3fFA8b0a7c51fB5B.jpg",
+    "name": "Smart Agriculture",
+    "symbol": "STA"
+  },
+  {
     "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
     "chainId": 1,
     "decimals": 18,
