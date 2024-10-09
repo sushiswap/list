@@ -32,6 +32,14 @@
     "symbol": "ANKR"
   },
   {
+    "address": "0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3.jpg",
+    "name": "ApolloX Token",
+    "symbol": "APX"
+  },
+  {
     "address": "0x80D5f92C2c8C682070C95495313dDB680B267320",
     "chainId": 56,
     "decimals": 2,
