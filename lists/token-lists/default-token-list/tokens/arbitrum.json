@@ -752,6 +752,14 @@
     "symbol": "PANA"
   },
   {
+    "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8.jpg",
+    "name": "Pendle",
+    "symbol": "PENDLE"
+  },
+  {
     "address": "0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05",
     "chainId": 42161,
     "decimals": 18,
