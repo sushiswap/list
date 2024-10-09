@@ -128,6 +128,14 @@
     "symbol": "bROOBEE"
   },
   {
+    "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830.jpg",
+    "name": "Berry Tributes",
+    "symbol": "BRY"
+  },
+  {
     "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
     "chainId": 56,
     "decimals": 18,
