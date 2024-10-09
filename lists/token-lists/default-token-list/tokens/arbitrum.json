@@ -579,7 +579,7 @@
     "address": "0x99F40b01BA9C469193B360f72740E416B17Ac332",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/math.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x99F40b01BA9C469193B360f72740E416B17Ac332.jpg",
     "name": "MATH Token",
     "symbol": "MATH"
   },
