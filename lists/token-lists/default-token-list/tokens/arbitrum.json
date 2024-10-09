@@ -1056,6 +1056,14 @@
     "symbol": "TCR"
   },
   {
+    "address": "0x47733824fbdaECE9aCdC3d6Dfe334d2C56d9f3C4",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x47733824fbdaECE9aCdC3d6Dfe334d2C56d9f3C4.jpg",
+    "name": "myTest",
+    "symbol": "Test01"
+  },
+  {
     "address": "0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a",
     "chainId": 42161,
     "decimals": 18,
