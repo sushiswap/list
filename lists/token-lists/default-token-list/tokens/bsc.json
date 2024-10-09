@@ -768,6 +768,14 @@
     "symbol": "USDC"
   },
   {
+    "address": "0xc2fa12132c079718323C42ea4fB2FAe39C593D9a",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xc2fa12132c079718323C42ea4fB2FAe39C593D9a.jpg",
+    "name": "InvestCoin USD",
+    "symbol": "USDI"
+  },
+  {
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "chainId": 56,
     "decimals": 18,
