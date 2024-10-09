@@ -200,6 +200,14 @@
     "symbol": "CRV"
   },
   {
+    "address": "0x84F5c2cFba754E76DD5aE4fB369CfC920425E12b",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x84F5c2cFba754E76DD5aE4fB369CfC920425E12b.jpg",
+    "name": "Cryptex",
+    "symbol": "CTX"
+  },
+  {
     "address": "0x8096aD3107715747361acefE685943bFB427C722",
     "chainId": 42161,
     "decimals": 18,
