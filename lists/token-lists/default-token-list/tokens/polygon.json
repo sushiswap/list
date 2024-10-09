@@ -608,6 +608,14 @@
     "symbol": "GIDDY"
   },
   {
+    "address": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf.jpg",
+    "name": "Golem Network Token (PoS)",
+    "symbol": "GLM"
+  },
+  {
     "address": "0x0d962A1A2A27B402e4D84772dea65Ac8592Eb6bF",
     "chainId": 137,
     "decimals": 18,
