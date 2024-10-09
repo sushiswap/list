@@ -96,6 +96,14 @@
     "symbol": "BCH"
   },
   {
+    "address": "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454.jpg",
+    "name": "bDollar",
+    "symbol": "BDO"
+  },
+  {
     "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "chainId": 56,
     "decimals": 18,
