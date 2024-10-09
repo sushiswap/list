@@ -891,7 +891,7 @@
     "address": "0xef888bcA6AB6B1d26dbeC977C455388ecd794794",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rgt.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xef888bcA6AB6B1d26dbeC977C455388ecd794794.jpg",
     "name": "Rari Governance Token",
     "symbol": "RGT"
   },
