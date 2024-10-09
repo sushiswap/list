@@ -136,6 +136,14 @@
     "symbol": "BIFI"
   },
   {
+    "address": "0x91C0Ab2e50DB1Afe9e673BBb1fd5A3e0e4adF1f9",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x91C0Ab2e50DB1Afe9e673BBb1fd5A3e0e4adF1f9.jpg",
+    "name": "Blob",
+    "symbol": "BLOB"
+  },
+  {
     "address": "0xAFD871f684F21Ab9D7137608C71808f83D75e6fc",
     "chainId": 42161,
     "decimals": 18,
