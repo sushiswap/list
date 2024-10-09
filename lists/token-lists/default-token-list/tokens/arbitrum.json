@@ -136,6 +136,14 @@
     "symbol": "BIFI"
   },
   {
+    "address": "0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1.jpg",
+    "name": "BarnBridge Governance Token",
+    "symbol": "BOND"
+  },
+  {
     "address": "0xAFD871f684F21Ab9D7137608C71808f83D75e6fc",
     "chainId": 42161,
     "decimals": 18,
