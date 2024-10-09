@@ -3336,6 +3336,14 @@
     "symbol": "SYN"
   },
   {
+    "address": "0x0B29956d1A26caBc549a9538A97Dc8Abede4c28d",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0B29956d1A26caBc549a9538A97Dc8Abede4c28d.jpg",
+    "name": "Taveta",
+    "symbol": "TAV"
+  },
+  {
     "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
     "chainId": 1,
     "decimals": 18,
