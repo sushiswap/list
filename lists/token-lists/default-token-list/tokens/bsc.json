@@ -680,6 +680,14 @@
     "symbol": "sSPELL"
   },
   {
+    "address": "0xe5af9EA80f702ad14e6968ab213D4A60AeA09A95",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xe5af9EA80f702ad14e6968ab213D4A60AeA09A95.jpg",
+    "name": "SeguraSafeSwap",
+    "symbol": "SSS"
+  },
+  {
     "address": "0x0Da6Ed8B13214Ff28e9Ca979Dd37439e8a88F6c4",
     "chainId": 56,
     "decimals": 18,
