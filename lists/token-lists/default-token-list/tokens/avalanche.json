@@ -296,6 +296,14 @@
     "symbol": "sifu"
   },
   {
+    "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xBeC243C995409E6520D7C41E404da5dEba4b209B.jpg",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX.e"
+  },
+  {
     "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
     "chainId": 43114,
     "decimals": 18,
