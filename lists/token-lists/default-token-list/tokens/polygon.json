@@ -280,6 +280,14 @@
     "symbol": "CHUM"
   },
   {
+    "address": "0xCEc3c3952Ab5e3cA7dF585B87fB7905D4FD9d476",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xCEc3c3952Ab5e3cA7dF585B87fB7905D4FD9d476.jpg",
+    "name": "CryptoNicholas",
+    "symbol": "CNS"
+  },
+  {
     "address": "0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC",
     "chainId": 137,
     "decimals": 18,
