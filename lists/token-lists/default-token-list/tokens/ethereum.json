@@ -1816,6 +1816,14 @@
     "symbol": "KP3R"
   },
   {
+    "address": "0x5f90da089D90389323AeFafDd4Ce5B5d2f6CCe7E",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x5f90da089D90389323AeFafDd4Ce5B5d2f6CCe7E.jpg",
+    "name": "Lincoin",
+    "symbol": "LCN"
+  },
+  {
     "address": "0xb29663Aa4E2e81e425294193616c1B102B70a158",
     "chainId": 1,
     "decimals": 18,
