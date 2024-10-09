@@ -376,6 +376,14 @@
     "symbol": "DG"
   },
   {
+    "address": "0xf9c1F70f9bF57FAD5f63c6E1E25C2e895f04c0A6",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xf9c1F70f9bF57FAD5f63c6E1E25C2e895f04c0A6.jpg",
+    "name": "DeltaHub Community",
+    "symbol": "DHC"
+  },
+  {
     "address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
     "chainId": 137,
     "decimals": 18,
