@@ -192,6 +192,14 @@
     "symbol": "BOB"
   },
   {
+    "address": "0xa4B2B20b2C73c7046ED19AC6bfF5E5285c58F20a",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xa4B2B20b2C73c7046ED19AC6bfF5E5285c58F20a.jpg",
+    "name": "Boba Token (PoS)",
+    "symbol": "BOBA"
+  },
+  {
     "address": "0xA041544fe2BE56CCe31Ebb69102B965E06aacE80",
     "chainId": 137,
     "decimals": 18,
