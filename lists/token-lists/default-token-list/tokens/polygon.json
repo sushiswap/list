@@ -800,6 +800,14 @@
     "symbol": "MANA"
   },
   {
+    "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6.jpg",
+    "name": "Liquid Staking Matic (PoS)",
+    "symbol": "MaticX"
+  },
+  {
     "address": "0x91cA694d2B293f70Fe722fbA7d8A5259188959c3",
     "chainId": 137,
     "decimals": 18,
