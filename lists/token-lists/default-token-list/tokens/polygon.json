@@ -1440,6 +1440,14 @@
     "symbol": "USDT"
   },
   {
+    "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x692597b009d13C4049a947CAB2239b7d6517875F.jpg",
+    "name": "Wrapped UST Token (PoS)",
+    "symbol": "UST"
+  },
+  {
     "address": "0xAC63686230f64BDEAF086Fe6764085453ab3023F",
     "chainId": 137,
     "decimals": 9,
