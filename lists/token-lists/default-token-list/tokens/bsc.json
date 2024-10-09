@@ -163,7 +163,7 @@
     "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/burgerswap_32.png",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.jpg",
     "name": "Burger Swap",
     "symbol": "BURGER"
   },
