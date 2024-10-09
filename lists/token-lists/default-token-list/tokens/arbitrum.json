@@ -752,6 +752,14 @@
     "symbol": "PANA"
   },
   {
+    "address": "0x375Ab5e15D219F8ef3cA48849790Bf3B04816618",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x375Ab5e15D219F8ef3cA48849790Bf3B04816618.jpg",
+    "name": "penguin",
+    "symbol": "penguin"
+  },
+  {
     "address": "0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05",
     "chainId": 42161,
     "decimals": 18,
