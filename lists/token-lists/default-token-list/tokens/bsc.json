@@ -640,6 +640,14 @@
     "symbol": "REEF"
   },
   {
+    "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x232FB065D9d24c34708eeDbF03724f2e95ABE768.jpg",
+    "name": "Sheesha Finance",
+    "symbol": "SHEESHA"
+  },
+  {
     "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
     "chainId": 56,
     "decimals": 18,
