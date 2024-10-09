@@ -1360,6 +1360,14 @@
     "symbol": "TORN"
   },
   {
+    "address": "0x5B593a4d8E795d39BC9e2106fE27de61Db5771a7",
+    "chainId": 137,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5B593a4d8E795d39BC9e2106fE27de61Db5771a7.jpg",
+    "name": "TrotelCoin",
+    "symbol": "TROTEL"
+  },
+  {
     "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
     "chainId": 137,
     "decimals": 18,
