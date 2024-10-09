@@ -504,6 +504,14 @@
     "symbol": "FBX"
   },
   {
+    "address": "0xc6527b9dB96b4790604a3F8873D23140C8391D07",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xc6527b9dB96b4790604a3F8873D23140C8391D07.jpg",
+    "name": "DEFINA TOKEN",
+    "symbol": "FINA"
+  },
+  {
     "address": "0x960d43BE128585Ca45365CD74a7773B9d814dfBE",
     "chainId": 137,
     "decimals": 18,
