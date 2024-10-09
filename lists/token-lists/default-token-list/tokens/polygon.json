@@ -800,6 +800,14 @@
     "symbol": "MANA"
   },
   {
+    "address": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7.jpg",
+    "name": "Mask Network (PoS)",
+    "symbol": "MASK"
+  },
+  {
     "address": "0x91cA694d2B293f70Fe722fbA7d8A5259188959c3",
     "chainId": 137,
     "decimals": 18,
