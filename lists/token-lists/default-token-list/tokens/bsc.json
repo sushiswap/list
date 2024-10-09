@@ -736,6 +736,14 @@
     "symbol": "TEN"
   },
   {
+    "address": "0x84E03e21dA9B32555885a85b7c23e5FC123C25DD",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x84E03e21dA9B32555885a85b7c23e5FC123C25DD.jpg",
+    "name": "TUK Token",
+    "symbol": "TUK"
+  },
+  {
     "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "chainId": 56,
     "decimals": 18,
