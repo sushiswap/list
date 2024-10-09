@@ -1408,6 +1408,14 @@
     "symbol": "UNITY"
   },
   {
+    "address": "0x623B3357095Ea5E41920DEC8B873Cc95839F861d",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x623B3357095Ea5E41920DEC8B873Cc95839F861d.jpg",
+    "name": "unknown",
+    "symbol": "unknown"
+  },
+  {
     "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
     "chainId": 137,
     "decimals": 6,
