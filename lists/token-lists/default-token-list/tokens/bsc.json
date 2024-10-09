@@ -146,9 +146,9 @@
   {
     "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
     "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13636/small/btcst-coin.png?1610501705",
-    "name": "Standard BTC Hashrate Token",
+    "decimals": 17,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x78650B139471520656b9E7aA7A5e9276814a38e9.jpg",
+    "name": "StandardBTCHashrateToken",
     "symbol": "BTCST"
   },
   {
