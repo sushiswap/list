@@ -72,6 +72,14 @@
     "symbol": "ankrMATIC"
   },
   {
+    "address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xB7b31a6BC18e48888545CE79e83E06003bE70930.jpg",
+    "name": "ApeCoin (PoS)",
+    "symbol": "APE"
+  },
+  {
     "address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
     "chainId": 137,
     "decimals": 18,
