@@ -1312,6 +1312,14 @@
     "symbol": "SX"
   },
   {
+    "address": "0x6aBB753C1893194DE4a83c6e8B4EadFc105Fd5f5",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6aBB753C1893194DE4a83c6e8B4EadFc105Fd5f5.jpg",
+    "name": "Swipe (PoS)",
+    "symbol": "SXP"
+  },
+  {
     "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
     "chainId": 137,
     "decimals": 2,
