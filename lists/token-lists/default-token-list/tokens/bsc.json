@@ -99,8 +99,8 @@
     "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12704/small/token.png?1601876182",
-    "name": "Beefy.finance",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.jpg",
+    "name": "beefy.finance",
     "symbol": "BIFI"
   },
   {
