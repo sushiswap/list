@@ -872,6 +872,14 @@
     "symbol": "XVS"
   },
   {
+    "address": "0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc.jpg",
+    "name": "XWG",
+    "symbol": "XWG"
+  },
+  {
     "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
     "chainId": 56,
     "decimals": 18,
