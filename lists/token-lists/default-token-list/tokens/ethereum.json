@@ -2600,6 +2600,14 @@
     "symbol": "PICKLE"
   },
   {
+    "address": "0x49a110D89f672c47dcfBFB4aD3fD9291Db10f49a",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x49a110D89f672c47dcfBFB4aD3fD9291Db10f49a.jpg",
+    "name": "PigletMafia",
+    "symbol": "PIGLET"
+  },
+  {
     "address": "0x26607aC599266b21d13c7aCF7942c7701a8b699c",
     "chainId": 1,
     "decimals": 18,
