@@ -736,6 +736,14 @@
     "symbol": "TEN"
   },
   {
+    "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x9f589e3eabe42ebC94A44727b3f3531C0c877809.jpg",
+    "name": "Tokocrypto Token",
+    "symbol": "TKO"
+  },
+  {
     "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "chainId": 56,
     "decimals": 18,
