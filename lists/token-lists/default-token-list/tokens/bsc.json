@@ -723,7 +723,7 @@
     "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sxp.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A.jpg",
     "name": "Swipe",
     "symbol": "SXP"
   },
