@@ -264,6 +264,14 @@
     "symbol": "DOT"
   },
   {
+    "address": "0x561C98aFD2bFfe2148e6062a9095d0Ca1fC407a0",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x561C98aFD2bFfe2148e6062a9095d0Ca1fC407a0.jpg",
+    "name": "Eco Coin",
+    "symbol": "ECO"
+  },
+  {
     "address": "0x45808Ce43eb2D7685fF0242631f0FeB6f3D8701a",
     "chainId": 56,
     "decimals": 18,
