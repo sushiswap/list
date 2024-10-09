@@ -2744,6 +2744,14 @@
     "symbol": "pWING"
   },
   {
+    "address": "0x7c730686F255B7FEc335fC93594bdd59D240033d",
+    "chainId": 1,
+    "decimals": 7,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7c730686F255B7FEc335fC93594bdd59D240033d.jpg",
+    "name": "Quantum.AI",
+    "symbol": "Q.AI"
+  },
+  {
     "address": "0xAB2A7B5876D707e0126B3A75EF7781c77c8877EE",
     "chainId": 1,
     "decimals": 18,
