@@ -800,6 +800,14 @@
     "symbol": "MANA"
   },
   {
+    "address": "0x4EEC17485De78FB6EC33985dbF4Ec9d6B9d01C05",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x4EEC17485De78FB6EC33985dbF4Ec9d6B9d01C05.jpg",
+    "name": "MeMess10",
+    "symbol": "Mess10"
+  },
+  {
     "address": "0x91cA694d2B293f70Fe722fbA7d8A5259188959c3",
     "chainId": 137,
     "decimals": 18,
