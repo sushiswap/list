@@ -192,6 +192,14 @@
     "symbol": "CREDA"
   },
   {
+    "address": "0x4C9067c3d892bD1f304b8a028220c1f3020F63ff",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x4C9067c3d892bD1f304b8a028220c1f3020F63ff.jpg",
+    "name": "Cros",
+    "symbol": "CROS"
+  },
+  {
     "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
     "chainId": 42161,
     "decimals": 18,
