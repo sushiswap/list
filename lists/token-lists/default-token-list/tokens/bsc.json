@@ -776,6 +776,14 @@
     "symbol": "USDT"
   },
   {
+    "address": "0xA061987783661af7d68e5251e503F3f5B5298CE6",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xA061987783661af7d68e5251e503F3f5B5298CE6.jpg",
+    "name": "USDT",
+    "symbol": "USDT"
+  },
+  {
     "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
     "chainId": 56,
     "decimals": 6,
