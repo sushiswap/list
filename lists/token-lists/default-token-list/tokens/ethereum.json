@@ -1816,6 +1816,14 @@
     "symbol": "KP3R"
   },
   {
+    "address": "0x0649Cef6D11ed6F88535462E147304d3FE5ae14D",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0649Cef6D11ed6F88535462E147304d3FE5ae14D.jpg",
+    "name": "Bitkub Token",
+    "symbol": "KUB"
+  },
+  {
     "address": "0xb29663Aa4E2e81e425294193616c1B102B70a158",
     "chainId": 1,
     "decimals": 18,
