@@ -88,6 +88,14 @@
     "symbol": "BAND"
   },
   {
+    "address": "0xA468C2CC202600122f9f43D5Be9fCfAc3Dbc0eA4",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xA468C2CC202600122f9f43D5Be9fCfAc3Dbc0eA4.jpg",
+    "name": "BATCAT",
+    "symbol": "BCAT"
+  },
+  {
     "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
     "chainId": 56,
     "decimals": 18,
