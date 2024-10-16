@@ -40,6 +40,14 @@
     "symbol": "EXD"
   },
   {
+    "address": "0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e",
+    "chainId": 2046399126,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e.jpg",
+    "name": "ForLootAndGlory",
+    "symbol": "FLAG"
+  },
+  {
     "address": "0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558",
     "chainId": 2046399126,
     "decimals": 9,
