@@ -1568,6 +1568,14 @@
     "symbol": "HOPR"
   },
   {
+    "address": "0x790b3425e48fdEfA9fd9234462E4634594B23835",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x790b3425e48fdEfA9fd9234462E4634594B23835.jpg",
+    "name": "Holopedia",
+    "symbol": "HPA"
+  },
+  {
     "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
     "chainId": 1,
     "decimals": 18,
