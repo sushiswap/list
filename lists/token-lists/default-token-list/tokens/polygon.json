@@ -280,6 +280,14 @@
     "symbol": "CHUM"
   },
   {
+    "address": "0xCCe180ADEf29C5Ad95CA734abaa7A77B11B3535a",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xCCe180ADEf29C5Ad95CA734abaa7A77B11B3535a.jpg",
+    "name": "Collective Cents ",
+    "symbol": "COL"
+  },
+  {
     "address": "0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC",
     "chainId": 137,
     "decimals": 18,
