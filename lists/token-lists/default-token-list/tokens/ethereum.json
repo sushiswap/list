@@ -712,6 +712,14 @@
     "symbol": "CLNY"
   },
   {
+    "address": "0x0EfA4D2d33E5E6a1A373B739b67A2733A2651F88",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0EfA4D2d33E5E6a1A373B739b67A2733A2651F88.jpg",
+    "name": "Coinmart Token",
+    "symbol": "CMGX"
+  },
+  {
     "address": "0x68CFb82Eacb9f198d508B514d898a403c449533E",
     "chainId": 1,
     "decimals": 18,
