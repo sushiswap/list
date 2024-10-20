@@ -608,6 +608,14 @@
     "symbol": "OSAK"
   },
   {
+    "address": "0x91dba2CD05c8A0227B48c3e426077145d23B21df",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x91dba2CD05c8A0227B48c3e426077145d23B21df.jpg",
+    "name": "Papu Token",
+    "symbol": "PAPU"
+  },
+  {
     "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
     "chainId": 56,
     "decimals": 18,
