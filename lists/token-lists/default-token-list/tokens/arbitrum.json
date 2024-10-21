@@ -1136,6 +1136,14 @@
     "symbol": "VELA"
   },
   {
+    "address": "0xF4140b0F866624877f522Fa02095dF3D849C7f55",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF4140b0F866624877f522Fa02095dF3D849C7f55.jpg",
+    "name": "VIPooh",
+    "symbol": "VIPOOH"
+  },
+  {
     "address": "0x995C235521820f2637303Ca1970c7c044583df44",
     "chainId": 42161,
     "decimals": 18,
