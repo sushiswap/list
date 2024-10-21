@@ -78,5 +78,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
+  },
+  {
+    "address": "0xf15fBa1E7112d680055962fB85a0C04550f24097",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xf15fBa1E7112d680055962fB85a0C04550f24097.jpg",
+    "name": "YoungParrot",
+    "symbol": "YPC"
   }
 ]
