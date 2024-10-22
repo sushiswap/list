@@ -440,6 +440,14 @@
     "symbol": "DUCKIES"
   },
   {
+    "address": "0xC1ab7e48FaFEE6b2596c65261392E59690cE7742",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xC1ab7e48FaFEE6b2596c65261392E59690cE7742.jpg",
+    "name": "Evercraft Ecotechnologies",
+    "symbol": "ECET"
+  },
+  {
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "chainId": 137,
     "decimals": 18,
