@@ -8,6 +8,14 @@
     "symbol": "ARS"
   },
   {
+    "address": "0x61801F4806307e4D07867F1FC55A32A8571b47A9",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x61801F4806307e4D07867F1FC55A32A8571b47A9.jpg",
+    "name": "CoreBombMeme",
+    "symbol": "BOMC"
+  },
+  {
     "address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
     "chainId": 1116,
     "decimals": 18,
