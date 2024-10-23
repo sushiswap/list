@@ -1784,6 +1784,14 @@
     "symbol": "KAE"
   },
   {
+    "address": "0xA045Fe936E26e1e1e1Fb27C1f2Ae3643acde0171",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xA045Fe936E26e1e1e1Fb27C1f2Ae3643acde0171.jpg",
+    "name": "Kai Ken",
+    "symbol": "KAI"
+  },
+  {
     "address": "0xf98AB0874b13a7Fdc39D7295DEdd49850A5D426B",
     "chainId": 1,
     "decimals": 8,
