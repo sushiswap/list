@@ -16,6 +16,14 @@
     "symbol": "agEUR"
   },
   {
+    "address": "0x461ab4D656BC22230A650d9d37E1c85F90BFeD02",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x461ab4D656BC22230A650d9d37E1c85F90BFeD02.jpg",
+    "name": "Airtok",
+    "symbol": "AIRTOK"
+  },
+  {
     "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
     "chainId": 56,
     "decimals": 18,
