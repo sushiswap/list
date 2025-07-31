@@ -1880,6 +1880,14 @@
     "symbol": "LINK"
   },
   {
+    "address": "0x3C35b1D861f433A2A2253C2BEf5932436E353980",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3C35b1D861f433A2A2253C2BEf5932436E353980.jpg",
+    "name": "LanTalMining Au",
+    "symbol": "LMAU"
+  },
+  {
     "address": "0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d",
     "chainId": 1,
     "decimals": 9,
