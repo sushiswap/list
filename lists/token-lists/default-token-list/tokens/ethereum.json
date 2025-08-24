@@ -4118,5 +4118,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
     "name": "0x",
     "symbol": "ZRX"
-  }
+  },
+  {
+  "chainId": 1,
+  "address": "0x4e072E18387FDc4C5768b0a99d5FABc5a28F7296",
+  "symbol": "XTH",
+  "name": "XCOIN",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/ethereum/0x4e072E18387FDc4C5768b0a99d5FABc5a28F7296.jpg"
+}
 ]
