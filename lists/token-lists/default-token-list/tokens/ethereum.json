@@ -208,6 +208,22 @@
     "symbol": "APW"
   },
   {
+    "address": "0x98A878b1Cd98131B271883B390f68D2c90674665",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x98A878b1Cd98131B271883B390f68D2c90674665.jpg",
+    "name": "apxUSD",
+    "symbol": "apxUSD"
+  },
+  {
+    "address": "0x38EEb52F0771140d10c4E9A9a72349A329Fe8a6A",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x38EEb52F0771140d10c4E9A9a72349A329Fe8a6A.jpg",
+    "name": "apyUSD",
+    "symbol": "apyUSD"
+  },
+  {
     "address": "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
     "chainId": 1,
     "decimals": 18,
