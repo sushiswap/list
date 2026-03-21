@@ -1184,6 +1184,14 @@
     "symbol": "WOO"
   },
   {
+    "address": "0xB7c8783dDfb7f72b2C27AFBDFFD2B0206046Fa67",
+    "chainId": 42161,
+    "decimals": 8,
+    "logoURI": "https://qbc.network/qbc-logo.png",
+    "name": "Wrapped Qubitcoin",
+    "symbol": "wQBC"
+  },
+  {
     "address": "0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B",
     "chainId": 42161,
     "decimals": 18,
