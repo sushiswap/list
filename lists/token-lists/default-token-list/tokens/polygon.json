@@ -1622,5 +1622,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
     "name": "LayerZero",
     "symbol": "ZRO"
+  },
+  {
+    "address": "0x06436bf6E71964A99bD4078043aa4cDfA0eadEe6",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/0x06436bf6E71964A99bD4078043aa4cDfA0eadEe6.png",
+    "name": "RedFlag Token",
+    "symbol": "RFLAG"
   }
 ]
