@@ -558,5 +558,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0.jpg",
     "name": "0x Protocol Token",
     "symbol": "ZRX"
+  },
+  {
+    "address": "0x499D35eBE6cEe9B2Ac35Fd003fcBbeeB9CFc7B32",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x499D35eBE6cEe9B2Ac35Fd003fcBbeeB9CFc7B32.jpg",
+    "name": "Arena Two",
+    "symbol": "ATWO"
   }
 ]
