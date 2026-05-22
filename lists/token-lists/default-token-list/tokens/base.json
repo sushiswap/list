@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "address": "0x18A8BD1fe17A1BB9FFB39eCD83E9489cfD17a022",
     "chainId": 8453,
@@ -558,5 +558,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0.jpg",
     "name": "0x Protocol Token",
     "symbol": "ZRX"
+  },
+  {
+    "address": "0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/zarocoin/zarocoin/main/media/logos/ZARO_logo_2D.png",
+    "name": "Zaro Coin",
+    "symbol": "ZARO"
   }
 ]

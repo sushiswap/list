@@ -904,6 +904,14 @@
     "symbol": "ZETA"
   },
   {
+    "address": "0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc.jpg",
+    "name": "Zaro Coin",
+    "symbol": "ZARO"
+  },
+  {
     "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
     "chainId": 56,
     "decimals": 18,
