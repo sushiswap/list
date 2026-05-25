@@ -8,6 +8,14 @@
     "symbol": "ANDY"
   },
   {
+    "address": "0xE378841a3970FD43ac8aD4D1D77b068C87287e5f",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/anisiananifree/anisian_contracts/main/ipfs/ani-logo-256.png",
+    "name": "Anisian",
+    "symbol": "ANI"
+  },
+  {
     "address": "0xF9569cFb8FD265e91aa478d86ae8c78b8AF55Df4",
     "chainId": 8453,
     "decimals": 18,
