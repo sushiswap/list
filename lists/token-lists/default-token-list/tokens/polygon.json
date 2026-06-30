@@ -536,6 +536,14 @@
     "symbol": "FRAX"
   },
   {
+    "address": "0xD1f0Cd986Da6E05619Ef81559BCA5e82609A66E5",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://furety.com/assets/coin/fty-token-icon.svg",
+    "name": "Furety",
+    "symbol": "FTY"
+  },
+  {
     "address": "0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df",
     "chainId": 137,
     "decimals": 18,
