@@ -424,6 +424,14 @@
     "symbol": "bBADGER"
   },
   {
+    "address": "0xBd965230588EAA536dE6aA45E8ebbc01638535e0",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xBd965230588EAA536dE6aA45E8ebbc01638535e0.jpg",
+    "name": "Motoswap",
+    "symbol": "MOTO"
+  },
+  {
     "address": "0xE4f726Adc8e89C6a6017F01eadA77865dB22dA14",
     "chainId": 1,
     "decimals": 18,
