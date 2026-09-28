@@ -1880,6 +1880,14 @@
     "symbol": "LINK"
   },
   {
+    "address": "0x18162F5cf35647be0910F30B4466bE39295E4878",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x18162F5cf35647be0910F30B4466bE39295E4878.jpg",
+    "name": "lmeow",
+    "symbol": "LMEOW"
+  },
+  {
     "address": "0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d",
     "chainId": 1,
     "decimals": 9,
