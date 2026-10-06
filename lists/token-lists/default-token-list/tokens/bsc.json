@@ -728,6 +728,14 @@
     "symbol": "SXP"
   },
   {
+    "address": "0x7AB8d02CBb51Ff7223fDe700eAaa2a91Bf750314",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x7AB8d02CBb51Ff7223fDe700eAaa2a91Bf750314.jpg",
+    "name": "TartSwap",
+    "symbol": "TART"
+  },
+  {
     "address": "0xdFF8cb622790b7F92686c722b02CaB55592f152C",
     "chainId": 56,
     "decimals": 18,
