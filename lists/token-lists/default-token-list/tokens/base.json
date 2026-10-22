@@ -558,5 +558,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0.jpg",
     "name": "0x Protocol Token",
     "symbol": "ZRX"
+  },
+  {
+    "address": "0x623c84A5E04bF715018203334b0eFE41696eBC3E",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x623c84A5E04bF715018203334b0eFE41696eBC3E.jpg",
+    "name": "Wrapped DOOM",
+    "symbol": "wDOOM"
   }
 ]
