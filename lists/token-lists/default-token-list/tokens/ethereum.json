@@ -3000,6 +3000,14 @@
     "symbol": "SDT"
   },
   {
+    "address": "0x74d597F1ea21A89B6E5749C2f8fe60E7e5661b4b",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x74d597F1ea21A89B6E5749C2f8fe60E7e5661b4b.jpg",
+    "name": "secprobe35839",
+    "symbol": "secprobe35839"
+  },
+  {
     "address": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
     "chainId": 1,
     "decimals": 18,
