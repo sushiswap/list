@@ -1104,6 +1104,14 @@
     "symbol": "POP"
   },
   {
+    "address": "0x8d58dEbF89740Da1416d5f1904E4286096174B5A",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/quant-oss/qone/main/logos/pQUSD.png",
+    "name": "QVTX USD Stablecoin (Polygon)",
+    "symbol": "pQUSD"
+  },
+  {
     "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
     "chainId": 137,
     "decimals": 18,
